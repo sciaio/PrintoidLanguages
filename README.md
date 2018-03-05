@@ -18,7 +18,7 @@ You don't need to be a developer to help me to translate Printoid :) You don't n
 
 ### Where are located the resources
 
-The resources are lcoated in the **/app/src/main/res/** folder.
+The resources are located in the **/app/src/main/res/** folder.
 
 - **values** contains the default values, in english
 - **values-fr** contains the values translated in french
@@ -145,6 +145,8 @@ Printoid Languages is embedded in Printoid as a library. All the changes in this
 * **Nico HIRSCH** - *🇩🇪 German translations*
 
 * **Gorka HERRERO** - *🇪🇸 Spanish translations*
+
+* **Angel Del Pino Jimenez** - *🇪🇸 Spanish translations*
 
 * **Ruud RADEMAKER** - *🇳🇱 Dutch translations*
 
