@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_bar_time_percent">%.1f%% (время)</string>
+    <string name="title_bar_gcode_percent">%.1f%% (gcode)</string>
+    <string name="title_bar_remaining_time">Осталось %s</string>
+    <string name="title_bar_ext">Экструдер %1$d: %2$.1f°</string>
+    <string name="title_bar_bed">Стол: %.1f°</string>
+    <string name="title_system_raspberry">Raspberry: %s°</string>
+    <string name="title_system_other">Cистема: %s°</string>
+
+    <string name="title_bar_config_title">Настройка заголовка</string>
+
+    <string name="title_bar_toggle_server_name">Показывать имя сервера</string>
+    <string name="title_bar_toggle_printer_state">Показывать состояние сервера</string>
+    <string name="title_bar_toggle_extruders_temp">Показывать температуру экструдера</string>
+    <string name="title_bar_toggle_hot_bed">Показывать температуру стола</string>
+    <string name="title_bar_toggle_gcode_progress">Показывать GCODE прогресс</string>
+    <string name="title_bar_toggle_time_progress">Показывать прогресс по времени</string>
+    <string name="title_bar_toggle_remaining_time">Показывать оставшееся время</string>
+    <string name="title_bar_toggle_file_name">Показывать имя файла</string>
+    <string name="title_bar_spinner_change_delay">Период изменения (сек)</string>
+    <string name="title_bar_toggle_system_temperature">Высота Z (mm)</string>
+    <string name="title_bar_toggle_z_height">Температура системы (°)</string>
+
+</resources>

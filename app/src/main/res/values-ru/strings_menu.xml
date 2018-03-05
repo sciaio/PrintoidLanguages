@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_connect_server">Подключить OctoPrint сервер</string>
+    <string name="menu_connect_printer">Подключить принтер</string>
+    <string name="menu_disconnect_printer">Отключить принтер</string>
+    <string name="menu_connecting_printer">Подключение принтера</string>
+    <string name="menu_video_streaming">Видео поток</string>
+    <string name="menu_commands">Команды</string>
+    <string name="menu_full_screen">На полный экран</string>
+    <string name="menu_full_screen_streaming">Видео на весь экран</string>
+    <string name="menu_full_screen_commands">Команды на весь экран</string>
+    <string name="menu_full_screen_realtime_visualizer">Визуализация на весь экран</string>
+    <string name="menu_full_screen_slicer">Слайсер на весь экран</string>
+    <string name="menu_full_screen_more_tools">Инструменты на весь экран</string>
+    <string name="menu_minimize">Свернуть</string>
+    <string name="menu_printer_profiles_settings">OctoPrint\nсерверов</string>
+    <string name="menu_app_settings">Настройки</string>
+    <string name="menu_app_infos">Помощь</string>
+    <string name="menu_octoprint_web">Web интерфейс OctoPrint</string>
+    <string name="menu_files">Файлы</string>
+    <string name="menu_printoid_web">Сайт\nPrintoid</string>
+    <string name="menu_timelapse">Видеоролики</string>
+    <string name="menu_alarms">Tревога</string>
+    <string name="menu_contact_developer">Contact\ndeveloper</string>
+
+</resources>

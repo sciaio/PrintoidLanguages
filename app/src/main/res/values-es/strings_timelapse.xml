@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="timelapse_title">Timelapses</string>
+
+    <string name="timelapse_no_file">Timelapse no disponible</string>
+
+    <string name="timelapse_deleted">Timelapse borrado de OctoPrint</string>
+
+    <string name="download_timelapse_dialog_title">Descargando timelapse</string>
+    <string name="download_timelapse_dialog_msg">Printoid está descargando su archivo timelapse, por favor espere…</string>
+
+    <string name="download_timelapse_done">Timelapse descargado en su almacenamiento interno</string>
+
+    <string name="download_timelapse_alert_title">Descarga fallida</string>
+    <string name="download_timelapse_alert_msg">La descarga ha fallado, %s</string>
+    <string name="download_timelapse_alert_error_url">Se ha detectado un error en la URL</string>
+    <string name="download_timelapse_alert_error_fnf">El timelapse no se puede encontrar en su servidor OctoPrint</string>
+    <string name="download_timelapse_alert_error_io">El timelapse no se puede guardar en su dispositivo</string>
+    <string name="download_timelapse_alert_error_unknown">Ha ocurrido un error desconocido</string>
+
+    <string name="timelapse_config_type">Tipo de timelapse</string>
+    <string name="timelapse_config_fps">Fotogramas por segundo (fps)</string>
+    <string name="timelapse_config_post_roll">Cuña posterior (sec)</string>
+    <string name="timelapse_config_cap_post_roll">Capturar cuña posterior</string>
+    <string name="timelapse_config_interval">Intervalo (sec)</string>
+    <string name="timelapse_config_zhop">Salto retracción en Z (mm)</string>
+    <string name="timelapse_config_sort">Método de clasificación</string>
+
+    <string name="timelapse_render_succeed_command_title">Renderizado en curso</string>
+    <string name="timelapse_render_succeed_command_msg">El renderizado del timelapse ha comenzado en su servidor OctoPrint.\n\nPor favor tenga en cuenta que Printoid no puede recuperar el estado durante el proceso de renderizado. Cuando termine, el nuevo timelapse aparecerá en su lista de timelapses.</string>
+
+    <string name="alert_delete_timelapse_title">Borrar timelapse</string>
+    <string name="alert_delete_timelapse_msg">¿Desea realmente borrar el timelapse <b>%s</b>? Esta acción no se puede deshacer.</string>
+
+    <string name="alert_timelapse_inner_player_title">Error del reproductor interno de vídeo</string>
+    <string name="alert_timelapse_inner_player_msg">Printoid no puede reproducir su timelapse en su reproductor interno.\n\n¿Desea abrirlo en otra aplicación?</string>
+
+    <string name="alert_video_player_permission_title">Problema de permisos</string>
+    <string name="alert_video_player_permission_msg">El reproductor de vídeo seleccionado no tiene permiso para leer el almacenamiento externo.</string>
+
+    <string name="alert_vlc_title">Instalar VLC™</string>
+    <string name="alert_vlc_msg">Android no puede reproducir vídeos MJEG de forma nativa. Afortunadamente, VideoLAN Client ™ (VLC ™ Media Player) es capaz de reproducirlos!
+         Instala la aplicación en tu teléfono y no olvides activar el permiso de \"leer almacenamiento externo\"</string>
+
+</resources>

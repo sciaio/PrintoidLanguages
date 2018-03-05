@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select_file_to_upload">Wähle eine Datei zum Upload</string>
+    <string name="upload_new_file">Lade eine neue Datei hoch</string>
+    <string name="select_file_install_file_explorer">Keine Datei-Browser App gefunden.</string>
+    <string name="upload_file_dialog_title">Upload läuft&#8230;</string>
+    <string name="upload_file_dialog_msg">%1$s\n%2$d%%</string>
+
+    <string name="upload_error_file_not_found">Fehler: Datei nicht gefunden</string>
+    <string name="upload_error_bad_request">Fehler: Bad Request</string>
+    <string name="upload_error_remote_not_found">Fehler: Serververzeichnis nicht gefunden</string>
+    <string name="upload_error_conflict">Fehler: Konflikt mit der Datei</string>
+    <string name="upload_error_unsupported_media">Fehler: Nicht unterstützte Datei - kein GCODE oder STL</string>
+    <string name="upload_error_internal_server_error">Fehler: Interner OctoPrint Server Fehler</string>
+    <string name="upload_error_unknown">Fehler: Datei kann nicht an OctoPrint gesendet werden (%d)</string>
+
+    <string name="create_folder_title">Ordner-Erstellung</string>
+    <string name="create_folder_message">Erstelle einen Namen für den Ordner:</string>
+    <string name="create_folder_message_hint">Ordner-Name</string>
+    <string name="create_folder_created">Ordner erstellt</string>
+    <string name="create_folder_error_file_not_found">Fehler: Ordner nicht gefunden</string>
+    <string name="create_folder_error_bad_request">Fehler: Bad Request</string>
+    <string name="create_folder_error_remote_not_found">Fehler: Serververzeichnis nicht gefunden</string>
+    <string name="create_folder_error_conflict">Fehler: Konflikt mit dem Ordner</string>
+    <string name="create_folder_error_internal_server_error">Fehler: Interner OctoPrint Server Fehler</string>
+    <string name="create_folder_error_unknown">Fehler: Ordner kann in OctoPrint nicht erstellt werden (%d)</string>
+
+    <string name="move_file_title">Datei verschieben</string>
+    <string name="move_file_message">Datei %s in folgenden Ordner verschieben:</string>
+    <string name="move_file_done">Datei verschoben</string>
+    <string name="move_file_error_sdcard_msg">Printoid kann keine Datei von der SD-Karte verschieben!</string>
+
+    <string name="upload_file_title">Datei-Upload</string>
+    <string name="upload_file_message">Lade Datei %s in folgendes Ziel hoch:</string>
+    <string name="upload_file_done">Datei hochgeladen</string>
+
+    <string name="alert_cant_delete_msg">Printoid kann nicht gelöscht werden %s</string>
+
+    <string name="downloading_file">Download läuft&#8230;</string>
+    <string name="file_deleted">Datei von OctoPrint gelöscht</string>
+    <string name="folder_deleted">Ordner von OctoPrint gelöscht</string>
+
+    <string name="alert_delete_file_title">Datei löschen</string>
+    <string name="alert_delete_file_msg">Willst du die Datei <b>%s</b> wirklich löschen? Dies kann nicht rückgängig gemacht werden.</string>
+
+    <string name="alert_delete_folder_title">Ordner löschen</string>
+    <string name="alert_delete_folder_msg">Möchten Sie den Ordner wirklich löschen <b>%s</b>? Jede Datei in diesem Ordner wird auch gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.</string>
+
+    <string name="files_new_folder">Neuer Ordner</string>
+    <string name="files_move_file">Verschiebedatei</string>
+    <string name="files_upload_file">Datei senden</string>
+    <string name="files_sort_files">Sortieren</string>
+    <string name="files_analyze">Analysieren</string>
+    <string name="files_history">Historisch</string>
+
+    <string name="analyzer_folder_root">HAUPTORDNER</string>
+    <string name="analyzer_number_file">%d Datei</string>
+    <string name="analyzer_number_files">%d Dateien</string>
+    <string name="analyzer_number_folder">%d Mappe</string>
+    <string name="analyzer_number_folders">%d Ordner</string>
+    <string name="analyzer_success_failures">%1$d %2$s / %3$d %4$s</string>
+    <string name="analyzer_success">Erfolg</string>
+    <string name="analyzer_success_plural">Erfolges</string>
+    <string name="analyzer_failure">Scheitern</string>
+    <string name="analyzer_failure_plural">Schach</string>
+    <string name="analyzer_total_print_time">Gesamtdruckzeit:</string>
+    <string name="analyzer_total_size">Gesamtgröße :</string>
+    <string name="analyzer_total_filament_length">Insgesamt Fadenlänge:</string>
+    <string name="analyzer_total_folders">Anzahl der Ordner:</string>
+    <string name="analyzer_total_machine_code">Anzahl der GCODE:</string>
+    <string name="analyzer_total_models">Anzahl der Modelle:</string>
+    <string name="analyzer_total_estimated_cost">Summe geschätzte Kosten:</string>
+
+</resources>

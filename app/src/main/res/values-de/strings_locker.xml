@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_enter_password">Passwort eigeben</string>
+    <string name="locker_enter_password_or_fingerprint">Passwort eigeben oder Fingerabdruck nutzen</string>
+    <string name="locker_cancel">Abbrechen</string>
+    <string name="locker_unlocked">Entsperrt!</string>
+
+    <string name="locker_enter_current_password">Aktuelles Passwort eingeben</string>
+    <string name="locker_enter_new_password_1">Neues Passwort eingeben</string>
+    <string name="locker_enter_new_password_2">Neues Passwort wiederholen</string>
+
+    <string name="locker_mode">Sperrmodus: %s</string>
+    <string name="locker_mode_off">Aus</string>
+    <string name="locker_mode_critical">Nur wichtige Funktionen schützen</string>
+    <string name="locker_mode_full">Ganzen Bildschirm schützen</string>
+
+    <string name="locker_mode_cant_send_critical_commands">Befehl kann nicht ausgeführt werden, da die Bildschirmsperre aktiviert ist.</string>
+
+</resources>

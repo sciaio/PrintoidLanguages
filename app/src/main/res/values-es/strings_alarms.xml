@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_channel_name_alerts">Notificaciones de alertas</string>
+
+    <string name="alarms_title">Gestión de alertas</string>
+
+    <string name="alarm_type_progress">Progreso de la impresión</string>
+    <string name="alarm_type_temperature_hot_end">Temperatura del extrusor</string>
+    <string name="alarm_type_temperature_hot_bed">Temperatura de la cama</string>
+    <string name="alarm_type_gcode_command">Ejecución del comando GCODE</string>
+    <string name="alarm_type_z_height">Altura z</string>
+
+    <string name="alerts_list_empty">No se han creado alertas</string>
+
+    <string name="alarm_setting_type">Tipo de alerta</string>
+    <string name="alarm_setting_sensitivity">Sensibilidad de esta alerta (+ X% del valor)</string>
+    <string name="alarm_setting_value_progress">Alerta cuando el trabajo alcance este progreso (%)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Alerta cuando el extremo caliente alcance esta temperatura (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Alerta cuando la cama caliente alcance esta temperatura (°)</string>
+    <string name="alarm_setting_value_gcode_command">Alerta cuando se ejecuta este comando GCODE</string>
+    <string name="alarm_setting_value_z_height">Alerta cuando la boquilla alcance esta altura (mm)</string>
+    <string name="alarm_settins_value">Valor de alerta</string>
+    <string name="alarm_setting_vibration_pattern">Patrón de vibración</string>
+
+    <string name="alarm_created">Se ha creado una nueva alerta</string>
+    <string name="alarm_updated">Alerta actualizada</string>
+    <string name="alarm_deleted">Alerta suprimida</string>
+
+    <string name="alarms_exit_editor_alert_title">Guardar los cambios</string>
+    <string name="alarms_exit_editor_alert_msg">¿Desea guardar sus cambios antes de salir del editor?</string>
+
+    <string name="alarms_delete_alert_title">Eliminar alerta</string>
+    <string name="alarms_delete_alert_msg">¿Desea realmente eliminar esta alerta? Esta acción no se podrá deshacer.</string>
+
+    <string name="alarm_alert_value_title">Valor incorrecto para esta alerta</string>
+    <string name="alarm_alert_type_msg">Tipo incorrecto para esta alerta! Póngase en contacto con el desarrollador de Printoid</string>
+    <string name="alarm_alert_value_empty_msg">Debe proporcionar un valor para esta alerta!</string>
+    <string name="alarm_alert_value_float_msg">El valor de esta alerta debe ser un número flotante o un número entero!</string>
+
+    <string name="alarm_help_title">Administrador de alertas</string>
+    <string name="alarm_help_msg">Puede definir alertas personalizadas en Printoid.\n\n
+        Las alertas resultarán en una notificación de Android, con sonido y vibración en función de la configuración del sistema.\n\n
+        Las alertas se dispararán sólo si Printoid está abierto en el teléfono y en primer plano.\n\n
+        Tenga en cuenta que esta función está aún en progreso y se mejorará mucho! :)</string>
+
+    <string name="alarm_notification_title">Alerta: %s</string>
+    <string name="alarm_notification_progress">Progreso actual: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">Temperatura del extrusor. %1$d: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Temperatura de la cama: %.1f°</string>
+    <string name="alarm_notification_gcode_command">El comando GCODE ejecutado: %s</string>
+    <string name="alarm_notification_z_height">Altura Z alcanzada: %.2f</string>
+
+</resources>

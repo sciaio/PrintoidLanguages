@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printer_state_octo_disconnected">Выключен</string>
+    <string name="printer_state_disconnected">Отключен</string>
+    <string name="printer_state_connecting">Cвязующий&#8230;</string>
+    <string name="printer_state_sending_file">Отправка файла…</string>
+    <string name="printer_state_ready">Готов к печати</string>
+    <string name="printer_state_paused">Приостановка печати</string>
+    <string name="printer_state_printing">Печать&#8230;</string>
+    <string name="printer_state_error">Ошибка подключения принтера</string>
+
+    <string name="file">Файл: %s</string>
+    <string name="file_label">Файл:</string>
+    <string name="file_empty">Файл не загружен</string>
+    <string name="end_time_empty">&#8212;</string>
+    <string name="end_time_label">Окончание:</string>
+    <string name="end_time_label_no_column">Окончание</string>
+    <string name="end_time">Окончание: %s</string>
+    <string name="current_z">Z:</string>
+    <string name="printed_empty">&#8212;</string>
+    <string name="printed_label">Напечатано:</string>
+    <string name="printed">%1$s/%2$s</string>
+    <string name="printed_time">Печатаем: %s</string>
+    <string name="printed_time_empty">&#8212; : &#8212;</string>
+    <string name="printed_time_label">Печатаем:</string>
+    <string name="file_type_stl">Тип файла: модель</string>
+    <string name="file_type_gcode">Тип файла: машинный код</string>
+    <string name="file_size">%s</string>
+    <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
+    <string name="estimated_print_time">%s</string>
+    <string name="uploaded_date">%s назад</string>
+    <string name="file_size_label">Размер файла:</string>
+    <string name="filament_label">Пруток:</string>
+    <string name="estimated_print_time_label">Расчетное время:</string>
+    <string name="average_print_time_label">Среднее время:</string>
+    <string name="last_print_time_label">Последний время:</string>
+    <string name="uploaded_date_label">Загружено:</string>
+    <string name="filament_empty">&#8212;</string>
+    <string name="file_name_empty">Не выбран файл</string>
+    <string name="model_size">Размеры:</string>
+    <string name="origin">Происхождение:</string>
+    <string name="failures">Неудача:</string>
+    <string name="success">Yспех:</string>
+    <string name="cost">Стоимость:</string>
+
+    <string name="size_label">Pазмер:</string>
+    <string name="time_label">Bремя:</string>
+    <string name="end_label">Kонец:</string>
+
+    <string name="date_few_seconds">несколько секунд</string>
+    <string name="date_second">%d секунд</string>
+    <string name="date_seconds">%d секунд</string>
+    <string name="date_minute">%d минут</string>
+    <string name="date_minutes">%d минут</string>
+    <string name="date_hour">%d часов</string>
+    <string name="date_hours">%d часов</string>
+    <string name="date_day">%d день</string>
+    <string name="date_days">%d дней</string>
+    <string name="date_month">%d месяц</string>
+    <string name="date_months">%d месяцев</string>
+    <string name="date_year">%d год</string>
+    <string name="date_years">%d лет</string>
+
+    <string name="progress">Прогресс:</string>
+    <string name="progress_label_time">время</string>
+    <string name="progress_label_gcode">gcode</string>
+    <string name="progress_label_time_percent">время (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
+
+</resources>

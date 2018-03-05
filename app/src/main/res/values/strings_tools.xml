@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="head_current_temperature_label">Extruder</string>
+    <string name="headX_current_temperature_label">Extruder %d</string>
+    <string name="head_target_temperature_label">Ext. (target)</string>
+    <string name="headX_target_temperature_label">Ext.%d (target)</string>
+    <string name="bed_current_temperature_label">Bed</string>
+    <string name="bed_target_temperature_label">Bed (target)</string>
+    <string name="current_temperature_none" translatable="false">&#8212;</string>
+    <string name="target_temperature_none" translatable="false">&#8212;</string>
+    <string name="current_hot_bed_none" translatable="false">&#8212;</string>
+    <string name="current_temperature">%.1f°</string>
+    <string name="target_temperature">%.1f°</string>
+    <string name="current_bed">%.1f°</string>
+
+    <string name="move_01mm" translatable="false">0.1</string>
+    <string name="move_1mm" translatable="false">1</string>
+    <string name="move_10mm" translatable="false">10</string>
+    <string name="move_100mm" translatable="false">100</string>
+
+    <string name="extrude_1mm" translatable="false">1</string>
+    <string name="extrude_5mm" translatable="false">5</string>
+    <string name="extrude_10mm" translatable="false">10</string>
+    <string name="extrude_100mm" translatable="false">100</string>
+
+    <string name="tool_0" translatable="false">T0</string>
+    <string name="tool_1" translatable="false">T1</string>
+    <string name="tool_2" translatable="false">T2</string>
+    <string name="tool_3" translatable="false">T3</string>
+    <string name="tool_4" translatable="false">T4</string>
+    <string name="tool_5" translatable="false">T5</string>
+    <string name="tool_6" translatable="false">T6</string>
+    <string name="tool_7" translatable="false">T7</string>
+    <string name="tool_8" translatable="false">T8</string>
+    <string name="tool_9" translatable="false">T9</string>
+
+    <string name="printer_head_level">Extruder\n%d°</string>
+    <string name="printer_headX_level">Extruder %1$d\n%2$d°</string>
+    <string name="hot_bed_level">Bed\n%d°</string>
+    <string name="fan_level">Fan level\n%d%%</string>
+    <string name="fan_level_index">Fan %1$d level\n%2$d%%</string>
+
+    <string name="input_headX_level">Extruder %d (°)</string>
+    <string name="input_bed_level">Bed (°)</string>
+    <string name="input_fan_level">Fan %d (%%)</string>
+
+    <string name="input_feedrate">Feed rate (%)</string>
+    <string name="input_flowrate">Flow rate (%)</string>
+    <string name="input_travel">Travel distance (mm)</string>
+    <string name="input_extruder">Extrusion length (mm)</string>
+
+    <string name="tool_plot_click_message">Long-click on the graph\nfor advanced tools</string>
+
+</resources>

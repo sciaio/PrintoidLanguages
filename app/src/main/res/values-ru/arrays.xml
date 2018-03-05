@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_settings_array">
+        <item>Авто</item>
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+
+    <string-array name="screen_orientations_array">
+        <item>Авто</item>
+        <item>Книжная</item>
+        <item>Книжная переверн.</item>
+        <item>Альбомная</item>
+        <item>Альбомная переверн.</item>
+    </string-array>
+
+    <string-array name="setting_connection_mode_array">
+        <item>Авто</item>
+        <item>LAN первый</item>
+        <item>WAN первый</item>
+    </string-array>
+
+    <string-array name="streaming_method_array">
+	    <item>Видеоплеер</item>
+        <item>Web просмотр</item>
+        <item>Снимок</item>
+    </string-array>
+
+    <string-array name="setting_sound_array">
+        <item>Звук 1</item>
+        <item>Звук 2</item>
+        <item>Звук 3</item>
+        <item>Звук 4</item>
+        <item>Звук 5</item>
+        <item>Звук 6</item>
+        <item>Звук OFF</item>
+    </string-array>
+
+    <string-array name="after_slicing_array">
+        <item>Ничего</item>
+        <item>Выбор для печати</item>
+        <item>Начать печать</item>
+    </string-array>
+
+    <string-array name="render_mode_array">
+        <item>Обычный</item>
+        <item>Грани</item>
+        <item>Прозрачный</item>
+        <item>X-ray</item>
+    </string-array>
+
+    <string-array name="render_mode_gcode_array">
+        <item>Обычный</item>
+        <item>Прозрачный</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>OFF</item>
+        <item>12H</item>
+        <item>24H</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>цена/m</item>
+        <item>цена/kg</item>
+    </string-array>
+
+</resources>

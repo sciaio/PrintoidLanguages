@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_streaming_issue_title">Video streaming</string>
+    <string name="alert_streaming_issue_msg">Let op!\n\nAls u problemen ondervindt met de weergave binnen Prinoid (zwart scherm, problematische verbinding, tot zzlefs crashes van de OctoPrint server) zet dan web streaming op \"Web pagina\" bij de Printoid instellingen.\n\nNeem contact op met de ontwikkelaar als deze instelling uw probleem nog steeds niet oplost :)</string>
+    <string name="alert_streaming_remind_me">Geef me een seintje</string>
+
+    <string name="alert_cancel_print_title">Breek de print af</string>
+    <string name="alert_cancel_print_msg">De print wordt afgebroken, wilt u dat echt?\nEenmaal afgebroken prints kunnen NIET hervat worden, uw werk gaat dus verloren.</string>
+
+    <string name="alert_pause_print_title">Huidige afdruk pauzeren</string>
+    <string name="alert_pause_print_msg">Deze afdruktaak wordt onderbroken, weet u het zeker?</string>
+
+    <string name="alert_restart_print_title">Start de huidige afdruk opnieuw</string>
+    <string name="alert_restart_print_msg">Deze afdruktaak wordt opnieuw gestart, weet u het zeker?\nDe vorige taak kon niet worden herladen naar de vorige staat, zodat uw werkelijke werk verloren gaat.</string>
+
+    <string name="alert_pro_feature_title">Functionaliteit van de Pro versie</string>
+    <string name="alert_pro_feature_streaming_msg">U werkt met de gratis Printoid versie, video streaming zit in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_screensaver_msg">U werkt met de gratis Printoid versie. screensaver zit in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_command_msg">U werkt met de gratis Printoid versie, SSH en GCODE commando\'s zitten in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_octoprint_web_interface_msg">U werkt met de gratis Printoid versie, toegang tot de OctoPrint web interface zit in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_multi_profile_msg">U werkt met de gratis Printoid versie, om met meerdere OctoPrint profielen te werken heeft u de PRO versie nodig. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_render_msg">U werkt met de gratis Printoid versie, 3D visualisatie van GCODE &amp; STL\'s zit in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_layers_msg">U werkt met de gratis Printoid versie, 2D visualisatie van GCODE zit in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_realtime_layers_msg">U werkt met de gratis Printoid versie, real-time inspectie per individuele laag zit in de PRO versie. Download de PRO versie via Google Play!</string>
+
+    <string name="alert_delete_printer_profile_title">Verwijder dit profiel</string>
+    <string name="alert_delete_printer_profile_message">Dit OctoPrint profiel zal verwijderd worden, wilt u dit echt?\nU kunt deze actie niet terug draaien.</string>
+
+    <string name="alert_license_invalid_title">Licentie is ongeldig</string>
+    <string name="alert_license_invalid_message">Uw Printoid licentie lijkt ongeldig te zijn. De functionaliteit van de %1$s versie wordt gedeactiveerd.\n\nWilt U de %2$s versie op Google Play kopen?\n\n(Als U reeds de versie %3$s gekocht heeft, druk dan op de \"Help\" knop)\n\n[Ошибка связи с разработчиком: %4$s]</string>
+	
+	<string name="purchase">Koop</string>
+
+    <string name="alert_floating_icon_title">Drijvende icoon</string>
+    <string name="alert_floating_icon_msg">De \"Drijvende icoon\" maakt het mogelijk met behulp van Printoid uw gestreamde video overal waar u dat wenst op uw telefoon in de gaten te houden.\n\nWilt u dit nu activeren? U kunt dit ook activeren en weer deactiveren via de instellingen.</string>
+
+    <string name="alert_snapshot_ready_title">Snapshot beschikbaar</string>
+    <string name="alert_snapshot_ready_msg">Uw snapshot is klaar. U kunt het opslaan op de externe opslag of met iemand delen.</string>
+
+    <string name="alert_snapshot_error_title">Fout</string>
+    <string name="alert_snapshot_error_msg">Printoid slaagt er niet in het snapshot te downloaden. Verifieer uw configuratie en probeer het opnieuw.</string>
+
+    <string name="toast_snapshot_saved">Snapshot bewaard op %s</string>
+    <string name="toast_snapshot_save_error">Printoid slaagt er niet in het snapshot op te slaan</string>
+
+    <string name="alert_theme_changed_title">Herstart Printoid om het thema toe te passen.</string>
+    <string name="alert_theme_changed_msg">U dient de applicatie opnieuw op te starten om het nieuwe thema te tonen. Wilt u dit nu doen?</string>
+
+    <string name="alert_language_changed_title">Herstart Printoid om de taal instelling te weizigen</string>
+    <string name="alert_language_changed_msg">U dient de applicatie opnieuw op te starten om de nieuwe taal te tonen. Wilt u dit nu doen??</string>
+
+    <string name="alert_permission_denied_title">Permissie geweigerd</string>
+    <string name="alert_permission_denied_read_msg">Printoid kan deze bewerking niet voltooien, want u heeft geen permissie verleent te <b>lezen van extern geheugen</b> toen u dit gevraagd werd.\n\nWilt u dit handmatig instellen?</string>
+    <string name="alert_permission_denied_write_msg">Printoid kan deze bewerking niet voltooien, want u heeft geen permissie verleent te <b>beschrijven van extern geheugen</b> toen u dit gevraagd werd.\n\nWilt u dit handmatig instellen?</string>
+    <string name="alert_permission_denied_camera_msg">Printoid kan deze bewerking niet voltooien, want u heeft geen permissie verleent te <b>camera</b> toen u dit gevraagd werd.\n\nWilt u dit handmatig instellen?</string>
+
+    <string name="alert_choose_ip_title">Kies IP</string>
+    <string name="alert_choose_ip_msg">Printoid lijkt niet met de OctoPrint server verbonden te zijn.\nWilt u het te gebruiken IP adres (of de hostname) opgeven voor dit SSH commando?</string>
+
+    <string name="alert_select_tool_title">Selekteer een tool</string>
+    <string name="alert_select_tool_message">Selekteer de printkop voor %s:</string>
+    <string name="alert_select_tool_message_retraction">terugtrekking</string>
+    <string name="alert_select_tool_message_extrusion">extrusie</string>
+    <string name="alert_select_tool_extruder">Printkop %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_keep_for">Onthou dit de komende 30sec</string>
+    <string name="alert_select_tool_error">Kan tool%d niet selekteren</string>
+
+    <string name="intro_printoid_website">Bekijk https://printoid.net, de officiele Printoid site! Hier vindt u de Changelogs, informatie over nieuwe versies, nieuwe functionaliteit, prktische voorbeelden &amp; nog veel meer!</string>
+    <string name="intro_printoid_website_button">Naar de website</string>
+
+    <string name="alert_fan_speed_value_title">Opmerking over het koelen</string>
+    <string name="alert_fan_speed_value_message">Er bestaan geen standaard GCODE commandos om de ingestelde ventilatorstand op te halen.\n\nDit is de reden dat Printoid de slider niet kan instellen op de actuele ventilatorstand. Als hij derhalve op 0% staat, is dit geen bug, maar het beoogde gedrag\uD83D\uDE48</string>
+
+    <string name="steaming_not_available">Streaming niet beschikbaar\nControleer de verbinding met de camera en of de URL suffixes (in de Printoid instellingen) kloppen.</string>
+
+    <string name="file_list_empty">Geen bestanden beschikbaar</string>
+
+    <string name="screen_locked_msg">Scherm\ngeblokkeerd!</string>
+
+    <string name="new_octoprint_version">Er is een nieuwe OctoPrint versie! (v%s)</string>
+    <string name="new_octoprint_release_candidate">Er is een nieuwe OctoPrint \"release candidate\" versie! (v%s)</string>
+
+    <string name="promote_pro_message">Bevalt Printoid U? Met Printoid heeft u de beste interface tot uw 3D printer?\n\nIndien Printoid u bevalt en u dat wenst kunt u de Printoid PRO versie aanschaffen via Google Play ter ondersteuning van de ontwikkeling!n\nDe PRO versie brengt functionaliteit, zoals video streaming, persoonlijke commando\'s, 2D en 3D visualisatie, een real time simulator en nog veel meer!</string>
+    <string name="promote_premium_message">Bevalt Printoid U? Met Printoid heeft u de beste interface tot uw 3D printer?\n\nIndien Printoid u bevalt en u dat wenst kunt u de Printoid PREMIUM versie aanschaffen via Google Play ter ondersteuning van de ontwikkeling!n\nMet de PREMIUM versie kunt u uw eigen fysieke interface tot uw printer creeren!</string>
+
+    <string name="promote_donation_message">Bevalt Printoid U? Met Printoid heeft u de beste interface tot uw 3D printer?\n\nZo ja en als u wilt, kunt u het bedrag van uw keuze doneren om de ontwikkelaar en zijn werk te ondersteunen en helpen bij het ontwikkelen van nieuwe geweldige functies!</string>
+
+    <string name="notif_channel_name_overlay">Overlay servicemelding</string>
+    <string name="notif_overlay_running_title">Video door overlay geopend</string>
+    <string name="notif_overlay_running_message">Klik hier om de videoservice te sluiten</string>
+
+</resources>

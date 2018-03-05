@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="shortcut_load">Hагрузка</string>
+    <string name="shortcut_print">Печать</string>
+    <string name="shortcut_render3D">3D-вид</string>
+    <string name="shortcut_render2D">2D-вид</string>
+    <string name="shortcut_download">Скачать</string>
+    <string name="shortcut_delete">Удалить</string>
+    <string name="shortcut_slice">Slice</string>
+
+</resources>

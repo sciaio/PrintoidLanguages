@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="commands_panel_label">Tерминальные команды</string>
+    <string name="commands_history_label">GCODE история</string>
+    <string name="commands_editing_label">Редактор команд</string>
+
+    <string name="abitrary_gcode_command">контроль GCode</string>
+    <string name="add_command">Добавить команду</string>
+    <string name="add_command_type">Тип</string>
+    <string name="add_command_curl_type">Mетод</string>
+    <string name="add_command_label">Метка</string>
+    <string name="add_command_command_title">Выполнить</string>
+    <string name="add_command_icon">Значек</string>
+    <string name="add_command_color">Цвет значка</string>
+    <string name="add_command_content">Аргументы команды</string>
+    <string name="add_command_argument">Aргумент</string>
+    <string name="add_command_show_on_home">Показывать на главной</string>
+    <string name="add_command_wait_result">Показать ответ команды</string>
+    <string name="add_command_name">Название</string>
+    <string name="add_command_command">Выполнить</string>
+    <string name="add_command_request_confirmation">Подтверждение</string>
+    <string name="delete_command_title">Удалить команду</string>
+    <string name="delete_command_msg">Удаление не отменить, Вы уверены?</string>
+    <string name="add_command_error_name">Неверное имя, пожалуйста проверьте</string>
+    <string name="add_command_error_command">Неверная команда, пожалуйста проверьте</string>
+    <string name="add_command_error_command_octoprint">Неверная команда, no OctoPrint command available</string>
+    <string name="command_detail_ssh">SSH команда : %s</string>
+    <string name="command_detail_gcode">Gcode команда : %s</string>
+    <string name="command_sent">Команда отправлена</string>
+    <string name="command_sent_answer">Ответ команды: %s</string>
+    <string name="command_not_sent">Ошибка при отправки команды: %s</string>
+    <string name="command_not_sent_reason">Ошибка при отправки команды: %1$s (%2$s)</string>
+    <string name="send_command_error">Ошибка команды: %d</string>
+
+    <string name="command_help_for">Нажмите здесь для %s заказов учебника</string>
+
+    <string name="command_add_new">Добавить новую…</string>
+
+    <string name="alert_command_help_title">Что такое пользовательские команды?</string>
+    <string name="alert_command_help_message">Printoid позволяет добавить Ваши собственные команды.\n\n
+    1/ <b>Системные команды OctoPrint:</b> Printoid может выполнить команды определенные в config.yaml\n\n
+    2/ <b>GCODE команды:</b> Вы можете выполнить Ваши GCODE команды. Команда может быть одна или целая группа команд (разделенных Enter)\n\n
+    3/ <b>SSH команды:</b> вы можете управлять Вашим Raspberry Pi, например GPIO или скриптами\n\n
+    4/ <b>CURL команды:</b> Вы можете посылать команды командам Raspberry Pi поверх команд CURL (например, команда выглядит command?enable=relay1 или api/plugin/psucontrol в Printoid, с возможным аргументом в формате JSON)\n\n
+    Подробнее на https://printoid.net</string>
+
+    <string name="max_home_commands_reached_title">Достигнуто максимальное количество команд</string>
+    <string name="max_home_commands_reached_msg">Вы уже выбрали %d команд для отображения на главном экране.\n\nПожалуйста отмените выбор одной из них чтобы добавить эту.</string>
+
+    <string name="command_confirmation_title">Подтвердите выполнение</string>
+    <string name="command_confirmation_msg">Printoid пошлет следующую команду: %s\n\nВы уверены?</string>
+
+    <string name="command_list_empty">Нет команд</string>
+    <string name="gcode_base_list_empty">Неизвестная команда GCODE</string>
+
+    <string name="command_psu_turn_off_alert_title">Выключить блок питания</string>
+    <string name="command_psu_turn_off_alert_msg">Ваш блок питания фактически включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>
+    <string name="command_psu_turn_on_alert_title">Включить блок питания</string>
+    <string name="command_psu_turn_on_alert_msg">Ваш блок питания фактически выключен.\n\nВы хотите включить его прямо сейчас?</string>
+    <string name="command_psu_turned_off">Блок питания отключен</string>
+    <string name="command_psu_turned_on">Блок питания включен</string>
+    <string name="command_psu_turn_off_error">Выключить ошибку блок</string>
+    <string name="command_psu_turn_on_error">Включение ошибки блок питания</string>
+
+    <string name="command_tplink_turn_off_alert_title">Выключить TPLink питания</string>
+    <string name="command_tplink_turn_off_alert_msg">Ваш TPLink питания фактически включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>
+    <string name="command_tplink_turn_on_alert_title">Включить TPLink питания</string>
+    <string name="command_tplink_turn_on_alert_msg">Ваш TPLink питания фактически выключен.\n\nВы хотите включить его прямо сейчас?</string>
+    <string name="command_tplink_turned_off">TPLink питания отключен</string>
+    <string name="command_tplink_turned_on">TPLink питания включен</string>
+    <string name="command_tplink_turn_off_error">Выключить ошибку TPLink</string>
+    <string name="command_tplink_turn_on_error">Включение ошибки TPLink питания</string>
+
+    <string name="commands_not_loaded_title">Системные команды не загружены</string>
+    <string name="commands_not_loaded_msg">Системные команды OctoPrint в настоящее время не загружаются для этого профиля, подождите несколько секунд и повторите попытку.</string>
+
+    <string name="commands_empty_title">Нет системных команд</string>
+    <string name="commands_empty_msg">Для этого профиля нет системных команд OctoPrint. Вы можете настроить некоторые новые системные команды в файле config.yaml OctoPrint.</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="keyboard_distant_command_toast_msg">Distant command received: %s</string>
+
+    <string name="keyboard_distant_gcode_command_title">Enviar comando GCODE</string>
+    <string name="keyboard_distant_gcode_command_msg">Press ENTER tecla to send, ESCAPE to cancel, COMA to separate commands</string>
+
+    <string name="keyboard_action_connect">conectar</string>
+    <string name="keyboard_action_fullscreen">cambiar a pantalla completa</string>
+    <string name="keyboard_action_streaming">mostrar streaming</string>
+    <string name="keyboard_action_simulator">mostrar visualizador 2D en tiempo real</string>
+    <string name="keyboard_action_commands">mostrar comandos</string>
+    <string name="keyboard_action_wep_app">mostrar aplicación web OctoPrint</string>
+    <string name="keyboard_action_wep_site">mostrar sitio web de Printoid</string>
+    <string name="keyboard_action_octoprint_profiles">perfiles OctoPrint</string>
+    <string name="keyboard_action_app_settings">ajustes</string>
+    <string name="keyboard_action_app_infos">informacion</string>
+    <string name="keyboard_action_files">archivos</string>
+    <string name="keyboard_action_timelapses">timelapses</string>
+    <string name="keyboard_action_right_panel">abrir panel derecho</string>
+    <string name="keyboard_action_right_panel_close">cerrar panel derecho</string>
+    <string name="keyboard_action_x">eje X</string>
+    <string name="keyboard_action_y">eje Y</string>
+    <string name="keyboard_action_z">eje Z</string>
+    <string name="keyboard_action_home_xy">origen XY</string>
+    <string name="keyboard_action_home_z">origen Z</string>
+    <string name="keyboard_action_extrude">extrusión</string>
+    <string name="keyboard_action_retract">retracción</string>
+    <string name="keyboard_action_move_distance">Longitud de recorrido ajustada a %.1f</string>
+    <string name="keyboard_action_increment_fan">Incrementar velocidad del ventilador</string>
+    <string name="keyboard_action_decrement_fan">disminuir velocidad del ventilador</string>
+    <string name="keyboard_action_increment_ext">incrementar ext.%d temperatura</string>
+    <string name="keyboard_action_decrement_ext">disminuir ext.%d temperatura</string>
+    <string name="keyboard_action_increment_bed">incrementar temperatura cama</string>
+    <string name="keyboard_action_decrement_bed">disminuir temperatura cama</string>
+    <string name="keyboard_action_select_tool">seleccionar extrusor %d</string>
+    <string name="keyboard_action_print">imprimir el archivo seleccionado</string>
+    <string name="keyboard_action_pause">pausar impresión</string>
+    <string name="keyboard_action_stop">Detener impresión</string>
+
+</resources>

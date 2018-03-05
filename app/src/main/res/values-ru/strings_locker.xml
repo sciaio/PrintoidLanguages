@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_enter_password">Введите пароль</string>
+    <string name="locker_enter_password_or_fingerprint">Введите пароль или используйте свой отпечаток пальца</string>
+    <string name="locker_cancel">Отмена</string>
+    <string name="locker_unlocked">Разблокировано!</string>
+
+    <string name="locker_enter_current_password">Введите текущий пароль</string>
+    <string name="locker_enter_new_password_1">Введите новый пароль</string>
+    <string name="locker_enter_new_password_2">Введите новый пароль еще раз</string>
+
+    <string name="locker_mode">Режим блокировки: %s</string>
+    <string name="locker_mode_off">Выкл.</string>
+    <string name="locker_mode_critical">защита только важных функций</string>
+    <string name="locker_mode_full">защита всего экрана</string>
+
+    <string name="locker_mode_cant_send_critical_commands">Не могу отправить важные команды, блокировка активна</string>
+
+</resources>

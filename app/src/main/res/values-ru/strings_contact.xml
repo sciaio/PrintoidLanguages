@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_subject">Printoid support (installed version: v%1$s - %2$s)</string>
+    <string name="contact_choose_client">Выбирите Ваш почтовый клиент:</string>
+
+    <string name="contact_body">Dear Printoid developer,\n\n
+    Following is my own configuration:\n\n
+    - Device model: %1$s\n
+    - Android version: %2$s\n
+    - Fingerprint: %3$s\n
+    - 3D Printer: %4$s\n\n
+    - OctoPrint version: %5$s\n\n
+    My message:\n\n\n\n
+    %6$s\n\n\n\n
+    Best regards</string>
+
+    <string name="alert_contact_title">Контакт Разработчик</string>
+
+    <string name="alert_contact_email_msg">\nПеред тем как обратиться к разработчику, вы уверены, что:\n\n
+     - Printoid на сегодняшний день?\n
+     - Вы снова смотрели учебники?\n
+     - Вы консультировались с Часто задаваемыми вопросами (F.A.Q.)?\n
+     - Вы будете вежливы и учтивы?\n\n
+    Если вы не соблюдаете эти условия, <b>разработчик не сможет вам помочь</b>.</string>
+
+    <string name="alert_contact_traces_msg">Перед тем как обратиться к разработчику, вы уверены, что:\n
+     - Printoid на сегодняшний день?\n
+     - Вы снова смотрели учебники?\n
+     - Вы консультировались с Часто задаваемыми вопросами (F.A.Q.)?\n
+     - Вы предоставите все необходимые детали с этими шагами?\n
+     - Вы будете вежливы и учтивы?\n\n
+    Если вы не соблюдаете эти условия, <b>разработчик не сможет вам помочь</b>.</string>
+
+    <string name="alert_contact_tutorials_label">Ччебники</string>
+    <string name="alert_contact_faq_label">ЧАВО</string>
+
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printoid_contact_developer">Entwickler\nkontaktieren</string>
+    <string name="printoid_visit_website">Besuche\nprintoid.net</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="no">Abbrechen</string>
+    <string name="back">Zurück</string>
+    <string name="next">Weiter</string>
+    <string name="previous">Bisherige</string>
+    <string name="quit">Beenden</string>
+    <string name="terminate">Abbrechen</string>
+    <string name="search">Suchen</string>
+    <string name="retry">wiederholen</string>
+    <string name="set_home">XYZ Home</string>
+    <string name="backup">Sichern</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="start">Start</string>
+    <string name="start_printoid">Start Printoid</string>
+    <string name="contact">Kontakt</string>
+    <string name="update">Update</string>
+    <string name="share">Teilen</string>
+    <string name="save">Speichern</string>
+    <string name="show">Zeigen</string>
+    <string name="change">Ändern</string>
+    <string name="add">Hinzufügen</string>
+    <string name="more_info">Mehr infos</string>
+    <string name="send_logs">Senden protokolle</string>
+    <string name="value">Wert</string>
+    <string name="thank_you">Dankeschön!</string>
+    <string name="username">Benutzername</string>
+    <string name="email">Email</string>
+    <string name="configure">Konfigurieren</string>
+    <string name="agree">Zustimmen</string>
+    <string name="continuee">Fortsetzen</string>
+    <string name="help">Hilfe</string>
+    <string name="install_now">Installieren</string>
+    <string name="set">Set</string>
+    <string name="target">Ziel (°)</string>
+    <string name="offset">Offset (°)</string>
+    <string name="extrude">Extrudiertem</string>
+    <string name="retract">Einfahren</string>
+    <string name="distance">Länge (mm)</string>
+    <string name="current">(strom: %d)</string>
+    <string name="remaining">Verbleibend</string>
+    <string name="none">Keiner</string>
+
+    <string name="heated_bed">Beheiztes Bett</string>
+    <string name="heated_head">Beheizter Kopf %d</string>
+    <string name="extruder">Extruder %d</string>
+
+    <string name="default_currency">€</string>
+
+    <string name="simple_hour_format">HH:mm:ss</string>
+    <string name="simple_hour_reduced_format">HH:mm</string>
+    <string name="simple_date_format">@string/simple_date_format_24</string>
+
+    <string name="overlay_tile_title">Printoid Streaming</string>
+    <string name="snapshot_tile_title">Schnappschuss Printoid</string>
+
+    <string name="network_type_wifi">WiFi</string>
+    <string name="network_type_mobile">Mobilfunkbetreiber</string>
+    <string name="network_type_none">Keine Verbindung</string>
+    <string name="network_type_unknown">Unbekannte Verbindung</string>
+
+    <string name="image_picker_tool_folders">Ordner</string>
+    <string name="image_picker_tool_tap">Tippen Sie auf</string>
+    <string name="image_picker_tool_camera">Kamera</string>
+
+</resources>

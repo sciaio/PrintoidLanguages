@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="keyboard_distant_command_toast_msg">Commande distante reçue : %s</string>
+
+    <string name="keyboard_distant_gcode_command_title">Envoi de commande GCODE</string>
+    <string name="keyboard_distant_gcode_command_msg">Appuyez sur ENTREE pour envoyer, ECHAP pour annuler, VIRGULE pour séparer les commandes</string>
+
+    <string name="keyboard_action_connect">connexion</string>
+    <string name="keyboard_action_fullscreen">mode plein écran</string>
+    <string name="keyboard_action_streaming">afficher la vidéo</string>
+    <string name="keyboard_action_simulator">afficher le simulateur 2D en temps réel</string>
+    <string name="keyboard_action_commands">afficher les commandes</string>
+    <string name="keyboard_action_wep_app">afficher l\'interface OctoPrint</string>
+    <string name="keyboard_action_wep_site">afficher le site officiel</string>
+    <string name="keyboard_action_octoprint_profiles">profils OctoPrint</string>
+    <string name="keyboard_action_app_settings">paramètres</string>
+    <string name="keyboard_action_app_infos">informations</string>
+    <string name="keyboard_action_files">fichiers</string>
+    <string name="keyboard_action_timelapses">timelapses</string>
+    <string name="keyboard_action_right_panel">ouvrir le panel de droite</string>
+    <string name="keyboard_action_right_panel_close">fermer le panel de droite</string>
+    <string name="keyboard_action_x">axe X</string>
+    <string name="keyboard_action_y">axe Y</string>
+    <string name="keyboard_action_z">axe Z</string>
+    <string name="keyboard_action_home_xy">home XY</string>
+    <string name="keyboard_action_home_z">home Z</string>
+    <string name="keyboard_action_extrude">extrusion</string>
+    <string name="keyboard_action_retract">retractation</string>
+    <string name="keyboard_action_move_distance">distance configurée à %.1f</string>
+    <string name="keyboard_action_increment_fan">incrémenter la vitesse de ventilation</string>
+    <string name="keyboard_action_decrement_fan">décrémenter la vitesse de ventilation</string>
+    <string name="keyboard_action_increment_ext">incrémenter la température de l\'ext.%d</string>
+    <string name="keyboard_action_decrement_ext">décrémenter la température de l\'ext.%d</string>
+    <string name="keyboard_action_increment_bed">incrémenter la température du lit chauffant</string>
+    <string name="keyboard_action_decrement_bed">décrémenter la température du lit chauffant</string>
+    <string name="keyboard_action_select_tool">sélection de l\'outil %d</string>
+    <string name="keyboard_action_print">imprimer le fichier sélectionné</string>
+    <string name="keyboard_action_pause">mettre l\'impression en pause</string>
+    <string name="keyboard_action_stop">arrêter l\'impression</string>
+
+</resources>

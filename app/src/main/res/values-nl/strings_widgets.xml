@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="widget_no_snapshot_connection">Kan het snapshot niet downloaden\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Kan het snapshot niet downloaden</string>
+    <string name="widget_unknown_profile">Onbekend profiel</string>
+
+    <string name="widget_starter_error_no_profiles">Kan geen profiel selecteren: geen enkel profiel gevonden</string>
+    <string name="widget_starter_error_profile_not_found">Kan profiel niet selecteren: bestaat niet of is niet beschikbaar</string>
+    <string name="widget_starter_error_null_id">Kan profiel niet selecteren: ongeldige identifier</string>
+
+</resources>

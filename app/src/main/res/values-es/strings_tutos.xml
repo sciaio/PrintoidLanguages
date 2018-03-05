@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tutorial_available_in_pro_version">Disponible en las versiones PRO y PREMIUM</string>
+    <string name="tutorial_available_in_premium_version">Disponible en la versión PREMIUM</string>
+
+    <!-- WELCOME -->
+    <string name="tutorial_message_welcome">Bienvenido a Printoid %s!</string>
+    <string name="tutorial_message_welcome_2">Gracias por tomarte un minuto para saber el contenido de la aplicación :)</string>
+
+    <!-- VERSIONS COMPARATOR -->
+    <string name="tutorial_comparator_title">Comparador de versiones</string>
+    <string name="tutorial_comparator_premium_content">Funciones PRO + control avanzado, widgets &amp; más…</string>
+    <string name="tutorial_comparator_pro_content">OctoPrint muliples perfiles, video, comandos personalizados, visor 2D &amp; 3D, simulador en tiempo real &amp; más…</string>
+    <string name="tutorial_comparator_lite_content">Paquete de funciones básicas gratuitas &amp; sin límite de duración</string>
+    <string name="tutorial_comparator_button_1">Comparador completo</string>
+
+    <!-- KEYBOARD / ADB -->
+    <string name="tutorial_keyboard_title">Control con teclado y ADB</string>
+    <string name="tutorial_keyboard_message">¡Puedes controlar Printoid con un teclado o construir su propia interfaz usando ADB!</string>
+    <string name="tutorial_keyboard_message_3">Más información de los comandos disponibles en el sitio web oficial</string>
+    <string name="tutorial_keyboard_button_1">Control con ADB</string>
+    <string name="tutorial_keyboard_button_2">Control con teclado</string>
+
+    <!-- WIDGETS -->
+    <string name="tutorial_widgets_title">Widgets exclusivos</string>
+    <string name="tutorial_widgets_message">Monitoreo las impresoras 3D sin ni siquiera abrir la aplicación!</string>
+    <string name="tutorial_widgets_message_3">Añadir tantos componentes tal y como se desea crear su propia interfaz y tocarlas para la actualización!</string>
+
+    <!-- STREAMING -->
+    <string name="tutorial_video_title">Streaming de Video</string>
+    <string name="tutorial_video_message">¡Esté siempre al tanto de lo que ocurre en su impresora 3D!</string>
+    <string name="tutorial_video_message_2">Reproductor de vídeo en la aplicación, widget de lanzamiento e icono flotante para ver tu video desde cualquier lugar</string>
+    <string name="tutorial_video_message_4">Un proxy inverso en la Raspberry Pi es una buena práctica para hacer accesible el streaming en el mismo puerto que OctoPrint</string>
+    <string name="tutorial_video_button_1">Configuración de la cámara</string>
+    <string name="tutorial_video_button_2">Baja/Alta calidad</string>
+    <string name="tutorial_video_button_3">Soporte 2 cámaras</string>
+
+    <!-- COMMANDS -->
+    <string name="tutorial_commands_title">Tus propios comandos</string>
+    <string name="tutorial_commands_message">¡Personalice Printoid con sus comandos y características!</string>
+    <string name="tutorial_commands_message_2">Cree sus propios botones para enviar comandos GCODE a su impresora 3D</string>
+    <string name="tutorial_commands_message_3">Comunicar con su Raspberry Pi por SSH (controlar un relé…)</string>
+    <string name="tutorial_commands_message_4">Acceso a los comandos integrados de OctoPrint (registrados en config.yaml)</string>
+    <string name="tutorial_commands_button_1">Comando GCODE</string>
+    <string name="tutorial_commands_button_2">Comando SSH</string>
+    <string name="tutorial_commands_button_3">Comando HTTP</string>
+
+    <!-- MULTI PROFILES -->
+    <string name="tutorial_multi_profiles_title">Conexión a OctoPrint simplificada</string>
+    <string name="tutorial_multi_profiles_message">¡Control y gestión de varios servidores OctoPrint e impresoras 3D en caso necesario!</string>
+    <string name="tutorial_multi_profiles_message_2">Printoid utilizará de forma inteligente por sí mismo la configuración de red local (LAN) o internet (WAN) cuando sea necesario</string>
+    <string name="tutorial_multi_profiles_message_3">Tenga en cuenta que todas las configuraciones de Printoid son relativas al perfil seleccionado</string>
+    <string name="tutorial_multi_profiles_button_1">Conexión a OctoPrint</string>
+    <string name="tutorial_multi_profiles_button_2">Conexión exterior (3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_3">Ajusta las configuracións</string>
+
+    <!-- 2D / 3D RENDERERS -->
+    <string name="tutorial_render_title">Visores 2d y 3D</string>
+    <string name="tutorial_render_message_0">Los visualizadores 2D y 3D son accesibles desde el gestor de archivos ampliado (abrirlo desde el menú de la izquierda)</string>
+    <string name="tutorial_render_message">¡Compruebe cada capa de sus archivos GCODE en 2D o visualice todo el objeto STL o GCODE desde la aplicación!</string>
+    <string name="tutorial_render_message_2">Printoid provee además un simulador 2D en tiempo real cuando está imprimiendo un objeto</string>
+    <string name="tutorial_render_button_1">Funcionamiento</string>
+
+    <!-- ANDROID WEAR -->
+    <string name="tutorial_wear_title">Módulo Android Wear</string>
+    <string name="tutorial_wear_message_1">¡Controla y administra tu impresora 3D directamente desde tu muñeca!</string>
+    <string name="tutorial_wear_message_2">Información de la impresora, control de ejes, gestión de temperaturas/ventilación/extrusoras, archivos y listas de comandos</string>
+    <string name="tutorial_wear_message_3">Este módulo está disponible solo para Android Wear (no disponible para Samsung Wear (Tizen))</string>
+
+    <!-- WEBAPP -->
+    <string name="tutorial_web_app_title">Interfaz web OctoPrint</string>
+    <string name="tutorial_web_app_message">¡Además tiene un acceso extra a su <b>interfaz web del servidor OctoPrint</b>, sin tener que abandonar Printoid!</string>
+    <string name="tutorial_web_app_message_2">Diseñado para encajar perfectamente con las pantallas de los teléfonos inteligentes y tabletas</string>
+
+    <!-- WEBSITE -->
+    <string name="tutorial_support_title">Sitio web oficial y soporte</string>
+    <string name="tutorial_support_message_1">Usted será podrá encontrar todas las respuestas a sus preguntas en https://printoid.net</string>
+    <string name="tutorial_support_message_2">Actualizaciones constantes, trucos y consejos, información útil, desarrollo de la comunicación…</string>
+    <string name="tutorial_support_message_3">No dude en ponerse en contacto con el desarrollador por correo electrónico para cualquier solicitud de emisión o característica!</string>
+    <string name="tutorial_support_button_1">Artículos recientes</string>
+    <string name="tutorial_support_button_2">Preguntas frecuentes</string>
+    <string name="tutorial_support_button_3">Contactar desarrollador</string>
+
+    <!-- END -->
+    <string name="tutorial_end_message">Empezar con Printoid</string>
+
+    <!-- BACKUP -->
+    <string name="tutorial_backup_read_permission_title">Copia de seguridad y restauración</string>
+    <string name="tutorial_backup_read_permission_msg">Printoid es capaz de restaurar toda la configuración de una instalación anterior en caso necesario (si ha instalado la versión de prueba de Printoid por ejemplo).\n\nPara lograr esto, por favor acepte el permiso en el siguiente diálogo.</string>
+    <string name="tutorial_backup_from_sdcard">¡Aplicar la última copia de seguridad!</string>
+    <string name="tutorial_backup_from_other_app">Aplicar copia de seguridad desde Printoid %s!</string>
+    <string name="tutorial_backup_from_other_error">No se puede aplicar la copia de seguridad desde Printoid %s, ha ocurrido un error</string>
+    <string name="tutorial_backup_from_other_error_permission">No se puede aplicar la copia de seguridad desde Printoid %s, permiso de escritura en el almacenamiento externo no concedido</string>
+    <string name="tutorial_backup_from_other_error_unknown">No se puede aplicar la copia de seguridad desde Printoid %s, ha ocurrido un error desconocido</string>
+
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select_file_to_upload">Sélectionnez un fichier</string>
+    <string name="upload_new_file">Envoyer un fichier</string>
+    <string name="select_file_install_file_explorer">Aucun explorateur de fichiers trouvé.</string>
+    <string name="upload_file_dialog_title">Envoi du fichier</string>
+    <string name="upload_file_dialog_msg">%1$s\n%2$d%%</string>
+
+    <string name="upload_error_file_not_found">Erreur : fichier non trouvé</string>
+    <string name="upload_error_bad_request">Erreur : mauvaise requête</string>
+    <string name="upload_error_remote_not_found">Erreur : emplacement sur le serveur non trouvé</string>
+    <string name="upload_error_conflict">Erreur : conflit avec ce fichier</string>
+    <string name="upload_error_unsupported_media">Erreur : type de fichier non supporté, fichier non GCODE ni STL</string>
+    <string name="upload_error_internal_server_error">Erreur : erreur interne au serveur OctoPrint</string>
+    <string name="upload_error_unknown">Erreur : impossible d\'envoyer le fichier au serveur OctoPrint (%d)</string>
+
+    <string name="create_folder_title">Création d\'un dossier</string>
+    <string name="create_folder_message">Définissez un nom pour le nouveau dossier :</string>
+    <string name="create_folder_message_hint">Nom du dossier</string>
+    <string name="create_folder_created">Dossier créé</string>
+    <string name="create_folder_error_file_not_found">Erreur : emplacement non trouvé</string>
+    <string name="create_folder_error_bad_request">Erreur : mauvaise requête</string>
+    <string name="create_folder_error_remote_not_found">Erreur : emplacement sur le serveur non trouvé</string>
+    <string name="create_folder_error_conflict">Erreur : conflit avec ce dossier</string>
+    <string name="create_folder_error_internal_server_error">Erreur : erreur interne au serveur OctoPrint</string>
+    <string name="create_folder_error_unknown">Erreur : impossible de créer le dossier sur le serveur OctoPrint (%d)</string>
+
+    <string name="move_file_title">Déplacer le fichier</string>
+    <string name="move_file_message">Déplacer le fichier %s vers le dossier suivant :</string>
+    <string name="move_file_done">Fichier déplacé</string>
+    <string name="move_file_error_sdcard_msg">Printoid ne peut pas déplacer un fichier de la SDCARD !</string>
+
+    <string name="upload_file_title">Envoi de fichier</string>
+    <string name="upload_file_message">Envoyer le fichier %s vers la destination suivante :</string>
+    <string name="upload_file_done">Fichier envoyé</string>
+
+    <string name="downloading_file">Téléchargement du fichier&#8230;</string>
+    <string name="file_deleted">Fichier effacé d\'OctoPrint</string>
+    <string name="folder_deleted">Dossier effacé d\'OctoPrint</string>
+
+    <string name="alert_delete_file_title">Supprimer le fichier</string>
+    <string name="alert_delete_file_msg">Voulez vous effacer le fichier <b>%s</b> ? Cette action ne pourra pas être annulée.</string>
+
+    <string name="alert_delete_folder_title">Supprimer le dossier</string>
+    <string name="alert_delete_folder_msg">Voulez vous effacer le dossier <b>%s</b> ? Chaque fichier de ce dossier sera également supprimé. Cette action ne pourra pas être annulée.</string>
+
+    <string name="alert_cant_delete_msg">Printoid ne peut pas supprimer %s</string>
+
+    <string name="files_new_folder">Nouveau dossier</string>
+    <string name="files_move_file">Déplacer</string>
+    <string name="files_upload_file">Envoyer</string>
+    <string name="files_sort_files">Trier</string>
+    <string name="files_analyze">Analyser</string>
+    <string name="files_history">Historique</string>
+
+    <string name="analyzer_folder_root">RACINE</string>
+    <string name="analyzer_number_file">%d fichier</string>
+    <string name="analyzer_number_files">%d fichiers</string>
+    <string name="analyzer_number_folder">%d dossier</string>
+    <string name="analyzer_number_folders">%d dossiers</string>
+    <string name="analyzer_success_failures">%1$d %2$s / %3$d %4$s</string>
+    <string name="analyzer_success">succès</string>
+    <string name="analyzer_success_plural">succès</string>
+    <string name="analyzer_failure">échec</string>
+    <string name="analyzer_failure_plural">échecs</string>
+    <string name="analyzer_total_print_time">Temps d\'impression total :</string>
+    <string name="analyzer_total_size">Taille totale :</string>
+    <string name="analyzer_total_filament_length">Longueur de filament totale :</string>
+    <string name="analyzer_total_folders">Nombre de dossiers :</string>
+    <string name="analyzer_total_machine_code">Nombre de GCODE :</string>
+    <string name="analyzer_total_models">Nombre de modèles :</string>
+    <string name="analyzer_total_estimated_cost">Coût total estimé :</string>
+
+</resources>

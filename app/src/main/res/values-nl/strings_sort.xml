@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sort_method">Selecteer een sorteer methode:</string>
+    <string name="sort_name_ascending">Alphabetisch</string>
+    <string name="sort_name_descending">Alphabetisch omgekeerd</string>
+    <string name="sort_oldest_first">Oudste eerst</string>
+    <string name="sort_newest_first">Nieuwste eerst</string>
+    <string name="sort_shortest_first">Kleinste eerst</string>
+    <string name="sort_longest_first">Grootste eerst</string>
+    <string name="sort_most_success_first">Meest succesvolle eerst</string>
+    <string name="sort_less_success_first">Minst succesvolle eerst</string>
+    <string name="sort_favorites_only">Alleen favorieten</string>
+    
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_enter_password">Entrer le mot de passe</string>
+    <string name="locker_enter_password_or_fingerprint">Entrer le mot de passe ou utiliser l\'empreinte</string>
+    <string name="locker_cancel">Annuler</string>
+    <string name="locker_unlocked">Déverrouillé !</string>
+
+    <string name="locker_enter_current_password">Entrer le mot de passe actuel</string>
+    <string name="locker_enter_new_password_1">Entrer le nouveau mot de passe</string>
+    <string name="locker_enter_new_password_2">Entrer le mot de passe à nouveau</string>
+
+    <string name="locker_mode">Mode de verrouillage: %s</string>
+    <string name="locker_mode_off">OFF</string>
+    <string name="locker_mode_critical">protéger uniquement les fonctions critiques</string>
+    <string name="locker_mode_full">protéger tout l\'écran</string>
+
+    <string name="locker_mode_cant_send_critical_commands">Impossible d\'envoyer des commandes critiques, le verrouillage est activé</string>
+
+</resources>

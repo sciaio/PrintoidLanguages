@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tutorial_available_in_pro_version">Beschikbaar in PRO en PREMIUM versie</string>
+    <string name="tutorial_available_in_premium_version">Beschikbaar in PREMIUM versie</string>
+
+    <!-- WELCOME -->
+    <string name="tutorial_message_welcome">Welkom bij Printoid %s!</string>
+    <string name="tutorial_message_welcome_2">Bedankt dat je even de tijd hebt genomen om de inhoud van de app te kennen :)</string>
+
+    <!-- VERSIONS COMPARATOR -->
+    <string name="tutorial_comparator_title">Versies comparator</string>
+    <string name="tutorial_comparator_premium_content">PRO-functies + geavanceerde bediening, widgets &amp; meer…</string>
+    <string name="tutorial_comparator_pro_content">Meerdere OctoPrint-profielen, video, aangepaste besturingselementen, 2D- &amp; 3D-viewer, real-time simulator &amp; meer…</string>
+    <string name="tutorial_comparator_lite_content">Gratis basisfunctiespakket zonder tijdslimiet</string>
+    <string name="tutorial_comparator_button_1">Compleet comparator</string>
+
+    <!-- KEYBOARD / ADB -->
+    <string name="tutorial_keyboard_title">Bediening via toetsenbord &amp; ADB</string>
+    <string name="tutorial_keyboard_message">Bediening via een traditioneel toetsenbord: de PREMIUM versie biedt u de mogelijkheid de Printoid interface te bedienen via een fysiek toetsenbord om tussen de schermen te schakelen en om functies te starten en te stoppen.</string>
+    <string name="tutorial_keyboard_message_3">Meer informatie over de beschikbare funkties vindt u op de officiële web site</string>
+    <string name="tutorial_keyboard_button_1">Bediening via ADB</string>
+    <string name="tutorial_keyboard_button_2">Bediening via toetsenbord</string>
+
+    <!-- WIDGETS -->
+    <string name="tutorial_widgets_title">Exclusieve widgets</string>
+    <string name="tutorial_widgets_message">Monitor uw 3d printers zonder dat u zelfs maar een applicatie hoeft te starten!</string>
+    <string name="tutorial_widgets_message_3">Voeg net zoweel widgets toe als u wenst om uw eigen interface gestalte te geven, druk op deze widgets om de functies te activeren!</string>
+
+    <!-- STREAMING -->
+    <string name="tutorial_video_title">Streaming video</string>
+    <string name="tutorial_video_message">Houd een oogje in het zeil, om altijd precies te weten wat er op het platform van uw 3D printer gebeurt!</string>
+    <string name="tutorial_video_message_2">Een ingebouwde video speler met een widget om apps te starten via een meebewegend icoon om video\'s te bekijken, vanaf welk scherm dan ook</string>
+    <string name="tutorial_video_message_4">Voor meer informatie betreffende de reverse proxy installatie, zie de volgende link</string>
+    <string name="tutorial_video_button_1">Camera configuratie</string>
+    <string name="tutorial_video_button_2">Lage/hoge kwaliteit</string>
+    <string name="tutorial_video_button_3">Ondersteun 2 camera\'s</string>
+
+    <!-- COMMANDS -->
+    <string name="tutorial_commands_title">Je eigen bestellingen</string>
+    <string name="tutorial_commands_message">Personaliseer Printoid met eigen commando\'s &amp; functionaliteit!</string>
+    <string name="tutorial_commands_message_2">Creëer uw eigen knoppen om GCODE commando\'s te versturen naar uw printer</string>
+    <string name="tutorial_commands_message_3">SSH commando\'s naar uw Raspberry Pi (controleer een relais…)</string>
+    <string name="tutorial_commands_message_4">Toegang tot de OctoPrint systeem commando\'s (geconfigureerd in uw config.yaml)</string>
+    <string name="tutorial_commands_button_1">GCODE commando\'s</string>
+    <string name="tutorial_commands_button_2">SSH commando\'s</string>
+    <string name="tutorial_commands_button_3">HTTP commando\'s</string>
+
+    <!-- MULTI PROFILES -->
+    <string name="tutorial_multi_profiles_title">Verbinding met OctoPrint vereenvoudigd</string>
+    <string name="tutorial_multi_profiles_message">Bedien en bekijk zoveel OctoPrint servers en 3D printers als u maar wenst!</string>
+    <string name="tutorial_multi_profiles_message_2">Printoid past automatisch uw locale (LAN) of globale (WAN) configuratie toe, afhankelijk wat nodig is.</string>
+    <string name="tutorial_multi_profiles_message_3">Houd er rekening mee, dat alle Printoid parameters afhankelijk zijn van het gekozen profiel</string>
+    <string name="tutorial_multi_profiles_button_1">OctoPrint-verbinding</string>
+    <string name="tutorial_multi_profiles_button_2">Buitenverbinding (3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_3">Pas de instellingen aan</string>
+
+    <!-- 2D / 3D RENDERERS -->
+    <string name="tutorial_render_title">Visualisatie 2D &amp; 3D</string>
+    <string name="tutorial_render_message_0">De 2D en 3D visualisaties zijn beschikbaar vanuit de verkenner (uitgebeid menu, te openen via menu aan linker kant)</string>
+    <string name="tutorial_render_message">Bekijk elke plak van uw GCODE bestand in 2D afzonderlijk of visualizeer het hele GCODE of STL bestand in 3D!</string>
+    <string name="tutorial_render_message_2">Printoid toont ook de actueel geprinte laag in 2D (real-time), terwijl de print aan de gang is</string>
+    <string name="tutorial_render_button_1">Verrichting</string>
+
+    <!-- ANDROID WEAR -->
+    <string name="tutorial_wear_title">Module Android Wear</string>
+    <string name="tutorial_wear_message_1">Alle controle over uw printer en overzicht wat er gebeurt, aan uw pols!</string>
+    <string name="tutorial_wear_message_2">Informatie over de actuele print, de bestanden en commando\'s. Bedien alle assen, temperatuur, extruders en ventilatoren.</string>
+    <string name="tutorial_wear_message_3">Deze module is alleen beschikbaar voor Android Wear (niet beschikbaar voor Samsung Wear (Tizen))</string>
+
+    <!-- WEBAPP -->
+    <string name="tutorial_web_app_title">OctoPrint web interface</string>
+    <string name="tutorial_web_app_message">U heeft directe toegang tot de <b>web interface van uw OctoPrint server</b>, zonder dat u uit Printoid hoeft te gaan!</string>
+    <string name="tutorial_web_app_message_2">Past zich perfect aan aan de schermgrootte van uw tablet of smartphone</string>
+
+    <!-- WEBSITE -->
+    <string name="tutorial_support_title">Web site web en ondersteuning</string>
+    <string name="tutorial_support_message_1">U vindt antwoord op vele vragen op de officiële web site: https://printoid.net</string>
+    <string name="tutorial_support_message_2">Regelmatige updates, tips en handige truuks, nuttige informatie en het laatste waar op dat moment aan gewerkt wordt…</string>
+    <string name="tutorial_support_message_3">Aarzel niet per e-mail contact op te nemen met de ontwikkelaars om bugs of nieuwe functionaliteit te bespreken!</string>
+    <string name="tutorial_support_button_1">Recente artikelen</string>
+    <string name="tutorial_support_button_2">Veelgestelde vragen</string>
+    <string name="tutorial_support_button_3">Neem contact op met de ontwikkelaar</string>
+
+    <!-- END -->
+    <string name="tutorial_end_message">Start Printoid</string>
+
+    <!-- BACKUP -->
+    <string name="tutorial_backup_read_permission_title">Bewaar &amp; herstel</string>
+    <string name="tutorial_backup_read_permission_msg">Printoid kan uw vorige opgeslagen configuratie toe passen indien gewenst (als u bijvoorbeeld eerst Printoid LITE gebruikte).\n\nOm dat mogelijk te maken moet u uw permissie geven in de hierna volgende dialoog.</string>
+    <string name="tutorial_backup_from_sdcard">Pas de bewaarde instelling toe!</string>
+    <string name="tutorial_backup_from_other_app">Pas de Printoid %s configuratie toe!</string>
+    <string name="tutorial_backup_from_other_error">Het is niet mogelijk de backup van Printoid %s te gebruiken, er trad een fout op</string>
+    <string name="tutorial_backup_from_other_error_permission">Het is niet mogelijk de backup van Printoid %s te gebruiken, deze kon bij gebrek aan permissie niet bewaard worden.</string>
+    <string name="tutorial_backup_from_other_error_unknown">Het is niet mogelijk de backup van Printoid %s te gebruiken, er trad een onbekende fout op</string>
+
+</resources>

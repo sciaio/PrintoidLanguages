@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="http_error_bad_request">Fout verzoek</string>
+    <string name="http_error_unauthorized">Niet toegestaan</string>
+    <string name="http_error_payment_required">Betaling noodzakelijk</string>
+    <string name="http_error_forbidden">Geen toegang</string>
+    <string name="http_error_not_found">Pagina niet gevonden</string>
+    <string name="http_error_not_allowed">Toegang geweigerd</string>
+    <string name="http_error_not_acceptable">Niet acceptabel</string>
+    <string name="http_error_authentification_required">Authentificatie noodzakelijk</string>
+    <string name="http_error_request_timeout">Timeout</string>
+    <string name="http_error_conflict">Conflict</string>
+    <string name="http_error_gone">Weg</string>
+    <string name="http_error_length_required">Lengte vereist</string>
+    <string name="http_error_precondition_failed">Voorwaarden niet vervuld</string>
+    <string name="http_error_request_entity_to_large">Entiteit is te groot</string>
+    <string name="http_error_request_uri_too_long">URI van verzoek is te groot</string>
+    <string name="http_error_unsupported_media_type">Meda type niet ndersteund</string>
+    <string name="http_error_requested_range_not_satisfiable">Verzocht bereik is ongeldig</string>
+    <string name="http_error_expectation_failed">Voorwaarde niet aan voldaan</string>
+    <string name="http_error_uprocessable_entity">Entiteit niet verwerkbaar</string>
+    <string name="http_error_locked">Bloqué</string>
+    <string name="http_error_failed_dependency">Afhankelijkheid faalde</string>
+    <string name="http_error_unordered_collection">Ongeordende verzameling</string>
+    <string name="http_error_upgrade_required">Upgrade noodzakelijk</string>
+    <string name="http_error_precondition_required">Vereiste voorwaarde</string>
+    <string name="http_error_too_many_requests">Teveel verzoeken</string>
+    <string name="http_error_request_header_fields_too_large">Header velden zijn te groot</string>
+    <string name="http_error_internal_server_error">Interne server fout</string>
+    <string name="http_error_not_implemented">Niet geïmplementeerd</string>
+    <string name="http_error_bad_getaway">Slechte gateway</string>
+    <string name="http_error_service_unavailable">Service is niet beschikbaar</string>
+    <string name="http_error_gateway_timeout">Timeout van de gateway</string>
+    <string name="http_error_version_not_supported">HTTP versie wordt niet ondersteund</string>
+    <string name="http_error_variant_also_negotiates">Variant onderhandelt ook</string>
+    <string name="http_error_insufficient_storage">Onvoldoende geheugen</string>
+    <string name="http_error_not_extended">Niet uitbreidbaar</string>
+    <string name="http_error_network_authentication_required">Authentificatie op network vereist</string>
+    <string name="http_error_unknown">Onbekende fout</string>
+
+</resources>

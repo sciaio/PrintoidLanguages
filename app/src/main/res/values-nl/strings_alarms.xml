@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_channel_name_alerts">Alarmering meldingen</string>
+
+    <string name="alarms_title">Alarmering management</string>
+
+    <string name="alarm_type_progress">Print voortgang</string>
+    <string name="alarm_type_temperature_hot_end">Temperatuur head</string>
+    <string name="alarm_type_temperature_hot_bed">Temperatuur bed</string>
+    <string name="alarm_type_gcode_command">GCODE commando uitvoering</string>
+    <string name="alarm_type_z_height">Z hoogte</string>
+
+    <string name="alerts_list_empty">Geen alarmeringen actief</string>
+
+    <string name="alarm_setting_type">Type alarmering</string>
+    <string name="alarm_setting_sensitivity">Gevoeligheid van dit alarm (+X% van waarde)</string>
+    <string name="alarm_setting_value_progress">Melding wanneer dee voortgang bereikt wordt (%)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Melding bij deze temperatuur van de kop (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Melding bij deze temperatuur van het bed (°)</string>
+    <string name="alarm_setting_value_gcode_command">Melding bij executie van dit GCODE commando</string>
+    <string name="alarm_setting_value_z_height">Melding bij bereiken deze hoogte (mm)</string>
+    <string name="alarm_settins_value">Alarmering waarde</string>
+    <string name="alarm_setting_vibration_pattern">Vibratie patroon</string>
+
+    <string name="alarm_created">Nieuwe alarmering aangemaakt</string>
+    <string name="alarm_updated">Alarmering aangepast</string>
+    <string name="alarm_deleted">Alarmering verwijderd</string>
+
+    <string name="alarms_delete_alert_title">Verwijder deze alarmering</string>
+    <string name="alarms_delete_alert_msg">Wilt u deze alarmering echt verwijderen? Weg is weg!</string>
+
+    <string name="alarms_exit_editor_alert_title">Bewaar uw veranderingen</string>
+    <string name="alarms_exit_editor_alert_msg">Wilt u uw aanpassingen bewaren alvorens het scherm te verlaten?</string>
+
+    <string name="alarm_alert_value_title">Verkeerde waarde vor deze alarmering</string>
+    <string name="alarm_alert_type_msg">Verkeerd type voor deze waarschuwing! Neem contact op met de ontwikkelaar van Printoid</string>
+    <string name="alarm_alert_value_empty_msg">U moet een waarde opgeven voor deze alarmering!</string>
+    <string name="alarm_alert_value_float_msg">Voor deze alarmering moet u een getal ingeven, met of zonder decimaal!</string>
+
+    <string name="alarm_help_title">Alarmering manager</string>
+    <string name="alarm_help_msg">U kunt uw eigen alarmering opnemen in Printoid.\n\n
+        Een melding vindt plaats in de vorm van een Android melding, met of zonder trillen ahv. wat u definieert\n\n
+        Merk op dat dit alleen werkt als Printoid actief is en in de voorgrond draait\n\n
+        Er wordt gewerkt aan meer en nog betere alarmeringen: \"work in progress\"!)</string>
+
+
+    <string name="alarm_notification_title">Melding: %s</string>
+    <string name="alarm_notification_progress">Voortgang tot nu toe: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">Temperatuur van extr. %1$d: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Temperatuur van bed: %.1f°</string>
+    <string name="alarm_notification_gcode_command">GCODE commando: %s</string>
+    <string name="alarm_notification_z_height">Z-Hoogte bereikt: %.2f</string>
+
+</resources>

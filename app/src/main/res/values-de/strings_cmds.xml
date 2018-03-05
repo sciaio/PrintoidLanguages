@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="commands_panel_label">Terminal-Befehle</string>
+    <string name="commands_history_label">GCODE Protokoll</string>
+    <string name="commands_editing_label">Befehlseditor</string>
+
+    <string name="abitrary_gcode_command">GCODE-Befehl direkt eingeben</string>
+    <string name="add_command">Neuen Befehl hinzufügen</string>
+    <string name="add_command_type">Typ</string>
+    <string name="add_command_curl_type">Methode</string>
+    <string name="add_command_label">Befehlsname</string>
+    <string name="add_command_command_title">Befehl zum Ausführen</string>
+    <string name="add_command_icon">Icon</string>
+    <string name="add_command_color">Icon Farbe</string>
+    <string name="add_command_show_on_home">Auf Hauptseite</string>
+    <string name="add_command_content">Befehlsargumente</string>
+    <string name="add_command_argument">Streit</string>
+    <string name="add_command_request_confirmation">Bestätigung</string>
+    <string name="add_command_wait_result">Befehlsantwort anzeigen</string>
+    <string name="add_command_name">Name des Befehls</string>
+    <string name="add_command_command">Befehl</string>
+    <string name="delete_command_title">Befehl löschen</string>
+    <string name="delete_command_msg">Das Löschen eines Befehls kann nicht rückgängig gemacht werden. Bist du dir sicher?</string>
+    <string name="add_command_error_name">Ungültiger Befehlsname. Bitte überprüfe deine Eingabe</string>
+    <string name="add_command_error_command">Ungültiger Befehl. Bitte überprüfe deine Eingabe</string>
+    <string name="add_command_error_command_octoprint">Ungültiger Befehl. Kein OctoPrint Befehl verfügbar.</string>
+    <string name="command_detail_ssh">SSH Befehl : %s</string>
+    <string name="command_detail_gcode">GCODE Befehl : %s</string>
+    <string name="command_sent">Befehl gesendet!</string>
+    <string name="command_sent_answer">Befehlsantwort: %s</string>
+    <string name="command_not_sent">Fehler beim Senden des Befehls: %s</string>
+    <string name="command_not_sent_reason">Fehler beim Senden des Befehls: %1$s (%2$s)</string>
+    <string name="send_command_error">Fehler im Befehl: %d</string>
+
+    <string name="command_help_for">Klicken Sie hier für die Anleitung %s Aufträge</string>
+
+    <string name="command_add_new">Neu…</string>
+
+    <string name="alert_command_help_title">Was ist ein benutzerdefinierter Befehl?</string>
+    <string name="alert_command_help_message">Printoid ermöglicht dir, die App mit deinen eigenen Befehlen zu individualisieren.\n\n
+    1/ <b>OctoPrint-Befehle:</b> Printoid kann Befehle ausführen, die du in config.yaml festgelegt hast.\n\n
+    2/ <b>GCODE-Befehle:</b> Du kannst eigene GCODE Befehle an deinen 3D Drucker senden. Das kann ein einzelner Befehl oder auch eine Befehlsgruppe sein (getrennt durch Zeilenumbrüche)\n\n
+    3/ <b>SSH-Befehle:</b> Du kannst eigene Anweisungen an deinen Raspberry Pi senden und damit z.B. GPIO Pins schalten oder Scripte ausführen.\n\n
+    4/ <b>CURL-Befehle:</b> Sie können Anweisungen an Ihre Raspberry Pi über CURL Befehle senden (sollte aussehen wie api/plugin/psucontrol oder api/plugin/psucontrol in Printoid, zum Beispiel, mit einem möglichen Argumente im JSON-Format)\n\n
+    Mehr Informationen gibt es auf der offiziellen Website: https://printoid.net</string>
+
+    <string name="max_home_commands_reached_title">Maximale Zahl erreicht</string>
+    <string name="max_home_commands_reached_msg">Du hast schon %d Befehle für deine Hauptseite ausgewählt.\n\nBitte wähle einen davon ab, bevor du diesen auswählst.</string>
+
+    <string name="command_confirmation_title">Bestätigung</string>
+    <string name="command_confirmation_msg">Printoid wird den Befehl senden: %s\n\nBist du sicher?</string>
+
+    <string name="command_list_empty">Kein Befehl verfügbar</string>
+    <string name="gcode_base_list_empty">Unbekannter GCODE-Befehl</string>
+
+    <string name="command_psu_turn_off_alert_title">Schalten Sie das PSU-Fehler aus</string>
+    <string name="command_psu_turn_off_alert_msg">Ihr PSU-Fehler ist tatsächlich eingeschaltet.\n\nMöchten Sie es jetzt ausschalten?\n\nWenn Sie gerade drucken, wird der aktuelle Job abgebrochen und der Fortschritt geht verloren.</string>
+    <string name="command_psu_turn_on_alert_title">Schalten Sie das PSU-Fehler ein</string>
+    <string name="command_psu_turn_on_alert_msg">Ihr PSU-Fehler ist eigentlich ausgeschaltet.\n\nMöchtest du es jetzt einschalten?</string>
+    <string name="command_psu_turned_off">PSU-Fehler ausgeschaltet</string>
+    <string name="command_psu_turned_on">PSU-Fehler ist eingeschaltet</string>
+    <string name="command_psu_turn_off_error">Schalten Sie den PSU-Fehler aus</string>
+    <string name="command_psu_turn_on_error">Schalten Sie den PSU-Fehler ein</string>
+
+    <string name="command_tplink_turn_off_alert_title">Schalten Sie das TPLink aus</string>
+    <string name="command_tplink_turn_off_alert_msg">Ihr TPLink ist tatsächlich eingeschaltet.\n\nMöchten Sie es jetzt ausschalten?\n\nWenn Sie gerade drucken, wird der aktuelle Job abgebrochen und der Fortschritt geht verloren.</string>
+    <string name="command_tplink_turn_on_alert_title">Schalten Sie das TPLink ein</string>
+    <string name="command_tplink_turn_on_alert_msg">Ihr TPLink ist eigentlich ausgeschaltet.\n\nMöchtest du es jetzt einschalten?</string>
+    <string name="command_tplink_turned_off">TPLink ausgeschaltet</string>
+    <string name="command_tplink_turned_on">TPLink ist eingeschaltet</string>
+    <string name="command_tplink_turn_off_error">Schalten Sie den TPLink aus</string>
+    <string name="command_tplink_turn_on_error">Schalten Sie den TPLink ein</string>
+
+    <string name="commands_not_loaded_title">Systembefehle wurden nicht geladen</string>
+    <string name="commands_not_loaded_msg">Die Systembefehle von OctoPrint werden derzeit nicht für dieses Profil geladen. Bitte warten Sie einige Sekunden und versuchen Sie es erneut.</string>
+
+    <string name="commands_empty_title">Keine Systembefehle</string>
+    <string name="commands_empty_msg">Für dieses Profil gibt es keine OctoPrint-Systembefehle. Sie können einige neue Systembefehle in der config.yaml von OctoPrint konfigurieren.</string>
+
+</resources>

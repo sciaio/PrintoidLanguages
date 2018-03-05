@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printoid_contact_developer">Contact\nthe developer</string>
+    <string name="printoid_visit_website">Visit\nprintoid.net</string>
+
+    <string name="ok">"ОК"</string>
+    <string name="cancel">"Отмена"</string>
+    <string name="yes">"ОК"</string>
+    <string name="no">"Отмена"</string>
+    <string name="back">Назад</string>
+    <string name="next">Далее</string>
+    <string name="previous">Предыдущий</string>
+    <string name="quit">Выход</string>
+    <string name="terminate">Продолжить</string>
+    <string name="search">Поиск</string>
+    <string name="retry">Повтор</string>
+    <string name="set_home">Домой XYZ</string>
+    <string name="backup">Сохранить</string>
+    <string name="restore">Восстановить</string>
+    <string name="start">Начало</string>
+    <string name="start_printoid">Начало Printoid</string>
+    <string name="contact">Написать</string>
+    <string name="update">Обновить</string>
+    <string name="share">Поделиться</string>
+    <string name="save">Сохранить</string>
+    <string name="show">Показать</string>
+    <string name="change">Изменить</string>
+    <string name="add">Добавить</string>
+    <string name="more_info">Большая информация</string>
+    <string name="send_logs">Отправлять журналы</string>
+    <string name="value">Cтоимость</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="username">имя пользователя</string>
+    <string name="email">Эл. почта</string>
+    <string name="configure">Настроить</string>
+    <string name="agree">Согласен</string>
+    <string name="continuee">Продолжать</string>
+    <string name="help">Помогите</string>
+    <string name="install_now">Yстанавливать</string>
+    <string name="set">Set</string>
+    <string name="target">Цель (°)</string>
+    <string name="offset">Oфсет (°)</string>
+    <string name="extrude">Bыталкивать</string>
+    <string name="retract">Bтягиваться</string>
+    <string name="distance">длина (mm)</string>
+    <string name="current">(текущий: %d)</string>
+    <string name="remaining">Осталось</string>
+    <string name="none">Никто</string>
+
+    <string name="heated_bed">Постель</string>
+    <string name="heated_head">Глава %d</string>
+    <string name="extruder">Экструдер %d</string>
+
+    <string name="default_currency">₽</string>
+
+    <string name="simple_hour_format">hh:mm:ss a</string>
+    <string name="simple_hour_reduced_format">hh:mm a</string>
+    <string name="simple_date_format">@string/simple_date_format_12</string>
+
+    <string name="overlay_tile_title">Потоковый Printoid</string>
+    <string name="snapshot_tile_title">Cнимок Printoid</string>
+
+    <string name="network_type_wifi">WiFi</string>
+    <string name="network_type_mobile">Мобильный носитель</string>
+    <string name="network_type_none">Нет соединения</string>
+    <string name="network_type_unknown">Неизвестное соединение</string>
+
+    <string name="image_picker_tool_folders">Папки</string>
+    <string name="image_picker_tool_tap">Нажмите, чтобы выбрать</string>
+    <string name="image_picker_tool_camera">Kамера</string>
+
+</resources>

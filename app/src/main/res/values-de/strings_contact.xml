@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_subject">Printoid Support (installed version: v%1$s - %2$s)</string>
+    <string name="contact_choose_client">Wähle dein E-Mail Programm:</string>
+
+    <string name="contact_body">Dear Printoid developer,\n\n
+    Following is my own configuration:\n\n
+    - Device model: %1$s\n
+    - Android version: %2$s\n
+    - Fingerprint: %3$s\n
+    - 3D Printer: %4$s\n\n
+    - OctoPrint version: %5$s\n\n
+    My message:\n\n\n\n
+    %6$s\n\n\n\n
+    Best regards</string>
+
+    <string name="alert_contact_title">Softwareentwickler kontaktieren</string>
+
+    <string name="alert_contact_email_msg">\nBevor die Entwickler in Kontakt gebracht, sind Sie sicher, dass:\n\n
+     - Printoid aktuell?\n
+     - Hast du die Tutorials nochmal angeschaut? ?\n
+     - Haben Sie die häufig gestellten Fragen konsultiert (F.A.Q.)?\n
+     - Sie höflich und höflich sein?\n\n
+    Wenn Sie diese Bedingungen nicht einhalten, <b>kann der Entwickler Ihnen nicht helfen</b>.</string>
+
+    <string name="alert_contact_traces_msg">Bevor die Entwickler in Kontakt gebracht, sind Sie sicher, dass:\n
+     - Printoid aktuell?\n
+     - Hast du die Tutorials nochmal angeschaut? ?\n
+     - Haben Sie die häufig gestellten Fragen konsultiert (F.A.Q.)?\n
+     - Sie werden alle notwendigen Details mit diesen Schritten zur Verfügung stellen?\n
+     - Sie höflich und höflich sein?\n\n
+    Wenn Sie diese Bedingungen nicht einhalten, <b>kann der Entwickler Ihnen nicht helfen</b>.</string>
+
+    <string name="alert_contact_tutorials_label">Anleitungen</string>
+    <string name="alert_contact_faq_label">F.A.Q.</string>
+
+</resources>

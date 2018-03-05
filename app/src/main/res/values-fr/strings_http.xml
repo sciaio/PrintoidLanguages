@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="http_error_bad_request">Mauvaise requête</string>
+    <string name="http_error_unauthorized">Non autorisé</string>
+    <string name="http_error_payment_required">Paiement requis</string>
+    <string name="http_error_forbidden">Accès refusé</string>
+    <string name="http_error_not_found">Page non trouvée</string>
+    <string name="http_error_not_allowed">Accès refusé</string>
+    <string name="http_error_not_acceptable">Non acceptable</string>
+    <string name="http_error_authentification_required">Authentification requise</string>
+    <string name="http_error_request_timeout">Timeout</string>
+    <string name="http_error_conflict">Conflit</string>
+    <string name="http_error_gone">Gone</string>
+    <string name="http_error_length_required">Taille requise</string>
+    <string name="http_error_precondition_failed">Erreur de précondition</string>
+    <string name="http_error_request_entity_to_large">Entité de requête trop large</string>
+    <string name="http_error_request_uri_too_long">URI de requête trop longue</string>
+    <string name="http_error_unsupported_media_type">Type de média non supporté</string>
+    <string name="http_error_requested_range_not_satisfiable">Gamme demandé non satisfaisable</string>
+    <string name="http_error_expectation_failed">Résultat innatendu</string>
+    <string name="http_error_uprocessable_entity">Entité non processable</string>
+    <string name="http_error_locked">Bloqué</string>
+    <string name="http_error_failed_dependency">Dépendance non satisfaite</string>
+    <string name="http_error_unordered_collection">Collection non ordonnée</string>
+    <string name="http_error_upgrade_required">Mise à niveau requise</string>
+    <string name="http_error_precondition_required">Précondition requise</string>
+    <string name="http_error_too_many_requests">Trop de requêtes</string>
+    <string name="http_error_request_header_fields_too_large">Champ de header trop large</string>
+    <string name="http_error_internal_server_error">Erreur interne au serveur</string>
+    <string name="http_error_not_implemented">Non implémenté</string>
+    <string name="http_error_bad_getaway">Mauvaise passerelle</string>
+    <string name="http_error_service_unavailable">Service non disponible</string>
+    <string name="http_error_gateway_timeout">Timeout de la passerelle</string>
+    <string name="http_error_version_not_supported">Version HTTP non supportée</string>
+    <string name="http_error_variant_also_negotiates">Variante négocie aussi</string>
+    <string name="http_error_insufficient_storage">Stockage insuffisant</string>
+    <string name="http_error_not_extended">Non étendu</string>
+    <string name="http_error_network_authentication_required">Authentification réseau requise</string>
+    <string name="http_error_unknown">Erreur inconnue</string>
+
+</resources>

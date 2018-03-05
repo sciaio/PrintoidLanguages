@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="http_error_bad_request">Solicitud incorrecta</string>
+    <string name="http_error_unauthorized">No autorizado</string>
+    <string name="http_error_payment_required">Pago requerido</string>
+    <string name="http_error_forbidden">Prohibido</string>
+    <string name="http_error_not_found">No encontrado</string>
+    <string name="http_error_not_allowed">No permitido</string>
+    <string name="http_error_not_acceptable">No aceptable</string>
+    <string name="http_error_authentification_required">Autenticación Requerida</string>
+    <string name="http_error_request_timeout">Tiempo agotado para la solicitud</string>
+    <string name="http_error_conflict">Conflicto</string>
+    <string name="http_error_gone">Ido</string>
+    <string name="http_error_length_required">Longitud requerida</string>
+    <string name="http_error_precondition_failed">Condición previa falló</string>
+    <string name="http_error_request_entity_to_large">Entidad solicitada demasiado grande</string>
+    <string name="http_error_request_uri_too_long">URI solicitado demasiado largo</string>
+    <string name="http_error_unsupported_media_type">Tipo de archivo no soportado</string>
+    <string name="http_error_requested_range_not_satisfiable">El rango solicitado no es satisfactorio</string>
+    <string name="http_error_expectation_failed">Expectativa fallida</string>
+    <string name="http_error_uprocessable_entity">Entidad improcesable</string>
+    <string name="http_error_locked">Bloqueado</string>
+    <string name="http_error_failed_dependency">Dependencia fallida</string>
+    <string name="http_error_unordered_collection">Coleción desordenada</string>
+    <string name="http_error_upgrade_required">Actualización requerida</string>
+    <string name="http_error_precondition_required">Condición previa requerida</string>
+    <string name="http_error_too_many_requests">Demasiadas solicitudes</string>
+    <string name="http_error_request_header_fields_too_large">Encabezado de campos demasiado grandes</string>
+    <string name="http_error_internal_server_error">Error interno del servidor</string>
+    <string name="http_error_not_implemented">No implementado</string>
+    <string name="http_error_bad_getaway">Puerta de enlace errónea</string>
+    <string name="http_error_service_unavailable">Servicio no disponible</string>
+    <string name="http_error_gateway_timeout">Tiempo agotado para la puerta de enlace</string>
+    <string name="http_error_version_not_supported">Versión HTTP no soportada</string>
+    <string name="http_error_variant_also_negotiates">Variant also negociates</string>
+    <string name="http_error_insufficient_storage">Almacenamiento insuficiente</string>
+    <string name="http_error_not_extended">No extendida</string>
+    <string name="http_error_network_authentication_required">Autenticación de red requerida</string>
+    <string name="http_error_unknown">Error desconocido</string>
+
+</resources>

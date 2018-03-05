@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select_file_to_upload">Selecteer een upload bestand</string>
+    <string name="upload_new_file">Upload een bestand</string>
+    <string name="select_file_install_file_explorer">Kan geen verkenner app vinden</string>
+    <string name="upload_file_dialog_title">Aan het uploaden</string>
+    <string name="upload_file_dialog_msg">%1$s\n%2$d%%</string>
+
+    <string name="upload_error_file_not_found">Fout: bestand niet gevonden</string>
+    <string name="upload_error_bad_request">Fout: verkeerd verzoek</string>
+    <string name="upload_error_remote_not_found">Fout: map op de server niet gevonden</string>
+    <string name="upload_error_conflict">Fout: confict met dit bestand</string>
+    <string name="upload_error_unsupported_media">Fout: bestandstype wordt niet herkend als GCODE of STL</string>
+    <string name="upload_error_internal_server_error">Fout: Interne fout op de OctoPrint server</string>
+    <string name="upload_error_unknown">Fout: kan dit bestand net naar de OctoPrint server sturen (%d)</string>
+
+    <string name="create_folder_title">Creeer een map</string>
+    <string name="create_folder_message">Definieer de map naam:</string>
+    <string name="create_folder_message_hint">Nieuwe map naam</string>
+    <string name="create_folder_created">Map gecreeerd</string>
+    <string name="create_folder_error_file_not_found">Fout: map niet gevonden</string>
+    <string name="create_folder_error_bad_request">Fout: verkeerd request</string>
+    <string name="create_folder_error_remote_not_found">Fout: server map niet gevonden</string>
+    <string name="create_folder_error_conflict">Fout: conflict met deze map</string>
+    <string name="create_folder_error_internal_server_error">Fout: Interne fout op de OctoPrint server</string>
+    <string name="create_folder_error_unknown">Fout: het is niet mogelijk de map op de Octoprint server te creeren (%d)</string>
+
+    <string name="move_file_title">Verplaats bestand</string>
+    <string name="move_file_message">Verplaats het bestand %s naar de volgende map:</string>
+    <string name="move_file_done">bestand verplaatst</string>
+    <string name="move_file_error_sdcard_msg">Printoid kan dit bestand van de SD kaart niet verplaatsen!</string>
+
+    <string name="upload_file_title">Verstuur bestand</string>
+    <string name="upload_file_message">Verstuur bestand %s naar de volgende bestemming:</string>
+    <string name="upload_file_done">Bestand verzonden</string>
+
+    <string name="downloading_file">Ontvang bestand&#8230;</string>
+    <string name="file_deleted">Bestand verwijderd uit OctoPrint</string>
+    <string name="folder_deleted">Map verwijderd uit OctoPrint</string>
+
+    <string name="alert_delete_file_title">Verwijder het bestand</string>
+    <string name="alert_delete_file_msg">Wilt u echt bestand <b>%s</b> verwijderen? Deze aktie kan niet ongedaan gemaakt worden.</string>
+
+    <string name="alert_delete_folder_title">Verwijder map</string>
+    <string name="alert_delete_folder_msg">Wil je de map echt verwijderen <b>%s</b>? Alle bestanden in deze map worden ook verwijderd. Deze actie kan niet ongedaan gemaakt worden.</string>
+
+    <string name="alert_cant_delete_msg">Printoid kan niet verwijderen %s</string>
+
+    <string name="files_new_folder">Nieuwe map</string>
+    <string name="files_move_file">Verplaats</string>
+    <string name="files_upload_file">Verstuur</string>
+    <string name="files_sort_files">Sorteer</string>
+    <string name="files_analyze">Analyseer</string>
+    <string name="files_history">Historie</string>
+
+    <string name="analyzer_folder_root">ROOT</string>
+    <string name="analyzer_number_file">%d bestand</string>
+    <string name="analyzer_number_files">%d bestanden</string>
+    <string name="analyzer_number_folder">%d map</string>
+    <string name="analyzer_number_folders">%d mappen</string>
+    <string name="analyzer_success_failures">%1$d %2$s / %3$d %4$s</string>
+    <string name="analyzer_success">gelukt</string>
+    <string name="analyzer_success_plural">gelukt</string>
+    <string name="analyzer_failure">fout</string>
+    <string name="analyzer_failure_plural">fouten</string>
+    <string name="analyzer_total_print_time">Print tijd:</string>
+    <string name="analyzer_total_size">Totale grootte:</string>
+    <string name="analyzer_total_filament_length">Totale filament lengte:</string>
+    <string name="analyzer_total_folders">Aantal mappen:</string>
+    <string name="analyzer_total_machine_code">Aantal GCODEs:</string>
+    <string name="analyzer_total_models">Aantal modellen:</string>
+    <string name="analyzer_total_estimated_cost">Totaal geschatte kosten:</string>
+
+</resources>

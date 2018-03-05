@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="broadcast_distant_command_toast_msg">Commande distante reçue : %s</string>
+
+</resources>

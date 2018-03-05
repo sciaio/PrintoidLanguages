@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">Contrôles de l\'imprimante en plein écran</string>
+    <string name="full_screen_helper_print">Détails de l\'impression en plein écran</string>
+    <string name="full_screen_helper_temperature">Température en plein écran</string>
+    <string name="full_screen_helper_files">Fichiers en plein écran</string>
+    <string name="full_screen_helper_streaming">Streaming en plein écran</string>
+    <string name="full_screen_helper_commands">Commandes en plein écran</string>
+    
+</resources>

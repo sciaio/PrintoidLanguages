@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="widget_no_snapshot_connection">Kann Snapshot nicht herunterladen\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Kann Snapshot nicht herunterladen</string>
+    <string name="widget_unknown_profile">Unbekanntes Profil</string>
+
+    <string name="widget_starter_error_no_profiles">Unfähig Profil wählen: Kein Profil</string>
+    <string name="widget_starter_error_profile_not_found">Unfähig Profil auszuwählen: nicht vorhanden oder nicht verfügbar</string>
+    <string name="widget_starter_error_null_id">Kann nicht wählen Profil: ungültige Kennung</string>
+
+</resources>

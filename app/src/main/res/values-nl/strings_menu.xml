@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_connect_server">Koppel OctoPrint</string>
+    <string name="menu_connect_printer">Koppel de printer</string>
+    <string name="menu_disconnect_printer">Ontkoppel de printer</string>
+    <string name="menu_connecting_printer">Printer verbinden</string>
+    <string name="menu_video_streaming">Video streaming</string>
+    <string name="menu_commands">Commando\'s</string>
+    <string name="menu_printer_profiles_settings">Servers\nOctoPrint</string>
+    <string name="menu_app_settings">Parameters</string>
+    <string name="menu_app_infos">Hulp</string>
+    <string name="menu_octoprint_web">Web-interface OctoPrint</string>
+    <string name="menu_full_screen">Inzoomen scherm</string>
+    <string name="menu_full_screen_streaming">Inzoomen video</string>
+    <string name="menu_full_screen_realtime_visualizer">Inzoomen 2D/3D</string>
+    <string name="menu_full_screen_commands">Inzoomen commando\'s</string>
+    <string name="menu_full_screen_slicer">Inzoomen de slicer</string>
+    <string name="menu_full_screen_more_tools">Inzoomen tools</string>
+    <string name="menu_minimize">Minimaliseer</string>
+    <string name="menu_printoid_web">Website\nPrintoid</string>
+    <string name="menu_files">Bestanden</string>
+    <string name="menu_timelapse">Filmpjes</string>
+    <string name="menu_alarms">Meldingen</string>
+    <string name="menu_contact_developer">Contact\ndeveloper</string>
+
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="edit_config">Profielen</string>
+    <string name="profile">Profiel:</string>
+
+    <string name="config_octoprint_server_name">Profiel naam</string>
+    <string name="config_lan_ip">Lokale IP of hostname (LAN)</string>
+    <string name="config_wan_ip">Remote IP of hostname (WAN)</string>
+    <string name="config_port">(poort)</string>
+    <string name="config_api_key">API OctoPrint sleutel</string>
+    <string name="config_baudrate">Baudrate</string>
+
+    <string name="config_octoprint_profile_title">Profiel OctoPrint</string>
+    <string name="config_printer_first_profile_title">Configureer uw eerste OctoPrint profiel</string>
+    <string name="config_printer_profiles_title">Profielen met OctoPrint servers</string>
+    <string name="config_ssh">SSH command\'s (persoonlijke commando\'s)</string>
+    <string name="config_ssh_tip">(optioneel)</string>
+    <string name="config_ssh_login">Login</string>
+    <string name="config_ssh_pwd">Wachtwoord</string>
+    <string name="config_ssh_port">(poort voor remote SSH sessies)</string>
+    <string name="config_extended_settings">+ (optionele) parameters</string>
+    <string name="config_go_to_profiles">Open de profielen</string>
+    <string name="config_basic_auth_login">Gebruiker</string>
+    <string name="config_basic_auth_password">Wachtwoord</string>
+    <string name="config_websocket_path">Web socket pad</string>
+
+    <string name="config_websocket_detail_msg">Deze waarden niet aanpassen zonder technische kennis</string>
+
+    <string name="config_title_alert_changed">Profiel(en) veranderd</string>
+    <string name="config_title_alert_changed_msg">Één (of meerdere) printer profielen zijn aangepast, wilt u de nieuwe configuratie opslaan?</string>
+    <string name="config_title_alert_config">Configuratie fout</string>
+    <string name="config_title_alert_saved">Configuratie opgeslagen</string>
+    <string name="config_title_alert_saved_msg">Configuratie opslaan is gelukt!</string>
+
+    <string name="config_error_printer_name">De profiel naam lijkt ongeldig, controleer de opgegeven waarde</string>
+    <string name="config_error_ip">U dient tenminste een IP adres in te geven.\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_inversion_ip">U heeft een IP LAN adres opgegeven in het veld voor een WAN adres.\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_same_ip">U heeft hetzelfde adres opgegeven voor het LAN en het WAN adres.\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_port">Ongeldige poort.\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_lan_port">Ongeldige LAN poort. Poort 22 is gereserveerd voor het SSH protocol (Printoid communiceert met OctoPrint via HTTP).\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_wan_port">Ongeldige WAN poort. Poort 22 is gereserveerd voor het SSH protocol (Printoid communiceert met OctoPrint via HTTP).\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_api_key">API sleutel van OctoPrint is ongeldig.\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_api_key_na">N/A is geen geldige Octoprint API sleutel.\n\nRefresh de web interface met uw server. Als het probleem zich voor blijft doen, neem dan contact op met de ontwikkelaar van OctoPrint.</string>
+    <string name="config_error_baudrate">Baudrate voor de communicatie is ongeldig.\n\nHeeft u hulp nodig?</string>
+
+    <string name="config_error_qrcode_title">QR code scan fout</string>
+    <string name="config_error_qrcode_msg">Printoid kan uw QR-code niet scannen. Probeer het opnieuw, of typ je API-toets handmatig.</string>
+
+    <string name="commands_ssh_failed_title">Configuratie SSH ontbreekt</string>
+    <string name="commands_ssh_failed_message">De SSH configuratie lijkt incompleet voor het geselecteerde OctoPrint profiel. Maak de configuratie compleet, alvorens u SSH commando\'s verstuurt.</string>
+
+    <string name="scanning">Scan de QR met API code van OctoPrint&#8230;</string>
+
+    <string name="alert_profiles_assistance_title">Hulp bij het creëren van profielen</string>
+    <string name="alert_profiles_assistance_message">U staat op het punt een profiel te creëren voor de communicatie tussen Printoid &amp; uw server. Hier volgt enige informatie over de benodigde parameters en hun waarden.\n\n
+    [ℹ HOOFD PARAMETERS]\n\n
+    ✏ IP LAN: Dit betreft het lokale IP adres (of de hostname) van uw Raspberry Pi binnen uw netwerk\n\n
+    ✏ poort LAN (optioneel): vul dit alleen in als uw poort niet standaard is (80), voor poort 80 moet u het veld leeg laten\n\n
+    ✏ WAN IP (optioneel): Dit betreft het publieke IP adres (of de hostname) waaronder uw router via het Internet bereikbaar is (hiermee kunt bijvoorbeeld OctoPrint bedienen via het mobiele netwerk\n\n
+    ✏ WAN poort (optioneel): Dit betreft de poort die u op de router heeft geconfigureerd die toegang biedt vanaf het Internet tot uw OctoPrint server.\n\n
+    ✏ API SLEUTEL: u vindt deze informatie binnen OctoPrint, waar de web interface geconfigureerd kan worden.\n\n
+    ✏ BAUDRATE: Dit betreft de baudrate waarmee u met uw printer kunt communiceren\n\n
+    [ℹ OPTIONS AVANCEES]\n\n
+    ✏ SSL (optioneel): activeer deze optie om HTTPS te gebruiken in plaats van HTTP\n\n
+    ✏ BASIC AUTH (optioneel): activeer deze optie als u om toegang te krijgen tot uw Raspberry Pi u dient te identificeren.\n\n
+    ✏ SSH CREDENTIAL (optioneel): dit zijn dan de credentials van uw Raspberry Pi via SSH (gebruikt op het scherm met persoonlijke commando\'s)\n\n
+    ✏ SSH poort (optioneel): Dit betreft de SSH poort die u op uw router heeft doorgesluisd naar de Rapsberry PI. Gebruikt voor toegang via het WAN IP adres. poort 22 wordt gebruikt voor lokaal IP (LAN) verkeer.\n\n
+    [ℹ VERDERE INFORMATIES]\n\nU vindt meer informatie over de Printoid configuratie op de officiële site: %s</string>
+
+    <string name="alert_ssl_issues_title">Activeer encryptie van de verbinding (SSL)</string>
+    <string name="alert_ssl_issues_msg">Indien u een self-signed server certificate gebruikt, moet u het certificaat op uw telefoon installeren of de onderstaande optie aanvinken, anders zal de verbinding niet opgezet kunnen worden.\n\nIndien het server certificate uitgegeven is via een erkende Certificate Authority (CA), zal het out-of-box werken, zonder installatie van het certificaat op uw telefoon.\n\nGelieve dit artikel te lezen met verdere informatie: https://printoid.net/2017/01/12/impoortant-printoid-and-full-ssl-suppoort/</string>
+
+    <string name="alert_auto_trust_cert_issues_title">Accepteer self-signed certificates</string>
+    <string name="alert_auto_trust_cert_issues_msg">Uw server gebruikt een self-signed certificate. U vertrouwt dit certificaat en accepteert de risico\'s.\n\nHet is verstandig dit artikel eerst te lezen: https://printoid.net/2017/01/12/impoortant-printoid-and-full-ssl-suppoort/</string>
+
+    <string name="alert_modern_tls_title">Met behulp van moderne TLS</string>
+    <string name="alert_modern_tls_msg">Zet deze functie niet aan als u niet door de ontwikkelaar bent gevraagd om dit te doen. Dit kan aansluitingsproblemen veroorzaken, afhankelijk van de configuratie van uw server.</string>
+
+    <string name="unknown_profile">Onbekend profiel</string>
+    <string name="all_available_profiles">Alle beschikbare profielen</string>
+
+    <string name="search_wan_ip_loading_title">Openbaar IP ophalen (WAN)</string>
+    <string name="search_wan_ip_loading_message">Printoid haalt uw openbare IP (WAN) op, wacht een paar seconden…</string>
+    <string name="search_wan_ip_dialog_title">Auto-retrieve publieke IP (WAN)</string>
+    <string name="search_wan_ip_dialog_message">Zorg ervoor dat dit apparaat correct is verbonden met hetzelfde netwerk als uw OctoPrint-server.\n\n
+    Daarna moet u er ook voor zorgen dat u uw router hebt geconfigureerd om uw OctoPrint-server bereikbaar te maken via internet (bijvoorbeeld 3G/4G).</string>
+
+    <string name="search_wan_ip_success_toast">Openbaar IP (WAN) gevonden: %s</string>
+    <string name="search_wan_ip_error_toast">Printoid kan uw openbare IP (WAN) momenteel niet ophalen</string>
+
+</resources>

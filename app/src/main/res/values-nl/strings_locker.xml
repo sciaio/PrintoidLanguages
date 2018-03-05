@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_enter_password">Geef uw wachtwoord</string>
+    <string name="locker_enter_password_or_fingerprint">Geef het wachtwoord om uw printer te kunnen gebruiken</string>
+    <string name="locker_cancel">Annuleren</string>
+    <string name="locker_unlocked">Geopend!</string>
+
+    <string name="locker_enter_current_password">Geef het huidige wachtwoord</string>
+    <string name="locker_enter_new_password_1">Geef een nieuw wachtwoord</string>
+    <string name="locker_enter_new_password_2">Geef het nieuwe wachtwoord nogmaals</string>
+
+    <string name="locker_mode">Methode van blokkeren: %s</string>
+    <string name="locker_mode_off">UIT</string>
+    <string name="locker_mode_critical">Bescherm alleen de kritische functies</string>
+    <string name="locker_mode_full">Bescherm het hele scherm</string>
+
+    <string name="locker_mode_cant_send_critical_commands">Het is niet mogelijk kritische commando\'s te versturen, de blokkering is geactiveerd</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="shortcut_load">Carga</string>
+    <string name="shortcut_print">Imprimir</string>
+    <string name="shortcut_render3D">Vista 3D</string>
+    <string name="shortcut_render2D">Vista 2D</string>
+    <string name="shortcut_download">Descargar</string>
+    <string name="shortcut_delete">Borrar</string>
+    <string name="shortcut_slice">Laminar</string>
+
+</resources>

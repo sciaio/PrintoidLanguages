@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cults_api_user_name" translatable="false">Printoid</string>
+    <string name="cults_api_password" translatable="false">ZIdazoifhao124</string>
+
+    <string name="cults_name" translatable="false">Cults.</string>
+    <string name="cults_url" translatable="false">https://cults3d.com</string>
+
+    <string name="cults_category_url">https://cults3d.com/en/categories/%s</string>
+
+    <string name="cults_locale">en</string>
+
+    <string name="cults_free">free</string>
+    <string name="cults_powered_by">Powered by</string>
+    <string name="cults_see_more_creations">See more creations on</string>
+    <string name="cults_see_creation_on">See this creation on</string>
+    <string name="cults_created_by">Created by %s</string>
+
+    <string name="cults_select_mode">Select a category of creation</string>
+    <string name="cults_mode_selection">Cults\'s selection</string>
+    <string name="cults_mode_latest_creation">Latest creations</string>
+
+    <string name="cults_http_error">Arf! Something goes wrong :(\nError %1$d\n(%2$s)</string>
+
+</resources>

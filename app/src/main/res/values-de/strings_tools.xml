@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="head_current_temperature_label">Extruder</string>
+    <string name="headX_current_temperature_label">Extruder %d</string>
+    <string name="head_target_temperature_label">Ext. (Ziel)</string>
+    <string name="headX_target_temperature_label">Ext.%d (Ziel)</string>
+    <string name="bed_current_temperature_label">Bett</string>
+    <string name="bed_target_temperature_label">Bett (Ziel)</string>
+    <string name="current_temperature">%.1f°</string>
+    <string name="target_temperature">%.1f°</string>
+    <string name="current_bed">%.1f°</string>
+
+    <string name="printer_head_level">Extruder\n%d°</string>
+    <string name="printer_headX_level">Extruder %1$d\n%2$d°</string>
+    <string name="hot_bed_level">Bet\n%d°</string>
+    <string name="fan_level">Lüfter\n%d%%</string>
+    <string name="fan_level_index">Lüfter %1$d\n%2$d%%</string>
+
+    <string name="input_headX_level">Extruder %d (°)</string>
+    <string name="input_bed_level">Bet (°)</string>
+    <string name="input_fan_level">Lüfter %d (%%)</string>
+
+    <string name="input_feedrate">Feedrate (%)</string>
+    <string name="input_flowrate">Flowrate (%)</string>
+    <string name="input_travel">Reiseentfernung (mm)</string>
+    <string name="input_extruder">Extrusionslänge (mm)</string>
+
+    <string name="tool_plot_click_message">Langklicken Sie auf die Grafik\nfür fortgeschrittene Werkzeuge</string>
+
+</resources>

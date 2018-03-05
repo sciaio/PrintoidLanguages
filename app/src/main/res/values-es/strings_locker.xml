@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_enter_password">Introduzca contraseña</string>
+    <string name="locker_enter_password_or_fingerprint">Introduzca contraseña o use su huella dactilar</string>
+    <string name="locker_cancel">Cancelar</string>
+    <string name="locker_unlocked">Desbloqueado!</string>
+
+    <string name="locker_enter_current_password">Introduzca contraseña actual</string>
+    <string name="locker_enter_new_password_1">Introduzca contraseña nueva</string>
+    <string name="locker_enter_new_password_2">Introduzca otra vez la nueva contraseña</string>
+
+    <string name="locker_mode">Modo bloqueo: %s</string>
+    <string name="locker_mode_off">Apagado</string>
+    <string name="locker_mode_critical">Proteger sólo comandos críticos</string>
+    <string name="locker_mode_full">Proteger todos los comandos</string>
+
+    <string name="locker_mode_cant_send_critical_commands"> No se pueden enviar comandos, el bloqueo está activado</string>
+
+</resources>

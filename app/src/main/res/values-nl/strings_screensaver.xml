@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="temperatures_state_all_correct">Temperaturen zijn allemaal correct!</string>
+    <string name="temperatures_state_bed_issue_only">Verwarmd bed warmte probleem: %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">Verwarmde kop %1$d warmteafgifte: %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">Verwarmde koppen %s warmtevraag!</string>
+
+</resources>

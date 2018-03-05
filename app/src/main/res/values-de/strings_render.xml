@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="download_file_dialog_title">Download läuft</string>
+    <string name="download_file_dialog_msg">Printoid lädt deine Datei herunter. Bitte warten…</string>
+
+    <string name="download_file_alert_title">Download abgebrochen</string>
+    <string name="download_file_alert_msg">Der Download wurde abgebrochen, %s</string>
+    <string name="download_file_alert_error_url">weil ein Fehler in der URL festgestellt wurde.</string>
+    <string name="download_file_alert_error_fnf">weil die Datei nicht mehr auf dem OctoPrint Server gefunden wurde.</string>
+    <string name="download_file_alert_error_io">weil die Datei nicht gespeichert werden kann.</string>
+    <string name="download_file_alert_error_unknown">weil ein unbekannter Fehler aufgetreten ist.</string>
+
+    <string name="load_gcode_file_dialog_title">Rendern</string>
+    <string name="load_gcode_file_dialog_msg">Printoid rendert deine GCODE-Datei. Bitte warten…</string>
+
+    <string name="load_stl_file_dialog_title">Rendern</string>
+    <string name="load_stl_file_dialog_msg">Printoid rendert deine STL-Datei. Bitte warten…</string>
+
+    <string name="load_file_alert_title">Rendern abgebrochen</string>
+    <string name="load_file_alert_msg">Das Rendern der Datei hat nicht geklappt. Bitte erneut versuchen, oder den Entwickler von Printoid kontaktieren.</string>
+
+    <string name="render_selected_layer">%1$d / %2$d</string>
+    <string name="render_layer">Schicht:</string>
+    <string name="render_selected_layer_z">Z: %s</string>
+    <string name="render_Z">Z:</string>
+
+    <string name="render_file_progress">Fortschritt:</string>
+    <string name="render_file_progress_values">%1$s / %2$s</string>
+    <string name="render_file_no_file">Zurzeit wird keine Datei gedruckt</string>
+    <string name="render_file_remaining_time">Verbleibende Zeit:</string>
+    <string name="render_file_z_height">Z-Höhe:</string>
+    <string name="render_file_layers">%1$d / %2$d</string>
+
+    <string name="render_error_not_supported_title">GCODE Format wird nicht unterstützt</string>
+    <string name="render_error_not_supported_msg">Dein GCODE-Format wird zur Zeit vom 3D-Visualisier nicht unterstützt. Hier ist der aktuelle Slicer-Fortschritt:\n\n
+    - <b>Cura (Desktop)</b>: unterstützt\n
+    - <b>Cura Engine (OctoPrint)</b>: unterstützt\n
+    - <b>Simplify3D</b>: nicht unterstützt yet\n
+    - <b>Slic3r</b>: nicht unterstützt yet\n
+    - <b>Others</b>: Kein Feedback bis jetzt\n\nIch arbeite hart daran, mehr und mehr Slicer zu unterstützen. Bitte halte Printoid aktuell!
+    </string>
+    <string name="render_error_2D_not_supported_msg">Your GCODE format seems unfortunately not supported yet by the 2D renderer.\nBitte kontaktiere den Entwickler von Printoid.</string>
+
+    <string name="right_panel_2D_render_not_available">Der Echtzeit 2D-Visualisier ist nicht verfügbar\n(aktuell läuft kein Druck)</string>
+
+    <string name="simulator_back_to_direct">Synchro. mit Job.</string>
+    <string name="simulator_pause">Pausieren Sie den Simulator</string>
+
+    <string name="alert_large_file_title">Rendering einer großen Datei</string>
+    <string name="alert_large_file_msg">Sie wollen Printoid berechnet die Datei übertragen %1$s, die wiegt %2$s.\n\nDiese Datei ist wahrscheinlich zu groß für die Anwendung, Android könnte den Prozess beenden.\n\nMöchten Sie trotzdem fortfahren?</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">Volledig scherm met printer bediening</string>
+    <string name="full_screen_helper_print">Volledig scherm met gedetailleerde print informatie</string>
+    <string name="full_screen_helper_temperature">Volledig scherm met temperatuur informatie</string>
+    <string name="full_screen_helper_files">Volledig scherm met bestanden</string>
+    <string name="full_screen_helper_streaming">Volledig scherm met streaming informatie</string>
+    <string name="full_screen_helper_commands">Volledig scherm met commando\'s</string>
+    
+</resources>

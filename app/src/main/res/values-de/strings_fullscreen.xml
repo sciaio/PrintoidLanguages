@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">Drucker Steuerung - Vollbild</string>
+    <string name="full_screen_helper_print">Druck-Details - Vollbild</string>
+    <string name="full_screen_helper_temperature">Temperatur - Vollbild</string>
+    <string name="full_screen_helper_files">Dateien - Vollbild</string>
+    <string name="full_screen_helper_streaming">Streaming - Vollbild</string>
+    <string name="full_screen_helper_commands">Befehle - Vollbild</string>
+
+</resources>

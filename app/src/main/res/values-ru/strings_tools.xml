@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="head_current_temperature_label">Экструдер</string>
+    <string name="headX_current_temperature_label">Экструдер %d</string>
+    <string name="head_target_temperature_label">Экст. (задано)</string>
+    <string name="headX_target_temperature_label">Экст.%d (задано)</string>
+    <string name="bed_current_temperature_label">Стол</string>
+    <string name="bed_target_temperature_label">Стол (задано)</string>
+    <string name="current_temperature">%.1f°</string>
+    <string name="target_temperature">%.1f°</string>
+    <string name="current_bed">%.1f°</string>
+
+    <string name="printer_head_level">Экструдер\n%d°</string>
+    <string name="printer_headX_level">Экструдер %1$d\n%2$d°</string>
+    <string name="hot_bed_level">Стол\n%d°</string>
+    <string name="fan_level">Обдув\n%d%%</string>
+    <string name="fan_level_index">Обдув %1$d\n%2$d%%</string>
+
+    <string name="input_headX_level">Экструдер %d (°)</string>
+    <string name="input_bed_level">Стол (°)</string>
+    <string name="input_fan_level">Обдув %d (%%)</string>
+
+    <string name="input_feedrate">Скорость перемещения (%)</string>
+    <string name="input_flowrate">Поток (%)</string>
+    <string name="input_travel">Расстояние перемещения (mm)</string>
+    <string name="input_extruder">Длина экструзии (mm)</string>
+
+    <string name="tool_plot_click_message">Длинный щелчок на график для\nрасширенных инструментов</string>
+
+</resources>

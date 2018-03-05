@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="widget_no_snapshot_connection">Не могу загрузить снимок\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Не могу загрузить снимок</string>
+    <string name="widget_unknown_profile">Неизвестный профиль</string>
+
+    <string name="widget_starter_error_no_profiles">Невозможно, чтобы выбрать профиль: Нет профиля</string>
+    <string name="widget_starter_error_profile_not_found">Невозможно выбрать профиль: отсутствует или недоступен</string>
+    <string name="widget_starter_error_null_id">Невозможно выбрать профиль: недопустимый идентификатор</string>
+
+</resources>

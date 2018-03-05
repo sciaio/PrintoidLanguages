@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="update_available_title">Доступно обновление</string>
+    <string name="update_available_message">Новая версия Printoid %1$s доступна в Google Play! (%2$s)\n\nИзменения:\n\n%3$s</string>
+
+</resources>

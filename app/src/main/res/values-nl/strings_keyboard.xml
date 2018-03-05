@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="keyboard_distant_command_toast_msg">Ontvangen toetsenbord commando: %s</string>
+
+    <string name="keyboard_distant_gcode_command_title">Verstuur GCODE commando</string>
+    <string name="keyboard_distant_gcode_command_msg">Druk op ENTER om te versturen, ESC om te annuleren, scheidt commando\'s met een COMMA</string>
+
+    <string name="keyboard_action_connect">Verbonden</string>
+    <string name="keyboard_action_fullscreen">Volledige scherm weergave</string>
+    <string name="keyboard_action_streaming">Toon video</string>
+    <string name="keyboard_action_simulator">Toon real-time 2D simulatie</string>
+    <string name="keyboard_action_commands">Toon de commando\'s</string>
+    <string name="keyboard_action_wep_app">Toon de OctoPrint interface</string>
+    <string name="keyboard_action_wep_site">Toon de officiële web site</string>
+    <string name="keyboard_action_octoprint_profiles">OctoPrint profielen</string>
+    <string name="keyboard_action_app_settings">Instelllingen</string>
+    <string name="keyboard_action_app_infos">Informatie</string>
+    <string name="keyboard_action_files">Bestanden</string>
+    <string name="keyboard_action_timelapses">Filmpjes</string>
+    <string name="keyboard_action_right_panel">Open het rechter paneel</string>
+    <string name="keyboard_action_right_panel_close">Sluit het rechter paneel</string>
+    <string name="keyboard_action_x">X as</string>
+    <string name="keyboard_action_y">Y as</string>
+    <string name="keyboard_action_z">Z as</string>
+    <string name="keyboard_action_home_xy">home XY</string>
+    <string name="keyboard_action_home_z">home Z</string>
+    <string name="keyboard_action_extrude">extrusie</string>
+    <string name="keyboard_action_retract">retractie</string>
+    <string name="keyboard_action_move_distance">ingestelde afstand %.1f</string>
+    <string name="keyboard_action_increment_fan">hogere ventilator snelheid</string>
+    <string name="keyboard_action_decrement_fan">lagere ventilator snelheid</string>
+    <string name="keyboard_action_increment_ext">hogere temperatuur ext.%d</string>
+    <string name="keyboard_action_decrement_ext">lagere temperatuur ext.%d</string>
+    <string name="keyboard_action_increment_bed">hogere temperatuur verw. bed</string>
+    <string name="keyboard_action_decrement_bed">lagere temperatuur verw. bed</string>
+    <string name="keyboard_action_select_tool">selecteer tool %d</string>
+    <string name="keyboard_action_print">print het geselecteerde bestand</string>
+    <string name="keyboard_action_pause">zet de printer op \"pauze\"</string>
+    <string name="keyboard_action_stop">breek de print af</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_channel_name_pull_service">Printoid Hintergrund Client</string>
+
+    <string name="notif_foreground_service_msg">Printoid kommuniziert mit OctoPrint ist Hintergrund</string>
+
+    <string name="notif_print_completed">Druck beendet</string>
+    <string name="notif_print_paused">Druck pausiert</string>
+    <string name="notif_printing">Druck gestartet</string>
+    <string name="notif_printing_percent">Druck läuft [ Fortschritt: %1$.1f%% - %2$s ]</string>
+    <string name="notif_paused_percent">Pausiert [ Fortschritt: %1$.1f%% - %2$s ]</string>
+
+    <string name="notification_file">Datei: %s</string>
+    <string name="notification_time_progress">Zeit-Fortschritt: %.1f%%</string>
+    <string name="notification_gcode_progress">GCODE-Fortschritt: %.1f%%</string>
+    <string name="notification_remaining_time">Verbleibende Zeit: %s</string>
+    <string name="notification_end_time">Fertig um: %s</string>
+    <string name="notification_temperature">Temperatur: %1$.1f° / %2$.1f°</string>
+    <string name="notification_temperature_ext_0">Ext0 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_ext_1">Ext1 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_bed">Bett [%1$.1f°/%2$.1f°]</string>
+
+</resources>

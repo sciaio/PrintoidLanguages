@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printoid_contact_developer">Mail de\nontwikkelaar</string>
+    <string name="printoid_visit_website">Bezoek\nprintoid.net</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">OK</string>
+    <string name="cancel">Annuleren</string>
+    <string name="no">Annuleren</string>
+    <string name="back">terug</string>
+    <string name="next">volgend</string>
+    <string name="previous">Voorgaand</string>
+    <string name="quit">Afbreken</string>
+    <string name="terminate">Beeindigen</string>
+    <string name="search">Zoeken</string>
+    <string name="retry">Opnieuw</string>
+    <string name="set_home">Initialisatie XYZ</string>
+    <string name="backup">Bewaar</string>
+    <string name="restore">Herstel</string>
+    <string name="start">Start</string>
+    <string name="start_printoid">Start Printoid</string>
+    <string name="contact">Verbind</string>
+    <string name="update">Update</string>
+    <string name="share">Deel</string>
+    <string name="save">Bewaar</string>
+    <string name="show">Toon</string>
+    <string name="change">Verander</string>
+    <string name="add">Voeg toe</string>
+    <string name="more_info">Meer informatie</string>
+    <string name="send_logs">Verstuur de logs</string>
+    <string name="value">Waarde</string>
+    <string name="thank_you">Bedankt!</string>
+    <string name="username">Naam gebruiker</string>
+    <string name="email">E-mail</string>
+    <string name="configure">Configureer</string>
+    <string name="agree">Accepteer</string>
+    <string name="continuee">Doorgaan</string>
+    <string name="help">Help</string>
+    <string name="install_now">Installeer</string>
+    <string name="set">Set</string>
+    <string name="target">Doel (°)</string>
+    <string name="offset">Offset (°)</string>
+    <string name="extrude">Extrudeer</string>
+    <string name="retract">Trek terug</string>
+    <string name="distance">Afstand (mm)</string>
+    <string name="current">(actueel: %d)</string>
+    <string name="remaining">Resterende</string>
+    <string name="none">Geen</string>
+
+    <string name="heated_bed">Bed</string>
+    <string name="heated_head">Kop %d</string>
+    <string name="extruder">Extruder %d</string>
+
+    <string name="default_currency">€</string>
+
+    <string name="simple_hour_format">HH:mm:ss</string>
+    <string name="simple_hour_reduced_format">HH:mm</string>
+    <string name="simple_date_format">@string/simple_date_format_24</string>
+
+    <string name="overlay_tile_title">Streaming Printoid</string>
+    <string name="snapshot_tile_title">Snapshot Printoid</string>
+
+    <string name="network_type_wifi">WiFi</string>
+    <string name="network_type_mobile">Mobiel netwerk</string>
+    <string name="network_type_none">Geen verbinding</string>
+    <string name="network_type_unknown">Onbekende verbinding</string>
+
+    <string name="image_picker_tool_folders">Mappen</string>
+    <string name="image_picker_tool_tap">Tik om te selecteren</string>
+    <string name="image_picker_tool_camera">Camera</string>
+
+</resources>

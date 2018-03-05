@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="commands_panel_label">Commando scherm</string>
+    <string name="commands_history_label">GCODE historie</string>
+    <string name="commands_editing_label">Commando editor</string>
+
+    <string name="abitrary_gcode_command">GCODE commando</string>
+    <string name="add_command">Voeg een commando toe</string>
+    <string name="add_command_name">Naam van het commando</string>
+    <string name="add_command_type">Type</string>
+    <string name="add_command_curl_type">Methode</string>
+    <string name="add_command_label">Label</string>
+    <string name="add_command_command_title">Uit te voeren commando</string>
+    <string name="add_command_icon">Icoon</string>
+    <string name="add_command_content">Argumenten van het commando</string>
+    <string name="add_command_argument">Argumenten</string>
+    <string name="add_command_color">Kleur van het icoon</string>
+    <string name="add_command_show_on_home">Toon op hoofdscherm</string>
+    <string name="add_command_request_confirmation">Bevestiging</string>
+    <string name="add_command_wait_result">Toon respons</string>
+    <string name="add_command_command">Commando</string>
+    <string name="add_command_error_name">Ongeldige commando naam, verifieer de naam alstublieft</string>
+    <string name="add_command_error_command">Ongeldig commando, verifieer het commando alstublieft</string>
+    <string name="add_command_error_command_octoprint">Ongeldig commando, er zijn geen OctoPrint commando\'s beschikbaar</string>
+    <string name="delete_command_title">Wis een commando</string>
+    <string name="delete_command_msg">Wissen van commando\'s is definitief, wilt u doorgaan?</string>
+    <string name="command_detail_ssh">Commando SSH: %s</string>
+    <string name="command_detail_gcode">Commando Gcode: %s</string>
+    <string name="command_sent">Verzonden commando</string>
+    <string name="command_sent_answer">Respons op het commando: %s</string>
+    <string name="command_not_sent">Foutmelding bij het versturen: %s</string>
+    <string name="command_not_sent_reason">Foutmelding bij het versturen:: %1$s (%2$s)</string>
+    <string name="send_command_error">Foutmelding op commando: %d</string>
+
+    <string name="command_help_for">Klik hier voor een tutorial voor de %s commando\'s</string>
+
+    <string name="command_add_new">Voeg toe…</string>
+
+    <string name="alert_command_help_title">Wat is een custom commando?</string>
+	<string name="alert_command_help_message">Met Printoid kunt u uw eigen commando\'s aan de applikatie toevoegen.\n\n
+    1/ <b>OctoPrint systeem commando\'s:</b> Printoid kan uw in config.yaml geconfigureerde commando\'s uitvoeren\n\n
+    2/ <b>GCODE Commando\'s:</b> U kunt commando\'s naar uw 3D printer sturen. Dit kan een enkel commando zijn, maar ook een groep commando\'s (één commando per regel)\n\n
+    3/ <b>SSH commando\'s:</b> U kunt via SSH instructies naar uw Raspberry Pi sturen, bijvoorbeeld GPIO commando\'s of commando\'s om een script uit te voeren\n\n
+    4/ <b>CURL commando\'s:</b> U kunt via cURL instructies naar uw Raspberry Pi sturen (Voorbeelden daarvan: command?enable=relay1 of api/plugin/psucontrol in Printoid met eventueel benodigde JSON vormige argumenten)\n\n
+    Meer informatie vindt u op de officiële website: https://printoid.net</string>
+	    
+
+    <string name="max_home_commands_reached_title">Te veel hoofdscherm commando\'s</string>
+    <string name="max_home_commands_reached_msg">U heeft reeds %d commando\'s gedefinieerd voor het hoofdscherm.\n\nHaal eerst commando\'s weg, voordat u nieuwe toevoegt.</string>
+
+    <string name="command_confirmation_title">Bevestig versturen van commando</string>
+    <string name="command_confirmation_msg">Printoid zal het volgende commando versturen:%s\n\nWilt u doorgaan?</string>
+
+    <string name="command_list_empty">Geen commando beschikbaar</string>
+    <string name="gcode_base_list_empty">Onbekende GCODE-opdracht</string>
+
+    <string name="command_psu_turn_off_alert_title">Schakel PSU uit</string>
+    <string name="command_psu_turn_off_alert_msg">Je PSU staat eigenlijk AAN.\n\nWil je het nu UIT zetten?\n\nAls u bezig bent met afdrukken, wordt de huidige taak afgebroken en gaat de voortgang verloren.</string>
+    <string name="command_psu_turn_on_alert_title">Schakel PSU in</string>
+    <string name="command_psu_turn_on_alert_msg">Je PSU is eigenlijk UIT. Wil je het nu inschakelen?</string>
+    <string name="command_psu_turned_off">PSU uitgeschakeld</string>
+    <string name="command_psu_turned_on">PSU is ingeschakeld</string>
+    <string name="command_psu_turn_off_error">Schakel de PSU-fout uit</string>
+    <string name="command_psu_turn_on_error">Schakel de PSU-fout in</string>
+
+    <string name="command_tplink_turn_off_alert_title">Schakel TPLink uit</string>
+    <string name="command_tplink_turn_off_alert_msg">Je TPLink staat eigenlijk AAN.\n\nWil je het nu UIT zetten?\n\nAls u bezig bent met afdrukken, wordt de huidige taak afgebroken en gaat de voortgang verloren.</string>
+    <string name="command_tplink_turn_on_alert_title">Schakel TPLink in</string>
+    <string name="command_tplink_turn_on_alert_msg">Je TPLink is eigenlijk UIT. Wil je het nu inschakelen?</string>
+    <string name="command_tplink_turned_off">TPLink uitgeschakeld</string>
+    <string name="command_tplink_turned_on">TPLink is ingeschakeld</string>
+    <string name="command_tplink_turn_off_error">Schakel de TPLink uit</string>
+    <string name="command_tplink_turn_on_error">Schakel de TPLink in</string>
+
+    <string name="commands_not_loaded_title">Systeemopdrachten niet geladen</string>
+    <string name="commands_not_loaded_msg">De OctoPrint-systeemopdrachten zijn momenteel niet geladen voor dit profiel. Wacht een paar seconden en probeer het opnieuw.</string>
+
+    <string name="commands_empty_title">Geen systeemopdrachten</string>
+    <string name="commands_empty_msg">Er zijn geen OctoPrint-systeemopdrachten voor dit profiel. U kunt enkele nieuwe systeemopdrachten configureren in de config.yaml van OctoPrint.</string>
+
+</resources>

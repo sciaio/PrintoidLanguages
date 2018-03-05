@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="widget_no_snapshot_connection">Impossible de télécharger le snapshot\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Impossible de télécharger le snapshot</string>
+    <string name="widget_unknown_profile">Profil inconnu</string>
+
+    <string name="widget_starter_error_no_profiles">Impossible de sélectionner le profil : aucun profil</string>
+    <string name="widget_starter_error_profile_not_found">Impossible de sélectionner le profil : inexistant ou indisponible</string>
+    <string name="widget_starter_error_null_id">Impossible de sélectionner le profil : identifiant invalide</string>
+
+</resources>

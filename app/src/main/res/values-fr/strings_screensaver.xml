@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="temperatures_state_all_correct">Les températures sont correctes !</string>
+    <string name="temperatures_state_bed_issue_only">Erreur température lit chauffant : %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">Erreur température extrudeur %1$d : %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">Erreur température extrudeurs %s !</string>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="timelapse_title">Filmpjes</string>
+
+    <string name="timelapse_no_file">Geen enkele film beschikbaar</string>
+
+    <string name="timelapse_deleted">Verwijder film van OctoPrint</string>
+
+    <string name="download_timelapse_dialog_title">Download film</string>
+    <string name="download_timelapse_dialog_msg">Printoid download de timelapse film, even geduld aub…</string>
+
+    <string name="download_timelapse_done">Film gedownload naar uw externe geheugen.</string>
+
+    <string name="download_timelapse_alert_title">Download mislukt</string>
+    <string name="download_timelapse_alert_msg">De download is mislukt %s</string>
+    <string name="download_timelapse_alert_error_url">Er is een fout gedetecteerd in de URL van het bestand</string>
+    <string name="download_timelapse_alert_error_fnf">De film kom niet gevonden worden op uw OctoPrint server</string>
+    <string name="download_timelapse_alert_error_io">De film kon niet weggeschreven worden op het externe geheugen van uw apparaat</string>
+    <string name="download_timelapse_alert_error_unknown">Er trad een onbekende fout op.</string>
+
+    <string name="timelapse_config_type">Type timelapse film</string>
+    <string name="timelapse_config_fps">Beeld frequentie (BPS)</string>
+    <string name="timelapse_config_post_roll">Post roll (sec)</string>
+    <string name="timelapse_config_cap_post_roll">Neem post roll op</string>
+    <string name="timelapse_config_interval">Interval (sec)</string>
+    <string name="timelapse_config_zhop">Retractie Z-Hop (mm)</string>
+    <string name="timelapse_config_sort">Sorteer methode</string>
+
+    <string name="timelapse_render_succeed_command_title">Rendering gestartg</string>
+    <string name="timelapse_render_succeed_command_msg">Er loopt een rendering van een timelapse film op uw OctoPrint server.\n\nMerk op dat Printoid op geen enkele wijze de voortgang hiervan kan achterhalen. Als het renderen klaar is, zal het filmpje beschikbaar zijn in uw lijst met fimplmpjes.</string>
+
+    <string name="alert_delete_timelapse_title">Verwijder timelapse film</string>
+    <string name="alert_delete_timelapse_msg">Wenst u echt film <b>%s</b> te verwijderen? Deze aktie kan niet ongedaan gemaakt worden.</string>
+
+    <string name="alert_timelapse_inner_player_title">Fout bij weergave</string>
+    <string name="alert_timelapse_inner_player_msg">Printoid kan de film niet weergeven met de interne video speler.\n\nLukt het wel de film te tonen met een externe speler?</string>
+
+    <string name="alert_video_player_permission_title">Probleem met rechten</string>
+    <string name="alert_video_player_permission_msg">De geselecteerde video speler lijkt geen lees rechten te hebben op het externe opslag medium.</string>
+
+    <string name="alert_vlc_title">Installeer VLC™</string>
+    <string name="alert_vlc_msg">Android is niet in staat MJPEG\'s te tonen. Gelukkig kan de VideoLAN Client™ (VLC™ Media Player) dit wel!\n\n
+        Gelieve deze applicatie op uw telefoon te installeren en niet vergeten (lees)rechten vanaf het externe geheugen te verlenen aan deze player.</string>
+
+</resources>

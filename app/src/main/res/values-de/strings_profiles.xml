@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="edit_config">Profile</string>
+    <string name="profile">Profil:</string>
+
+    <string name="config_octoprint_server_name">Profilname</string>
+    <string name="config_lan_ip">Lokale IP / Hostname (LAN)</string>
+    <string name="config_wan_ip">Öffentlichkeit IP / Domain (WAN)</string>
+    <string name="config_port">(Port)</string>
+    <string name="config_api_key">OctoPrint API Key</string>
+    <string name="config_baudrate">Baudrate</string>
+
+    <string name="config_octoprint_profile_title">OctoPrint Profil</string>
+    <string name="config_printer_first_profile_title">Konfiguriere dein erstes OctoPrint Profil</string>
+    <string name="config_printer_profiles_title">OctoPrint Profile</string>
+    <string name="config_ssh">SSH Parameter (Für benutzerdefinierte Befehle)</string>
+    <string name="config_ssh_tip">(optional)</string>
+    <string name="config_ssh_login">Benutzername</string>
+    <string name="config_ssh_pwd">Passwort</string>
+    <string name="config_ssh_port">(Port für Remote-SSH-Sitzungen)</string>
+    <string name="config_extended_settings">+ Erweiterte Einstellungen (optional)</string>
+    <string name="config_go_to_profiles">Öffne Profile</string>
+    <string name="config_basic_auth_login">Benutzername</string>
+    <string name="config_basic_auth_password">Passwort</string>
+    <string name="config_websocket_path">Web-Socket-Pfad</string>
+
+    <string name="config_websocket_detail_msg">Diesen Wert nicht ohne technische Kenntnisse bearbeiten</string>
+
+    <string name="config_title_alert_config">OctoPrint Profil Fehler</string>
+    <string name="config_title_alert_saved">OctoPrint Profil gespeichert</string>
+    <string name="config_title_alert_saved_msg">OctoPrint Profil erfolgreich gespeichert!</string>
+    <string name="config_title_alert_changed">Profil(e) geändert</string>
+    <string name="config_title_alert_changed_msg">Deine OctoPrint Profile haben sich geändert. Möchtest du die neuen Einstellungen speichern?</string>
+    <string name="config_error_printer_name">Ungültiger Profilname. Bitte überprüfe deine Eingabe.</string>
+    <string name="config_error_ip">Du musst mindestens eine IP eingeben.\n\nBrauchst du Hilfe?</string>
+    <string name="config_error_inversion_ip">Du hast eine LAN IP (lokal) in das WAN IP Feld (externer Zugriff) eingegeben.\n\nBrauchst du Hilfe?</string>
+    <string name="config_error_same_ip">Du hast dieselbe IP für beide LAN und WAN Felder angegeben.\n\nBrauchst du Hilfe?</string>
+    <string name="config_error_port">Ungültiger Port.\n\nBrauchst du Hilfe?</string>
+    <string name="config_error_lan_port">Ungültiger LAN-Portwert, Port 22 ist dem SSH-Protokoll zugeordnet (Printoid kommuniziert mit OctoPrint über HTTP).\n\nBrauchst du Hilfe?</string>
+    <string name="config_error_wan_port">Ungültiger WAN-Portwert, Port 22 ist dem SSH-Protokoll zugeordnet (Printoid kommuniziert mit OctoPrint über HTTP).\n\nBrauchst du Hilfe?</string>
+    <string name="config_error_api_key">Ungültiger OctoPrint API Key.\n\nBrauchst du Hilfe?</string>
+    <string name="config_error_api_key_na">N/A ist kein gültiger OctoPrint API Key.\n\nBitte aktualisieren Sie Ihre OctoPrint Web-Oberfläche und kontaktieren Sie den Entwickler von OctoPrint ist das Problem wiederholt.</string>
+    <string name="config_error_baudrate">Ungültige Baudrate.\n\nBrauchst du Hilfe?</string>
+
+    <string name="config_error_qrcode_title">QR-Code-Scan-Fehler</string>
+    <string name="config_error_qrcode_msg">Printoid konnte Ihren QR-Code nicht scannen. Bitte versuchen Sie es erneut oder geben Sie Ihren API-Schlüssel manuell ein.</string>
+
+    <string name="commands_ssh_failed_title">SSH Konfiguration fehlt</string>
+    <string name="commands_ssh_failed_message">Die SSH Konfiguration für das ausgewählte OctoPrint Profil scheint zu fehlen. Bitte fülle es aus, bevor du den SSH-Befehl absendest.</string>
+
+    <string name="scanning">Scannen von OctoPrint QR-Code&#8230;</string>
+
+    <string name="alert_profiles_assistance_title">Profil-Assistent</string>
+    <string name="alert_profiles_assistance_message">Du bist dabei ein Profil zu erstellen, um eine Verbindung zwischen Printoid &amp; deinem OctoPrint Server herzustellen. Hier gibt es ein paar Informationen zu den benötigten Eingaben.\n\n
+    [ℹ Haupteinstellungen]\n\n
+    ✏ LAN IP: Dies ist die IP Adresse (oder Hostname) des Raspberry Pis in deinem lokalen Netzwerk.\n\n
+    ✏ LAN PORT (optional): Fülle dieses Feld nur, wenn du den Standard-Port von OctroPrint (80) geändert hast. Ansonsten lasse dieses Feld leer.\n\n
+    ✏ WAN IP (optional): Dies ist die öffentliche IP Adresse (oder Domain) deines Routers über das Internet (um z.B. über das Mobilfunknetz auf OctoPrint zugreifen zu können).\n\n
+    ✏ WAN PORT (optional): Dies ist der Port den du, für den Zugriff über das Internet, in deinem Router auf den OctoPrint Server weitergeleitet hast.\n\n
+    ✏ API KEY: Den API Key kannst du in den Einstellungen der OctoPrint Weboberfläche finden.\n\n
+    ✏ BAUDRATE: Dies ist die Baudrate deines Druckers für die Kommunikation.\n\n
+    [ℹ Erweiterte Optionen]\n\n
+    ✏ SSL (optional): Aktiviere diese Funktion um Printoid verschlüsselt über HTTPS statt unverschlüsselt über HTTP zu verbinden.\n\n
+    ✏ BASIC AUTH (optional): Aktiviere diese Funktion und gebe deine Zugangsdaten ein, falls du eine Zugriffssperre auf deinem Raspberry Pi eingerichtet hast.\n\n
+    ✏ SSH CREDENTIAL (optional): Dies sind die Zugangsdaten, um mit deinem Raspberry Pi über SSH zu kommunizieren (werden benötigt um benutzerdefinierte SSH-Befehle anlegen zu können).\n\n
+    ✏ SSH PORT (optional): Dies ist der Port, den du im Router auf Port 22 weitergeleitet hast (wird nur verwendet, wenn Printoid über das Internet verbunden ist. Lokalt läuft die SSH-Verbindung über Port 22)\n\n
+    [ℹ Weitere Informationen]\n\nWeitere Informationen zur Konfiguration von Printoid findest du auf der offiziellen Website: %s
+    </string>
+
+    <string name="alert_ssl_issues_title">Aktivieren verschlüsselte Verbindung (SSL)</string>
+    <string name="alert_ssl_issues_msg">Wenn Ihr Serverzertifikat selbst signiert, müssen Sie es auf dem Gerät installieren oder die nächste Option überprüfen, andernfalls wird die Verbindung fehl.\n\n
+         Wenn das Zertifikat von einer Zertifizierungsstelle (CA) bekannt vorgesehen ist, funktioniert die Verbindung ohne sie auf dem Gerät zu installieren.\n\n
+         Achten Sie darauf, diesen Artikel in erster Linie zu lesen: https://printoid.net/2017/01/12/important-printoid-and-full-ssl-support/</string>
+
+    <string name="alert_auto_trust_cert_issues_title">Übernehmen Sie das selbst signiertes Zertifikat</string>
+    <string name="alert_auto_trust_cert_issues_msg">Ihr Server verwendet ein selbst signiertes Zertifikat. Akzeptieren Sie automatisch auf Ihr eigenes Risiko.\n\n
+         Achten Sie darauf, diesen Artikel zu zuerst lesen : https://printoid.net/2017/01/12/important-printoid-and-full-ssl-support/</string>
+
+    <string name="alert_modern_tls_title">Mit modernen TLS</string>
+    <string name="alert_modern_tls_msg">Aktivieren Sie diese Funktion nicht, wenn Sie vom Entwickler nicht dazu aufgefordert wurden. Dies kann Verbindungsprobleme verursachen, abhängig von der Konfiguration Ihres Servers.</string>
+
+    <string name="unknown_profile">Unbekanntes Profil</string>
+    <string name="all_available_profiles">Alle verfügbaren Profile</string>
+
+    <string name="search_wan_ip_loading_title">Öffentliche IP-Adresse abrufen (WAN)</string>
+    <string name="search_wan_ip_loading_message">Printoid ruft Ihre öffentliche IP (WAN) ab, bitte warten Sie ein paar Sekunden…</string>
+    <string name="search_wan_ip_dialog_title">Öffentliche IP-Adresse automatisch abrufen (WAN)</string>
+    <string name="search_wan_ip_dialog_message">Bitte vergewissern Sie sich, dass dieses Gerät korrekt mit dem Netzwerk Ihres OctoPrint-Servers verbunden ist.\n\n
+    Danach müssen Sie auch sicherstellen, dass Sie Ihren Router konfiguriert haben, um Ihren OctoPrint-Server über das Internet (z. B. 3G / 4G) erreichbar zu machen.</string>
+
+    <string name="search_wan_ip_success_toast">Öffentliche IP (WAN) gefunden: %s</string>
+    <string name="search_wan_ip_error_toast">Printoid kann Ihre öffentliche IP (WAN) im Moment nicht abrufen</string>
+
+</resources>

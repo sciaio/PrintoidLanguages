@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_connect_server">Connecter OctoPrint</string>
+    <string name="menu_connect_printer">Connecter l\'imprimante</string>
+    <string name="menu_disconnect_printer">Déconnecter l\'imprimante</string>
+    <string name="menu_connecting_printer">Connexion à l\'imprimante</string>
+    <string name="menu_video_streaming">Streaming vidéo</string>
+    <string name="menu_commands">Commandes</string>
+    <string name="menu_printer_profiles_settings">Serveurs\nOctoPrint</string>
+    <string name="menu_app_settings">Paramètres\nde l\'app</string>
+    <string name="menu_app_infos">Assistance</string>
+    <string name="menu_octoprint_web">Web-interface OctoPrint</string>
+    <string name="menu_full_screen">Étendre la vue</string>
+    <string name="menu_full_screen_streaming">Étendre la vidéo</string>
+    <string name="menu_full_screen_realtime_visualizer">Étendre la 2D/3D</string>
+    <string name="menu_full_screen_commands">Étendre les commandes</string>
+    <string name="menu_full_screen_slicer">Étendre le slicer</string>
+    <string name="menu_full_screen_more_tools">Étendre les outils</string>
+    <string name="menu_minimize">Réduire</string>
+    <string name="menu_printoid_web">Site web\nPrintoid</string>
+    <string name="menu_files">Fichiers</string>
+    <string name="menu_timelapse">Timelapses</string>
+    <string name="menu_alarms">Manager d\'alertes</string>
+    <string name="menu_contact_developer">Contacter le\ndéveloppeur</string>
+
+</resources>

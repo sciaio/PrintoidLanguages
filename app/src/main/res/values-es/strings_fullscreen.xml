@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">Controles de la impresora a pantalla completa</string>
+    <string name="full_screen_helper_print">Detalles de la impresión a pantalla completa</string>
+    <string name="full_screen_helper_temperature">Temperatura a pantalla completa</string>
+    <string name="full_screen_helper_files">Archivos a pantalla completa</string>
+    <string name="full_screen_helper_streaming">Streaming a pantalla completa</string>
+    <string name="full_screen_helper_commands">Comandos a pantalla completa</string>
+
+</resources>

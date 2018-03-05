@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="keyboard_distant_command_toast_msg">Удаленная команда получила: %s</string>
+
+    <string name="keyboard_distant_gcode_command_title">Отправка команды GCODE</string>
+    <string name="keyboard_distant_gcode_command_msg">Нажмите ENTER для отправки, ESCAPE для отмены, COMMA для разделения команд</string>
+
+    <string name="keyboard_action_connect">соединить</string>
+    <string name="keyboard_action_fullscreen">полный экран</string>
+    <string name="keyboard_action_streaming">видео</string>
+    <string name="keyboard_action_simulator">Показать 2D визуализатор реального времени</string>
+    <string name="keyboard_action_commands">команды</string>
+    <string name="keyboard_action_wep_app">показать OctoPrint web-app</string>
+    <string name="keyboard_action_wep_site">открыть сайт Printoid</string>
+    <string name="keyboard_action_octoprint_profiles">OctoPrint profiles</string>
+    <string name="keyboard_action_app_settings">настройки</string>
+    <string name="keyboard_action_app_infos">информация</string>
+    <string name="keyboard_action_files">файлы</string>
+    <string name="keyboard_action_timelapses">промежуток времени</string>
+    <string name="keyboard_action_right_panel">open right panel</string>
+    <string name="keyboard_action_right_panel_close">close right panel</string>
+    <string name="keyboard_action_x">ось X</string>
+    <string name="keyboard_action_y">ось Y</string>
+    <string name="keyboard_action_z">ось Z</string>
+    <string name="keyboard_action_home_xy">домой по XY</string>
+    <string name="keyboard_action_home_z">домой по Z</string>
+    <string name="keyboard_action_extrude">выдавить</string>
+    <string name="keyboard_action_retract">вдавить</string>
+    <string name="keyboard_action_move_distance">Длина хода установлена на %.1f</string>
+    <string name="keyboard_action_increment_fan">увеличить обороты вентилятора</string>
+    <string name="keyboard_action_decrement_fan">уменьшить обороты вентилятора</string>
+    <string name="keyboard_action_increment_ext">увеличить температуру ext.%d</string>
+    <string name="keyboard_action_decrement_ext">уменьшить температуру ext.%d</string>
+    <string name="keyboard_action_increment_bed">увеличить температуру стола</string>
+    <string name="keyboard_action_decrement_bed">уменьшить температуру стола</string>
+    <string name="keyboard_action_select_tool">выбор инструмента %d</string>
+    <string name="keyboard_action_print">напечатать выбранный файл</string>
+    <string name="keyboard_action_pause">пауза печати</string>
+    <string name="keyboard_action_stop">остановка печати</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="temperatures_state_all_correct">Die Temperaturen sind alle korrekt!</string>
+    <string name="temperatures_state_bed_issue_only">Beheiztes Bett Wärme Problem: %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">Beheizter Kopf %1$d Hitzeproblem: %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">Beheizte Köpfe %s Hitzeprobleme!</string>
+
+</resources>

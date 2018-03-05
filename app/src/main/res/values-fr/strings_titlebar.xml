@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_bar_time_percent">%.1f%% (temps)</string>
+    <string name="title_bar_gcode_percent">%.1f%% (gcode)</string>
+    <string name="title_bar_remaining_time">Reste %s</string>
+    <string name="title_bar_ext">Ext %1$d: %2$.1f°</string>
+    <string name="title_bar_bed">Lit : %.1f°</string>
+    <string name="title_system_raspberry">Raspberry: %s°</string>
+    <string name="title_system_other">Système: %s°</string>
+
+    <string name="title_bar_config_title">Configuration de la barre de titre</string>
+
+    <string name="title_bar_toggle_server_name">Nom du serveur</string>
+    <string name="title_bar_toggle_printer_state">Etat du serveur</string>
+    <string name="title_bar_toggle_extruders_temp">Température extrudeurs</string>
+    <string name="title_bar_toggle_hot_bed">Température lit chauffant</string>
+    <string name="title_bar_toggle_gcode_progress">Progression GCODE</string>
+    <string name="title_bar_toggle_time_progress">Progression temps</string>
+    <string name="title_bar_toggle_remaining_time">Temps restant</string>
+    <string name="title_bar_toggle_file_name">Nom du fichier</string>
+    <string name="title_bar_spinner_change_delay">Délai de changement (sec)</string>
+    <string name="title_bar_toggle_system_temperature">Hauteur Z (mm)</string>
+    <string name="title_bar_toggle_z_height">Température système (°)</string>
+
+</resources>

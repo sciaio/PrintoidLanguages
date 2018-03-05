@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="commands_panel_label">Commands terminal</string>
+    <string name="commands_history_label">GCODE history</string>
+    <string name="commands_editing_label">Command editor</string>
+
+    <string name="abitrary_gcode_command">GCODE command</string>
+    <string name="add_command">Add new command</string>
+    <string name="add_command_type">Type</string>
+    <string name="add_command_curl_type">Method</string>
+    <string name="add_command_label">Label</string>
+    <string name="add_command_command_title">Command to execute</string>
+    <string name="add_command_content">Command arguments</string>
+    <string name="add_command_icon">Icon</string>
+    <string name="add_command_color">Icon color</string>
+    <string name="add_command_show_on_home">Show on home</string>
+    <string name="add_command_request_confirmation">Confirmation</string>
+    <string name="add_command_wait_result">Show command response</string>
+    <string name="add_command_name">Command label</string>
+    <string name="add_command_command">Command</string>
+    <string name="add_command_argument">Argument</string>
+    <string name="delete_command_title">Delete command</string>
+    <string name="delete_command_msg">Delete a command can not be undone, are you sure?</string>
+    <string name="add_command_error_name">Invalid command name, please verify your value</string>
+    <string name="add_command_error_command">Invalid command, please verify your value</string>
+    <string name="add_command_error_command_octoprint">Invalid command, no OctoPrint command available</string>
+    <string name="command_detail_ssh">SSH command : %s</string>
+    <string name="command_detail_gcode">Gcode command : %s</string>
+    <string name="command_sent">Command sent</string>
+    <string name="command_sent_answer">Command response: %s</string>
+    <string name="command_not_sent">Error while sending command: %s</string>
+    <string name="command_not_sent_reason">Error while sending command: %1$s (%2$s)</string>
+    <string name="send_command_error">Command error: %d</string>
+
+    <string name="command_help_for">Click here to see the tutorial for %s commands</string>
+
+    <string name="command_add_new">Add new…</string>
+
+    <string name="alert_command_help_title">What is a custom command?</string>
+    <string name="alert_command_help_message">Printoid allows you to customize your app with your own commands.\n\n
+    1/ <b>OctoPrint system commands:</b> Printoid is able to execute the commands you have defined in config.yaml\n\n
+    2/ <b>GCODE commands:</b> you can send your own GCODE commands to your 3D printer. Can be a unique command or a group of commands (separated by carriage returns)\n\n
+    3/ <b>SSH commands:</b> you can send instructions to your Raspberry Pi over SSH, such as GPIO or script execution commands for example\n\n
+    4/ <b>CURL commands:</b> you can send instructions to your Raspberry Pi over CURL commands (should looks like command?enable=relay1 or api/plugin/psucontrol in Printoid, for example, with an eventual JSON argument)\n\n
+    More informations on the official website https://printoid.net</string>
+
+    <string name="max_home_commands_reached_title">Max home commands reached</string>
+    <string name="max_home_commands_reached_msg">You already have selected %d commands to display on the home screen.\n\nPlease deselect one of them before adding this one.</string>
+
+    <string name="command_confirmation_title">Send command confirmation</string>
+    <string name="command_confirmation_msg">Printoid will send the following command: %s\n\nAre you sure?</string>
+
+    <string name="command_list_empty">No command available</string>
+    <string name="gcode_base_list_empty">Unknown GCODE command</string>
+
+    <string name="command_psu_turn_off_alert_title">Turn OFF PSU</string>
+    <string name="command_psu_turn_off_alert_msg">Your PSU is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
+    <string name="command_psu_turn_on_alert_title">Turn ON PSU</string>
+    <string name="command_psu_turn_on_alert_msg">Your PSU is actually OFF.\n\nDo you want to turn it ON right now?</string>
+    <string name="command_psu_turned_off">PSU turned OFF</string>
+    <string name="command_psu_turned_on">PSU turned ON</string>
+    <string name="command_psu_turn_off_error">Turn OFF PSU error</string>
+    <string name="command_psu_turn_on_error">Turn ON PSU error</string>
+
+    <string name="command_tplink_turn_off_alert_title">Turn OFF TPLink</string>
+    <string name="command_tplink_turn_off_alert_msg">Your TPLink is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
+    <string name="command_tplink_turn_on_alert_title">Turn ON TPLink</string>
+    <string name="command_tplink_turn_on_alert_msg">Your TPLink is actually OFF.\n\nDo you want to turn it ON right now?</string>
+    <string name="command_tplink_turned_off">TPLink turned OFF</string>
+    <string name="command_tplink_turned_on">TPLink turned ON</string>
+    <string name="command_tplink_turn_off_error">Turn OFF TPLink error</string>
+    <string name="command_tplink_turn_on_error">Turn ON TPLink error</string>
+
+    <string name="commands_not_loaded_title">System commands not loaded</string>
+    <string name="commands_not_loaded_msg">The OctoPrint system commands are currently not loaded for this profile, please wait a few seconds and retry.</string>
+
+    <string name="commands_empty_title">No system commands</string>
+    <string name="commands_empty_msg">There are no OctoPrint system commands for this profile. You can configure some new system commands in the config.yaml of OctoPrint.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="temperatures_state_all_correct">Las temperaturas son todas correctas!</string>
+    <string name="temperatures_state_bed_issue_only">Problema de temperatura en la cama caliente: %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">Problema de temperatura en el extrusor %1$d: %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">Problema de temperatura en las extrusores %s!</string>
+
+</resources>

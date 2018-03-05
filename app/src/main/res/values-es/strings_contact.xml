@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_subject">Soporte Printoid (Versión instalada: v%1$s - %2$s)</string>
+    <string name="contact_choose_client">Seleccione su cliente de e-mail:</string>
+
+    <string name="contact_body">Estimado desarrolador de Printoid,\n\n
+    Mi configuración es la siguiente:\n\n
+    - Modelo de dispositivo: %1$s\n
+    - Versión de Android: %2$s\n
+    - Huella dactilar: %3$s\n
+    - Impresora 3D: %4$s\n\n
+    - Versión de OctoPrint: %5$s\n\n
+    Mi mensaje:\n\n\n\n
+    %6$s\n\n\n\n
+    Saludos cordiales</string>
+
+    <string name="alert_contact_title">Contactar al desarrollador</string>
+
+    <string name="alert_contact_email_msg">\nAntes de contactar con el desarrollador, ¿está seguro de que:\n\n
+     - ¿Printoid hasta actualizada?\n
+     - ¿Viste los tutoriales de nuevo?\n
+     - ¿Ha consultado las preguntas más frecuentes (F.A.Q.)?\n
+     - ¿Va a ser educado y cortés?\n\n
+    Si no respetas estas condiciones, el desarrollador <b>no podrá ayudarte</b> de la mejor manera.</string>
+
+    <string name="alert_contact_traces_msg">Antes de contactar con el desarrollador, ¿está seguro de que:\n
+     - ¿Printoid hasta actualizada?\n
+     - ¿Viste los tutoriales de nuevo?\n
+     - ¿Ha consultado las preguntas más frecuentes (F.A.Q.)?\n
+     - ¿Va a proporcionar todos los detalles necesarios con estos pasos?\n
+     - ¿Va a ser educado y cortés?\n\n
+    Si no respetas estas condiciones, el desarrollador <b>no podrá ayudarte</b> de la mejor manera.</string>
+
+    <string name="alert_contact_tutorials_label">Tutoriales</string>
+    <string name="alert_contact_faq_label">F.A.Q.</string>
+
+</resources>

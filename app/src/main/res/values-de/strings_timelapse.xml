@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="timelapse_title">Zeitraffer</string>
+
+    <string name="timelapse_no_file">Keine Zeitraffer verfügbar</string>
+
+    <string name="timelapse_deleted">Zeitraffer von OctoPrint gelöscht</string>
+
+    <string name="download_timelapse_dialog_title">Zeitraffer herunterladen</string>
+    <string name="download_timelapse_dialog_msg">Printoid lädt das Zeitraffer herunter. Bitte warten…</string>
+
+    <string name="download_timelapse_done">Timelapse auf Ihren internen Speicher heruntergeladen</string>
+
+    <string name="download_timelapse_alert_title">Fehler</string>
+    <string name="download_timelapse_alert_msg">Der Download wurde abgebrochen, %s</string>
+    <string name="download_timelapse_alert_error_url">weil ein Fehler in der URL festgestellt wurde.</string>
+    <string name="download_timelapse_alert_error_fnf">weil das Zeitraffer nicht mehr auf dem OctoPrint Server gefunden wurde.</string>
+    <string name="download_timelapse_alert_error_io">weil das Zeitraffer nicht gespeichert werden kann.</string>
+    <string name="download_timelapse_alert_error_unknown">weil ein unbekannter Fehler aufgetreten ist.</string>
+
+    <string name="timelapse_config_type">Zeitraffer Modus</string>
+    <string name="timelapse_config_fps">Bildrate (FPS)</string>
+    <string name="timelapse_config_post_roll">Nachlauf (Sek)</string>
+    <string name="timelapse_config_cap_post_roll">Nachlauf aufzeichnen</string>
+    <string name="timelapse_config_interval">Intervall (Sek)</string>
+    <string name="timelapse_config_zhop">Retraction Z-Hop (mm)</string>
+    <string name="timelapse_config_sort">Sortiermethode</string>
+
+    <string name="timelapse_render_succeed_command_title">Rendering läuft</string>
+    <string name="timelapse_render_succeed_command_msg">Das Rendering des Zeitraffers wurde auf dem OctoPrint Server gestartet.\n\nBitte beachte, dass es Printoid nicht möglich ist, den aktuellen Fortschritt auszulesen. Wenn der Prozess abgeschlossen ist, wird das neue Zeitraffer in der Liste auftauchen.</string>
+
+    <string name="alert_delete_timelapse_title">Zeitraffer löschen</string>
+    <string name="alert_delete_timelapse_msg">Willst du das Zeitraffer <b>%s</b> wirklich löschen? Dies kann nicht rückgängig gemacht werden.</string>
+
+    <string name="alert_timelapse_inner_player_title">Videoplayer Fehler</string>
+    <string name="alert_timelapse_inner_player_msg">Printoid kann das Zeitraffer nicht im eigenen Videoplayer wiedergeben.\n\nWillst du es stattdessen in einer anderen Videoplayer-App öffnen?</string>
+
+    <string name="alert_video_player_permission_title">Berechtigungsproblem</string>
+    <string name="alert_video_player_permission_msg">Der ausgewählte Videoplayer hat nicht die Berechtigung, den Speicher zu lesen.</string>
+
+    <string name="alert_vlc_title">Installieren VLC™</string>
+    <string name="alert_vlc_msg">Android ist nicht in der Lage, MJEG Videos nativ zu spielen. Glücklicherweise ist VideoLAN Client ™ (VLC ™ Media Player) in der Lage, theim zu spielen!
+         Bitte installieren Sie die App auf Ihrem Telefon und vergessen Sie nicht, die Berechtigung \"Externe Lagerung lesen\" zu aktivieren.</string>
+
+</resources>

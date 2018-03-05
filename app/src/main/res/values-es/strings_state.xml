@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printer_state_octo_disconnected">Fuera de línea</string>
+    <string name="printer_state_disconnected">Desconectada</string>
+    <string name="printer_state_connecting">Conectando&#8230;</string>
+    <string name="printer_state_sending_file">Enviando archivo…</string>
+    <string name="printer_state_ready">Lista para imprimir</string>
+    <string name="printer_state_paused">Impresión pausada</string>
+    <string name="printer_state_printing">Imprimiendo&#8230;</string>
+    <string name="printer_state_error">Error de conexión de la impresora</string>
+
+    <string name="file">Archivo: %s</string>
+    <string name="file_label">Fichero:</string>
+    <string name="file_empty">Ningún archivo cargado</string>
+    <string name="end_time_empty">&#8212;</string>
+    <string name="end_time_label">Tiempo finalización:</string>
+    <string name="end_time_label_no_column">Tiempo finalización</string>
+    <string name="end_time">Tiempo finalización: %s</string>
+    <string name="current_z">Z:</string>
+    <string name="printed_empty">&#8212;</string>
+    <string name="printed_label">Impreso:</string>
+    <string name="printed">%1$s/%2$s</string>
+    <string name="printed_time">Tiempo de impresión: %s</string>
+    <string name="printed_time_empty">&#8212; : &#8212;</string>
+    <string name="printed_time_label">Tiempo de impresión:</string>
+    <string name="file_type_stl">Tipo de archivo: modelo</string>
+    <string name="file_type_gcode">Tipo de archivo: Codigo máquina</string>
+    <string name="file_size">%s</string>
+    <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
+    <string name="estimated_print_time">%s</string>
+    <string name="uploaded_date">hace %s</string>
+    <string name="file_size_label">Tamaño de archivo:</string>
+    <string name="filament_label">Filamento:</string>
+    <string name="estimated_print_time_label">Tiempo estimado:</string>
+    <string name="average_print_time_label">Tiempo promedio:</string>
+    <string name="last_print_time_label">Ultima tiempo:</string>
+    <string name="uploaded_date_label">Subido:</string>
+    <string name="filament_empty">&#8212;</string>
+    <string name="file_name_empty">Seleccione un archivo de la lista</string>
+    <string name="model_size">Dimensiones:</string>
+    <string name="origin">Origen:</string>
+    <string name="failures">Fracaso:</string>
+    <string name="success">Éxito:</string>
+    <string name="cost">Coste:</string>
+
+    <string name="size_label">Tamaño:</string>
+    <string name="time_label">Tiempo:</string>
+    <string name="end_label">Final:</string>
+
+    <string name="date_few_seconds">Unos segundos</string>
+    <string name="date_second">%d segundo</string>
+    <string name="date_seconds">%d segundos</string>
+    <string name="date_minute">%d minuto</string>
+    <string name="date_minutes">%d minutos</string>
+    <string name="date_hour">%d hora</string>
+    <string name="date_hours">%d horas</string>
+    <string name="date_day">%d día</string>
+    <string name="date_days">%d días</string>
+    <string name="date_month">%d mes</string>
+    <string name="date_months">%d meses</string>
+    <string name="date_year">%d año</string>
+    <string name="date_years">%d años</string>
+
+    <string name="progress">Progreso :</string>
+    <string name="progress_label_time">tiempo</string>
+    <string name="progress_label_gcode">Gcode</string>
+    <string name="progress_label_time_percent">tiempo (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">Gcode (%.1f%%)</string>
+
+</resources>

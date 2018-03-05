@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="head_current_temperature_label">Extruder</string>
+    <string name="headX_current_temperature_label">Extruder %d</string>
+    <string name="head_target_temperature_label">Ext. (doel)</string>
+    <string name="headX_target_temperature_label">Ext.%d (doel)</string>
+    <string name="bed_current_temperature_label">Bed</string>
+    <string name="bed_target_temperature_label">Bed (doel)</string>
+    <string name="current_temperature">%.1f°</string>
+    <string name="current_bed">%.1f°</string>
+    <string name="target_temperature">%.1f°</string>
+
+    <string name="printer_head_level">Extruder\n%d°</string>
+    <string name="printer_headX_level">Extruder %1$d\n%2$d°</string>
+    <string name="hot_bed_level">Bed\n%d°</string>
+    <string name="fan_level">Ventilator\n%d%%</string>
+    <string name="fan_level_index">Ventilator %1$d\n%2$d%%</string>
+
+    <string name="input_headX_level">Extruder %d (°)</string>
+    <string name="input_bed_level">Bed (°)</string>
+    <string name="input_fan_level">Ventilator %d (%%)</string>
+
+    <string name="input_feedrate">Feed rate (%)</string>
+    <string name="input_flowrate">Flow rate (%)</string>
+    <string name="input_travel">Afstand verplaatsing (mm)</string>
+    <string name="input_extruder">Afstand extrusie (mm)</string>
+
+    <string name="tool_plot_click_message">Lange klik op de grafiek\nvoor meer tools</string>
+
+</resources>

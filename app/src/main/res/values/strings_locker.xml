@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_password_bullet" translatable="false">○</string>
+    <string name="locker_password_bullet_full" translatable="false">⦿</string>
+    <string name="locker_password_hint" translatable="false">○ ○ ○ ○</string>
+
+    <string name="locker_enter_password">Enter password</string>
+    <string name="locker_enter_password_or_fingerprint">Enter password or use your fingerprint</string>
+    <string name="locker_cancel">Cancel</string>
+    <string name="locker_unlocked">Unlocked!</string>
+
+    <string name="locker_enter_current_password">Enter current password</string>
+    <string name="locker_enter_new_password_1">Enter new password</string>
+    <string name="locker_enter_new_password_2">Enter new password again</string>
+
+    <string name="locker_mode">Lock mode: %s</string>
+    <string name="locker_mode_off">OFF</string>
+    <string name="locker_mode_critical">protect only critical features</string>
+    <string name="locker_mode_full">protect the whole screen</string>
+
+    <string name="locker_mode_cant_send_critical_commands">Can\'t send critical commands, lock mode is activated</string>
+
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_settings_array">
+        <item>Auto</item>
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+
+    <string-array name="screen_orientations_array">
+        <item>Auto</item>
+        <item>Portrait</item>
+        <item>Portrait Inversé</item>
+        <item>Paysage</item>
+        <item>Paysage Inversé</item>
+    </string-array>
+
+    <string-array name="streaming_method_array">
+        <item>Lecteur vidéo</item>
+        <item>Vue web</item>
+        <item>Snapshot</item>
+    </string-array>
+
+    <string-array name="setting_connection_mode_array">
+        <item>Auto</item>
+        <item>LAN en 1er</item>
+        <item>WAN en 1er</item>
+    </string-array>
+
+    <string-array name="setting_sound_array">
+        <item>Son 1</item>
+        <item>Son 2</item>
+        <item>Son 3</item>
+        <item>Son 4</item>
+        <item>Son 5</item>
+        <item>Son 6</item>
+        <item>Son OFF</item>
+    </string-array>
+
+    <string-array name="after_slicing_array">
+        <item>Ne rien faire</item>
+        <item>Sélectionner pour l\'impression</item>
+        <item>Démarrer l\'impression</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>OFF</item>
+        <item>12H</item>
+        <item>24H</item>
+    </string-array>
+
+    <string-array name="render_mode_array">
+        <item>Normal</item>
+        <item>Surplomb</item>
+        <item>Transparent</item>
+        <item>Rayons X</item>
+    </string-array>
+
+    <string-array name="render_mode_gcode_array">
+        <item>Normal</item>
+        <item>Transparent</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>Prix/mètre</item>
+        <item>Prix/kg</item>
+    </string-array>
+
+</resources>

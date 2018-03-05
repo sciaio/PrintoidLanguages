@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_beta_program_title">Programme Beta</string>
+    <string name="alert_beta_program_msg">Vous pouvez apporter votre contribution au programme Beta d\'amélioration de Printoid !\n\nPrintoid a juste besoin de votre adresse e-mail pour vous envoyer des informations et nouveautés. Bien sûr, c\'est optionel et dans le respect de vos données privées et personnelles.\n\nSouhaitez-vous activer le programme Beta dès maintenant ?</string>
+
+    <string name="alert_beta_infos_title">Vos informations</string>
+    <string name="alert_beta_infos_msg">Printoid a juste besoin de votre adresse e-mail pour vous envoyer des informations et nouveautés dans le cadre du programme Beta !</string>
+
+    <string name="notification_printoid_beta_program_title">Programme Beta Printoid</string>
+
+</resources>

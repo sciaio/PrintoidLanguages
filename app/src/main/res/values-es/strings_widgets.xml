@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="widget_no_snapshot_connection">No se puede descargar la instantánea\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">No se puede descargar la instantánea</string>
+    <string name="widget_unknown_profile">Perfil desconocido</string>
+
+    <string name="widget_starter_error_no_profiles">No se puede seleccionar perfil: sin perfil</string>
+    <string name="widget_starter_error_profile_not_found">No se puede seleccionar perfil: no existe o no está disponible</string>
+    <string name="widget_starter_error_null_id">No se puede seleccionar perfil: identificador no válido</string>
+
+</resources>

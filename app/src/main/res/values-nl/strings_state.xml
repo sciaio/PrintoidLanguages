@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printer_state_disconnected">Geen verbinding</string>
+    <string name="printer_state_octo_disconnected">Offline</string>
+    <string name="printer_state_connecting">Aansluiten&#8230;</string>
+    <string name="printer_state_sending_file">Verstuur bestand…</string>
+    <string name="printer_state_paused">Gepauzeerd</string>
+    <string name="printer_state_printing">Printing&#8230;</string>
+    <string name="printer_state_ready">Klaar om te printen</string>
+    <string name="printer_state_error">Fout Verbinding Printer</string>
+
+    <string name="file">Bestand: %s</string>
+    <string name="file_label">Bestand :</string>
+    <string name="file_empty">Geen bestand geladen</string>
+    <string name="end_time_empty">&#8212;</string>
+    <string name="end_time_label">Eind tijd:</string>
+    <string name="end_time_label_no_column">Eind tijd</string>
+    <string name="end_time">Eind tijd: %s</string>
+    <string name="current_z">Z :</string>
+    <string name="file_type_stl">Type bestand: model</string>
+    <string name="file_type_gcode">Type bestand: code machine</string>
+    <string name="printed">%1$s/%2$s</string>
+    <string name="printed_time_empty">&#8212; : &#8212;</string>
+    <string name="printed_time_label">Tijdsduur:</string>
+    <string name="printed_empty">&#8212;</string>
+    <string name="printed_label">Geprint:</string>
+    <string name="printed_time">Tijdsduur: %s</string>
+    <string name="file_size">%s</string>
+    <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
+    <string name="estimated_print_time">%s</string>
+    <string name="uploaded_date">%s geleden</string>
+    <string name="file_size_label">Grootte:</string>
+    <string name="filament_label">Filam.:</string>
+    <string name="estimated_print_time_label">Geschatte tijd:</string>
+    <string name="average_print_time_label">Gemiddelde tijd:</string>
+    <string name="last_print_time_label">Laatste tijd:</string>
+    <string name="uploaded_date_label">Oud:</string>
+    <string name="filament_empty">&#8212;</string>
+    <string name="file_name_empty">Selecteer een bestand van de lijst</string>
+    <string name="model_size">Dimensies:</string>
+    <string name="origin">Bron:</string>
+    <string name="failures">Fout:</string>
+    <string name="success">Succesvol:</string>
+    <string name="cost">Kosten:</string>
+
+    <string name="size_label">Grootte:</string>
+    <string name="time_label">Tijd:</string>
+    <string name="end_label">Einde:</string>
+
+    <string name="date_few_seconds">enige seconden</string>
+    <string name="date_second">%d seconde</string>
+    <string name="date_seconds">%d seconden</string>
+    <string name="date_minute">%d minuut</string>
+    <string name="date_minutes">%d minuten</string>
+    <string name="date_hour">%d uur</string>
+    <string name="date_hours">%d uren</string>
+    <string name="date_day">%d dag</string>
+    <string name="date_days">%d dagen</string>
+    <string name="date_month">%d maand</string>
+    <string name="date_months">%d maanden</string>
+    <string name="date_year">%d jaar</string>
+    <string name="date_years">%d jaren</string>
+
+    <string name="progress">Voortgang:</string>
+    <string name="progress_label_time">tijd</string>
+    <string name="progress_label_gcode">gcode</string>
+    <string name="progress_label_time_percent">tijd (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
+    
+</resources>

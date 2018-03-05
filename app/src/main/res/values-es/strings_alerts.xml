@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_pro_feature_title">Característica de la versión Pro</string>
+    <string name="alert_pro_feature_streaming_msg">Esta es la versión gratuita de Printoid. El streaming de vídeo está disponible en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_screensaver_msg">Esta es la versión gratuita de Printoid. El salvapantalla de vídeo está disponible en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_command_msg">Esta es la versión gratuita de Printoid. El SSH personalizado y los comandos GCODE están disponibles en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_octoprint_web_interface_msg">Esta es la versión gratuita de Printoid. El acceso a su interfaz web de OctoPrint está disponible en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_multi_profile_msg">Esta es la versión gratuita de Printoid.\nAñadir más de un perfil de impresora está disponible en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_render_msg">Esta es la versión gratuita de Printoid.\nEl GCODE &amp; visor STL 3D está disponible en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor de capas GCODE 2D está disponible en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_realtime_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor capa a capa en tiempo real está disponible en la version Pro, descárgala ahora en Google Play!</string>
+
+    <string name="alert_cancel_print_title">Abortar impresión actual</string>
+    <string name="alert_cancel_print_msg">La impresión será cancelada, ¿está seguro?\nUna impresión cancelada no puede ser restaurada a su estado actual, por lo que su trabajo se perderá.</string>
+
+    <string name="alert_pause_print_title">Pausa la impresión</string>
+    <string name="alert_pause_print_msg">Este trabajo de impresión se detendrá, ¿está seguro?</string>
+
+    <string name="alert_restart_print_title">Reinicie la impresión actual</string>
+    <string name="alert_restart_print_msg">Este trabajo de impresión se reiniciará, ¿está seguro?\nEl trabajo anterior no se pudo volver a cargar a su estado anterior, por lo que se perderá su trabajo real.</string>
+
+    <string name="alert_delete_printer_profile_title">Borrar perfil de Octoprint</string>
+    <string name="alert_delete_printer_profile_message">Este perfil de Octoprint será borrado, ¿está seguro?\nEsta acción no se puede deshacer.</string>
+
+    <string name="alert_streaming_issue_title">Streaming de vídeo</string>
+    <string name="alert_streaming_issue_msg">Atención!\n\nSi tiene problemas con el reproductor de vídeo integrado de Printoid (pantalla negra, mensaje de error de conexión, o en el peor de los casos
+        el bloqueo de su servidor OctoPrint) puede cambiar el modo de streaming a "Vista Web" en los ajustes.\n\nPor favor contacte con el desarrollador si este modo no soluciona sus problemas :)</string>
+    <string name="alert_streaming_remind_me">Recuérdame</string>
+
+    <string name="alert_floating_icon_title">Icono flotante</string>
+    <string name="alert_floating_icon_msg">El icono flotante es una característica de Printoid que le permite mantener un ojo en su transmisión de vídeo, dondequiera que se encuentre en su teléfono.\n\n
+         ¿Quieres habilitarlo ahora mismo? Esta función se puede activar y desactivar en los ajustes.</string>
+
+    <string name="alert_snapshot_ready_title">Instantánea lista</string>
+    <string name="alert_snapshot_ready_msg">Su instantánea está lista, puede guardarla en su almacenamiento externo o compartirla.</string>
+
+    <string name="alert_snapshot_error_title">Error de instantánea</string>
+    <string name="alert_snapshot_error_msg">Printoid no puede descargar su instantánea. Por favor revise su configuración y reintente.</string>
+
+    <string name="toast_snapshot_saved">Instantánea guardada en %s</string>
+    <string name="toast_snapshot_save_error">Printoid no puede guardar su instantánea.</string>
+
+    <string name="alert_license_invalid_title">La licencia no es válida</string>
+    <string name="alert_license_invalid_message">Su licencia de Printoid no parece válida. Las características de la versión %1$s serán desactivadas automaticamente.\n\nQuiere comprar la versión %2$s de Printoid en Google Play?\n\n(Si ya ha comprado la versión %3$s, haga clic en el botón \"Ayuda\")\n\n[Error al comunicarse con el desarrollador: %4$s]</string>
+    <string name="purchase">Compra</string>
+
+    <string name="alert_theme_changed_title">Reiniciar para aplicar el nuevo tema</string>
+    <string name="alert_theme_changed_msg">Debe reiniciar la aplicación para aplicar el nuevo tema. ¿Desea reiniciarla ahora?</string>
+
+    <string name="alert_language_changed_title">Reiniciar para aplicar el nuevo idioma</string>
+    <string name="alert_language_changed_msg">Debe reiniciar la aplicación para aplicar el nuevo idioma. ¿Desea reiniciarla ahora?</string>
+
+    <string name="alert_permission_denied_title">Permiso denegado</string>
+    <string name="alert_permission_denied_read_msg">Printoid no puede realizar esta operación ya que ha denegado el permiso de <b>lectura de almacenamiento externo</b> cuando se le solicita.\n\n¿Desea activarlo manualmente?</string>
+    <string name="alert_permission_denied_write_msg">Printoid no puede realizar esta operación ya que ha denegado el permiso de <b>escritura de almacenamiento externo</b> cuando se le solicita.\n\n¿Desea activarlo manualmente?</string>
+    <string name="alert_permission_denied_camera_msg">Printoid no puede realizar esta operación ya que ha denegado el permiso de <b>cámara</b> cuando se le solicita.\n\n¿Desea activarlo manualmente?</string>
+
+    <string name="alert_choose_ip_title">Elegir IP</string>
+    <string name="alert_choose_ip_msg">Printoid parece que actualmente no está conectado a su servidor OctoPrint.\nPor favor, elija la dirección IP (o nombre de host) que se utilizará para este comando SSH</string>
+
+    <string name="alert_select_tool_title">Seleccionar extrusor</string>
+    <string name="alert_select_tool_message">Seleccionar el extrusor de la impresora para %s:</string>
+    <string name="alert_select_tool_message_retraction">retracción</string>
+    <string name="alert_select_tool_message_extrusion">extrusión</string>
+    <string name="alert_select_tool_extruder">extrusor de impresora %1$d (extrusor%2$d)</string>
+    <string name="alert_select_tool_keep_for">Mantener extrusor en memoria por los próximos 30 seg</string>
+    <string name="alert_select_tool_error">No se puede seleccionar extrusor%d</string>
+
+    <string name="alert_fan_speed_value_title">Aviso sobre el valor de velocidad del ventilador</string>
+    <string name="alert_fan_speed_value_message">Ha introducido un código GCODE para recuperar el valor actual de la velocidad del ventilador.\n\nPor eso Printoid no puede ajustar el control deslizante del ventilador al valor actual. Si el control deslizante muestra 0%, no es un error, es un comportamiento previsto. \uD83D\uDE48</string>
+
+    <string name="intro_printoid_website">Descubra https://printoid.net, el sitio web oficial de Printoid! Registro de cambios completo, próximas versiones, nuevas características,  consejos útiles &amp; más!</string>
+    <string name="intro_printoid_website_button">Visitar ahora</string>
+
+    <string name="steaming_not_available">Streaming no disponible.\nPor favor verifique la conexión de su cámara y los sufijos URL ajustados en los ajustes de Printoid.</string>
+
+    <string name="file_list_empty">No hay archivos disponibles</string>
+
+    <string name="screen_locked_msg">Pantalla\nbloqueada!</string>
+
+    <string name="new_octoprint_version">Nueva versión de OctoPrint disponible! (v%s)</string>
+    <string name="new_octoprint_release_candidate">Nuevo candidato a la versión de OctoPrint disponible! (v%s)</string>
+
+    <string name="promote_pro_message">¿Te gusta Printoid? ¿Es esta aplicación su mejor compañero para su impresora 3D?\n\nSi es así, y si lo desea, puede comprar Printoid PRO en Google Play para apoyar al desarrollador.\n\nLa versión Pro le ofrece la transmisión de vídeo, los comandos integrados, los visualizadores 2D y 3D, el simulador en tiempo real y mucho más.</string>
+    <string name="promote_premium_message">¿Te gusta Printoid? ¿Es esta aplicación su mejor compañero para su impresora 3D?\n\nSi es así, y si lo desea, puede comprar Printoid PREMIUM en Google Play para apoyar al desarrollador.\n\n¡La versión Premium te brinda la posibilidad de crear tu propia interfaz física para Printoid!</string>
+
+    <string name="promote_donation_message">¿Te gusta Printoid Premium? ¿Es esta aplicación su mejor compañero para su impresora 3D?\n\nSi es así, y si lo desea, ¡puedes donar la cantidad que elijas para apoyar al desarrollador y su trabajo, y ayudar al desarrollo de nuevas y sorprendentes características!</string>
+
+    <string name="notif_channel_name_overlay">Notificación de servicio de superposición</string>
+    <string name="notif_overlay_running_title">Vídeo por superposición abierta</string>
+    <string name="notif_overlay_running_message">Haga clic aquí para cerrar el servicio de vídeo</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_subject">Printoid Support(geïnstalleerde versies: v%1$s - %2$s)</string>
+    <string name="contact_choose_client">Selecteer uw e-mail client:</string>
+
+    <string name="contact_body">Beste Printoid ontwikkelaar,\n\n
+    Hier is mijn configuratie :\n\n
+    - Tablet/telefoon: %1$s\n
+    - Versie van Android: %2$s\n
+    - Fingerprint: %3$s\n
+    - 3D printer: %4$s\n\n
+    - Versie van OctoPrint: %5$s\n\n
+    Mijn bericht:\n\n\n\n
+    %6$s\n\n\n\n
+    met vriendelijke groet</string>
+
+    <string name="alert_contact_title">Neem contact op met de ontwikkelaar</string>
+
+    <string name="alert_contact_email_msg">\nVoordat u contact op neemt: weet u zeker dat:\n\n
+    - U de laatste versie van Printoid gebruikt?\n
+    - Heb je de tutorials opnieuw bekeken?\n
+    - Heeft u de veelgestelde vragen geraadpleegd (F.A.Q.)?\n
+    - U beleefd en gevoelzaam communiceert?\n\n
+    Als u zich niet aan deze voorwaarden houdt, <b>kan de ontwikkelaar u niet helpen</b>.</string>
+
+    <string name="alert_contact_traces_msg">Voordat u log bestanden opstuurt, weet u zeker dat:\n
+	- U de laatste versie van Printoid gebruikt?\n 
+    - Heb je de tutorials opnieuw bekeken?\n
+    - Heeft u de veelgestelde vragen geraadpleegd (F.A.Q.)?\n
+	- U uit kunt leggen waarom u de logs opstuurt?\n
+	- U beleefd en gevoelzaam communiceert?\n\n
+    Als u zich niet aan deze voorwaarden houdt, <b>kan de ontwikkelaar u niet helpen</b>.</string>
+
+    <string name="alert_contact_tutorials_label">Handleidingen</string>
+    <string name="alert_contact_faq_label">F.A.Q.</string>
+
+</resources>

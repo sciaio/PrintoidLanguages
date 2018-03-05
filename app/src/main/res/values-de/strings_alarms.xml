@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_channel_name_alerts">Benachrichtigungen benachrichtigt</string>
+
+    <string name="alarms_title">Verwalten von Benachrichtigungen</string>
+
+    <string name="alarm_type_progress">Druckprogression</string>
+    <string name="alarm_type_temperature_hot_end">Heizkopftemperatur</string>
+    <string name="alarm_type_temperature_hot_bed">Heizung Betttemperatur</string>
+    <string name="alarm_type_gcode_command">GCODE Befehlsausführung</string>
+    <string name="alarm_type_z_height">Z Höhe</string>
+
+    <string name="alerts_list_empty">Keine Warnungen erstellt</string>
+
+    <string name="alarm_setting_type">Art der Warnung</string>
+    <string name="alarm_setting_sensitivity">Empfindlichkeit dieser Warnung (+ X% des Wertes)</string>
+    <string name="alarm_setting_value_progress">Warnung, wenn der Job diesen Fortschritt erreicht hat (%)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Warnung wenn heißes Ende diese Temperatur erreicht (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Warnung wenn das heiße Bett diese Temperatur erreicht (°)</string>
+    <string name="alarm_setting_value_gcode_command">Warnung wenn dieser GCODE-Befehl ausgeführt wird</string>
+    <string name="alarm_setting_value_z_height">Alarm, wenn die Düse diese Höhe erreicht (mm)</string>
+    <string name="alarm_settins_value">Alarmwert</string>
+    <string name="alarm_setting_vibration_pattern">Schwingungsmuster</string>
+
+    <string name="alarms_exit_editor_alert_title">Speichern Sie Ihre Änderungen</string>
+    <string name="alarms_exit_editor_alert_msg">Möchten Sie Ihre Änderungen vor dem Beenden des Editors speichern?</string>
+
+    <string name="alarm_created">Neue Warnung erstellt</string>
+    <string name="alarm_updated">Alert aktualisiert</string>
+    <string name="alarm_deleted">Alert gelöscht</string>
+
+    <string name="alarms_delete_alert_title">Alert löschen</string>
+    <string name="alarms_delete_alert_msg">Möchten Sie diese Warnung wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.</string>
+
+    <string name="alarm_alert_value_title">Falscher Wert für diese Warnung</string>
+    <string name="alarm_alert_type_msg">Falscher Typ für diese Warnung! Bitte wenden Sie sich an den Entwickler von Printoid</string>
+    <string name="alarm_alert_value_empty_msg">Sie sollten einen Wert für diese Warnung geben!</string>
+    <string name="alarm_alert_value_float_msg">Der Wert für diese Warnung sollte eine Floating-Nummer oder eine Integer sein!</string>
+
+    <string name="alarm_help_title">Manager von Warnung</string>
+    <string name="alarm_help_msg">Sie können benutzerdefinierte Warnungen in Printoid definieren.\n\n
+        Warnungen führen zu einer Android-Benachrichtigung, mit Ton und Vibration abhängig von Ihren Systemeinstellungen.\n\n
+        Warnungen werden nur dann ausgelöst, wenn Printoid auf Ihrem Telefon und im Vordergrund geöffnet ist.\n\n
+        Bitte beachten Sie, dass diese Funktion in Arbeit ist und wird viel verbessert! :)</string>
+
+    <string name="alarm_notification_title">Warnungen: %s</string>
+    <string name="alarm_notification_progress">Aktueller Fortschritt: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">Temperatur des Extruders. %1$d: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Beheizte Betttemperatur: %.1f°</string>
+    <string name="alarm_notification_gcode_command">GCODE-Befehl ausgeführt: %s</string>
+    <string name="alarm_notification_z_height">Z-Höhe erreicht: %.2f</string>
+
+</resources>

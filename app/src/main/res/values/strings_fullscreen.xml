@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">Printer controls fullscreen</string>
+    <string name="full_screen_helper_print">Print details fullscreen</string>
+    <string name="full_screen_helper_temperature">Temperature fullscreen</string>
+    <string name="full_screen_helper_files">Files fullscreen</string>
+    <string name="full_screen_helper_streaming">Streaming fullscreen</string>
+    <string name="full_screen_helper_commands">Commands fullscreen</string>
+
+</resources>

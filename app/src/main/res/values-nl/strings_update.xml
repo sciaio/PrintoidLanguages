@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="update_available_title">Er is een update beschikbaar</string>
+    <string name="update_available_message">Er is een nieuwe versie van Printoid %1$s beschikbaar op Google Play! (%2$s)\n\Nieuw:\n\n%3$s</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_beta_program_title">Beta programma</string>
+    <string name="alert_beta_program_msg">U kunt uw bijdrage leveren aan het Printoid beta programma!\n\nPrintoid heeft daartoe uw email adres nodig om u informatie te sturen over de nieuwste ontwikkelingen. Vazelfsprekend is dit optioneel, we verzekeren u dat uw persoonlijke gegevens vertrouwelijk behandeld zullen worden.\n\nWilt u nu uw deelname aan het Beta programma activeren?</string>
+
+    <string name="alert_beta_infos_title">Uw gegevens</string>
+    <string name="alert_beta_infos_msg">Printoid heeft uw email adres nodig om u informatie te sturen over de laatste ontwikkelingen in het kader van het Beta programma!</string>
+
+    <string name="notification_printoid_beta_program_title">Printoid Beta Programma</string>
+
+</resources>

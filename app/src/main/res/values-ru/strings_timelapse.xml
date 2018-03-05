@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="timelapse_title">Ускоренное видео</string>
+
+    <string name="timelapse_no_file">Нет ускоренного видео</string>
+
+    <string name="timelapse_deleted">Ускоренное видео удалено из OctoPrint</string>
+
+    <string name="download_timelapse_dialog_title">Загрузка ускоренного видео</string>
+    <string name="download_timelapse_dialog_msg">Printoid загружает файл ускоренного видео, минутку…</string>
+
+    <string name="download_timelapse_done">Пометка времени загружена на внутреннее хранилище</string>
+
+    <string name="download_timelapse_alert_title">Ошибка загрузки</string>
+    <string name="download_timelapse_alert_msg">Ошибка загрузки, %s</string>
+    <string name="download_timelapse_alert_error_url">обнаружена ошибка в URL</string>
+    <string name="download_timelapse_alert_error_fnf">ускоренное видео не найдено на Вашем OctoPrint сервере</string>
+    <string name="download_timelapse_alert_error_io">ускоренное видео не может быть сохранено</string>
+    <string name="download_timelapse_alert_error_unknown">произошла неизвестная ошибка</string>
+
+    <string name="timelapse_config_type">Тип ускоренного видео</string>
+    <string name="timelapse_config_fps">Частота кадров (кадр/сек)</string>
+    <string name="timelapse_config_post_roll">Пауза в конце (сек)</string>
+    <string name="timelapse_config_cap_post_roll">Повторять последний кадр</string>
+    <string name="timelapse_config_interval">Интервал (сек)</string>
+    <string name="timelapse_config_zhop">Изменение Z (мм)</string>
+    <string name="timelapse_config_sort">Метод сортировки</string>
+
+    <string name="timelapse_render_succeed_command_title">Запущено создание видео</string>
+    <string name="timelapse_render_succeed_command_msg">Запущено создание ускоренного видео на Вашем OctoPrint сервере.\n\nПожалуйста поймите, что Printoid не может получить статус этого процесса. Если он закончится успешно, то новое ускоренное видео появится в списке.</string>
+
+    <string name="alert_delete_timelapse_title">Удаление ускоренного видео</string>
+    <string name="alert_delete_timelapse_msg">Вы точно хотите удалить ускоренное видео <b>%s</b>? Это действие нельзя отменить.</string>
+
+    <string name="alert_timelapse_inner_player_title">Ошибка встроенного видеоплеера</string>
+    <string name="alert_timelapse_inner_player_msg">Printoid не может воспроизвести Ваше видео встроенным видеоплеером.\n\nХотите попробовать воспроизвести это видео в другом приложении?</string>
+
+    <string name="alert_video_player_permission_title">Проблема доступа</string>
+    <string name="alert_video_player_permission_msg">Выбранный видеоплеер не имеет прав на чтение с внешнего хранилища.</string>
+
+    <string name="alert_vlc_title">Yстанавливать VLC™</string>
+    <string name="alert_vlc_msg">Android не может воспроизводить видео MJEG изначально. К счастью, VideoLAN Client ™ (VLC ™ Media Player) умеет играть в тей!
+         Установите приложение на свой телефон и не забудьте активировать разрешение \"читать внешнее хранилище\".</string>
+
+</resources>

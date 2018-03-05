@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_settings_array">
+        <item>Auto</item>
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+
+    <string-array name="screen_orientations_array">
+        <item>Auto</item>
+        <item>Retrato</item>
+        <item>Retrato invertido</item>
+        <item>Apaisado</item>
+        <item>Apaisado invertido</item>
+    </string-array>
+
+    <string-array name="streaming_method_array">
+        <item>Reproductor de vídeo</item>
+        <item>Vista web</item>
+        <item>Instantánea</item>
+    </string-array>
+
+    <string-array name="setting_sound_array">
+        <item>Sonido 1</item>
+        <item>Sonido 2</item>
+        <item>Sonido 3</item>
+        <item>Sonido 4</item>
+        <item>Sonido 5</item>
+        <item>Sonido 6</item>
+        <item>Sonido OFF</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>Desactivado</item>
+        <item>12H</item>
+        <item>24H</item>
+    </string-array>
+
+    <string-array name="setting_connection_mode_array">
+        <item>Auto</item>
+        <item>LAN en primero</item>
+        <item>WAN en primero</item>
+    </string-array>
+
+    <string-array name="after_slicing_array">
+        <item>No hacer nada</item>
+        <item>Seleccionar para imprimir</item>
+        <item>Comenzar impresión</item>
+    </string-array>
+
+    <string-array name="render_mode_array">
+        <item>Normal</item>
+        <item>Sobresalir</item>
+        <item>Transparente</item>
+        <item>Rayos x</item>
+    </string-array>
+
+    <string-array name="render_mode_gcode_array">
+        <item>Normal</item>
+        <item>Transparente</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>Precio/m</item>
+        <item>Precio/kg</item>
+    </string-array>
+
+</resources>

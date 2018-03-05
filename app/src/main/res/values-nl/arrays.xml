@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_settings_array">
+        <item>Auto</item>
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+
+    <string-array name="screen_orientations_array">
+        <item>Auto</item>
+        <item>Portret</item>
+        <item>Portret Omgekeerd</item>
+        <item>Landschap</item>
+        <item>Landschap Omgekeerd</item>
+    </string-array>
+
+    <string-array name="setting_connection_mode_array">
+        <item>Auto</item>
+        <item>LAN eerste</item>
+        <item>WAN eerste</item>
+    </string-array>
+
+    <string-array name="streaming_method_array">
+        <item>Video speler</item>
+        <item>Web pagina</item>
+        <item>Snapshots</item>
+    </string-array>
+
+    <string-array name="setting_sound_array">
+        <item>Geluid 1</item>
+        <item>Geluid 2</item>
+        <item>Geluid 3</item>
+        <item>Geluid 4</item>
+        <item>Geluid 5</item>
+        <item>Geluid 6</item>
+        <item>Geluid UIT</item>
+    </string-array>
+
+    <string-array name="after_slicing_array">
+        <item>Doe niets</item>
+        <item>Selekteer om te printen</item>
+        <item>Start printen</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>Uit</item>
+        <item>12 Uur</item>
+        <item>24 Uur</item>
+    </string-array>
+
+    <string-array name="render_mode_array">
+        <item>Normaal</item>
+        <item>Overlappend</item>
+        <item>Transparant</item>
+        <item>X ray</item>
+    </string-array>
+
+    <string-array name="render_mode_gcode_array">
+        <item>Normal</item>
+        <item>Transparant</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>Prijs/m</item>
+        <item>Prijs/kg</item>
+    </string-array>
+
+</resources>

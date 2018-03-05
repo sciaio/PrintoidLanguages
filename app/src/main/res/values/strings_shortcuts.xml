@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="shortcut_website_label_long" translatable="false">Printoid official website</string>
+    <string name="shortcut_website_label_short" translatable="false">Printoid.net</string>
+    <string name="shortcut_website_disabled" translatable="false">Printoid.net</string>
+
+    <string name="shortcut_load">Load</string>
+    <string name="shortcut_print">Print</string>
+    <string name="shortcut_render3D">3D view</string>
+    <string name="shortcut_render2D">2D view</string>
+    <string name="shortcut_download">Download</string>
+    <string name="shortcut_delete">Delete</string>
+    <string name="shortcut_slice">Slice</string>
+
+    <string name="shortcut_distance_1mm" translatable="false">1 mm</string>
+    <string name="shortcut_distance_5mm" translatable="false">5 mm</string>
+    <string name="shortcut_distance_10mm" translatable="false">10 mm</string>
+    <string name="shortcut_distance_100mm" translatable="false">100 mm</string>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- CONNECTOR BASE -->
+    <string name="connector_connection_title">Cоединение</string>
+    <string name="connector_connection_to_title">Подключение к %s</string>
+    <string name="connector_connection_step_1" tools:ignore="TypographyFractions">Шаг 1/3</string>
+    <string name="connector_connection_step_2" tools:ignore="TypographyFractions">Шаг 2/3</string>
+    <string name="connector_connection_step_3" tools:ignore="TypographyFractions">Шаг 3/3</string>
+
+    <!-- CONNECTOR STEP 1 (PING) -->
+    <string name="connector_connecting_title">Соединение. Шаг 1 (ping)</string>
+    <string name="connector_connecting_msg">Соединение с Вашим OctoPrint сервером из %1$s&#8230;\n\nАдрес: %2$s</string>
+    <string name="connector_connecting_failed_title">Ошибка на шаге 1 (ping)</string>
+    <string name="connector_connecting_failed_msg"><![CDATA[Printoid не может соединится с Вашим OctoPrint сервером из %1$s. Пожалуйста проверьте локальную сеть и указанный IP.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
+
+    <!-- CONNECTOR STEP 2 (CHECK IP) -->
+    <string name="connector_communicating_title">Соединение. Шаг 2 (тест IP)</string>
+    <string name="connector_communicating_msg">Printoid устанавливает связь с Вашим OctoPrint сервером из %1$s&#8230;\n\nАдрес: %2$s</string>
+    <string name="connector_communication_failed_title">Ошибка на шаге 2 (тест IP)</string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid не может соединится с Вашим OctoPrint сервером из %1$s. Пожалуйста проверьте Ваше сетевое соединение и настройки прежде чем повторить.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
+
+    <!-- CONNECTOR STEP 3 (CHECK API) -->
+    <string name="connector_testing_title">Соединение. Шаг 3 (тест API)</string>
+    <string name="connector_testing_msg">Printoid соединяется с Вашим принтером из %1$s&#8230;\n\nАдрес: %2$s</string>
+    <string name="connector_test_failed_title">Ошибка на шаге 3 (тест API)</string>
+    <string name="connector_test_failed_msg"><![CDATA[Printoid не может отправить команды на принтер из %1$s. Пожалуйста свяжитесь с разработчиком Printoid\'а.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
+
+    <!-- EXTRA MSG: VPN ACTIVE-->
+    <string name="connector_failed_vpn">\n\nПримечание: Printoid обнаружил активный VPN на вашем устройстве, что может повлиять на подключение к серверу OctoPrint.</string>
+
+    <!-- CONNECTOR STATUS -->
+    <string name="connector_communication_established_title">Связь установлена</string>
+    <string name="connector_communication_established_msg">Printoid готов к подключению к OctoPrint серверу.\nВы можете подключить свой сервер к принтеру из меню слева.</string>
+    <string name="octoprint_connection_lost">Соединение с OctoPrint сервером потеряно</string>
+    <string name="connector_profile_not_completed_title">Профиль принтера не полон</string>
+    <string name="connector_profile_not_completed_message">Вы не полностью заполнили профиль принтера.\nПожалуйста проверьте это перед соединением.</string>
+    <string name="connector_communication_canceled">Соединение отменено</string>
+    <string name="connector_communication_established_with">Связь установлена: %s</string>
+    <string name="connector_communication_canceled_with">Соединение отменено: %s</string>
+
+    <!-- CONNECTOR ERRORS -->
+    <string name="connector_error_format_multiple_ip"><![CDATA[Первый тест: <b>%1$s</b><br>-> %2$s<br><br>Bторой тест: <b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_server_not_reachable">Сервер не доступен</string>
+    <string name="connector_error_unknown_host">Неизвестный хост</string>
+    <string name="connector_error_io_error">IO ошибка </string>
+    <string name="connector_error_empty_response">Пустой ответ</string>
+    <string name="connector_error_none_response">Нет ответа</string>
+    <string name="connector_error_connectivity_response">Нет подключения или сигнал слишком плохой, пожалуйста, проверьте сетевое соединение</string>
+    <string name="connector_error_invalid_api_key">Неверный API ключ</string>
+    <string name="connector_error_missing_api_key">Отсутствует API ключ</string>
+    <string name="connector_error_unauthorized">Ошибка авторизации, попробуйте выбрать в настройка Printoid\'а соединение с основной авторизацией или проверьте данные учетной записи</string>
+    <string name="connector_error_http_error">Ошибка HTTP-запроса: %2$d (%1$s)</string>
+    <string name="connector_error_parsing_exception">Неизвестный API формат, пожалуйста свяжитесь с разработчиком Printoid\'а </string>
+
+    <!-- NETWORK ISSUE -->
+    <string name="alert_network_connecting_title">Подключение к сети…</string>
+    <string name="alert_network_connecting_message">Ваше устройство в данный момент подключается к сети, пожалуйста повторите попытку соединения через несколько секунд</string>
+    <string name="alert_network_unavailable_title">Нет подключения</string>
+    <string name="alert_network_unavailable_message">Ваше устройство ни к чему не подключено, Printoid не может соединиться с Вашим OctoPrint сервером</string>
+
+    <!-- PRINTER CONNECTION -->
+    <string name="connector_printer_connection_title">Подключение принтера…</string>
+    <string name="connector_printer_connection_msg">Printoid подключается к вашему 3D-принтеру, подождите…</string>
+
+    <!-- PRINTER CONNECTOR -->
+    <string name="main_printer_connected_title">Принтер подключен</string>
+    <string name="main_printer_connected_msg">Printoid готов к управлению принтером.</string>
+    <string name="main_printer_connection_error_title">Ошибка подключения принтера</string>
+    <string name="main_printer_connection_error_msg">Printoid не может подключиться к принтеру.\nПожалуйста проверьте соединение принтера с Вашим Raspberry Pi, и включите принтер.</string>
+
+    <!-- PRINTER DISCONNECTOR -->
+    <string name="alert_disconnect_printer_title">Отключение принтера</string>
+    <string name="alert_disconnect_printer_message">Принтер будет отключен от Вашего OctoPrint сервера. Вы хотите продолжить?</string>
+    <string name="printer_disconnected">Принтер отключён</string>
+
+    <!-- TTY SELECTOR -->
+    <string name="select_tty_title">Подключение к принтеру</string>
+    <string name="select_tty_keep">Сохранить настройки подключения</string>
+    <string name="select_tty">Последовательный порт</string>
+    <string name="select_tty_profile">Профиль принтера</string>
+    <string name="select_tty_auto_connect">Автосоединение</string>
+
+</resources>

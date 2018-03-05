@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sort_method">Wähle Sortierung:</string>
+    <string name="sort_name_ascending">Alphabetisch</string>
+    <string name="sort_name_descending">Alphabetisch (umgekehrt)</string>
+    <string name="sort_oldest_first">Älteste Datei zuerst</string>
+    <string name="sort_newest_first">Neuste Datei zuerst</string>
+    <string name="sort_shortest_first">Schnellster Druck zuerst</string>
+    <string name="sort_longest_first">Längster Druck zuerst</string>
+    <string name="sort_most_success_first">Erfolgreichste Datei zuerst</string>
+    <string name="sort_less_success_first">Erfolgloseste Datei zuerst</string>
+    <string name="sort_favorites_only">Nur Favoriten</string>
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printer_state_octo_disconnected">Offline</string>
+    <string name="printer_state_disconnected">Disconnected</string>
+    <string name="printer_state_connecting">Connecting&#8230;</string>
+    <string name="printer_state_sending_file">Sending file…</string>
+    <string name="printer_state_ready">Ready to print</string>
+    <string name="printer_state_paused">Print paused</string>
+    <string name="printer_state_printing">Printing&#8230;</string>
+    <string name="printer_state_error">Printer connection error</string>
+
+    <string name="empty" translatable="false">&#8212;</string>
+    <string name="dimensions_format" translatable="false">%1$.1fmm × %2$.1fmm × %3$.1fmm</string>
+    <string name="dimensions_reduced_format" translatable="false">%1$.1f×%2$.1f×%3$.1f mm</string>
+    <string name="remaining_time_none" translatable="false">&#8212; : &#8212;</string>
+    <string name="file">File: %s</string>
+    <string name="file_label">File:</string>
+    <string name="file_empty">No loaded file</string>
+    <string name="end_time_empty">&#8212;</string>
+    <string name="end_time_label">End time:</string>
+    <string name="end_time_label_no_column">End time</string>
+    <string name="end_time">End time: %s</string>
+    <string name="printed_empty">&#8212;</string>
+    <string name="printed_label">Printed:</string>
+    <string name="current_z">Z:</string>
+    <string name="current_z_value" translatable="false">%.2f mm</string>
+    <string name="current_z_empty" translatable="false">&#8212; mm</string>
+    <string name="printed">%1$s/%2$s</string>
+    <string name="printed_time">Print time: %s</string>
+    <string name="printed_time_empty">&#8212; : &#8212;</string>
+    <string name="printed_time_label">Print time:</string>
+    <string name="file_type_stl">File type: model</string>
+    <string name="file_type_gcode">File type: machine code</string>
+    <string name="file_size">%s</string>
+    <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
+    <string name="estimated_print_time">%s</string>
+    <string name="uploaded_date">%s ago</string>
+    <string name="file_size_label">File size:</string>
+    <string name="filament_label">Filament:</string>
+    <string name="estimated_print_time_label">Estimated time:</string>
+    <string name="average_print_time_label">Average time:</string>
+    <string name="last_print_time_label">Last time:</string>
+    <string name="uploaded_date_label">Uploaded:</string>
+    <string name="filament_empty">&#8212;</string>
+    <string name="file_name_empty">Select a file in the list</string>
+    <string name="model_size">Dimensions:</string>
+    <string name="origin">Origin:</string>
+    <string name="failures">Failure:</string>
+    <string name="success">Success:</string>
+    <string name="cost">Cost:</string>
+
+    <string name="size_label">Size:</string>
+    <string name="time_label">Time:</string>
+    <string name="end_label">End:</string>
+
+    <string name="date_few_seconds">a few seconds</string>
+    <string name="date_second">%d second</string>
+    <string name="date_seconds">%d seconds</string>
+    <string name="date_minute">%d minute</string>
+    <string name="date_minutes">%d minutes</string>
+    <string name="date_hour">%d hour</string>
+    <string name="date_hours">%d hours</string>
+    <string name="date_day">%d day</string>
+    <string name="date_days">%d days</string>
+    <string name="date_month">%d month</string>
+    <string name="date_months">%d months</string>
+    <string name="date_year">%d year</string>
+    <string name="date_years">%d years</string>
+
+    <string name="progress">Progress:</string>
+    <string name="progress_label_time">time</string>
+    <string name="progress_label_gcode">gcode</string>
+    <string name="progress_label_time_percent">time (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- CONNECTOR BASE -->
+    <string name="connector_connection_title">Connexion</string>
+    <string name="connector_connection_to_title">Connexion à %s</string>
+    <string name="connector_connection_step_1" tools:ignore="TypographyFractions">Étape 1/3</string>
+    <string name="connector_connection_step_2" tools:ignore="TypographyFractions">Étape 2/3</string>
+    <string name="connector_connection_step_3" tools:ignore="TypographyFractions">Étape 3/3</string>
+
+    <!-- CONNECTOR STEP 1 (PING) -->
+    <string name="connector_connecting_title">Etape de connexion 1 (ping)</string>
+    <string name="connector_connecting_msg">Contact de votre serveur OctoPrint via %1$s&#8230;\n\nAdresse: %2$s</string>
+    <string name="connector_connecting_failed_title">Echec étape 1 (ping)</string>
+    <string name="connector_connecting_failed_msg"><![CDATA[Printoid ne parvient pas à contacter votre serveur OctoPrint via %1$s. Veuillez vérifier votre réseau local et l\'adresse IP fournie.<br><br><b>Informations supplémentaires :</b><br><br>%2$s]]></string>
+
+    <!-- CONNECTOR STEP 2 (CHECK IP) -->
+    <string name="connector_communicating_title">Etape de connexion 2 (test IP)</string>
+    <string name="connector_communicating_msg">Printoid établit la communication avec votre serveur OctoPrint via %1$s&#8230;\n\nAdresse: %2$s</string>
+    <string name="connector_communication_failed_title">Echec étape 2 (test IP)</string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid ne peut pas communiquer avec votre serveur OctoPrint via %1$s. Veuillez vérifier votre connexion réseau ainsi que votre configuration et réessayer.<br><br><b>Informations supplémentaires :</b><br><br>%2$s]]></string>
+
+    <!-- CONNECTOR STEP 3 (CHECK API) -->
+    <string name="connector_testing_title">Etape de connexion 3 (test API)</string>
+    <string name="connector_testing_msg">Printoid communique avec votre imprimante via %1$s&#8230;\n\nAdresse: %2$s</string>
+    <string name="connector_test_failed_title">Echec étape 3 (test API)</string>
+    <string name="connector_test_failed_msg"><![CDATA[Printoid ne parvient pas à envoyer de commande à votre imprimante via %1$s. Veuillez contacter le développeur de Printoid.<br><br><b>Informations supplémentaires :</b><br><br>%2$s]]></string>
+
+    <!-- EXTRA MSG: VPN ACTIVE-->
+    <string name="connector_failed_vpn">\n\nNote: Printoid a détecté un VPN actif sur votre appareil, celui-ci peut impacter la connexion à votre serveur OctoPrint.</string>
+
+    <!-- CONNECTOR STATUS -->
+    <string name="connector_communication_established_title">Communication établie</string>
+    <string name="connector_communication_established_msg">Printoid est prêt à communiquer avec votre serveur OctoPrint.\nVous pouvez connecter votre serveur à l\'imprimante depuis le menu latéral de gauche.</string>
+    <string name="octoprint_connection_lost">Connexion avec le serveur OctoPrint perdue</string>
+    <string name="connector_profile_not_completed_title">Profil OctoPrint incomplet</string>
+    <string name="connector_profile_not_completed_message">Le profil OctoPrint que vous avez configuré ou sélectionné semble incomplet.\nVeuillez y apporter les modifications nécessaires avant de vous connecter.</string>
+    <string name="connector_communication_canceled">Connexion annulée</string>
+    <string name="connector_communication_established_with">Connexion avec %s établie</string>
+    <string name="connector_communication_canceled_with">Connexion avec %s annulée</string>
+
+    <!-- CONNECTOR ERRORS -->
+    <string name="connector_error_format_multiple_ip"><![CDATA[Premier test :<b>%1$s</b><br>-> %2$s<br><br>Second test :<b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_server_not_reachable">Serveur inatteignable</string>
+    <string name="connector_error_unknown_host">Hôte inconnu</string>
+    <string name="connector_error_io_error">Error de lecture/écriture</string>
+    <string name="connector_error_empty_response">Réponse vide</string>
+    <string name="connector_error_none_response">Pas de réponse</string>
+    <string name="connector_error_connectivity_response">Pas de connectivité ou signal trop mauvais, vérifiez votre réseau</string>
+    <string name="connector_error_invalid_api_key">Clé d\'API invalide</string>
+    <string name="connector_error_missing_api_key">Clé d\'API manquante</string>
+    <string name="connector_error_unauthorized">Authorisation refusée, peut-être devriez-vous activer l\'authentification avec basic auth dans les paramètres de Printoid ou vérifier vos identifiants</string>
+    <string name="connector_error_http_error">Erreur requête HTTP : %2$d (%1$s)</string>
+    <string name="connector_error_parsing_exception">Format d\'API inconnu, contactez le développeur de Printoid</string>
+
+    <!-- NETWORK ISSUE -->
+    <string name="alert_network_connecting_title">En cours de connection à un réseau…</string>
+    <string name="alert_network_connecting_message">Votre appareil est actuellement en cours de connexion à un réseau, veuillez réessayer la connexion dans quelques seconds</string>
+    <string name="alert_network_unavailable_title">Connecté à aucun réseau</string>
+    <string name="alert_network_unavailable_message">Votre appareil n\'est connecté à aucun réseau. Printoid ne peut pas accéder à votre serveur OctoPrint</string>
+
+    <!-- PRINTER CONNECTION -->
+    <string name="connector_printer_connection_title">Connexion à l\'imprimante…</string>
+    <string name="connector_printer_connection_msg">Printoid se connecte à votre imprimante 3D, merci de patienter…</string>
+
+    <!-- PRINTER CONNECTOR -->
+    <string name="main_printer_connected_msg">Printoid est prêt à communiquer avec votre imprimante.</string>
+    <string name="main_printer_connected_title">Imprimante connectée</string>
+    <string name="main_printer_connection_error_msg">Printoid ne peut pas se connecter à l\'imprimante.\nVérifiez sa connexion au Raspberry Pi, son port série, et qu\'elle soit sous tension.</string>
+    <string name="main_printer_connection_error_title">Erreur de connexion à l\'\imprimante</string>
+
+    <!-- PRINTER DISCONNECTOR -->
+    <string name="alert_disconnect_printer_title">Déconnecter l\'imprimante</string>
+    <string name="alert_disconnect_printer_message">L\'imprimante va être déconnectée de votre serveur OctoPrint. Êtes-vous sûr de vouloir continuer ?</string>
+    <string name="printer_disconnected">Imprimante déconnectée</string>
+
+    <!-- TTY SELECTOR -->
+    <string name="select_tty_title">Connecter une imprimante</string>
+    <string name="select_tty_keep">Sauver les préférences</string>
+    <string name="select_tty">Port série</string>
+    <string name="select_tty_profile">Profil d\'imprimante</string>
+    <string name="select_tty_auto_connect">Connexion auto</string>
+
+</resources>

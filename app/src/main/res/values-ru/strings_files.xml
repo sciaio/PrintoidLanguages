@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select_file_to_upload">Выбирите файл для загрузки</string>
+    <string name="upload_new_file">Загрузка нового файла</string>
+    <string name="select_file_install_file_explorer">Нет файлового проводника.</string>
+    <string name="upload_file_dialog_title">Загрузка файла</string>
+    <string name="upload_file_dialog_msg">%1$s\n%2$d%%</string>
+
+    <string name="upload_error_file_not_found">Ошибка: файл не найден</string>
+    <string name="upload_error_bad_request">Ошибка: неверный запрос</string>
+    <string name="upload_error_remote_not_found">Ошибка: путь на сервере не найден</string>
+    <string name="upload_error_conflict">Ошибка: проблема с этим файлом</string>
+    <string name="upload_error_unsupported_media">Ошибка: не поддерживаемый тип, не GCODE или STL файл</string>
+    <string name="upload_error_internal_server_error">Ошибка: внутреняя ошибка OctoPrint сервера</string>
+    <string name="upload_error_unknown">Ошибка: не удалось отправить файл Вашему OctoPrint серверу (%d)</string>
+
+    <string name="create_folder_title">Создание папки</string>
+    <string name="create_folder_message">Имя новой папки:</string>
+    <string name="create_folder_message_hint">Имя новой папки</string>
+    <string name="create_folder_created">Папка создана</string>
+    <string name="create_folder_error_file_not_found">Ошибка: папка не найдена</string>
+    <string name="create_folder_error_bad_request">Ошибка: плохой запрос</string>
+    <string name="create_folder_error_remote_not_found">Ошибка: папка на сервере не найдена</string>
+    <string name="create_folder_error_conflict">Ошибка: имя папки уже занято</string>
+    <string name="create_folder_error_internal_server_error">Ошибка: ошибка OctoPrint сервера</string>
+    <string name="create_folder_error_unknown">Ошибка: невозможно создать папку на Вашем OctoPrint сервере (%d)</string>
+
+    <string name="move_file_title">Перемещение файла</string>
+    <string name="move_file_message">Переместить файл %s в папку:</string>
+    <string name="move_file_done">Файл перемещен</string>
+    <string name="move_file_error_sdcard_msg">Printoid не может переместить файл с sdcard!</string>
+
+    <string name="upload_file_title">Загрузка файла</string>
+    <string name="upload_file_message">Загрузка файла %s в:</string>
+    <string name="upload_file_done">Файл загружен</string>
+
+    <string name="downloading_file">Скачивание файла&#8230;</string>
+    <string name="file_deleted">Файл удален из OctoPrint</string>
+    <string name="folder_deleted">Папка удалена из OctoPrint</string>
+
+    <string name="alert_delete_file_title">Удаление файла</string>
+    <string name="alert_delete_file_msg">Вы действительно хотите удалить <b>%s</b>? Это действие Вы не сможете отменить.</string>
+
+    <string name="alert_delete_folder_title">Удалить папку</string>
+    <string name="alert_delete_folder_msg">Вы действительно хотите удалить папку <b>%s</b>? Все файлы в этой папке также будут удалены. Это действие не может быть отменено.</string>
+
+    <string name="alert_cant_delete_msg">Printoid не может удалить %s</string>
+
+    <string name="files_new_folder">Новая папка</string>
+    <string name="files_move_file">движение</string>
+    <string name="files_upload_file">Отправить</string>
+    <string name="files_sort_files">Cортировать</string>
+    <string name="files_analyze">днализировать</string>
+    <string name="files_history">исторический</string>
+
+    <string name="analyzer_folder_root">Основная папка</string>
+    <string name="analyzer_number_file">%d файл</string>
+    <string name="analyzer_number_files">%d файлы</string>
+    <string name="analyzer_number_folder">%d папка</string>
+    <string name="analyzer_number_folders">%d папки</string>
+    <string name="analyzer_success_failures">%1$d %2$s / %3$d %4$s</string>
+    <string name="analyzer_success">успех</string>
+    <string name="analyzer_success_plural">успех</string>
+    <string name="analyzer_failure">отказ</string>
+    <string name="analyzer_failure_plural">неудачи</string>
+    <string name="analyzer_total_print_time">Общее время печати:</string>
+    <string name="analyzer_total_size">Общий размер:</string>
+    <string name="analyzer_total_filament_length">Полная длина нити:</string>
+    <string name="analyzer_total_folders">Количество папок:</string>
+    <string name="analyzer_total_machine_code">Количество GCODE:</string>
+    <string name="analyzer_total_models">Количество моделей:</string>
+    <string name="analyzer_total_estimated_cost">Общая расчетная стоимость:</string>
+
+</resources>

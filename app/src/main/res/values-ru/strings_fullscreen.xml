@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">Управление принтером на весь экран</string>
+    <string name="full_screen_helper_print">Статус принтера на весь экран</string>
+    <string name="full_screen_helper_temperature">Температура на весь экран</string>
+    <string name="full_screen_helper_files">Файлы на весь экран</string>
+    <string name="full_screen_helper_streaming">Видео на весь экран</string>
+    <string name="full_screen_helper_commands">Команды на весь экран</string>
+
+</resources>

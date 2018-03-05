@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="keyboard_distant_command_toast_msg">Befehl erhalten: %s</string>
+
+    <string name="keyboard_distant_gcode_command_title">GCODE-Befehl senden</string>
+    <string name="keyboard_distant_gcode_command_msg">Drücken Sie ENTER Taste zum Senden, ESCAPE zum Abbrechen, KOMMA um Befehle zu trennen</string>
+
+    <string name="keyboard_action_connect">Verbinden</string>
+    <string name="keyboard_action_fullscreen">Vollbild wechseln</string>
+    <string name="keyboard_action_streaming">Stream anzeigen</string>
+    <string name="keyboard_action_simulator">Echtzeit-2D-Visualizer</string>
+    <string name="keyboard_action_commands">Befehle anzeigen</string>
+    <string name="keyboard_action_wep_app">OctoPrint Webansicht anzeigen</string>
+    <string name="keyboard_action_wep_site">Printoid Website anzeigen</string>
+    <string name="keyboard_action_octoprint_profiles">OctoPrint Profile</string>
+    <string name="keyboard_action_app_settings">Einstellungen</string>
+    <string name="keyboard_action_app_infos">Infos</string>
+    <string name="keyboard_action_files">Dateien</string>
+    <string name="keyboard_action_timelapses">Zeitraffer</string>
+    <string name="keyboard_action_right_panel">Rechtes Seitenpanel öffnen</string>
+    <string name="keyboard_action_right_panel_close">Rechte Seitenpanel schließen</string>
+    <string name="keyboard_action_x">X Achse</string>
+    <string name="keyboard_action_y">Y Achse</string>
+    <string name="keyboard_action_z">Z Achse</string>
+    <string name="keyboard_action_home_xy">XY Home</string>
+    <string name="keyboard_action_home_z">Z Home</string>
+    <string name="keyboard_action_extrude">Extrusion</string>
+    <string name="keyboard_action_retract">Retraction</string>
+    <string name="keyboard_action_move_distance">Fahrstrecke auf %.1f eingestellt</string>
+    <string name="keyboard_action_increment_fan">Lüftergeschwindigkeit erhöhen</string>
+    <string name="keyboard_action_decrement_fan">Lüftergeschwindigkeit reduzieren</string>
+    <string name="keyboard_action_increment_ext">ext.%d Temperatur erhöhen</string>
+    <string name="keyboard_action_decrement_ext"> ext.%d Temperatur senken</string>
+    <string name="keyboard_action_increment_bed">Bett-Temperatur erhöhen</string>
+    <string name="keyboard_action_decrement_bed">Bett-Temperatur senken</string>
+    <string name="keyboard_action_select_tool">Extruder %d auswählen</string>
+    <string name="keyboard_action_print">Ausgewählte Datei drucken</string>
+    <string name="keyboard_action_pause">Druck pausieren</string>
+    <string name="keyboard_action_stop">Druck stoppen</string>
+
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tutorial_available_in_pro_version">Available in the PRO and PREMIUM versions</string>
+    <string name="tutorial_available_in_premium_version">Available in the PREMIUM version</string>
+
+    <!-- WELCOME -->
+    <string name="tutorial_message_welcome">Welcome to Printoid %s!</string>
+    <string name="tutorial_message_welcome_2">Please take a minute to learn what this app contains :)</string>
+
+    <!-- VERSIONS COMPARATOR -->
+    <string name="tutorial_comparator_title">Versions comparator</string>
+    <string name="tutorial_comparator_premium_title" translatable="false">Printoid PREMIUM</string>
+    <string name="tutorial_comparator_premium_content">PRO features + advanced control, widgets and more…</string>
+    <string name="tutorial_comparator_pro_title" translatable="false">Printoid PRO</string>
+    <string name="tutorial_comparator_pro_content">Multiple OctoPrint profiles, streaming, custom commands, 2D &amp; 3D visualizers, real-time simulator &amp; more…</string>
+    <string name="tutorial_comparator_lite_title" translatable="false">Printoid LITE</string>
+    <string name="tutorial_comparator_lite_content">Basic pack of features for free &amp; for an unlimited duration</string>
+    <string name="tutorial_comparator_button_1">Full versions comparator</string>
+
+    <!-- KEYBOARD / ADB -->
+    <string name="tutorial_keyboard_title">Keyboard &amp; ADB control</string>
+    <string name="tutorial_keyboard_message">Control Printoid with a keyboard or build your own physical interface by using ADB!</string>
+    <string name="tutorial_keyboard_message_3">More informations about the available commands on the official web-site</string>
+    <string name="tutorial_keyboard_button_1">ADB control</string>
+    <string name="tutorial_keyboard_button_2">Keyboard control</string>
+
+    <!-- WIDGETS -->
+    <string name="tutorial_widgets_title">Exclusive widgets</string>
+    <string name="tutorial_widgets_message">Monitor your 3D printers without having to start the application!</string>
+    <string name="tutorial_widgets_message_3">Add as many widget as you want to build your own interface and just tap on them to update the values!</string>
+
+    <!-- STREAMING -->
+    <string name="tutorial_video_title">Video streaming</string>
+    <string name="tutorial_video_message">Always keep an eye on what\'s happening on your 3D printer plate!</string>
+    <string name="tutorial_video_message_2">In-app video player, launcher widget and floating icon to see your video from anywhere</string>
+    <string name="tutorial_video_message_4">A reverse proxy on the Raspberry Pi is a good practice to make the streaming accessible on the same port as OctoPrint</string>
+    <string name="tutorial_video_button_1">Setup my camera</string>
+    <string name="tutorial_video_button_2">Start low/high quality</string>
+    <string name="tutorial_video_button_3">Support 2 cameras</string>
+
+    <!-- COMMANDS -->
+    <string name="tutorial_commands_title">Your own commands</string>
+    <string name="tutorial_commands_message">Customize Printoid with your own commands &amp; features!</string>
+    <string name="tutorial_commands_message_2">Create your own buttons to send GCODE commands to your 3D printer</string>
+    <string name="tutorial_commands_message_3">Communicate with your Raspberry Pi over SSH (control a relay…)</string>
+    <string name="tutorial_commands_message_4">Access to your OctoPrint built-in commands (registered in config.yaml)</string>
+    <string name="tutorial_commands_button_1">GCODE commands</string>
+    <string name="tutorial_commands_button_2">SSH commands</string>
+    <string name="tutorial_commands_button_3">HTTP commands</string>
+
+    <!-- MULTI PROFILES -->
+    <string name="tutorial_multi_profiles_title">Easy connection to OctoPrint servers</string>
+    <string name="tutorial_multi_profiles_message">Control and manage as many OctoPrint servers and 3D printers as you need!</string>
+    <string name="tutorial_multi_profiles_message_2">Printoid will smartly use by itself the local (LAN) or distant (WAN) configuration when needed</string>
+    <string name="tutorial_multi_profiles_message_3">Please note that every Printoid settings are relative to the selected profile</string>
+    <string name="tutorial_multi_profiles_button_1">How to connect?</string>
+    <string name="tutorial_multi_profiles_button_2">Connect from outside (3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_3">Adjusting the settings</string>
+
+    <!-- 2D / 3D RENDERERS -->
+    <string name="tutorial_render_title">2D &amp; 3D visualizers</string>
+    <string name="tutorial_render_message_0">The 2D and 3D visualizers are accessible from the extended file manager (open it from the left menu)</string>
+    <string name="tutorial_render_message">Check each layers of your GCODE files in 2D or visualize the whole STL or GCODE object in 3D from the app!</string>
+    <string name="tutorial_render_message_2">Printoid also provides a real-time 2D simulator when you are printing an object</string>
+    <string name="tutorial_render_button_1">How does it work</string>
+
+    <!-- ANDROID WEAR -->
+    <string name="tutorial_wear_title">Android Wear module</string>
+    <string name="tutorial_wear_message_1">Control and manage your 3D printer directly from your wrist!</string>
+    <string name="tutorial_wear_message_2">Printer informations, axis control, temperatures/ventilation/extruders management, files and commands lists</string>
+    <string name="tutorial_wear_message_3">This module is only available for Android Wear (not available for Samsung Wear (Tizen))</string>
+
+    <!-- WEBAPP -->
+    <string name="tutorial_web_app_title">OctoPrint web interface</string>
+    <string name="tutorial_web_app_message">You also have an extra access to your <b>OctoPrint server web interface</b>, without having to leave Printoid!</string>
+    <string name="tutorial_web_app_message_2">Designed to fit perfectly with smartphone and tablet screens</string>
+
+    <!-- WEBSITE -->
+    <string name="tutorial_support_title">Official website and support</string>
+    <string name="tutorial_support_message_1">You will be able to find all the responses to your questions on https://printoid.net</string>
+    <string name="tutorial_support_message_2">Constant updates, tricks &amp; tips, useful informations, development communication…</string>
+    <string name="tutorial_support_message_3">Feel free to contact the developer by e-mail for any issue or feature request!</string>
+    <string name="tutorial_support_button_1">News feed</string>
+    <string name="tutorial_support_button_2">Frequently Asked Questions</string>
+    <string name="tutorial_support_button_3">Contact the developer</string>
+
+    <!-- END -->
+    <string name="tutorial_end_message">Start Printoid</string>
+
+    <!-- BACKUP -->
+    <string name="tutorial_backup_read_permission_title">Backup &amp; restore</string>
+    <string name="tutorial_backup_read_permission_msg">Printoid is able to restore the whole configuration from a previous installation if needed (if you had installed Printoid LITE for example).\n\nTo achieve this, please accept the permission in the following dialog.</string>
+    <string name="tutorial_backup_from_sdcard">Apply the last backup!</string>
+    <string name="tutorial_backup_from_other_app">Apply backup from Printoid %s!</string>
+    <string name="tutorial_backup_from_other_app_premium" translatable="false">PREMIUM</string>
+    <string name="tutorial_backup_from_other_app_pro" translatable="false">PRO</string>
+    <string name="tutorial_backup_from_other_app_trial" translatable="false">LITE</string>
+    <string name="tutorial_backup_from_other_error">Can\'t apply the backup from Printoid %s, an error occurred</string>
+    <string name="tutorial_backup_from_other_error_permission">Can\'t apply the backup from Printoid %s, its \'write external storage\' permission is not granted</string>
+    <string name="tutorial_backup_from_other_error_unknown">Can\'t apply the backup from Printoid %s, an unknown error occurred</string>
+
+    <!-- LINKS -->
+    <string name="printoid_facebook_url" translatable="false">https://www.facebook.com/printoid/</string>
+    <string name="printoid_facebook_app_link" translatable="false">fb://facewebmodal/f?href=https://www.facebook.com/printoid/</string>
+    <string name="printoid_twitter_url" translatable="false">https://twitter.com/AndroidPrintoid</string>
+    <string name="printoid_twitter_app_link" translatable="false">twitter://user?screen_name=AndroidPrintoid</string>
+    <string name="printoid_patreon_url" translatable="false">https://www.patreon.com/printoid</string>
+
+</resources>

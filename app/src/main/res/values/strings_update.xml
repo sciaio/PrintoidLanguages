@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="update_available_title">Update available</string>
+    <string name="update_available_message">A new version of Printoid %1$s is available on Google Play! (%2$s)\n\nChangelog:\n\n%3$s</string>
+
+</resources>

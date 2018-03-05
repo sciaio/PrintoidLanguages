@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sort_method">Sélectionnez un mode de tri :</string>
+    <string name="sort_name_ascending">Alphabétique</string>
+    <string name="sort_name_descending">Alphabétique inversé</string>
+    <string name="sort_oldest_first">Plus ancien</string>
+    <string name="sort_newest_first">Plus récent</string>
+    <string name="sort_shortest_first">Plus courte impression</string>
+    <string name="sort_longest_first">Plus longue impression</string>
+    <string name="sort_most_success_first">Plus de réussite</string>
+    <string name="sort_less_success_first">Moins de réussite</string>
+    <string name="sort_favorites_only">Favoris uniquement</string>
+    
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cults_locale">es</string>
+
+    <string name="cults_category_url">https://cults3d.com/es/categoría/%s</string>
+
+    <string name="cults_free">gratis</string>
+    <string name="cults_powered_by">Creado por</string>
+    <string name="cults_see_more_creations">Ver más creaciones en</string>
+    <string name="cults_see_creation_on">Ver esta creación en</string>
+    <string name="cults_created_by">Creado por %s</string>
+
+    <string name="cults_select_mode">Seleccione una categoría de creación</string>
+    <string name="cults_mode_selection">Selección Cults</string>
+    <string name="cults_mode_latest_creation">Últimas creaciones</string>
+
+    <string name="cults_http_error">¡Arf! Algo sale mal :(\nError %1$d\n(%2$s)</string>
+
+</resources>
