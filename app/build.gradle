@@ -1,13 +1,13 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 27
     buildToolsVersion "27.0.3"
 
-    defaultConfig {
-        applicationId "fr.yochi376.printoid.languages"
+    publishNonDefault true
 
-        minSdkVersion 15
+    defaultConfig {
+        minSdkVersion 14
         targetSdkVersion 27
 
         versionCode 9110
@@ -15,10 +15,45 @@ android {
     }
 
     buildTypes {
+        debug {
+        }
         release {
             minifyEnabled false
+            debuggable false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+        mock {
+            initWith(buildTypes.release)
+            minifyEnabled false
+            shrinkResources false
+            debuggable true
+            multiDexEnabled true
+        }
+    }
+
+    flavorDimensions "printoid"
+
+    productFlavors {
+        phonesPremium {
+            dimension "printoid"
+        }
+        phones {
+            dimension "printoid"
+        }
+        phonesTest {
+            dimension "printoid"
+        }
+        phonesTrial {
+            dimension "printoid"
+        }
+        tablets {
+            dimension "printoid"
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds true
+        abortOnError true
     }
 }
 
