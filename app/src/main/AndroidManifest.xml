@@ -1,0 +1,7 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fr.yochi376.printoid.languages">
+
+    <application
+        android:allowBackup="false"/>
+</manifest>
