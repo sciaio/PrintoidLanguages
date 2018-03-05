@@ -146,7 +146,7 @@ Printoid Languages is embedded in Printoid as a library. All the changes in this
 
 * **Gorka HERRERO** - *🇪🇸 Spanish translations*
 
-* **Angel Del Pino Jimenez** - *🇪🇸 Spanish translations*
+* **Angel DEL PINO JIMENEZ** - *🇪🇸 Spanish translations*
 
 * **Ruud RADEMAKER** - *🇳🇱 Dutch translations*
 
