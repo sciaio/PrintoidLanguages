@@ -18,36 +18,36 @@ You don't need to be a developer to help me to translate Printoid :) You don't n
 
 ### Where are located the resources
 
-The resources are lcoated in the */app/src/main/res/* folder.
+The resources are lcoated in the **/app/src/main/res/** folder.
 
-- *values* contains the default values, in english
-- *values-fr* contains the values translated in french
-- *values-de* contains the values translated in german
-- *values-es* contains the values translated in spanish
-- *values-ru* contains the values translated in russian
-- *values-nl* contains the values translated in dutch
+- **values** contains the default values, in english
+- **values-fr** contains the values translated in french
+- **values-de** contains the values translated in german
+- **values-es** contains the values translated in spanish
+- **values-ru** contains the values translated in russian
+- **values-nl** contains the values translated in dutch
 
 ### Create translations to a new language
 
-To create the translations to a new language, you need to create a new folder in */app/src/main/res/*.
+To create the translations to a new language, you need to create a new folder in **/app/src/main/res/**.
 
 For example, to introduce these new languages:
 
-- *values-it* for italian translations
-- *values-pt* for portuguese translations
-- *values-pl* for polish translations
+- **values-it** for italian translations
+- **values-pt** for portuguese translations
+- **values-pl** for polish translations
 - ...
 
-Then, copy all the *xml* files from an existing folder. For example:
-- if you want to translate from English to Italian, then copy the files from *values* to *values-it*
-- if you want to translate from French to Polish, then copy the files from *values-fr* to *values-pl*
+Then, copy all the **xml** files from an existing folder. For example:
+- if you want to translate from English to Italian, then copy the files from **values** to **values-it**
+- if you want to translate from French to Polish, then copy the files from **values-fr** to **values-pl**
 - ...
 
 Please, don't rename the files. Keep the files name (the strings are ordered by app features).
 
 ### Some translation examples
 
-*A basic example*
+**A basic example**
 
 In the file *values*/string_connect.xml :
 
@@ -56,7 +56,7 @@ In the file *values*/string_connect.xml :
 <string name="connection_dialog_message">Printoid is connecting to your server, please wait...</string>
 ```
 
-The translation in french would look like, in *values-fr*/string_connect.xml :
+The translation in french would look like, in **values-fr**/string_connect.xml :
 
 ```
 <string name="connection_dialog_title">Connexion au serveur</string>
@@ -65,7 +65,7 @@ The translation in french would look like, in *values-fr*/string_connect.xml :
 
 Please, don't rename the resource's names. You should only translate what's inside the ...> </string>
 
-*An example with qualifiers*
+**An example with qualifiers**
 
 Sometimes you will find some exotic characters, such as %d, %s, %.1f. These are qualifiers, where Printoid will inject dynamic values. For example:
 
@@ -93,7 +93,7 @@ should be translated in french as:
 <string name="config_introduce_developer">Le développeur s\'appelle %1$s, et il a %2$d ans.</string>
 ```
 
-*Character escapments*
+**Character escapments**
 
 And, last but not least, some characters have to be escaped, such as quotes. To escape a character, you have to add a backslash in front of it.
 
@@ -101,7 +101,7 @@ And, last but not least, some characters have to be escaped, such as quotes. To 
 <string name="config_introduce_developer_age">He\'s 27 years old.</string>
 ```
 
-And for carriage returns, that's *\n* :
+And for carriage returns, that's **\n** :
 
 ```
 <string name="connection_progress_dialog_message">The app is trying to communicates with your 3D printer.\nYou can drink a coffee for the next 2 seconds.</string>
@@ -138,7 +138,7 @@ Printoid Languages is embedded in Printoid as a library. All the changes in this
 
 ## Authors
 
-* **Anthony STEPHAN** - *Initial work 🇬🇧 English translations 🇫🇷 French translations * - [AnthonySt91](https://github.com/anthonyst91)
+* **Anthony STEPHAN** - *Initial work* 🇬🇧 *English translations* 🇫🇷 *French translations* - [AnthonySt91](https://github.com/anthonyst91)
 
 * **Dmitriy CHERNYY** - *🇷🇺 Russian translations*
 
