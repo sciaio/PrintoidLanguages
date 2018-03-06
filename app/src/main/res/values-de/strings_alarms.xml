@@ -37,6 +37,7 @@
     <string name="alarm_alert_type_msg">Falscher Typ für diese Warnung! Bitte wenden Sie sich an den Entwickler von Printoid</string>
     <string name="alarm_alert_value_empty_msg">Sie sollten einen Wert für diese Warnung geben!</string>
     <string name="alarm_alert_value_float_msg">Der Wert für diese Warnung sollte eine Floating-Nummer oder eine Integer sein!</string>
+    <string name="alarm_alert_value_progress_msg">Bitte aktivieren Sie den Hintergrundmodus, um benachrichtigt zu werden, wenn ein Ausdruck beendet wird, anstatt eine benutzerdefinierte Warnung zu verwenden!</string>
 
     <string name="alarm_help_title">Manager von Warnung</string>
     <string name="alarm_help_msg">Sie können benutzerdefinierte Warnungen in Printoid definieren.\n\n

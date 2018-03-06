@@ -37,6 +37,7 @@
     <string name="alarm_alert_type_msg">Verkeerd type voor deze waarschuwing! Neem contact op met de ontwikkelaar van Printoid</string>
     <string name="alarm_alert_value_empty_msg">U moet een waarde opgeven voor deze alarmering!</string>
     <string name="alarm_alert_value_float_msg">Voor deze alarmering moet u een getal ingeven, met of zonder decimaal!</string>
+    <string name="alarm_alert_value_progress_msg">Schakel de achtergrondmodus in om een melding te ontvangen wanneer een afdruk wordt beëindigd in plaats van een aangepaste melding te gebruiken!</string>
 
     <string name="alarm_help_title">Alarmering manager</string>
     <string name="alarm_help_msg">U kunt uw eigen alarmering opnemen in Printoid.\n\n

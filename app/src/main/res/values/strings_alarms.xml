@@ -36,6 +36,7 @@
 
     <string name="alarm_alert_value_title">Wrong value for this alert</string>
     <string name="alarm_alert_type_msg">Wrong type for this alert! Please contact the developer of Printoid</string>
+    <string name="alarm_alert_value_progress_msg">Please enable the background mode to be notified when a print is ended instead of using a custom alert!</string>
     <string name="alarm_alert_value_empty_msg">You should provide a value for this alert!</string>
     <string name="alarm_alert_value_float_msg">The value for this alert should be an floating number or an integer!</string>
 

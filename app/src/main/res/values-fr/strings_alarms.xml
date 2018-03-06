@@ -37,6 +37,7 @@
     <string name="alarm_alert_type_msg">Type d\'alert incorrect ! Merci de contacter le développeur de Printoid</string>
     <string name="alarm_alert_value_empty_msg">Vous devez entrer une valeur pour cette alerte !</string>
     <string name="alarm_alert_value_float_msg">La valeur de cette alerte doit être un nombre entier ou décimal !</string>
+    <string name="alarm_alert_value_progress_msg">Veuillez activer le mode arrière-plan pour être notifié de la fin d\'une impression à la place de définir une alerte !</string>
 
     <string name="alarm_help_title">Manager d\'alertes</string>
     <string name="alarm_help_msg">Vous pouvez définir des alertes personnalisées dans Printoid.\n\n

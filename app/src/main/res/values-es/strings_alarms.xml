@@ -37,6 +37,7 @@
     <string name="alarm_alert_type_msg">Tipo incorrecto para esta alerta! Póngase en contacto con el desarrollador de Printoid</string>
     <string name="alarm_alert_value_empty_msg">Debe proporcionar un valor para esta alerta!</string>
     <string name="alarm_alert_value_float_msg">El valor de esta alerta debe ser un número flotante o un número entero!</string>
+    <string name="alarm_alert_value_progress_msg">¡Active el modo de fondo para recibir una notificación cuando finalice una impresión en lugar de utilizar una alerta personalizada!</string>
 
     <string name="alarm_help_title">Administrador de alertas</string>
     <string name="alarm_help_msg">Puede definir alertas personalizadas en Printoid.\n\n

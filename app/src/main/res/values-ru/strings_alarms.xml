@@ -37,6 +37,7 @@
     <string name="alarm_alert_type_msg">Неверный тип для этого предупреждения! Свяжитесь с разработчиком Printoid</string>
     <string name="alarm_alert_value_empty_msg">Вы должны указать значение для этого предупреждения!</string>
     <string name="alarm_alert_value_float_msg">Значение для этого предупреждения должно быть плавающим числом или целым числом!</string>
+    <string name="alarm_alert_value_progress_msg">Включите фоновый режим, чтобы получать уведомление, когда печать завершена, вместо использования специального предупреждения!</string>
 
     <string name="alarm_help_title">Менеджер предупреждений</string>
     <string name="alarm_help_msg">Вы можете определить пользовательские предупреждения в Printoid.\n\n
