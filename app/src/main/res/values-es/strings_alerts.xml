@@ -17,6 +17,9 @@
     <string name="alert_pause_print_title">Pausa la impresión</string>
     <string name="alert_pause_print_msg">Este trabajo de impresión se detendrá, ¿está seguro?</string>
 
+    <string name="alert_resume_print_title">Reanudar la impresión actual</string>
+    <string name="alert_resume_print_msg">Este trabajo de impresión se reanudará, ¿estás seguro?</string>
+
     <string name="alert_restart_print_title">Reinicie la impresión actual</string>
     <string name="alert_restart_print_msg">Este trabajo de impresión se reiniciará, ¿está seguro?\nEl trabajo anterior no se pudo volver a cargar a su estado anterior, por lo que se perderá su trabajo real.</string>
 

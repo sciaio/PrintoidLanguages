@@ -12,6 +12,9 @@
     <string name="alert_pause_print_title">Mettre l\'impression en pause</string>
     <string name="alert_pause_print_msg">L\'impression en cours va être mise en pause, êtes-vous sûr de vouloir continuer ?</string>
 
+    <string name="alert_resume_print_title">Reprendre l\'impression</string>
+    <string name="alert_resume_print_msg">L\'impression va reprendre, êtes-vous sûr de vouloir continuer ?</string>
+
     <string name="alert_restart_print_title">Redémarrer l\'impression</string>
     <string name="alert_restart_print_msg">L\'impression en cours va être redémarré de zéro, êtes-vous sûr de vouloir continuer ?\nL\'impression actuelle ne pourra pas être reprise, tout travail en cours sera perdu.</string>
 

@@ -11,6 +11,9 @@
     <string name="alert_pause_print_title">Huidige afdruk pauzeren</string>
     <string name="alert_pause_print_msg">Deze afdruktaak wordt onderbroken, weet u het zeker?</string>
 
+    <string name="alert_resume_print_title">Huidige afdruk hervatten</string>
+    <string name="alert_resume_print_msg">Deze afdruktaak wordt hervat, weet u het zeker?</string>
+
     <string name="alert_restart_print_title">Start de huidige afdruk opnieuw</string>
     <string name="alert_restart_print_msg">Deze afdruktaak wordt opnieuw gestart, weet u het zeker?\nDe vorige taak kon niet worden herladen naar de vorige staat, zodat uw werkelijke werk verloren gaat.</string>
 

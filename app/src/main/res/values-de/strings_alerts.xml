@@ -17,6 +17,9 @@
     <string name="alert_pause_print_title">Aktuellen Druck anhalten</string>
     <string name="alert_pause_print_msg">Dieser Druckauftrag wird angehalten, sind Sie sicher?</string>
 
+    <string name="alert_resume_print_title">Aktuellen Druck fortsetzen</string>
+    <string name="alert_resume_print_msg">Dieser Druckauftrag wird fortgesetzt, sind Sie sicher?</string>
+
     <string name="alert_restart_print_title">Starten Sie den aktuellen Druck neu</string>
     <string name="alert_restart_print_msg">Dieser Druckauftrag wird neu gestartet, sind Sie sicher?\nDer vorherige Job konnte nicht in seinen vorherigen Zustand zurückgeladen werden, sodass Ihre eigentliche Arbeit verloren geht.</string>
 

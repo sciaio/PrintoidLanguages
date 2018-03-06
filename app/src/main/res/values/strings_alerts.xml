@@ -17,6 +17,9 @@
     <string name="alert_pause_print_title">Pause current print</string>
     <string name="alert_pause_print_msg">This printing job will be paused, are you sure?</string>
 
+    <string name="alert_resume_print_title">Resume current print</string>
+    <string name="alert_resume_print_msg">This printing job will be resumed, are you sure?</string>
+
     <string name="alert_restart_print_title">Restart current print</string>
     <string name="alert_restart_print_msg">This printing job will be restarted, are you sure?\nThe previous job could not be reloaded to its previous state, so your actual work will be lost.</string>
 

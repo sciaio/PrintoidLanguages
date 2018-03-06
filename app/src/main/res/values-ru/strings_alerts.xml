@@ -17,6 +17,9 @@
     <string name="alert_pause_print_title">Пауза текущей печати</string>
     <string name="alert_pause_print_msg">Это задание на печать будет приостановлено, вы уверены?</string>
 
+    <string name="alert_resume_print_title">Продолжить текущую печать</string>
+    <string name="alert_resume_print_msg">Это задание на печать будет возобновлено, вы уверены?</string>
+
     <string name="alert_restart_print_title">Перезапустить текущую печать</string>
     <string name="alert_restart_print_msg">Это задание на печать будет перезапущено, вы уверены?\nПредыдущая работа не может быть перезагружена до прежнего состояния, поэтому ваша фактическая работа будет потеряна.</string>
 
