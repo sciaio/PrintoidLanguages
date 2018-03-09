@@ -93,4 +93,8 @@
     <string name="search_wan_ip_success_toast">IP publique (WAN) récupérée : %s</string>
     <string name="search_wan_ip_error_toast">Printoid ne peut pas récupérer votre IP publique (WAN) pour le moment</string>
 
+    <string name="upnp_devices_dialog_title">Appareils sur ce réseau</string>
+    <string name="upnp_parameter_default_name">Nom inconnu</string>
+    <string name="upnp_parameter_default_manufacturer">Constructeur inconnu</string>
+
 </resources>

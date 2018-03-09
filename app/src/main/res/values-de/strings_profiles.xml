@@ -92,4 +92,8 @@
     <string name="search_wan_ip_success_toast">Öffentliche IP (WAN) gefunden: %s</string>
     <string name="search_wan_ip_error_toast">Printoid kann Ihre öffentliche IP (WAN) im Moment nicht abrufen</string>
 
+    <string name="upnp_devices_dialog_title">Geräte in diesem Netzwerk</string>
+    <string name="upnp_parameter_default_name">Unbekannter Name</string>
+    <string name="upnp_parameter_default_manufacturer">Unbekannter Hersteller</string>
+
 </resources>

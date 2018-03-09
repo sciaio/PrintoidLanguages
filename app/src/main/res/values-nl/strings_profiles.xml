@@ -89,4 +89,8 @@
     <string name="search_wan_ip_success_toast">Openbaar IP (WAN) gevonden: %s</string>
     <string name="search_wan_ip_error_toast">Printoid kan uw openbare IP (WAN) momenteel niet ophalen</string>
 
+    <string name="upnp_devices_dialog_title">Apparaten op dit netwerk</string>
+    <string name="upnp_parameter_default_name">Onbekende naam</string>
+    <string name="upnp_parameter_default_manufacturer">Onbekende fabrikant</string>
+
 </resources>

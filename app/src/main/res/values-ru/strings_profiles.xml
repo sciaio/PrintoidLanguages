@@ -92,4 +92,8 @@
     <string name="search_wan_ip_success_toast">Обнаружен открытый IP-адрес (WAN): %s</string>
     <string name="search_wan_ip_error_toast">Printoid не может получить ваш общедоступный IP (WAN) на данный момент</string>
 
+    <string name="upnp_devices_dialog_title">Устройства в этой сети</string>
+    <string name="upnp_parameter_default_name">Неизвестное имя</string>
+    <string name="upnp_parameter_default_manufacturer">Неизвестный производитель</string>
+
 </resources>
