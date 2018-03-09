@@ -13,6 +13,7 @@
     <string name="add_command_command_title">Comando a ejecutar</string>
     <string name="add_command_icon">Icono</string>
     <string name="add_command_content">Argumentos del comando</string>
+    <string name="add_command_favorite">Marcar como favorito</string>
     <string name="add_command_color">Color del icono</string>
     <string name="add_command_argument">Argumento</string>
     <string name="add_command_show_on_home">Mostrar en principal</string>

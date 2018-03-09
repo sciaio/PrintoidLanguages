@@ -15,6 +15,7 @@
     <string name="add_command_color">Цвет значка</string>
     <string name="add_command_content">Аргументы команды</string>
     <string name="add_command_argument">Aргумент</string>
+    <string name="add_command_favorite">Oтметить как любимую</string>
     <string name="add_command_show_on_home">Показывать на главной</string>
     <string name="add_command_wait_result">Показать ответ команды</string>
     <string name="add_command_name">Название</string>

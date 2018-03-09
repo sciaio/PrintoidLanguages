@@ -14,6 +14,7 @@
     <string name="add_command_command_title">Commande à exécuter</string>
     <string name="add_command_icon">Icône</string>
     <string name="add_command_content">Arguments de la commande</string>
+    <string name="add_command_favorite">Marquer comme favorie</string>
     <string name="add_command_argument">Arguments</string>
     <string name="add_command_color">Couleur d\'icône</string>
     <string name="add_command_show_on_home">Afficher sur l\'écran principal</string>

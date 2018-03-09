@@ -15,6 +15,7 @@
     <string name="add_command_icon">Icon</string>
     <string name="add_command_color">Icon color</string>
     <string name="add_command_show_on_home">Show on home</string>
+    <string name="add_command_favorite">Mark as favorite</string>
     <string name="add_command_request_confirmation">Confirmation</string>
     <string name="add_command_wait_result">Show command response</string>
     <string name="add_command_name">Command label</string>
