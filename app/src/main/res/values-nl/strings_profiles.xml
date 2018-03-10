@@ -92,5 +92,7 @@
     <string name="upnp_devices_dialog_title">Apparaten op dit netwerk</string>
     <string name="upnp_parameter_default_name">Onbekende naam</string>
     <string name="upnp_parameter_default_manufacturer">Onbekende fabrikant</string>
+    <string name="upnp_no_device_found_message">Geen apparaat gevonden</string>
+    <string name="upnp_error_message">Fout bij het laden van apparaten</string>
 
 </resources>

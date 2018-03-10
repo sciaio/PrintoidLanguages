@@ -96,5 +96,7 @@
     <string name="upnp_devices_dialog_title">Appareils sur ce réseau</string>
     <string name="upnp_parameter_default_name">Nom inconnu</string>
     <string name="upnp_parameter_default_manufacturer">Constructeur inconnu</string>
+    <string name="upnp_no_device_found_message">Aucun appareil détecté</string>
+    <string name="upnp_error_message">Erreur lors de la détection</string>
 
 </resources>

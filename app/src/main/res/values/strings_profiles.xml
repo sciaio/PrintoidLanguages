@@ -99,5 +99,7 @@
     <string name="upnp_devices_dialog_title">Devices on this network</string>
     <string name="upnp_parameter_default_name">Unknown name</string>
     <string name="upnp_parameter_default_manufacturer">Unknown manufacturer</string>
+    <string name="upnp_no_device_found_message">No device found</string>
+    <string name="upnp_error_message">Error while loading devices</string>
 
 </resources>

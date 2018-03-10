@@ -95,5 +95,7 @@
     <string name="upnp_devices_dialog_title">Dispositivos en esta red</string>
     <string name="upnp_parameter_default_name">Nombre desconocido</string>
     <string name="upnp_parameter_default_manufacturer">Fabricante desconocido</string>
+    <string name="upnp_no_device_found_message">Ningún dispositivo encontrado</string>
+    <string name="upnp_error_message">Error al cargar dispositivos</string>
 
 </resources>
