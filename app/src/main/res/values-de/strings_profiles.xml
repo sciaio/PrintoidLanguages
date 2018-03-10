@@ -92,6 +92,10 @@
     <string name="search_wan_ip_success_toast">Öffentliche IP (WAN) gefunden: %s</string>
     <string name="search_wan_ip_error_toast">Printoid kann Ihre öffentliche IP (WAN) im Moment nicht abrufen</string>
 
+    <string name="search_lan_ip_dialog_title">Lokale IP-Adresse abrufen (LAN)</string>
+    <string name="search_lan_ip_dialog_message">Bitte vergewissern Sie sich, dass dieses Gerät korrekt mit dem Netzwerk Ihres OctoPrint-Servers verbunden ist.\n\n
+    Andernfalls kann Printoid Ihren OctoPrint-Server nicht finden.</string>
+
     <string name="upnp_devices_dialog_title">Geräte in diesem Netzwerk</string>
     <string name="upnp_parameter_default_name">Unbekannter Name</string>
     <string name="upnp_parameter_default_manufacturer">Unbekannter Hersteller</string>
