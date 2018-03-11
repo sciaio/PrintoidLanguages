@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="commands_panel_label">Terminal de commandes</string>
+    <string name="commands_panel_label">Commandes</string>
     <string name="commands_history_label">Historique GCODE</string>
     <string name="commands_editing_label">Editeur de commande</string>
 
@@ -78,5 +78,13 @@
 
     <string name="commands_empty_title">Aucune commande système</string>
     <string name="commands_empty_msg">Il n\'existe aucune commande système pour ce profil. Vous pouvez en configurer de nouvelles dans le fichier config.yaml d\'OctoPrint.</string>
+
+    <string name="commands_config_menu_title">Configuration</string>
+    <string name="commands_show_only_favorites">Afficher seulement favories</string>
+    <string name="commands_filter_temperatures">Filtrer commandes température</string>
+    <string name="commands_filter_temperatures_on">Filtrer commandes température ON</string>
+    <string name="commands_filter_temperatures_off">Filtrer commandes température OFF</string>
+    <string name="commands_show_only_favorites_on">Afficher seulement les commandes favories</string>
+    <string name="commands_show_only_favorites_off">Afficher toutes les commandes</string>
 
 </resources>
