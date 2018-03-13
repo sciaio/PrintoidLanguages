@@ -54,6 +54,7 @@
 
     <string name="command_list_empty">Нет команд</string>
     <string name="gcode_base_list_empty">Неизвестная команда GCODE</string>
+    <string name="command_list_no_favs">Нет избранных команд</string>
 
     <string name="command_psu_turn_off_alert_title">Выключить блок питания</string>
     <string name="command_psu_turn_off_alert_msg">Ваш блок питания фактически включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>

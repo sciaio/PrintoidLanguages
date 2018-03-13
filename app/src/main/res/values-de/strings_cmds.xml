@@ -54,6 +54,7 @@
 
     <string name="command_list_empty">Kein Befehl verfügbar</string>
     <string name="gcode_base_list_empty">Unbekannter GCODE-Befehl</string>
+    <string name="command_list_no_favs">Keine Lieblingsbefehle</string>
 
     <string name="command_psu_turn_off_alert_title">Schalten Sie das PSU-Fehler aus</string>
     <string name="command_psu_turn_off_alert_msg">Ihr PSU-Fehler ist tatsächlich eingeschaltet.\n\nMöchten Sie es jetzt ausschalten?\n\nWenn Sie gerade drucken, wird der aktuelle Job abgebrochen und der Fortschritt geht verloren.</string>

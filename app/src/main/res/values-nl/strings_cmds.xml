@@ -55,6 +55,7 @@
 
     <string name="command_list_empty">Geen commando beschikbaar</string>
     <string name="gcode_base_list_empty">Onbekende GCODE-opdracht</string>
+    <string name="command_list_no_favs">Geen favoriete commando\'s</string>
 
     <string name="command_psu_turn_off_alert_title">Schakel PSU uit</string>
     <string name="command_psu_turn_off_alert_msg">Je PSU staat eigenlijk AAN.\n\nWil je het nu UIT zetten?\n\nAls u bezig bent met afdrukken, wordt de huidige taak afgebroken en gaat de voortgang verloren.</string>

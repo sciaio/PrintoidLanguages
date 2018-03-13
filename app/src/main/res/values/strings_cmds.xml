@@ -53,6 +53,7 @@
     <string name="command_confirmation_msg">Printoid will send the following command: %s\n\nAre you sure?</string>
 
     <string name="command_list_empty">No command available</string>
+    <string name="command_list_no_favs">No favorite commands</string>
     <string name="gcode_base_list_empty">Unknown GCODE command</string>
 
     <string name="command_psu_turn_off_alert_title">Turn OFF PSU</string>

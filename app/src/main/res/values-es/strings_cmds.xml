@@ -54,6 +54,7 @@
 
     <string name="command_list_empty">No hay comandos disponibles</string>
     <string name="gcode_base_list_empty">Comando GCODE desconocido</string>
+    <string name="command_list_no_favs">Sin comandos favoritos</string>
 
     <string name="command_psu_turn_off_alert_title">Apague la fuente de alimentación</string>
     <string name="command_psu_turn_off_alert_msg">Su PSU está encendida.\n\n¿Quieres apagarla ahora?\n\nSi está imprimiendo ahora, se cancelará el trabajo actual y se perderá el progreso.</string>
