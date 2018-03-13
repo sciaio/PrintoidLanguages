@@ -81,6 +81,7 @@
 
     <string name="commands_config_menu_title">Befehle Konfiguration</string>
     <string name="commands_show_only_favorites">Zeige nur Lieblingsbefehle</string>
+    <string name="commands_show_temperatures">Zeige Temperaturbefehle</string>
     <string name="commands_filter_temperatures">Filter Temperaturbefehle</string>
     <string name="commands_filter_temperatures_on">Filter Temperaturbefehle ON</string>
     <string name="commands_filter_temperatures_off">Filter Temperaturbefehle OFF</string>

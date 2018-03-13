@@ -82,6 +82,7 @@
 
     <string name="commands_config_menu_title">Opdrachten configuratie</string>
     <string name="commands_show_only_favorites">Toon alleen favorieten</string>
+    <string name="commands_show_temperatures">Toon temperatuuropdrachten</string>
     <string name="commands_filter_temperatures">Filter temperatuuropdrachten</string>
     <string name="commands_filter_temperatures_on">Filter temperatuuropdrachten ON</string>
     <string name="commands_filter_temperatures_off">Filter temperatuuropdrachten OFF</string>

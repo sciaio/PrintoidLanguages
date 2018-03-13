@@ -81,6 +81,7 @@
 
     <string name="commands_config_menu_title">Конфигурация команд</string>
     <string name="commands_show_only_favorites">Показать только избранные</string>
+    <string name="commands_show_temperatures">Показать команды температуры</string>
     <string name="commands_filter_temperatures">Команды температуры фильтра</string>
     <string name="commands_filter_temperatures_on">Команды температуры фильтра ON</string>
     <string name="commands_filter_temperatures_off">Команды температуры фильтра OFF</string>
