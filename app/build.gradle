@@ -23,7 +23,6 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
         mock {
-            initWith(buildTypes.release)
             minifyEnabled false
             shrinkResources false
             debuggable true
