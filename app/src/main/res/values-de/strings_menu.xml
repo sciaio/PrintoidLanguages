@@ -24,4 +24,7 @@
     <string name="menu_alarms">Warnungen</string>
     <string name="menu_contact_developer">Contact\ndeveloper</string>
 
+    <string name="menu_lite_label_promote">Magst du Printoid Lite?</string>
+    <string name="menu_lite_text_promote">Dann ist es Zeit, Printoid PRO und Printoid PREMIUM bei Google Play zu entdecken!</string>
+
 </resources>

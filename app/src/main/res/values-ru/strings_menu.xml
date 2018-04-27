@@ -24,4 +24,7 @@
     <string name="menu_alarms">Tревога</string>
     <string name="menu_contact_developer">Contact\ndeveloper</string>
 
+    <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>
+    <string name="menu_lite_text_promote">Тогда пришло время открыть Printoid PRO и Printoid PREMIUM в Google Play!</string>
+
 </resources>
