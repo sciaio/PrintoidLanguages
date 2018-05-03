@@ -3,6 +3,7 @@
 
     <string name="tutorial_available_in_pro_version">Доступно в версиях PRO и PREMIUM</string>
     <string name="tutorial_available_in_premium_version">Доступно в версии PREMIUM</string>
+    <string name="tutorial_only_in_lite_version">Только в версии LITE</string>
 
     <!-- WELCOME -->
     <string name="tutorial_message_welcome">Добро пожаловать в Printoid %s!</string>
@@ -21,6 +22,11 @@
     <string name="tutorial_keyboard_message_3">Больше информации по доступным командам на официальном сайте</string>
     <string name="tutorial_keyboard_button_1">ADB управление</string>
     <string name="tutorial_keyboard_button_2">Клавиатура управление</string>
+
+    <!-- ADVERTISEMENT -->
+    <string name="tutorial_ads_title">Реклама в LITE</string>
+    <string name="tutorial_ads_message">Версия LITE бесплатна неограниченно, но содержит рекламу.</string>
+    <string name="tutorial_ads_message_2">Чтобы удалить рекламу, пользоваться полнофункциональным приложением и поддерживать разработчика, вы можете приобрести Printoid PRO или Printoid PREMIUM.</string>
 
     <!-- WIDGETS -->
     <string name="tutorial_widgets_title">Эксклюзивные виджеты</string>

@@ -3,6 +3,7 @@
 
     <string name="tutorial_available_in_pro_version">Disponible dans les versions PRO et PREMIUM</string>
     <string name="tutorial_available_in_premium_version">Disponible dans la version PREMIUM</string>
+    <string name="tutorial_only_in_lite_version">Seulement dans la version LITE</string>
 
     <!-- WELCOME -->
     <string name="tutorial_message_welcome">Bienvenue dans Printoid %s!</string>
@@ -21,6 +22,11 @@
     <string name="tutorial_keyboard_message_3">Plus d\'information sur les commandes disponibles sur le site officiel</string>
     <string name="tutorial_keyboard_button_1">Contrôle par ADB</string>
     <string name="tutorial_keyboard_button_2">Contrôle par clavier</string>
+
+    <!-- ADVERTISEMENT -->
+    <string name="tutorial_ads_title">Publicités (LITE)</string>
+    <string name="tutorial_ads_message">La version LITE est gratuite pour une durée illimitée, mais contient des annonces publicitaires.</string>
+    <string name="tutorial_ads_message_2">Pour retirer les publicités, profiter de l\'appli complète et supporter le développeur, vous pouvez acheter Printoid PRO ou PREMIUM.</string>
 
     <!-- WIDGETS -->
     <string name="tutorial_widgets_title">Widgets exclusifs</string>

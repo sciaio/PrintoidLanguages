@@ -3,6 +3,7 @@
 
     <string name="tutorial_available_in_pro_version">Beschikbaar in PRO en PREMIUM versie</string>
     <string name="tutorial_available_in_premium_version">Beschikbaar in PREMIUM versie</string>
+    <string name="tutorial_only_in_lite_version">Alleen in de LITE-versie</string>
 
     <!-- WELCOME -->
     <string name="tutorial_message_welcome">Welkom bij Printoid %s!</string>
@@ -21,6 +22,11 @@
     <string name="tutorial_keyboard_message_3">Meer informatie over de beschikbare funkties vindt u op de officiële web site</string>
     <string name="tutorial_keyboard_button_1">Bediening via ADB</string>
     <string name="tutorial_keyboard_button_2">Bediening via toetsenbord</string>
+
+    <!-- ADVERTISEMENT -->
+    <string name="tutorial_ads_title">Adverteren in LITE</string>
+    <string name="tutorial_ads_message">De LITE-versie is gratis voor een onbeperkte duur, maar bevat advertenties.</string>
+    <string name="tutorial_ads_message_2">Om de advertenties te verwijderen, te genieten van de volledige app en de ontwikkelaar te ondersteunen, kunt u Printoid PRO of Printoid PREMIUM kopen.</string>
 
     <!-- WIDGETS -->
     <string name="tutorial_widgets_title">Exclusieve widgets</string>
