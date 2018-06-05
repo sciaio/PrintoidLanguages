@@ -27,6 +27,12 @@
         <item>WAN en 1er</item>
     </string-array>
 
+    <string-array name="ssl_modes_array">
+        <item>Les deux</item>
+        <item>Juste LAN</item>
+        <item>Juste WAN</item>
+    </string-array>
+
     <string-array name="setting_sound_array">
         <item>Son 1</item>
         <item>Son 2</item>

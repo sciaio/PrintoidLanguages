@@ -204,6 +204,7 @@
     <string name="setting_streaming_security_tip">Заставить HTTP или HTTPS. Авто выбирает то же, что и профиль OctoPrint.</string>
     <string name="setting_connection_ip_selection_mode_tip">Как приложение должно выбрать IP для подключения OctoPrint</string>
     <string name="setting_tplink_plugin_ip_tip">IP-адрес LAN вашего TP Link Smartplug</string>
+    <string name="setting_ssl_mode_tip">Использовать HTTPS в LAN и/или WAN</string>
 
     <string name="setting_hint_login">Логин</string>
     <string name="setting_hint_pwd">Пароль</string>

@@ -27,6 +27,12 @@
         <item>Snapshots</item>
     </string-array>
 
+    <string-array name="ssl_modes_array">
+        <item>Both</item>
+        <item>LAN only</item>
+        <item>WAN only</item>
+    </string-array>
+
     <string-array name="setting_sound_array">
         <item>Geluid 1</item>
         <item>Geluid 2</item>

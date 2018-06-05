@@ -88,6 +88,12 @@
         <item>Sound OFF</item>
     </string-array>
 
+    <string-array name="ssl_modes_array">
+        <item>Both</item>
+        <item>LAN only</item>
+        <item>WAN only</item>
+    </string-array>
+
     <string-array name="setting_cost_methods">
         <item>Price/meter</item>
         <item>Price/kg</item>

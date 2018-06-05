@@ -21,6 +21,12 @@
         <item>Einzelbild</item>
     </string-array>
 
+    <string-array name="ssl_modes_array">
+        <item>Both</item>
+        <item>LAN only</item>
+        <item>WAN only</item>
+    </string-array>
+
     <string-array name="setting_sound_array">
         <item>Sound 1</item>
         <item>Sound 2</item>

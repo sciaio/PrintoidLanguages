@@ -135,6 +135,7 @@
     <string name="setting_enable_flip_horizontal_tip">Apply a horizontal flip on the video image</string>
     <string name="setting_enable_haptic_tip">Haptic feedback when clicking a button</string>
     <string name="setting_enable_ssl_tip">Use HTTPS protocol instead of HTTP</string>
+    <string name="setting_ssl_mode_tip">Use HTTPS on LAN and/or WAN</string>
     <string name="setting_enable_auto_trust_cert_tip">Auto-trust self-signed certificate &#x26A0;</string>
     <string name="setting_enable_use_modern_tls_tip">Use modern TLS (fix handshake)</string>
     <string name="setting_enable_basic_auth_tip">Use per-user credentials</string>
