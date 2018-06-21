@@ -3,6 +3,7 @@
 
     <string name="shortcut_load">Laden</string>
     <string name="shortcut_print">Drucken</string>
+    <string name="shortcut_input">Andichten</string>
     <string name="shortcut_render3D">3D-Ansicht</string>
     <string name="shortcut_render2D">2D-Ansicht</string>
     <string name="shortcut_download">Herunter.</string>

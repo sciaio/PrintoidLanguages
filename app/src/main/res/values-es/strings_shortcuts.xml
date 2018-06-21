@@ -3,6 +3,7 @@
 
     <string name="shortcut_load">Carga</string>
     <string name="shortcut_print">Imprimir</string>
+    <string name="shortcut_input">Imputar</string>
     <string name="shortcut_render3D">Vista 3D</string>
     <string name="shortcut_render2D">Vista 2D</string>
     <string name="shortcut_download">Descargar</string>

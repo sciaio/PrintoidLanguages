@@ -3,6 +3,7 @@
 
     <string name="shortcut_load">Charger</string>
     <string name="shortcut_print">Imprimer</string>
+    <string name="shortcut_input">Imputer</string>
     <string name="shortcut_render3D">Vue 3D</string>
     <string name="shortcut_render2D">Vue 2D</string>
     <string name="shortcut_download">Télécharger</string>
