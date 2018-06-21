@@ -117,7 +117,9 @@
     <string name="setting_streaming_security">Потоковая безопасность (протокол)</string>
     <string name="setting_connection_ip_selection_mode">Режим подключения</string>
     <string name="setting_tplink_plugin_ip">IP-адрес TP Link</string>
+    <string name="setting_improve_connection">Улучшение процесса подключения</string>
 
+    <string name="setting_improve_connection_tip">Для получения WiID SSID требуется разрешение на грубое местоположение.</string>
     <string name="setting_enable_screensaver_tip">Показывать только текущие данные о работе после периода бездействия</string>
     <string name="setting_battery_optimizations_tip">Эти оптимизация системы может привести к уничтожению процесса Printoid</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Включить только если Вы не можете соединиться с OctoPrint</string>

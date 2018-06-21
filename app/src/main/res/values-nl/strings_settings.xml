@@ -118,7 +118,9 @@
     <string name="setting_streaming_security">Streaming beveiliging (protocol)</string>
     <string name="setting_connection_ip_selection_mode">Verbindingsmodus</string>
     <string name="setting_tplink_plugin_ip">TP Link IP-adres</string>
+    <string name="setting_improve_connection">Verbetering van het verbindingsproces</string>
 
+    <string name="setting_improve_connection_tip">Er is grofe locatietoestemming vereist om de WiFI SSID te verkrijgen</string>
     <string name="setting_enable_screensaver_tip">Toon alleen de huidige taakdetails na inactiviteitsperiode</string>
     <string name="setting_battery_optimizations_tip">Deze systeemoptimalisaties kunnen het Printoid-proces doden</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Alleen actief bij fout verbinding met OctoPrint</string>

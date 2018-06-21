@@ -117,7 +117,9 @@
     <string name="setting_cost_plugin_cost_method">Cost computation method</string>
     <string name="setting_connection_ip_selection_mode">Connection mode</string>
     <string name="setting_tplink_plugin_ip">TP Link IP address</string>
+    <string name="setting_improve_connection">Improve connection process</string>
 
+    <string name="setting_improve_connection_tip">Coarse location permission is needed to get WiFI SSID</string>
     <string name="setting_enable_screensaver_tip">Show only current job details after inactivity period</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Enable only if you can\'t connect to OctoPrint</string>
     <string name="setting_battery_optimizations_tip">Battery optimizations can kill the Printoid process</string>

@@ -117,7 +117,9 @@
     <string name="setting_streaming_security">Streaming de seguridad (protocolo)</string>
     <string name="setting_connection_ip_selection_mode">Modo de conexión</string>
     <string name="setting_tplink_plugin_ip">Dirección IP TP Link</string>
+    <string name="setting_improve_connection">Mejora el proceso de conexión</string>
 
+    <string name="setting_improve_connection_tip">El permiso de ubicación gruesa es necesario para obtener el SSID de WiFI</string>
     <string name="setting_enable_screensaver_tip">Mostrar solo los detalles del trabajo actual después del período de inactividad</string>
     <string name="setting_battery_optimizations_tip">Estas optimizaciones del sistema pueden cerrar el proceso de Printoid</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Activar sólo si no puede conectar a OctoPrint</string>
