@@ -27,6 +27,7 @@
     <string name="alert_pro_feature_render_msg">Vous disposez de la version gratuite de Printoid. Le visualiseur 3D de GCODE &amp; STL est disponible dans la version PRO, téléchargez-la sur Google Play !</string>
     <string name="alert_pro_feature_layers_msg">Vous disposez de la version gratuite de Printoid. Le visualiseur 2D de GCODE est disponible dans la version PRO, téléchargez-la sur Google Play !</string>
     <string name="alert_pro_feature_realtime_layers_msg">Vous disposez de la version gratuite de Printoid. Le visualiseur couche par couche en temps réel est disponible dans la version PRO, téléchargez-la sur Google Play !</string>
+    <string name="alert_pro_feature_spools_manager_msg">Vous disposez de la version gratuite de Printoid. Le manager de filament est disponible dans la version PRO, téléchargez-la sur Google Play !</string>
 
     <string name="alert_delete_printer_profile_title">Supprimer le profil</string>
     <string name="alert_delete_printer_profile_message">Ce profil OctoPrint va être supprimé, êtes-vous sûr de vouloir continuer ?\nCette opération ne pourra pas être annulée.</string>

@@ -19,6 +19,7 @@
     <string name="menu_app_infos">Ayuda</string>
     <string name="menu_octoprint_web">Interfaz-Web Octoprint</string>
     <string name="menu_files">Archivos</string>
+    <string name="menu_spools">Bobinas</string>
     <string name="menu_printoid_web">Sitio web\nPrintoid</string>
     <string name="menu_timelapse">Timelapses</string>
     <string name="menu_alarms">Alertas</string>

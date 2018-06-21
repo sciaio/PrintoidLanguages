@@ -10,6 +10,7 @@
     <string name="alert_pro_feature_render_msg">This is the free version of Printoid.\nThe GCODE &amp; STL 3D visualizer is available in the PRO version, download it now on Google Play!</string>
     <string name="alert_pro_feature_layers_msg">This is the free version of Printoid.\nThe GCODE 2D layers visualizer is available in the PRO version, download it now on Google Play!</string>
     <string name="alert_pro_feature_realtime_layers_msg">This is the free version of Printoid.\nThe real time layer per layer visualizer is available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">This is the free version of Printoid.\nThe filament spool manager module is available in the PRO version, download it now on Google Play!</string>
 
     <string name="alert_cancel_print_title">Abort current print</string>
     <string name="alert_cancel_print_msg">This printing job will be canceled, are you sure?\nA canceled print could not be reloaded to its previous state, so your actual work will be lost.</string>

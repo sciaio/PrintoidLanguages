@@ -10,6 +10,7 @@
     <string name="alert_pro_feature_render_msg">Esta es la versión gratuita de Printoid.\nEl GCODE &amp; visor STL 3D está disponible en la version Pro, descárgala ahora en Google Play!</string>
     <string name="alert_pro_feature_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor de capas GCODE 2D está disponible en la version Pro, descárgala ahora en Google Play!</string>
     <string name="alert_pro_feature_realtime_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor capa a capa en tiempo real está disponible en la version Pro, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">Esta es la versión gratuita de Printoid.\nEl módulo administrador de spool de filamento está disponible en la versión PRO, descárguelo ahora en Google Play!</string>
 
     <string name="alert_cancel_print_title">Abortar impresión actual</string>
     <string name="alert_cancel_print_msg">La impresión será cancelada, ¿está seguro?\nUna impresión cancelada no puede ser restaurada a su estado actual, por lo que su trabajo se perderá.</string>

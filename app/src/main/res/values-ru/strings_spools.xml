@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="spools_not_compatible_title">Устройство несовместимо</string>
+    <string name="spools_not_compatible_message">Модуль Filament Spools Manager несовместим с вашей версией Android, извините!</string>
+
+    <string name="spools_not_installed_title">Модуль не установлен</string>
+    <string name="spools_not_installed_message">Модуль Filament Spools Manager не установлен на вашем устройстве, вы хотите установить его сейчас из Google Play?</string>
+
+</resources>

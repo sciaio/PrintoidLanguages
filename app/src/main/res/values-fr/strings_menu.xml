@@ -18,6 +18,7 @@
     <string name="menu_full_screen_slicer">Étendre le slicer</string>
     <string name="menu_full_screen_more_tools">Étendre les outils</string>
     <string name="menu_minimize">Réduire</string>
+    <string name="menu_spools">Gestion de bobines</string>
     <string name="menu_printoid_web">Site web\nPrintoid</string>
     <string name="menu_files">Fichiers</string>
     <string name="menu_timelapse">Timelapses</string>

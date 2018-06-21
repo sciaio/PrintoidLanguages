@@ -10,6 +10,7 @@
     <string name="alert_pro_feature_render_msg">Это бесплатная версия Printoid.\nТрехмерный просмотр GCODE &amp; STL файла доступен в PRO версии, скачайте её в Google Play!</string>
     <string name="alert_pro_feature_layers_msg">Это бесплатная версия Printoid.\nПослойный просмотр GCODE доступен в PRO версии, скачайте её в Google Play!</string>
     <string name="alert_pro_feature_realtime_layers_msg">Это бесплатная версия Printoid.\nВизиуализация в реальном времени доступна в PRO версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">Это бесплатная версия Printoid.\nМодуль управления катушкой нити доступен в версии PRO, загрузите его сейчас в Google Play!</string>
 
     <string name="alert_cancel_print_title">Прервать текущую печать</string>
     <string name="alert_cancel_print_msg">Вы уверены, что хотите прервать печать?\nПрервав печать, Вы не сможете её возобновить с текущего момента, испортив результат.</string>

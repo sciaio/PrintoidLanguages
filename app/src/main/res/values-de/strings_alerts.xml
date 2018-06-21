@@ -10,6 +10,7 @@
     <string name="alert_pro_feature_render_msg">Dies ist die kostenlose Version von Printoid.\nDer GCODE- &amp; STL 3D-Visualisierer ist nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>
     <string name="alert_pro_feature_layers_msg">Dies ist die kostenlose Version von Printoid.\nDer GCODE 2D-Schichten Visualisierer ist nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>
     <string name="alert_pro_feature_realtime_layers_msg">Dies ist die kostenlose Version von Printoid.\nDer Echtzeit Schicht-für-Schicht Visualisierer ist nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>
+    <string name="alert_pro_feature_spools_manager_msg">Dies ist die kostenlose Version von Printoid.\nDas Filament-Spool-Manager-Modul ist in der PRO-Version verfügbar, laden Sie es jetzt bei Google Play herunter!</string>
 
     <string name="alert_cancel_print_title">Aktuellen Druck abbrechen</string>
     <string name="alert_cancel_print_msg">Bist du sicher, dass der Druck abgebrochen werden soll?\nEin abgebrochener Druck kann nicht wiederhergestellt werden. Somit ist der bisherige Fortschritt verloren.</string>

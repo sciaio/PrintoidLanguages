@@ -26,6 +26,7 @@
     <string name="alert_pro_feature_render_msg">U werkt met de gratis Printoid versie, 3D visualisatie van GCODE &amp; STL\'s zit in de PRO versie. Download de PRO versie via Google Play!</string>
     <string name="alert_pro_feature_layers_msg">U werkt met de gratis Printoid versie, 2D visualisatie van GCODE zit in de PRO versie. Download de PRO versie via Google Play!</string>
     <string name="alert_pro_feature_realtime_layers_msg">U werkt met de gratis Printoid versie, real-time inspectie per individuele laag zit in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">U werkt met de gratis Printoid versie, se filament spool manager module is beschikbaar in de PRO-versie, download hem nu op Google Play!</string>
 
     <string name="alert_delete_printer_profile_title">Verwijder dit profiel</string>
     <string name="alert_delete_printer_profile_message">Dit OctoPrint profiel zal verwijderd worden, wilt u dit echt?\nU kunt deze actie niet terug draaien.</string>

@@ -19,6 +19,7 @@
     <string name="menu_app_infos">Hilfe</string>
     <string name="menu_octoprint_web">OctoPrint Webansicht</string>
     <string name="menu_files">Dateien</string>
+    <string name="menu_spools">Spulenverwaltung</string>
     <string name="menu_printoid_web">Printoid\nWebsite</string>
     <string name="menu_timelapse">Zeitraffer</string>
     <string name="menu_alarms">Warnungen</string>
