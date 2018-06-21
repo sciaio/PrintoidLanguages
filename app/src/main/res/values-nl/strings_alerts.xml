@@ -73,6 +73,9 @@
     <string name="intro_printoid_website">Bekijk https://printoid.net, de officiele Printoid site! Hier vindt u de Changelogs, informatie over nieuwe versies, nieuwe functionaliteit, prktische voorbeelden &amp; nog veel meer!</string>
     <string name="intro_printoid_website_button">Naar de website</string>
 
+    <string name="intro_spool_manager">Beheer uw voorraad spoelen met de Filament Spool Manager-module, beschikbaar voor Printoid PRO en PREMIUM! Met de gratis versie van deze module kunt u maximaal 2 spools beheren.</string>
+    <string name="intro_spool_manager_button">Installeer nu</string>
+
     <string name="alert_fan_speed_value_title">Opmerking over het koelen</string>
     <string name="alert_fan_speed_value_message">Er bestaan geen standaard GCODE commandos om de ingestelde ventilatorstand op te halen.\n\nDit is de reden dat Printoid de slider niet kan instellen op de actuele ventilatorstand. Als hij derhalve op 0% staat, is dit geen bug, maar het beoogde gedrag\uD83D\uDE48</string>
 

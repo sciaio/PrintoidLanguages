@@ -74,6 +74,9 @@
     <string name="intro_printoid_website">Посетите https://printoid.net, официальный сайт Printoid! Списки изменений, новые версии, новые функции, советы по использованию &amp; и многое другое!</string>
     <string name="intro_printoid_website_button">Перейти</string>
 
+    <string name="intro_spool_manager">Управляйте своим запасом катушек с помощью модуля Filament Spool Manager, доступного для Printoid PRO и PREMIUM! Бесплатная версия этого модуля позволяет вам управлять двумя катушками.!</string>
+    <string name="intro_spool_manager_button">Установить сейчас</string>
+
     <string name="alert_fan_speed_value_title">Предупреждение об значении оборотов вентилятора</string>
     <string name="alert_fan_speed_value_message">Не существует стандартного GCODE для получения значения текущих оборотов вентилятора.\n\nВот почему ползунок оборотов вентилятора не выставлен на текущее значение. Если ползунок показывает 0%, это не ошибка, это особенность \uD83D\uDE48</string>
 

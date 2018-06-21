@@ -77,6 +77,9 @@
     <string name="intro_printoid_website">Descubra https://printoid.net, el sitio web oficial de Printoid! Registro de cambios completo, próximas versiones, nuevas características,  consejos útiles &amp; más!</string>
     <string name="intro_printoid_website_button">Visitar ahora</string>
 
+    <string name="intro_spool_manager">Administre su stock de spools con el módulo Filament Spool Manager, disponible para Printoid PRO y PREMIUM. La versión gratuita de este módulo le permite administrar hasta 2 spools.</string>
+    <string name="intro_spool_manager_button">Instalar ahora</string>
+
     <string name="steaming_not_available">Streaming no disponible.\nPor favor verifique la conexión de su cámara y los sufijos URL ajustados en los ajustes de Printoid.</string>
 
     <string name="file_list_empty">No hay archivos disponibles</string>

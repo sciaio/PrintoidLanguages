@@ -74,6 +74,9 @@
     <string name="intro_printoid_website">Découvrez https://printoid.net, le site officiel de Printoid! Changelogs complets, prochaines versions, nouvelles fonctionnalités, astruces pratiques &amp; bien plus !</string>
     <string name="intro_printoid_website_button">Visiter maintenant</string>
 
+    <string name="intro_spool_manager">Managez votre stock de filament avec le module Filament Spool Manager, compatible avec Printoid PRO et PREMIUM! La version gratuite vous permet de manager jusqu\'à deux bobines.</string>
+    <string name="intro_spool_manager_button">Installer</string>
+
     <string name="alert_fan_speed_value_title">Remarque sur la ventilation</string>
     <string name="alert_fan_speed_value_message">Il n\'existe pas de commande pour récupérer la valeur de la ventilation dans la syntaxe standard GCODE.\n\nC\'est pourquoi Printoid ne peut pas ajuster le slider de ventilation. S\'il est remit automatiquement à 0%, ce n\'est pas un bug mais le comportement attendu \uD83D\uDE48</string>
 
