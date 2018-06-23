@@ -6,8 +6,8 @@
     <string name="alarms_title">Управление предупреждениями</string>
 
     <string name="alarm_type_progress">Печать</string>
-    <string name="alarm_type_temperature_hot_end">Температура нагреваемой головки</string>
-    <string name="alarm_type_temperature_hot_bed">Температура нагретого слоя</string>
+    <string name="alarm_type_temperature_hot_end">Температура хотэнда</string>
+    <string name="alarm_type_temperature_hot_bed">Температура стола</string>
     <string name="alarm_type_gcode_command">Выполнение команды GCODE</string>
     <string name="alarm_type_z_height">Высота Z</string>
 
@@ -15,11 +15,11 @@
 
     <string name="alarm_setting_type">Тип предупреждения</string>
     <string name="alarm_setting_sensitivity">Чувствительность этого предупреждения (+ X% от стоимости)</string>
-    <string name="alarm_setting_value_progress">Предупреждение когда работа достигает этого прогресса (%)</string>
-    <string name="alarm_setting_value_temperature_hot_end">Предупреждение когда горячий конец достигает этой температуры (°)</string>
-    <string name="alarm_setting_value_temperature_hot_bed">Предупреждение когда горячий слой достигает этой температуры (°)</string>
-    <string name="alarm_setting_value_gcode_command">Предупреждение при выполнении этой команды GCODE</string>
-    <string name="alarm_setting_value_z_height">Предупреждать когда сопло достигает этой высоты (mm)</string>
+    <string name="alarm_setting_value_progress">Предупредить когда печать достигнет этого прогресса (%)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Предупредить когда хотэнд нагреется до температуры (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Предупредить когда стол нагреется до температуры (°)</string>
+    <string name="alarm_setting_value_gcode_command">Предупредить при выполнении этой команды GCODE</string>
+    <string name="alarm_setting_value_z_height">Предупредить когда сопло достигнет этой высоты (mm)</string>
     <string name="alarm_settins_value">Значение предупреждения</string>
     <string name="alarm_setting_vibration_pattern">Вибрационный шаблон</string>
 
