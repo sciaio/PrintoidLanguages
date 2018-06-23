@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="printer_state_octo_disconnected">Выключен</string>
+    <string name="printer_state_octo_disconnected">Отключен</string>
     <string name="printer_state_disconnected">Отключен</string>
-    <string name="printer_state_connecting">Cвязующий&#8230;</string>
+    <string name="printer_state_connecting">Подключение&#8230;</string>
     <string name="printer_state_sending_file">Отправка файла…</string>
     <string name="printer_state_ready">Готов к печати</string>
-    <string name="printer_state_paused">Приостановка печати</string>
+    <string name="printer_state_paused">Пауза печати</string>
     <string name="printer_state_printing">Печать&#8230;</string>
     <string name="printer_state_error">Ошибка подключения принтера</string>
 
@@ -41,7 +41,7 @@
     <string name="model_size">Размеры:</string>
     <string name="origin">Происхождение:</string>
     <string name="failures">Неудача:</string>
-    <string name="success">Yспех:</string>
+    <string name="success">Успех:</string>
     <string name="cost">Стоимость:</string>
 
     <string name="size_label">Pазмер:</string>

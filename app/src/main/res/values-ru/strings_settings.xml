@@ -11,22 +11,22 @@
     <string name="setting_title_connection">Настройки соединения</string>
     <string name="setting_title_printer_connection">Настройки соединения OctoPrint</string>
     <string name="setting_title_right_panel">Настройки правой панели</string>
-    <string name="setting_title_tools">Настройки хотэнда &amp; подогрева стола</string>
+    <string name="setting_title_tools">Настройки хотэнда и подогрева стола</string>
     <string name="setting_title_ventilation">Настройки обдува</string>
     <string name="setting_title_widgets">Настройки виджета</string>
-    <string name="setting_title_cost_plugin">Плагин настроек стоимости</string>
-    <string name="setting_title_tplink_plugin">Настройки плагина TP Link</string>
+    <string name="setting_title_cost_plugin">Настройки расчета стоимости</string>
+    <string name="setting_title_tplink_plugin">Настройки TP-Link Smartplug</string>
     <string name="setting_title_controls">Настройки управления</string>
     <string name="setting_title_streaming">Настройки видео</string>
-    <string name="setting_title_backup">Сохранение &amp; восстановление</string>
+    <string name="setting_title_backup">Сохранение и восстановление</string>
     <string name="setting_title_accessibility">Специальные возможности</string>
     <string name="setting_title_security">Настройки безопасности</string>
     <string name="setting_title_streaming_first">Настройки первой камеры</string>
     <string name="setting_title_streaming_second">Настройки второй камеры</string>
-    <string name="setting_title_streaming_tools">Потоковые инструменты</string>
-    <string name="setting_title_pick_color">Дно виджета %1$s (%2$s)</string>
+    <string name="setting_title_streaming_tools">Настройки окна видео</string>
+    <string name="setting_title_pick_color">Фон виджета %1$s (%2$s)</string>
     <string name="setting_title_toolbar">Настройки панели инструментов</string>
-    <string name="setting_title_language">Hастройки локали</string>
+    <string name="setting_title_language">Языковые настройки</string>
 
     <string name="setting_enable_screensaver">Хранитель экрана</string>
     <string name="setting_enable_notif">Включить уведомления</string>
@@ -61,7 +61,7 @@
     <string name="setting_screen_orientation">Положение экрана</string>
     <string name="settings_language">Язык</string>
     <string name="setting_force_24h">Формат времени 12ч/24ч</string>
-    <string name="setting_screen_refresh_idle">Обновление в простое (сек)</string>
+    <string name="setting_screen_refresh_idle">Обновление в ожидании (сек)</string>
     <string name="setting_screen_refresh_printing">Обновление при печати (сек)</string>
     <string name="setting_screen_refresh_background">Обновление в фоне (мин)</string>
     <string name="setting_theme">Тема оформления</string>
@@ -108,20 +108,20 @@
     <string name="setting_enable_keep_screen_on">Держите экран включенным</string>
     <string name="setting_config_camera_parameters">Настройте параметры</string>
     <string name="setting_cost_plugin_currency">Bалюта</string>
-    <string name="setting_cost_plugin_cost_per_hour">Стоимость за час</string>
+    <string name="setting_cost_plugin_cost_per_hour">Стоимость за час печати</string>
     <string name="setting_cost_plugin_cost_per_meter">Стоимость за метр</string>
     <string name="setting_cost_plugin_cost_per_weight">Стоимость за килограмм</string>
-    <string name="setting_cost_plugin_filament_diameter">Диаметр нити (mm)</string>
-    <string name="setting_cost_plugin_filament_density">Плотность накала (g/cm³)</string>
+    <string name="setting_cost_plugin_filament_diameter">Диаметр нити (мм)</string>
+    <string name="setting_cost_plugin_filament_density">Плотность пластика (г/см³)</string>
     <string name="setting_cost_plugin_cost_method">Метод расчета стоимости</string>
     <string name="setting_streaming_security">Потоковая безопасность (протокол)</string>
     <string name="setting_connection_ip_selection_mode">Режим подключения</string>
     <string name="setting_tplink_plugin_ip">IP-адрес TP Link</string>
-    <string name="setting_improve_connection">Улучшение процесса подключения</string>
+    <string name="setting_improve_connection">Улучшение подключения</string>
 
     <string name="setting_improve_connection_tip">Для получения WiID SSID требуется разрешение на грубое местоположение.</string>
     <string name="setting_enable_screensaver_tip">Показывать только текущие данные о работе после периода бездействия</string>
-    <string name="setting_battery_optimizations_tip">Эти оптимизация системы может привести к уничтожению процесса Printoid</string>
+    <string name="setting_battery_optimizations_tip">Эта оптимизация системы может привести к закрытию Printoid</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Включить только если Вы не можете соединиться с OctoPrint</string>
     <string name="setting_enable_unread_messages_tip">Уведомления о новых статьях на веб-сайте</string>
     <string name="setting_enable_changelogs_tip">Оповещать, когда в Google Play доступна новая версия</string>
@@ -129,8 +129,8 @@
     <string name="setting_enable_check_connection_tip">Проверять что Printoid на связи</string>
     <string name="setting_enable_always_prompt_tty_tip">Показать последовательные порты при подключении, независимо то выбора по умолчанию</string>
     <string name="setting_enable_axis_control_display_tip">Отображать оси управления на видео</string>
-    <string name="setting_enable_printer_info_display_tip">Показать температуры &amp; статус печати в окне видео</string>
-    <string name="setting_enable_auto_config_tip">Нагрев стола &amp; голов в соотвествии с настройкой OctoPrint\'s</string>
+    <string name="setting_enable_printer_info_display_tip">Показать температуры и статус печати в окне видео</string>
+    <string name="setting_enable_auto_config_tip">Нагрев стола и сопел в соотвествии с настройкой OctoPrint\'s</string>
     <string name="setting_enable_hot_bed_tip">Показать и управлять температурой стола</string>
     <string name="setting_enable_fps_tip">Показывать FPS на видео</string>
     <string name="setting_enable_flip_vertical_tip">Отразить видео по вертикали</string>
@@ -150,7 +150,7 @@
     <string name="setting_enable_invert_y_tip">Инверсия вверх/вниз кнопок для оси Y</string>
     <string name="setting_enable_invert_z_tip">Инверсия поднять/опустить кнопок для оси Z</string>
     <string name="setting_rotate_streaming_tip">Поворот видео</string>
-    <string name="setting_snapshot_fps_tip">Сколько отображать кадров в секунду</string>
+    <string name="setting_snapshot_fps_tip">Отображать количество кадров в секунду</string>
     <string name="setting_screen_orientation_tip">Установить книжный или альбомный режим</string>
     <string name="settings_language_tip">Принудительно выбрать язык в Printoid</string>
     <string name="setting_force_24h_tip">Выбрать режим 12ч или 24ч, или использовать настроки системы</string>
@@ -185,26 +185,26 @@
     <string name="setting_show_tutorial_again_tip">Показать слайды подсказок снова</string>
     <string name="setting_contact_tip">Помощь, ошибки, улучшения, изменения…</string>
     <string name="setting_website_rssfeed_tip"><![CDATA[You have <b><font color=#FF4444>%s</font></b> unread articles]]></string>
-    <string name="setting_website_rssfeed_tip_nohtml">You have %d unread articles></string>
-    <string name="setting_accessibility_red_green_weekness_tip">Этот режим поможет если у Вас проблемы с красным/зеленым цветом</string>
+    <string name="setting_website_rssfeed_tip_nohtml">У Вас %d непрочитанных статей></string>
+    <string name="setting_accessibility_red_green_weekness_tip">Режим поможет если у Вас проблемы с красным/зеленым цветом</string>
     <string name="settings_enable_right_panel_streaming_tip">Отображение потокового видео при открытии правой панели</string>
     <string name="settings_enable_right_panel_commands_tip">Быстрый доступ ко всем пользовательским командам</string>
     <string name="settings_enable_right_panel_visualizer_tip">Показывать текущий печатаемый слой в 2D</string>
     <string name="settings_enable_password_locker_tip">Запрашивать пароль при открытии Printoid</string>
     <string name="settings_choose_password_locker_tip">Изменение текущего пароля</string>
-    <string name="settings_enable_right_panel_tip">Разрешить, чтобы открыть меню вправо пальцем жест</string>
-    <string name="settings_enable_beta_program_tip">Помогите разработчику создать будущее Printoid!</string>
-    <string name="setting_enable_keep_screen_on_tip">Показать экран, чтобы бодрствовать, пока отображается Printoid</string>
+    <string name="settings_enable_right_panel_tip">Открывать меню жестом с правого края</string>
+    <string name="settings_enable_beta_program_tip">Помогите разработчику улучшить Printoid!</string>
+    <string name="setting_enable_keep_screen_on_tip">Не отключать экран, пока открыт Printoid</string>
     <string name="setting_config_camera_parameters_tip">Яркость, контрастность, насыщенность, качество, экспозиция…</string>
     <string name="setting_cost_plugin_currency_tip">Ваша местная валюта для приблизительных затрат</string>
     <string name="setting_cost_plugin_cost_per_hour_tip">Расход электроэнергии в час</string>
-    <string name="setting_cost_plugin_cost_per_meter_tip">Стоимость потребления нити в метре</string>
-    <string name="setting_cost_plugin_cost_per_weight_tip">Стоимость за килограмм нити</string>
-    <string name="setting_cost_plugin_filament_diameter_tip">Обычно составляет 1.75mm или 3mm</string>
-    <string name="setting_cost_plugin_filament_density_tip">Обычно составляет 1.25g/cm³ (PLA) или 1.01g/cm³ (ABS)</string>
+    <string name="setting_cost_plugin_cost_per_meter_tip">Стоимость метра текущего филамента</string>
+    <string name="setting_cost_plugin_cost_per_weight_tip">Стоимость килограмма нити</string>
+    <string name="setting_cost_plugin_filament_diameter_tip">Обычно составляет 1.75мм или 3мм</string>
+    <string name="setting_cost_plugin_filament_density_tip">Обычно составляет 1.25г/см³ (PLA) или 1.01г/см³ (ABS)</string>
     <string name="setting_cost_plugin_cost_method_tip">Как рассчитывается стоимость</string>
-    <string name="setting_streaming_security_tip">Заставить HTTP или HTTPS. Авто выбирает то же, что и профиль OctoPrint.</string>
-    <string name="setting_connection_ip_selection_mode_tip">Как приложение должно выбрать IP для подключения OctoPrint</string>
+    <string name="setting_streaming_security_tip">Использовать HTTP или HTTPS. Авто выбирает то же, что и профиль OctoPrint.</string>
+    <string name="setting_connection_ip_selection_mode_tip">Приоритет выбора IP для подключения OctoPrint</string>
     <string name="setting_tplink_plugin_ip_tip">IP-адрес LAN вашего TP Link Smartplug</string>
     <string name="setting_ssl_mode_tip">Использовать HTTPS в LAN и/или WAN</string>
 
@@ -223,8 +223,8 @@
     <string name="config_title_alert_settings_changed_msg">Настройки были изменены, хотите их сохранить?</string>
 
     <string name="settings_warning_permission_title">Необходимо разрешение</string>
-    <string name="settings_warning_permission_backup_msg">Printoid необходимо разрешение для записи настроек на внешнюю карту памяти.\n\nПожалуйста подтвердите разрешение в следующем окне и нажмите на \'сохранить\' снова</string>
-    <string name="settings_warning_permission_restore_msg">Printoid необходимо разрешение для чтения настроек с внешней карты памяти.\n\nПожалуйста подтвердите разрешение в следующем окне и нажмите на \'восстановить\' снова</string>
+    <string name="settings_warning_permission_backup_msg">Printoid необходимо разрешение для записи настроек на внешнюю карту памяти.\n\nПожалуйста подтвердите разрешение в следующем окне и нажмите на \'Сохранить\' снова</string>
+    <string name="settings_warning_permission_restore_msg">Printoid необходимо разрешение для чтения настроек с внешней карты памяти.\n\nПожалуйста подтвердите разрешение в следующем окне и нажмите на \'Восстановить\' снова</string>
     <string name="backup_canceled">Сохранение отменено</string>
     <string name="restore_canceled">Восстановление отменено</string>
 
