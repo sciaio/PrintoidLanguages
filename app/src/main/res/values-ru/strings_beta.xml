@@ -2,11 +2,11 @@
 <resources>
 
     <string name="alert_beta_program_title">Бета-версия программы</string>
-    <string name="alert_beta_program_msg">Вы можете внести свой вклад в новую бета-программу, чтобы улучшить Printoid!\n\nPrintoid просто нуждается в вашем адресе электронной почты для отправки вам новостей и инструкций. Конечно, это необязательно, и это не повлияет на ваши личные и личные данные.\n\nВы хотите включить бета-программу прямо сейчас?</string>
+    <string name="alert_beta_program_msg">Вы можете внести свой вклад в новую тестовую версию, чтобы улучшить Printoid!\n\nPrintoid необходим Ваш адрес электронной почты для отправки Вам новостей и инструкций. Конечно, это необязательно, и это не повлияет на Ваши личные данные.\n\nВы хотите принять участие в тестировании?</string>
 
     <string name="alert_beta_infos_title">Ваши данные</string>
-    <string name="alert_beta_infos_msg">Printoid просто нуждается в вашем адресе электронной почты для отправки вам новостей и инструкций для бета-программы!</string>
+    <string name="alert_beta_infos_msg">Printoid необходим Вашем адрес электронной почты для отправки Вам новостей и инструкций для бета версии!</string>
 
-    <string name="notification_printoid_beta_program_title">Printoid Бета-версия программы</string>
+    <string name="notification_printoid_beta_program_title">Printoid Бета-версия</string>
 
 </resources>

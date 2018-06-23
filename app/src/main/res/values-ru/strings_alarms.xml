@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="notif_channel_name_alerts">Уведомления о предупреждениях</string>
+    <string name="notif_channel_name_alerts">Уведомления об оповещениях</string>
 
-    <string name="alarms_title">Управление предупреждениями</string>
+    <string name="alarms_title">Управление оповещениями</string>
 
     <string name="alarm_type_progress">Печать</string>
     <string name="alarm_type_temperature_hot_end">Температура хотэнда</string>
@@ -13,42 +13,42 @@
 
     <string name="alerts_list_empty">Не создано оповещений</string>
 
-    <string name="alarm_setting_type">Тип предупреждения</string>
-    <string name="alarm_setting_sensitivity">Чувствительность этого предупреждения (+ X% от стоимости)</string>
-    <string name="alarm_setting_value_progress">Предупредить когда печать достигнет этого прогресса (%)</string>
+    <string name="alarm_setting_type">Тип оповещения</string>
+    <string name="alarm_setting_sensitivity">Допуск срабатывания оповещения (+ X% от значения)</string>
+    <string name="alarm_setting_value_progress">Предупредить когда печать закончится на (%)</string>
     <string name="alarm_setting_value_temperature_hot_end">Предупредить когда хотэнд нагреется до температуры (°)</string>
     <string name="alarm_setting_value_temperature_hot_bed">Предупредить когда стол нагреется до температуры (°)</string>
     <string name="alarm_setting_value_gcode_command">Предупредить при выполнении этой команды GCODE</string>
     <string name="alarm_setting_value_z_height">Предупредить когда сопло достигнет этой высоты (mm)</string>
-    <string name="alarm_settins_value">Значение предупреждения</string>
+    <string name="alarm_settins_value">Значение</string>
     <string name="alarm_setting_vibration_pattern">Вибрационный шаблон</string>
 
-    <string name="alarm_created">Создан новый будильник</string>
-    <string name="alarm_updated">Обновлен сигнал тревоги</string>
-    <string name="alarm_deleted">Cигнализация удалена</string>
+    <string name="alarm_created">Создано новое оповещение</string>
+    <string name="alarm_updated">Оповещение обновлено</string>
+    <string name="alarm_deleted">Оповещение удалено</string>
 
     <string name="alarms_exit_editor_alert_title">Сохраните изменения</string>
     <string name="alarms_exit_editor_alert_msg">Вы хотите сохранить изменения до выхода из редактора?</string>
 
-    <string name="alarms_delete_alert_title">Удалить предупреждение</string>
-    <string name="alarms_delete_alert_msg">Вы действительно хотите удалить это предупреждение? Это действие не может быть отменено.</string>
+    <string name="alarms_delete_alert_title">Удалить оповещение</string>
+    <string name="alarms_delete_alert_msg">Вы действительно хотите удалить это оповещение? Это действие не может быть отменено.</string>
 
-    <string name="alarm_alert_value_title">Неверное значение для этого предупреждения</string>
-    <string name="alarm_alert_type_msg">Неверный тип для этого предупреждения! Свяжитесь с разработчиком Printoid</string>
-    <string name="alarm_alert_value_empty_msg">Вы должны указать значение для этого предупреждения!</string>
-    <string name="alarm_alert_value_float_msg">Значение для этого предупреждения должно быть плавающим числом или целым числом!</string>
-    <string name="alarm_alert_value_progress_msg">Включите фоновый режим, чтобы получать уведомление, когда печать завершена, вместо использования специального предупреждения!</string>
+    <string name="alarm_alert_value_title">Неверное значение для этого оповещения</string>
+    <string name="alarm_alert_type_msg">Неверный тип для этого оповещения! Свяжитесь с разработчиком Printoid</string>
+    <string name="alarm_alert_value_empty_msg">Вы должны указать значение для этого оповещения!</string>
+    <string name="alarm_alert_value_float_msg">Значение для этого оповещения должно быть дробным или целым числом!</string>
+    <string name="alarm_alert_value_progress_msg">Включите фоновый режим, чтобы получать уведомление, когда печать завершена, вместо использования специального оповещения!</string>
 
-    <string name="alarm_help_title">Менеджер предупреждений</string>
-    <string name="alarm_help_msg">Вы можете определить пользовательские предупреждения в Printoid.\n\n
-        Оповещения будут вызваны уведомлением Android со звуком и вибрацией в зависимости от ваших системных настроек.\n\n
-        Оповещения будут запущены, только если Printoid откроется на вашем телефоне и на переднем плане.\n\n
-        Обратите внимание, что эта функция «работает в процессе» и будет значительно улучшена! :)</string>
+    <string name="alarm_help_title">Менеджер оповещений</string>
+    <string name="alarm_help_msg">Вы можете определить пользовательские оповещения в Printoid.\n\n
+        Оповещения будут вызваны уведомлением Android со звуком и вибрацией в зависимости от Ваших системных настроек.\n\n
+        Оповещения будут работать, только если Printoid открыт на Вашем телефоне.\n\n
+        Обратите внимание, что эта функция «в разработке» и будет значительно улучшена! :)</string>
 
-    <string name="alarm_notification_title">Tревога: %s</string>
-    <string name="alarm_notification_progress">Текущая прогрессия: %.1f%%</string>
-    <string name="alarm_notification_temperature_hot_end">Температура для экструдера. %1$d: %2$.1f°</string>
-    <string name="alarm_notification_temperature_hot_bed">Температура нагретого слоя: %.1f°</string>
+    <string name="alarm_notification_title">Оповещение: %s</string>
+    <string name="alarm_notification_progress">Прогрессия печати: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">Температура хотэнда. %1$d: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Температура стола: %.1f°</string>
     <string name="alarm_notification_gcode_command">Выполняется команда GCODE: %s</string>
     <string name="alarm_notification_z_height">Достигнута высота Z: %.2f</string>
 

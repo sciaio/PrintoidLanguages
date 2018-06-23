@@ -10,34 +10,33 @@
     <string name="alert_pro_feature_render_msg">Это бесплатная версия Printoid.\nТрехмерный просмотр GCODE &amp; STL файла доступен в PRO версии, скачайте её в Google Play!</string>
     <string name="alert_pro_feature_layers_msg">Это бесплатная версия Printoid.\nПослойный просмотр GCODE доступен в PRO версии, скачайте её в Google Play!</string>
     <string name="alert_pro_feature_realtime_layers_msg">Это бесплатная версия Printoid.\nВизиуализация в реальном времени доступна в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_spools_manager_msg">Это бесплатная версия Printoid.\nМодуль управления катушкой нити доступен в версии PRO, загрузите его сейчас в Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">Это бесплатная версия Printoid.\nМодуль учета катушки филамента доступен в версии PRO, загрузите его сейчас в Google Play!</string>
 
     <string name="alert_cancel_print_title">Прервать текущую печать</string>
     <string name="alert_cancel_print_msg">Вы уверены, что хотите прервать печать?\nПрервав печать, Вы не сможете её возобновить с текущего момента, испортив результат.</string>
 
     <string name="alert_pause_print_title">Пауза текущей печати</string>
-    <string name="alert_pause_print_msg">Это задание на печать будет приостановлено, вы уверены?</string>
+    <string name="alert_pause_print_msg">Это задание печати будет приостановлено, вы уверены?</string>
 
     <string name="alert_resume_print_title">Продолжить текущую печать</string>
-    <string name="alert_resume_print_msg">Это задание на печать будет возобновлено, вы уверены?</string>
+    <string name="alert_resume_print_msg">Это задание печати будет возобновлено, вы уверены?</string>
 
     <string name="alert_restart_print_title">Перезапустить текущую печать</string>
-    <string name="alert_restart_print_msg">Это задание на печать будет перезапущено, вы уверены?\nПредыдущая работа не может быть перезагружена до прежнего состояния, поэтому ваша фактическая работа будет потеряна.</string>
+    <string name="alert_restart_print_msg">Это задание печати будет перезапущено, вы уверены?\nТекущий результат не будет закончен, поэтому текщая печать будет испорчена.</string>
 
     <string name="alert_delete_printer_profile_title">Удаление принтера</string>
-    <string name="alert_delete_printer_profile_message">Вы уверены, что хотите удалить принтер?\nЭто действие Вы не сможете отменить.</string>
+    <string name="alert_delete_printer_profile_message">Вы уверены, что хотите удалить профиль принтера?\nЭто действие Вы не сможете отменить.</string>
 
-    <string name="alert_streaming_issue_title">Видео просмотр</string>
-    <string name="alert_streaming_issue_msg">Внимание!\n\nЕсли у Вас проблемы со встроенным проигрывателем Printoid\'а (черный экран, ошибка соединения или в худшем случае 
-        падение Вашего OctoPrint сервера) Вы можете выбрать в настройках режим "Web просмотр".\n\nПожалуйста свяжитесь с разработчиком, если это не помогло Вам :)</string>
+    <string name="alert_streaming_issue_title">Просмотр видео</string>
+    <string name="alert_streaming_issue_msg">Внимание!\n\nЕсли у Вас проблемы со встроенным проигрывателем Printoid\'а (черный экран, ошибка соединения или в худшем случае падение Вашего OctoPrint сервера) Вы можете выбрать в настройках режим \"Web просмотр\".\n\nПожалуйста свяжитесь с разработчиком, если это не помогло Вам :)</string>
     <string name="alert_streaming_remind_me">Напомнить</string>
 
-    <string name="alert_floating_icon_title">Плавающая пиктограмма</string>
-    <string name="alert_floating_icon_msg">TПлавающий значок - это функция Printoid, которая позволяет вам следить за потоком видео, где бы вы ни находились.\n\n
-         Вы хотите включить его прямо сейчас? Эта функция может быть включена и отключена в настройках.</string>
+    <string name="alert_floating_icon_title">Плавающий значок</string>
+    <string name="alert_floating_icon_msg">Плавающий значок - это функция Printoid, которая позволяет Вам смотреть видео, где бы Вы ни находились.\n\n
+         Вы хотите включить его прямо сейчас? Эту функцию можно включить/выключить в настройках.</string>
 
-    <string name="alert_snapshot_ready_title">Снимок готов</string>
-    <string name="alert_snapshot_ready_msg">Снимок готов, Вы можете сохранить его на Ваш носитель или поделиться им с кем-нибудь.</string>
+    <string name="alert_snapshot_ready_title">Снимок сделан</string>
+    <string name="alert_snapshot_ready_msg">Сделан снимок. Вы можете сохранить его на Ваш носитель или поделиться им с кем-нибудь.</string>
 
     <string name="alert_snapshot_error_title">Ошибка снимка</string>
     <string name="alert_snapshot_error_msg">Printoid не может скачать Ваш снимок. Пожалуйста проверьте Ваши настройки и повторите.</string>
@@ -49,8 +48,8 @@
     <string name="alert_license_invalid_message">Ваша лицензия на Printoid неверна. Возможности %1$s версии автоматически отключены.\n\nХотите приобрести %2$s версию Printoid в Google Play?\n\n(Если Вы уже приобрели %3$s версию, Нажмите кнопку \"Справка\")\n\n[Fout bij communicatie met de ontwikkelaar: %4$s]</string>
     <string name="purchase">Купить</string>
 
-    <string name="alert_choose_ip_title">Выберите IP-адрес</string>
-    <string name="alert_choose_ip_msg">В настоящее время Printoid не подключен к серверу OctoPrint.\nВыберите IP-адрес (или имя хоста), который будет использоваться для этой команды SSH.</string>
+    <string name="alert_choose_ip_title">Укажите IP-адрес</string>
+    <string name="alert_choose_ip_msg">В настоящее время Printoid не подключен к серверу OctoPrint.\nУкажите IP-адрес (или имя хоста), который будет использоваться для этой команды SSH.</string>
 
     <string name="alert_theme_changed_title">Перезапуск для смены оформления</string>
     <string name="alert_theme_changed_msg">Вы должны перезапустить приложение для применения нового оформления. Хотите перезапустить сейчас?</string>
@@ -63,21 +62,21 @@
     <string name="alert_permission_denied_write_msg">Printoid не может выполнить эту операцию, так как Вы запретили <b>запись на внешний носитель</b> при настроке прав доступа приложения.\n\nХотите это изменить вручную?</string>
     <string name="alert_permission_denied_camera_msg">Printoid не может выполнить эту операцию, так как Вы запретили <b>камера</b> при настроке прав доступа приложения.\n\nХотите это изменить вручную?</string>
 
-    <string name="alert_select_tool_title">Выбор инструмента</string>
+    <string name="alert_select_tool_title">Выбор сопла</string>
     <string name="alert_select_tool_message">Выбирите сопло для %s:</string>
     <string name="alert_select_tool_message_retraction">отката</string>
     <string name="alert_select_tool_message_extrusion">выдавливания</string>
     <string name="alert_select_tool_extruder">Сопло %1$d (инструмент %2$d)</string>
     <string name="alert_select_tool_keep_for">Запомнить инструмент на 30 секунд</string>
-    <string name="alert_select_tool_error">Не могу выбрать инструмент %d</string>
+    <string name="alert_select_tool_error">Не могу выбрать сопло %d</string>
 
-    <string name="intro_printoid_website">Посетите https://printoid.net, официальный сайт Printoid! Списки изменений, новые версии, новые функции, советы по использованию &amp; и многое другое!</string>
+    <string name="intro_printoid_website">Посетите https://printoid.net, официальный сайт Printoid! Списки изменений, новые версии, новые функции, советы по использованию и многое другое!</string>
     <string name="intro_printoid_website_button">Перейти</string>
 
-    <string name="intro_spool_manager">Управляйте своим запасом катушек с помощью модуля Filament Spool Manager, доступного для Printoid PRO и PREMIUM! Бесплатная версия этого модуля позволяет вам управлять двумя катушками.!</string>
+    <string name="intro_spool_manager">Управляйте своим запасом катушек с помощью модуля Filament Spool Manager, доступного для Printoid PRO и PREMIUM! Бесплатная версия этого модуля позволяет вам управлять только двумя катушками!</string>
     <string name="intro_spool_manager_button">Установить сейчас</string>
 
-    <string name="alert_fan_speed_value_title">Предупреждение об значении оборотов вентилятора</string>
+    <string name="alert_fan_speed_value_title">Предупреждение о значении оборотов вентилятора</string>
     <string name="alert_fan_speed_value_message">Не существует стандартного GCODE для получения значения текущих оборотов вентилятора.\n\nВот почему ползунок оборотов вентилятора не выставлен на текущее значение. Если ползунок показывает 0%, это не ошибка, это особенность \uD83D\uDE48</string>
 
     <string name="steaming_not_available">Видео недоступно.\nПожалуйста проверьте Вашу камеру и URL ссылку в настройках Printoid.</string>
@@ -89,13 +88,13 @@
     <string name="new_octoprint_version">Доступна новая версия OctoPrint! (v%s)</string>
     <string name="new_octoprint_release_candidate">Доступен новый выпуск OctoPrint! (v%s)</string>
 
-    <string name="promote_pro_message">Ты любишь Принстоида? Это приложение - ваш лучший компаньон для вашего 3D-принтера?\n\nЕсли да, и если вы хотите, вы можете купить Printoid PRO в Google Play для поддержки разработчика!\n\nВерсия Pro предлагает вам потоковое видео, встроенные команды, 2D и 3D визуализаторы, симулятор в реальном времени и многое другое!</string>
-    <string name="promote_premium_message">Ты любишь Принстоида? Это приложение - ваш лучший компаньон для вашего 3D-принтера?\n\nЕсли да, и если вы хотите, вы можете купить Printoid PREMIUM в Google Play для поддержки разработчика!\n\nПремиум-версия дает вам возможность создать свой собственный физический интерфейс для Printoid!</string>
+    <string name="promote_pro_message">Вам нравится Printoid? Это приложение - лучший компаньон для Вашего 3D-принтера?\n\nЕсли да, Вы можете купить Printoid PRO в Google Play для поддержки разработчика!\n\nВерсия Pro предлагает Вам потоковое видео, встроенные команды, 2D и 3D визуализаторы, симулятор в реальном времени и многое другое!</string>
+    <string name="promote_premium_message">Вам нравится Printoid? Это приложение - лучший компаньон для Вашего 3D-принтера?\n\nЕсли да, Вы можете купить Printoid PREMIUM в Google Play для поддержки разработчика!\n\nPREMIUM версия даст Вам возможность создать свой собственный физический интерфейс для Printoid!</string>
 
-    <string name="promote_donation_message">Ты любишь Принстоида? Это приложение - ваш лучший компаньон для вашего 3D-принтера?\n\nЕсли да, и если хотите, вы можете пожертвовать сумму своего выбора для поддержки разработчика и его работы и помочь в разработке новых потрясающих функций!</string>
+    <string name="promote_donation_message">Вам нравится Printoid? Это приложение - лучший компаньон для Вашего 3D-принтера?\n\nЕсли да, Вы можете пожертвовать любую сумму для поддержки разработчика и его работы и помочь в разработке новых потрясающих функций!</string>
 
-    <string name="notif_channel_name_overlay">Оверлейное уведомление службы</string>
-    <string name="notif_overlay_running_title">Видео с открытием</string>
-    <string name="notif_overlay_running_message">Нажмите здесь, чтобы закрыть службу видео</string>
+    <string name="notif_channel_name_overlay">Всплывающее уведомление</string>
+    <string name="notif_overlay_running_title">Текущее видео</string>
+    <string name="notif_overlay_running_message">Нажмите здесь, чтобы закрыть видео</string>
 
 </resources>

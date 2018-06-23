@@ -4,9 +4,9 @@
     <!-- CONNECTOR BASE -->
     <string name="connector_connection_title">Cоединение</string>
     <string name="connector_connection_to_title">Подключение к %s</string>
-    <string name="connector_connection_step_1" tools:ignore="TypographyFractions">Шаг 1/3</string>
-    <string name="connector_connection_step_2" tools:ignore="TypographyFractions">Шаг 2/3</string>
-    <string name="connector_connection_step_3" tools:ignore="TypographyFractions">Шаг 3/3</string>
+    <string name="connector_connection_step_1" tools:ignore="TypographyFractions">Шаг 1 из 3</string>
+    <string name="connector_connection_step_2" tools:ignore="TypographyFractions">Шаг 2 из 3</string>
+    <string name="connector_connection_step_3" tools:ignore="TypographyFractions">Шаг 3 из 3</string>
 
     <!-- CONNECTOR STEP 1 (PING) -->
     <string name="connector_connecting_title">Соединение. Шаг 1 (ping)</string>
@@ -31,7 +31,7 @@
 
     <!-- CONNECTOR STATUS -->
     <string name="connector_communication_established_title">Связь установлена</string>
-    <string name="connector_communication_established_msg">Printoid готов к подключению к OctoPrint серверу.\nВы можете подключить свой сервер к принтеру из меню слева.</string>
+    <string name="connector_communication_established_msg">Printoid готов подключится к OctoPrint серверу.\nВы можете подключить свой сервер к принтеру из меню слева.</string>
     <string name="octoprint_connection_lost">Соединение с OctoPrint сервером потеряно</string>
     <string name="connector_profile_not_completed_title">Профиль принтера не полон</string>
     <string name="connector_profile_not_completed_message">Вы не полностью заполнили профиль принтера.\nПожалуйста проверьте это перед соединением.</string>
@@ -41,9 +41,9 @@
 
     <!-- CONNECTOR ERRORS -->
     <string name="connector_error_format_multiple_ip"><![CDATA[Первый тест: <b>%1$s</b><br>-> %2$s<br><br>Bторой тест: <b>%3$s</b><br>-> %4$s]]></string>
-    <string name="connector_error_server_not_reachable">Сервер не доступен</string>
+    <string name="connector_error_server_not_reachable">Сервер недоступен</string>
     <string name="connector_error_unknown_host">Неизвестный хост</string>
-    <string name="connector_error_io_error">IO ошибка </string>
+    <string name="connector_error_io_error">Ошибка IO</string>
     <string name="connector_error_empty_response">Пустой ответ</string>
     <string name="connector_error_none_response">Нет ответа</string>
     <string name="connector_error_connectivity_response">Нет подключения или сигнал слишком плохой, пожалуйста, проверьте сетевое соединение</string>
@@ -57,7 +57,7 @@
     <string name="alert_network_connecting_title">Подключение к сети…</string>
     <string name="alert_network_connecting_message">Ваше устройство в данный момент подключается к сети, пожалуйста повторите попытку соединения через несколько секунд</string>
     <string name="alert_network_unavailable_title">Нет подключения</string>
-    <string name="alert_network_unavailable_message">Ваше устройство ни к чему не подключено, Printoid не может соединиться с Вашим OctoPrint сервером</string>
+    <string name="alert_network_unavailable_message">Ваше устройство не подключено, Printoid не может соединиться с Вашим OctoPrint сервером</string>
 
     <!-- PRINTER CONNECTION -->
     <string name="connector_printer_connection_title">Подключение принтера…</string>
@@ -66,11 +66,11 @@
     <!-- PRINTER CONNECTOR -->
     <string name="main_printer_connected_title">Принтер подключен</string>
     <string name="main_printer_connected_msg">Printoid готов к управлению принтером.</string>
-    <string name="main_printer_connection_error_title">Ошибка подключения принтера</string>
+    <string name="main_printer_connection_error_title">Ошибка подключения к принтеру</string>
     <string name="main_printer_connection_error_msg">Printoid не может подключиться к принтеру.\nПожалуйста проверьте соединение принтера с Вашим Raspberry Pi, и включите принтер.</string>
 
     <!-- PRINTER DISCONNECTOR -->
-    <string name="alert_disconnect_printer_title">Отключение принтера</string>
+    <string name="alert_disconnect_printer_title">Отключение от принтера</string>
     <string name="alert_disconnect_printer_message">Принтер будет отключен от Вашего OctoPrint сервера. Вы хотите продолжить?</string>
     <string name="printer_disconnected">Принтер отключён</string>
 
@@ -79,6 +79,6 @@
     <string name="select_tty_keep">Сохранить настройки подключения</string>
     <string name="select_tty">Последовательный порт</string>
     <string name="select_tty_profile">Профиль принтера</string>
-    <string name="select_tty_auto_connect">Автосоединение</string>
+    <string name="select_tty_auto_connect">Автоподключение</string>
 
 </resources>
