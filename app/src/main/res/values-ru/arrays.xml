@@ -17,8 +17,8 @@
 
     <string-array name="setting_connection_mode_array">
         <item>Авто</item>
-        <item>LAN первый</item>
-        <item>WAN первый</item>
+        <item>сначала LAN </item>
+        <item>сначала WAN</item>
     </string-array>
 
     <string-array name="streaming_method_array">
@@ -28,9 +28,9 @@
     </string-array>
 
     <string-array name="ssl_modes_array">
-        <item>Both</item>
-        <item>LAN only</item>
-        <item>WAN only</item>
+        <item>Оба</item>
+        <item>Только LAN</item>
+        <item>Только WAN</item>
     </string-array>
 
     <string-array name="setting_sound_array">
@@ -40,7 +40,7 @@
         <item>Звук 4</item>
         <item>Звук 5</item>
         <item>Звук 6</item>
-        <item>Звук OFF</item>
+        <item>Звук выкл</item>
     </string-array>
 
     <string-array name="after_slicing_array">
@@ -62,14 +62,14 @@
     </string-array>
 
     <string-array name="setting_force_clock_array">
-        <item>OFF</item>
-        <item>12H</item>
-        <item>24H</item>
+        <item>выкл</item>
+        <item>12ч</item>
+        <item>24ч</item>
     </string-array>
 
     <string-array name="setting_cost_methods">
-        <item>цена/m</item>
-        <item>цена/kg</item>
+        <item>цена за метр</item>
+        <item>цена за кг</item>
     </string-array>
 
 </resources>

@@ -48,13 +48,13 @@
     <string name="alert_cant_delete_msg">Printoid не может удалить %s</string>
 
     <string name="files_new_folder">Новая папка</string>
-    <string name="files_move_file">движение</string>
-    <string name="files_upload_file">Отправить</string>
+    <string name="files_move_file">Переместить</string>
+    <string name="files_upload_file">Загрузить</string>
     <string name="files_sort_files">Cортировать</string>
-    <string name="files_analyze">днализировать</string>
-    <string name="files_history">исторический</string>
+    <string name="files_analyze">Анализировать</string>
+    <string name="files_history">История</string>
 
-    <string name="analyzer_folder_root">Основная папка</string>
+    <string name="analyzer_folder_root">Корневая папка</string>
     <string name="analyzer_number_file">%d файл</string>
     <string name="analyzer_number_files">%d файлы</string>
     <string name="analyzer_number_folder">%d папка</string>
@@ -70,6 +70,6 @@
     <string name="analyzer_total_folders">Количество папок:</string>
     <string name="analyzer_total_machine_code">Количество GCODE:</string>
     <string name="analyzer_total_models">Количество моделей:</string>
-    <string name="analyzer_total_estimated_cost">Общая расчетная стоимость:</string>
+    <string name="analyzer_total_estimated_cost">Полная стоимость:</string>
 
 </resources>

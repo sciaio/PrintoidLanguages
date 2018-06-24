@@ -38,16 +38,16 @@
     - <b>Cura Engine (из OctoPrint)</b>: поддерживается\n
     - <b>Simplify3D</b>:  поддерживается\n
     - <b>Slic3r</b>: поддерживается\n
-    - <b>Другие</b>: пока не требовалось\n\nЯ упорно работаю над поддержкой новых форматов, пожалуйста обновляйте Printoid!
+    - <b>Другие</b>: пока не требовались\n\nЯ упорно работаю над поддержкой новых форматов, пожалуйста обновляйте Printoid!
     </string>
     <string name="render_error_2D_not_supported_msg">Ваш GCODE формат видимо пока не поддерживается. Текущая поддержка слайсеров.</string>
 
-    <string name="right_panel_2D_render_not_available">В настоящее время 2D визуализатор не доступен (Печать не запущена)</string>
+    <string name="right_panel_2D_render_not_available">В настоящее время 2D визуализатор недоступен (Печать незапущена)</string>
 
     <string name="simulator_back_to_direct">Синхронизация с прогрессом</string>
     <string name="simulator_pause">Пауза симулятора</string>
 
-    <string name="alert_large_file_title">Предоставление большого файла</string>
-    <string name="alert_large_file_msg">Вы хотите Printoid исчисляет обработать файл %1$s, Этот файл весит %2$s.\n\nЭтот файл, вероятно, слишком велик для приложения, Android может остановить этот процесс.\n\nВы хотите продолжить?</string>
+    <string name="alert_large_file_title">Слишком большой файл</string>
+    <string name="alert_large_file_msg">Вы хотите чтобы Printoid обработал файл %1$s, размером %2$s.\n\nЭтот файл, вероятно, слишком велик для приложения, Printoid может быть аварийно завершен.\n\nВы хотите продолжить?</string>
 
 </resources>

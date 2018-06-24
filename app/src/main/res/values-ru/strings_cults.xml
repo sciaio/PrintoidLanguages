@@ -5,16 +5,16 @@
 
     <string name="cults_category_url">https://cults3d.com/en/categories/%s</string>
 
-    <string name="cults_free">free</string>
-    <string name="cults_powered_by">Powered by</string>
-    <string name="cults_see_more_creations">See more creations on</string>
-    <string name="cults_see_creation_on">See this creation on</string>
-    <string name="cults_created_by">Created by %s</string>
+    <string name="cults_free">бесплатно</string>
+    <string name="cults_powered_by">При поддержке</string>
+    <string name="cults_see_more_creations">Больше моделей на</string>
+    <string name="cults_see_creation_on">Просмотреть модель на</string>
+    <string name="cults_created_by">Автор %s</string>
 
-    <string name="cults_select_mode">Select a category of creation</string>
-    <string name="cults_mode_selection">Cults\'s selection</string>
-    <string name="cults_mode_latest_creation">Latest creations</string>
+    <string name="cults_select_mode">Выбор категорий</string>
+    <string name="cults_mode_selection">Выбор Cults</string>
+    <string name="cults_mode_latest_creation">Новинки</string>
 
-    <string name="cults_http_error">Arf! Something goes wrong :(\nError %1$d\n(%2$s)</string>
+    <string name="cults_http_error">Упс! Что-то произошло :(\nОшибка %1$d\n(%2$s)</string>
 
 </resources>

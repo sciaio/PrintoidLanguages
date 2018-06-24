@@ -10,7 +10,7 @@
     <string name="download_timelapse_dialog_title">Загрузка ускоренного видео</string>
     <string name="download_timelapse_dialog_msg">Printoid загружает файл ускоренного видео, минутку…</string>
 
-    <string name="download_timelapse_done">Пометка времени загружена на внутреннее хранилище</string>
+    <string name="download_timelapse_done">Видео загружено на устройство</string>
 
     <string name="download_timelapse_alert_title">Ошибка загрузки</string>
     <string name="download_timelapse_alert_msg">Ошибка загрузки, %s</string>
@@ -39,8 +39,8 @@
     <string name="alert_video_player_permission_title">Проблема доступа</string>
     <string name="alert_video_player_permission_msg">Выбранный видеоплеер не имеет прав на чтение с внешнего хранилища.</string>
 
-    <string name="alert_vlc_title">Yстанавливать VLC™</string>
-    <string name="alert_vlc_msg">Android не может воспроизводить видео MJEG изначально. К счастью, VideoLAN Client ™ (VLC ™ Media Player) умеет играть в тей!
+    <string name="alert_vlc_title">Устанавка VLC™</string>
+    <string name="alert_vlc_msg">Android не может изначально воспроизводить видео MJEG. К счастью, VideoLAN Client ™ (VLC ™ Media Player) умеет его проигрывать!
          Установите приложение на свой телефон и не забудьте активировать разрешение \"читать внешнее хранилище\".</string>
 
 </resources>

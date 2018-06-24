@@ -20,7 +20,7 @@
     <string name="title_bar_toggle_remaining_time">Показывать оставшееся время</string>
     <string name="title_bar_toggle_file_name">Показывать имя файла</string>
     <string name="title_bar_spinner_change_delay">Период изменения (сек)</string>
-    <string name="title_bar_toggle_system_temperature">Высота Z (mm)</string>
-    <string name="title_bar_toggle_z_height">Температура системы (°)</string>
+    <string name="title_bar_toggle_system_temperature">Температура системы (°)</string>
+    <string name="title_bar_toggle_z_height">Высота Z (мм)</string>
 
 </resources>

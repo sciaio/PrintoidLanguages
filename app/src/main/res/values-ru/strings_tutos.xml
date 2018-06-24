@@ -7,26 +7,26 @@
 
     <!-- WELCOME -->
     <string name="tutorial_message_welcome">Добро пожаловать в Printoid %s!</string>
-    <string name="tutorial_message_welcome_2">Спасибо, что нашли минутку, чтобы узнать содержимое приложения. :)</string>
+    <string name="tutorial_message_welcome_2">Спасибо, что нашли время подробнее ознакомиться с возможностями Printoid. :)</string>
 
     <!-- VERSIONS COMPARATOR -->
-    <string name="tutorial_comparator_title">Компаратор версий</string>
-    <string name="tutorial_comparator_premium_content">Возможности PRO + расширенный контроль, виджеты &amp; многое другое…</string>
-    <string name="tutorial_comparator_pro_content">Несколько профилей OctoPrint, видео, пользовательские элементы управления, просмотрщик 2D &amp; 3D, симулятор в реальном времени &amp; многое другое…</string>
-    <string name="tutorial_comparator_lite_content">Бесплатный базовый пакет функций &amp; неограниченный лимит времени</string>
-    <string name="tutorial_comparator_button_1">Полный компаратор</string>
+    <string name="tutorial_comparator_title">Отличия версий</string>
+    <string name="tutorial_comparator_premium_content">Возможности PRO + расширенный контроль, виджеты и многое другое…</string>
+    <string name="tutorial_comparator_pro_content">Несколько профилей OctoPrint, видео, пользовательские элементы управления, просмотрщик 2D и 3D, симулятор в реальном времени и многое другое…</string>
+    <string name="tutorial_comparator_lite_content">Бесплатный базовый пакет функций и неограниченное время использования</string>
+    <string name="tutorial_comparator_button_1">Все отличия</string>
 
     <!-- KEYBOARD / ADB -->
-    <string name="tutorial_keyboard_title">Клавиатура &amp; ADB управление</string>
+    <string name="tutorial_keyboard_title">Клавиатура и ADB управление</string>
     <string name="tutorial_keyboard_message">Управляйте Printoid с клавиатуры или собственного интерфейса через ADB!</string>
     <string name="tutorial_keyboard_message_3">Больше информации по доступным командам на официальном сайте</string>
     <string name="tutorial_keyboard_button_1">ADB управление</string>
-    <string name="tutorial_keyboard_button_2">Клавиатура управление</string>
+    <string name="tutorial_keyboard_button_2">Клавиатура</string>
 
     <!-- ADVERTISEMENT -->
     <string name="tutorial_ads_title">Реклама в LITE</string>
-    <string name="tutorial_ads_message">Версия LITE бесплатна неограниченно, но содержит рекламу.</string>
-    <string name="tutorial_ads_message_2">Чтобы удалить рекламу, пользоваться полнофункциональным приложением и поддерживать разработчика, вы можете приобрести Printoid PRO или Printoid PREMIUM.</string>
+    <string name="tutorial_ads_message">Версия LITE бесплатна, но содержит рекламу.</string>
+    <string name="tutorial_ads_message_2">Чтобы удалить рекламу, пользоваться полнофункциональным приложением и поддержать разработчика, вы можете приобрести Printoid PRO или Printoid PREMIUM.</string>
 
     <!-- WIDGETS -->
     <string name="tutorial_widgets_title">Эксклюзивные виджеты</string>
@@ -36,33 +36,33 @@
     <!-- STREAMING -->
     <string name="tutorial_video_title">Видео поток</string>
     <string name="tutorial_video_message">Всегда контролируйте что происходит на столе Вашего 3D принтера!</string>
-    <string name="tutorial_video_message_2">Видеопроигрыватель в приложении, виджет запуска и плавающий значок, позволяющий просматривать видеоролик в любом месте</string>
-    <string name="tutorial_video_message_4">Подробная информация по установке обратного прокси по следующей ссылке</string>
-    <string name="tutorial_video_button_1">Конфигурация камеры</string>
+    <string name="tutorial_video_message_2">Видеопроигрыватель в приложении, виджет запуска и плавающий значок, позволяющий просматривать видео в любом месте</string>
+    <string name="tutorial_video_message_4">Подробная информация по установке реверс прокси по следующей ссылке</string>
+    <string name="tutorial_video_button_1">Настройка камеры</string>
     <string name="tutorial_video_button_2">Низкое/высокое качество</string>
     <string name="tutorial_video_button_3">Поддержка 2 камер</string>
 
     <!-- COMMANDS -->
-    <string name="tutorial_commands_title">Ваши собственные заказы</string>
+    <string name="tutorial_commands_title">Ваши собственные команды</string>
     <string name="tutorial_commands_message">Возможность Printoid выполнять любые Ваши команды!</string>
     <string name="tutorial_commands_message_2">Создайте Ваши кнопки для отправки GCODE команд Вашему 3D принтеру</string>
-    <string name="tutorial_commands_message_3">управлению Raspberry Pi по SSH (проверить реле…)</string>
-    <string name="tutorial_commands_message_4">Доступ к вашим встроенным командам OctoPrint (зарегистрированным в config.yaml)</string>
+    <string name="tutorial_commands_message_3">Управляйте Raspberry Pi по SSH</string>
+    <string name="tutorial_commands_message_4">Доступ к вашим встроенным командам OctoPrint (описаным в config.yaml)</string>
     <string name="tutorial_commands_button_1">GCODE команды</string>
     <string name="tutorial_commands_button_2">SSH команды</string>
     <string name="tutorial_commands_button_3">HTTP команды</string>
 
     <!-- MULTI PROFILES -->
-    <string name="tutorial_multi_profiles_title">Подключение к OctoPrint упрощено</string>
+    <string name="tutorial_multi_profiles_title">Простое подключение к OctoPrint</string>
     <string name="tutorial_multi_profiles_message">Контроль и управление несколькими OctoPrint серверами и 3D принтерами!</string>
     <string name="tutorial_multi_profiles_message_2">Printoid сам решит использовать локальное (LAN) или удаленное (WAN) соединение</string>
     <string name="tutorial_multi_profiles_message_3">Обратите внимание, что все настройки Printoid относятся к выбранному профилю</string>
     <string name="tutorial_multi_profiles_button_1">Соединение OctoPrint</string>
-    <string name="tutorial_multi_profiles_button_2">Наружное соединение (3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_2">Внешнее соединение (3G/4G)</string>
     <string name="tutorial_multi_profiles_button_3">Отрегулируйте настройки</string>
 
     <!-- 2D / 3D RENDERERS -->
-    <string name="tutorial_render_title">2D &amp; 3D просмотр</string>
+    <string name="tutorial_render_title">2D и 3D просмотр</string>
     <string name="tutorial_render_message_0">2D-и 3D-визуализаторы доступны из расширенного файлового менеджера (откройте его в левом меню)</string>
     <string name="tutorial_render_message">Проверьте каждый слой Вашего GCODE файла в 2D или просмотрите сразу STL или GCODE обьект в 3D прямо в приложении!</string>
     <string name="tutorial_render_message_2">Printoid также позволяет в реальном времени 2D эмуляцию во время печати Вашего обьекта</string>
@@ -71,28 +71,28 @@
     <!-- ANDROID WEAR -->
     <string name="tutorial_wear_title">Модуль Android Wear</string>
     <string name="tutorial_wear_message_1">Контролируйте и управляйте 3D-принтером прямо с вашего запястья!</string>
-    <string name="tutorial_wear_message_2">Информация о принтере, управление осью, управление температурой/вентиляцией/экструдерами, списки файлов и команд</string>
+    <string name="tutorial_wear_message_2">Информация о принтере, управление осью, управление температурой/обдувом/экструдерами, списки файлов и команд</string>
     <string name="tutorial_wear_message_3">Этот модуль доступен только для Android Wear (недоступен для Samsung Wear (Tizen))</string>
 
     <!-- WEBAPP -->
     <string name="tutorial_web_app_title">Web интерфейс OctoPrint</string>
-    <string name="tutorial_web_app_message">Вы также имеете доступ к Вашему <b>Web интерфейсу OctoPrint сервера</b>, без необходимости закрытия Printoid!</string>
+    <string name="tutorial_web_app_message">Вы можете перейти в <b>Web интерфейс Вашего OctoPrint сервера</b>, без необходимости закрытия Printoid!</string>
     <string name="tutorial_web_app_message_2">Разработанный специально для смартфонов и планшетов</string>
 
     <!-- WEBSITE -->
     <string name="tutorial_support_title">Официальный веб-сайт и медиа</string>
-    <string name="tutorial_support_message_1">Вы будете BLE найти все ответы на вопросы были https://printoid.net</string>
-    <string name="tutorial_support_message_2">Постоянные обновления, приемы и советы, полезная информация, развитие связи…</string>
-    <string name="tutorial_support_message_3">Не стесняйтесь обращаться к разработчику по электронной почте для запроса любого вопроса или признака!</string>
+    <string name="tutorial_support_message_1">Вы можете найти все ответы на вопросы на https://printoid.net</string>
+    <string name="tutorial_support_message_2">Постоянные обновления, примеры и советы, полезная информация, планы…</string>
+    <string name="tutorial_support_message_3">Не стесняйтесь обращаться к разработчику по электронной почте, задать любой вопрос или предложение!</string>
     <string name="tutorial_support_button_1">Последние статьи</string>
     <string name="tutorial_support_button_2">Часто задаваемые вопросы</string>
-    <string name="tutorial_support_button_3">Связаться с разработчиком</string>
+    <string name="tutorial_support_button_3">Написать разработчику</string>
 
     <!-- END -->
     <string name="tutorial_end_message">Запустить Printoid</string>
 
     <!-- BACKUP -->
-    <string name="tutorial_backup_read_permission_title">Сохранение &amp; восстановление</string>
+    <string name="tutorial_backup_read_permission_title">Сохранение и восстановление</string>
     <string name="tutorial_backup_read_permission_msg">Printoid позволяет восстановить настройки из предыдущей установки если необходимо (например если Вы установили Printoid LITE версию).\n\nДля этого пожалуйста подтвердите права в соотвествующем диалоге.</string>
     <string name="tutorial_backup_from_sdcard">Применить последнее сохранение!</string>
     <string name="tutorial_backup_from_other_app">Применить сохранение из Printoid %s!</string>
