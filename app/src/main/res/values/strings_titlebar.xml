@@ -20,7 +20,7 @@
     <string name="title_bar_toggle_remaining_time">Show remaining time</string>
     <string name="title_bar_toggle_file_name">Show file name</string>
     <string name="title_bar_spinner_change_delay">Change delay (sec)</string>
-    <string name="title_bar_toggle_system_temperature">Z height (mm)</string>
-    <string name="title_bar_toggle_z_height">System temperature (°)</string>
+    <string name="title_bar_toggle_z_height">Z height (mm)</string>
+    <string name="title_bar_toggle_system_temperature">System temperature (°)</string>
 
 </resources>

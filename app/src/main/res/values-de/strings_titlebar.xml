@@ -20,7 +20,7 @@
     <string name="title_bar_toggle_remaining_time">Verbleibende Zeit anzeigen</string>
     <string name="title_bar_toggle_file_name">Dateiname anzeigen</string>
     <string name="title_bar_spinner_change_delay">Wechselgeschwindigkeit (sek)</string>
-    <string name="title_bar_toggle_system_temperature">Z Höhe (mm)</string>
-    <string name="title_bar_toggle_z_height">Systemtemperatur (°)</string>
+    <string name="title_bar_toggle_z_height">Z Höhe (mm)</string>
+    <string name="title_bar_toggle_system_temperature">Systemtemperatur (°)</string>
 
 </resources>

@@ -20,7 +20,7 @@
     <string name="title_bar_toggle_remaining_time">Resterende tijd</string>
     <string name="title_bar_toggle_file_name">Bestandsnaam</string>
     <string name="title_bar_spinner_change_delay">Vertraging wisseling (sec)</string>
-    <string name="title_bar_toggle_system_temperature">Z hoogte(mm)</string>
-    <string name="title_bar_toggle_z_height">Systeem temperatuur (°)</string>
+    <string name="title_bar_toggle_z_height">Z hoogte (mm)</string>
+    <string name="title_bar_toggle_system_temperature">Systeem temperatuur (°)</string>
 
 </resources>
