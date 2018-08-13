@@ -7,4 +7,7 @@
     <string name="spools_not_installed_title">Module niet geïnstalleerd</string>
     <string name="spools_not_installed_message">De Filament Spools Manager-module is niet op uw apparaat geïnstalleerd. Wilt u deze nu vanaf Google Play installeren?</string>
 
+    <string name="spools_file_length_zero_title">Geen lengte gedetecteerd</string>
+    <string name="spools_file_length_zero_message">Printoid kent de filamentlengte voor dit bestand niet.\n\nControleer of OctoPrint deze waarde kent.\n\nHoud er ook rekening mee dat OctoPrint enige tijd nodig heeft om de schatting van de benodigde hoeveelheid filament te berekenen. Daarom is deze waarde soms gelijk aan 0.</string>
+
 </resources>

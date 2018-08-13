@@ -7,4 +7,7 @@
     <string name="spools_not_installed_title">Модуль не установлен</string>
     <string name="spools_not_installed_message">Модуль Filament Spools Manager не установлен на вашем устройстве, вы хотите установить его сейчас из Google Play?</string>
 
+    <string name="spools_file_length_zero_title">Не обнаружена длина</string>
+    <string name="spools_file_length_zero_message">Printoid не знает длину нити для этого файла.\n\nУбедитесь, что OctoPrint знает это значение.\n\nТакже обратите внимание, что OctoPrint требуется некоторое время, чтобы рассчитать оценку необходимого количества нити, поэтому иногда это значение равно 0.</string>
+
 </resources>
