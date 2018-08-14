@@ -24,7 +24,7 @@
     <string name="menu_timelapse">Timelapses</string>
     <string name="menu_alarms">Alertas</string>
     <string name="menu_contact_developer">Contact\ndeveloper</string>
-    <string name="menu_plugins">Plugins</string>
+    <string name="menu_plugins">Plugins de OctoPrint</string>
 
     <string name="menu_lite_label_promote">¿Te gusta Printoid Lite?</string>
     <string name="menu_lite_text_promote">¡Elimine anuncios y disfrute de la versión PRO y PREMIUM con todas las funciones!</string>

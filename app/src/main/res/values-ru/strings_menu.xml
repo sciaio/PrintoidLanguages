@@ -24,7 +24,7 @@
     <string name="menu_timelapse">Видеоролики</string>
     <string name="menu_alarms">Оповещения</string>
     <string name="menu_contact_developer">Вопрос\nавтору</string>
-    <string name="menu_plugins">Плагины</string>
+    <string name="menu_plugins">Плагины OctoPrint</string>
 
     <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>
     <string name="menu_lite_text_promote">Удалите рекламу и наслаждайтесь полнофункциональной версией PRO и PREMIUM!</string>
