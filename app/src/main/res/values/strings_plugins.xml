@@ -4,6 +4,6 @@
     <string name="plugins_title">OctoPrint\'s plugins</string>
 
     <string name="plugins_help_title">OctoPrint\'s plugins</string>
-    <string name="plugins_help_message">This is the message</string>
+    <string name="plugins_help_message">This is the list of plugins currently integrated in Printoid.\n\nAll OctoPrint\'s plugin are not implemented in Printoid and I (the developer) can not integrated them all.\n\nPlease contact me at printoid.for.octoprint@gmail.com if you would like to see a new plugin in Printoid. I will reflect on its integration (if and only it is possible).</string>
 
 </resources>
