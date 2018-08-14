@@ -3,6 +3,7 @@
 
     <string name="alert_pro_feature_title">PRO-Version Funktion</string>
     <string name="alert_pro_feature_streaming_msg">Dies ist die kostenlose Version von Printoid.\nVideostreaming ist nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>
+    <string name="alert_pro_feature_plugins_msg">Dies ist die kostenlose Version von Printoid.\nOctoPrint Plugins ist nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>
     <string name="alert_pro_feature_screensaver_msg">Dies ist die kostenlose Version von Printoid.\nBildschirmschoner ist nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>
     <string name="alert_pro_feature_command_msg">Dies ist die kostenlose Version von Printoid.\nDie benutzerdefinierten SSH- und GCODE-Befehle sind nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>
     <string name="alert_pro_feature_octoprint_web_interface_msg">Dies ist die kostenlose Version von Printoid.\nDer Zugriff auf deine OctoPrint Weboberfläche ist nur in der PRO-Version verfügbar - lade sie direkt im Google Play Store!</string>

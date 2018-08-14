@@ -3,6 +3,7 @@
 
     <string name="alert_pro_feature_title">Функция Pro версии</string>
     <string name="alert_pro_feature_streaming_msg">Это бесплатная версия Printoid. Просмотр видео доступен в PRO версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_plugins_msg">Это бесплатная версия Printoid. Плагины OctoPrint доступны в версии Pro Printoid, скачайте её в Google Play!</string>
     <string name="alert_pro_feature_screensaver_msg">Это бесплатная версия Printoid. Режим экранной заставки доступен в PRO версии, скачайте её в Google Play!</string>
     <string name="alert_pro_feature_command_msg">Это бесплатная версия Printoid. Ввод SSH и GCODE команд доступен в PRO версии, скачайте её в Google Play!</string>
     <string name="alert_pro_feature_octoprint_web_interface_msg">Это бесплатная версия Printoid. Доступ к web интерфесу Вашего OctoPrint доступен в PRO версии, скачайте её в Google Play!</string>

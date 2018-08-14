@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="plugins_title">OctoPrint\'s plugins</string>
+
+    <string name="plugins_help_title">OctoPrint\'s plugins</string>
+    <string name="plugins_help_message">This is the message</string>
+
+</resources>

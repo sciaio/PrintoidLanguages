@@ -19,6 +19,7 @@
 
     <string name="alert_pro_feature_title">Functionaliteit van de Pro versie</string>
     <string name="alert_pro_feature_streaming_msg">U werkt met de gratis Printoid versie, video streaming zit in de PRO versie. Download de PRO versie via Google Play!</string>
+    <string name="alert_pro_feature_plugins_msg">U werkt met de gratis Printoid versie, OctoPrint Plugins zit in de PRO versie. Download de PRO versie via Google Play!</string>
     <string name="alert_pro_feature_screensaver_msg">U werkt met de gratis Printoid versie. screensaver zit in de PRO versie. Download de PRO versie via Google Play!</string>
     <string name="alert_pro_feature_command_msg">U werkt met de gratis Printoid versie, SSH en GCODE commando\'s zitten in de PRO versie. Download de PRO versie via Google Play!</string>
     <string name="alert_pro_feature_octoprint_web_interface_msg">U werkt met de gratis Printoid versie, toegang tot de OctoPrint web interface zit in de PRO versie. Download de PRO versie via Google Play!</string>
