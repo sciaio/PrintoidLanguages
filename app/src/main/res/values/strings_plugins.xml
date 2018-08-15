@@ -26,4 +26,9 @@
     <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
     <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
 
+    <string name="plugin_message_psu">The PSU Control plugin should be installed on your OctoPrint server.\n\nThen it will automatically appear in the left menu of the app.</string>
+    <string name="plugin_message_tp_link">The TP-Link SmartPlug plugin should be installed on your OctoPrint server.\n\nThen it will automatically appear in the left menu of the app.\n\nAdjust its behavior from the settings of Printoid.</string>
+    <string name="plugin_message_enclosure"/>
+    <string name="plugin_message_navbartemp">The Navbar Temp plugin should be installed on your OctoPrint server.\n\nThen if you are using a Raspberry Pi, its CPU temperature will appear automatically in the app\'s title bar.</string>
+
 </resources>
