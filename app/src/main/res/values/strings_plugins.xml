@@ -21,4 +21,9 @@
     <string name="plugin_author_enclosure">Vitor de M. Henrique (@vitormhenrique)</string>
     <string name="plugin_author_navbartemp">Jarek Szczepanski (@imrahil)</string>
 
+    <string name="plugin_url_psu" translatable="false">https://github.com/kantlivelong/OctoPrint-PSUControl</string>
+    <string name="plugin_url_tp_link" translatable="false">https://github.com/jneilliii/OctoPrint-TPLinkSmartplug</string>
+    <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
+    <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
+
 </resources>
