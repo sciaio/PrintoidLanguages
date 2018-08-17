@@ -32,7 +32,7 @@
     <string name="command_sent_answer">Respons op het commando: %s</string>
     <string name="command_not_sent">Foutmelding bij het versturen: %s</string>
     <string name="command_not_sent_reason">Foutmelding bij het versturen:: %1$s (%2$s)</string>
-    <string name="send_command_error">Foutmelding op commando: %d</string>
+    <string name="send_command_error">Foutmelding op commando: %1$s (%2$d)</string>
 
     <string name="command_help_for">Klik hier voor een tutorial voor de %s commando\'s</string>
 

@@ -32,7 +32,7 @@
     <string name="command_sent_answer">Befehlsantwort: %s</string>
     <string name="command_not_sent">Fehler beim Senden des Befehls: %s</string>
     <string name="command_not_sent_reason">Fehler beim Senden des Befehls: %1$s (%2$s)</string>
-    <string name="send_command_error">Fehler im Befehl: %d</string>
+    <string name="send_command_error">Fehler im Befehl: %1$s (%2$d)</string>
 
     <string name="command_help_for">Klicken Sie hier für die Anleitung %s Aufträge</string>
 
