@@ -69,4 +69,7 @@
     <string name="progress_label_time_percent">время (%.1f%%)</string>
     <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
 
+    <string name="printing_completed_success_title">Печать завершена</string>
+    <string name="printing_completed_success_message">Печать закончилась успехом!</string>
+
 </resources>

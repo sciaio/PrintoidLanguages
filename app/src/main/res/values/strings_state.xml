@@ -75,4 +75,7 @@
     <string name="progress_label_time_percent">time (%.1f%%)</string>
     <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
 
+    <string name="printing_completed_success_title">Printing ended</string>
+    <string name="printing_completed_success_message">Printing ended with success!</string>
+
 </resources>

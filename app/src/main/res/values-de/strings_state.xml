@@ -69,4 +69,7 @@
     <string name="progress_label_time_percent">Zeit (%.1f%%)</string>
     <string name="progress_label_gcode_percent">GCODE (%.1f%%)</string>
 
+    <string name="printing_completed_success_title">Druck beendet</string>
+    <string name="printing_completed_success_message">Der Druck endete mit Erfolg!</string>
+
 </resources>

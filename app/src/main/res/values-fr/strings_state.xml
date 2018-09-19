@@ -68,5 +68,8 @@
     <string name="progress_label_gcode">gcode</string>
     <string name="progress_label_time_percent">temps (%.1f%%)</string>
     <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
-    
+
+    <string name="printing_completed_success_title">Impression terminée</string>
+    <string name="printing_completed_success_message">Impression terminée avec succès !</string>
+
 </resources>
