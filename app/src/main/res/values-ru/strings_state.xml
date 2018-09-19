@@ -43,6 +43,7 @@
     <string name="failures">Неудача:</string>
     <string name="success">Успех:</string>
     <string name="cost">Стоимость:</string>
+    <string name="remaining_time_label">Окончание:</string>
 
     <string name="size_label">Pазмер:</string>
     <string name="time_label">Bремя:</string>

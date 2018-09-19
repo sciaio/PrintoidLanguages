@@ -43,6 +43,7 @@
     <string name="failures">Fout:</string>
     <string name="success">Succesvol:</string>
     <string name="cost">Kosten:</string>
+    <string name="remaining_time_label">Eindigt in:</string>
 
     <string name="size_label">Grootte:</string>
     <string name="time_label">Tijd:</string>

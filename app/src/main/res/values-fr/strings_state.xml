@@ -43,6 +43,7 @@
     <string name="failures">Échec :</string>
     <string name="success">Succès :</string>
     <string name="cost">Coût :</string>
+    <string name="remaining_time_label">Fin dans:</string>
 
     <string name="size_label">Taille:</string>
     <string name="time_label">Temps:</string>
