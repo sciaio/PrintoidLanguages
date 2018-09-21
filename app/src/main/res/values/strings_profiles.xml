@@ -21,7 +21,7 @@
     <string name="config_ssh_pwd">Password</string>
     <string name="config_ssh_port">(port for distant SSH sessions)</string>
     <string name="config_extended_settings">+ Extended settings (optional)</string>
-    <string name="config_go_to_profiles">Open profiles</string>
+    <string name="config_go_to_profiles">Edit profiles</string>
     <string name="config_basic_auth_login">Username</string>
     <string name="config_basic_auth_password">Password</string>
     <string name="config_websocket_path">Web socket path</string>

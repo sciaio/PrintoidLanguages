@@ -20,7 +20,7 @@
     <string name="config_ssh_pwd">Пароль</string>
     <string name="config_ssh_port">(Порт SSH)</string>
     <string name="config_extended_settings">+ Расширенные настройки (необяз)</string>
-    <string name="config_go_to_profiles">Открыть профили</string>
+    <string name="config_go_to_profiles">Изменить профили</string>
     <string name="config_basic_auth_login">Логин</string>
     <string name="config_basic_auth_password">Пароль</string>
     <string name="config_websocket_path">Путь web-сокета</string>

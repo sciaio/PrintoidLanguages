@@ -20,7 +20,7 @@
     <string name="config_ssh_pwd">Contraseña</string>
     <string name="config_ssh_port">(puerto para sesiones SSH remotos)</string>
     <string name="config_extended_settings">+ Ajustes extendidos (opcional)</string>
-    <string name="config_go_to_profiles">Abrir perfiles</string>
+    <string name="config_go_to_profiles">Editar perfiles</string>
     <string name="config_basic_auth_login">Nombre de usuario</string>
     <string name="config_basic_auth_password">Contraseña</string>
     <string name="config_websocket_path">Ruta del socket web</string>

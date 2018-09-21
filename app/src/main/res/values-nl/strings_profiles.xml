@@ -20,7 +20,7 @@
     <string name="config_ssh_pwd">Wachtwoord</string>
     <string name="config_ssh_port">(poort voor remote SSH sessies)</string>
     <string name="config_extended_settings">+ (optionele) parameters</string>
-    <string name="config_go_to_profiles">Open de profielen</string>
+    <string name="config_go_to_profiles">Profielen bewerken</string>
     <string name="config_basic_auth_login">Gebruiker</string>
     <string name="config_basic_auth_password">Wachtwoord</string>
     <string name="config_websocket_path">Web socket pad</string>
