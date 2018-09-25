@@ -27,7 +27,7 @@
     <string name="menu_plugins">Plugins OctoPrint</string>
 
     <string name="menu_lite_label_promote">Vous aimez Printoid Lite?</string>
-    <string name="menu_lite_text_promote">Retirez la publicité et profitez des versions complètes PRO &amp; PREMIUM !</string>
+    <string name="menu_lite_text_promote">Supportez le développeur et profitez de la version complète PRO ou PREMIUM !</string>
 
     <string name="menu_profiles_create">Ajouter un profil</string>
     <string name="menu_profiles_edit">Gérer les profils</string>
