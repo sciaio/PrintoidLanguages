@@ -29,4 +29,8 @@
     <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>
     <string name="menu_lite_text_promote">Удалите рекламу и наслаждайтесь полнофункциональной версией PRO и PREMIUM!</string>
 
+    <string name="menu_profiles_create">Добавить профиль
+</string>
+    <string name="menu_profiles_edit">Управление профилями</string>
+
 </resources>

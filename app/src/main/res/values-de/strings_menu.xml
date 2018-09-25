@@ -29,4 +29,7 @@
     <string name="menu_lite_label_promote">Magst du Printoid Lite?</string>
     <string name="menu_lite_text_promote">Entfernen Sie Anzeigen und genießen Sie PRO und PREMIUM mit allen Funktionen!</string>
 
+    <string name="menu_profiles_create">Fügen Sie ein Profil</string>
+    <string name="menu_profiles_edit">Fügen Sie ein Profil</string>
+
 </resources>

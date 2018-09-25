@@ -29,4 +29,7 @@
     <string name="menu_lite_label_promote">Vind je Printoid Lite leuk?</string>
     <string name="menu_lite_text_promote">Verwijder advertenties en geniet van PRO en PREMIUM full-featured versie!</string>
 
+    <string name="menu_profiles_create">Voeg een profiel</string>
+    <string name="menu_profiles_edit">Beheer profielen</string>
+
 </resources>
