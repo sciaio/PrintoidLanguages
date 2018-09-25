@@ -55,7 +55,7 @@
     <string name="time_label">Time:</string>
     <string name="end_label">End:</string>
 
-    <string name="date_few_seconds">a few seconds</string>
+    <string name="date_few_seconds">few seconds</string>
     <string name="date_second">%d second</string>
     <string name="date_seconds">%d seconds</string>
     <string name="date_minute">%d minute</string>
