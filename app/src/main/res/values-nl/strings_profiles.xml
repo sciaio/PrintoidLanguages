@@ -99,4 +99,6 @@
     <string name="upnp_no_device_found_message">Geen apparaat gevonden</string>
     <string name="upnp_error_message">Fout bij het laden van apparaten</string>
 
+    <string name="profile_last_connection">Laatste verbinding %s geleden</string>
+
 </resources>

@@ -103,4 +103,6 @@
     <string name="upnp_no_device_found_message">Aucun appareil détecté</string>
     <string name="upnp_error_message">Erreur lors de la détection</string>
 
+    <string name="profile_last_connection">Dernière connection il y a %s</string>
+
 </resources>

@@ -106,4 +106,6 @@
     <string name="upnp_no_device_found_message">No device found</string>
     <string name="upnp_error_message">Error while loading devices</string>
 
+    <string name="profile_last_connection">Last connection %s ago</string>
+
 </resources>

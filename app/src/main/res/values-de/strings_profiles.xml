@@ -102,4 +102,6 @@
     <string name="upnp_no_device_found_message">Kein Gerät gefunden</string>
     <string name="upnp_error_message">Fehler beim Laden von Geräten</string>
 
+    <string name="profile_last_connection">Letzte Verbindung vor %s</string>
+
 </resources>

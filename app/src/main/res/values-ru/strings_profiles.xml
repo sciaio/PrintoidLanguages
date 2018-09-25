@@ -102,4 +102,6 @@
     <string name="upnp_no_device_found_message">Устройства не найдены</string>
     <string name="upnp_error_message">Ошибка при поиске устройств</string>
 
+    <string name="profile_last_connection">Последнее соединение %s назад</string>
+
 </resources>
