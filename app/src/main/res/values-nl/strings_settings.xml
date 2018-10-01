@@ -119,7 +119,9 @@
     <string name="setting_connection_ip_selection_mode">Verbindingsmodus</string>
     <string name="setting_tplink_plugin_ip">TP Link IP-adres</string>
     <string name="setting_improve_connection">Verbetering van het verbindingsproces</string>
+    <string name="setting_enable_auto_screen_locker">Vergrendel automatisch het scherm</string>
 
+    <string name="setting_enable_auto_screen_locker_tip">Vergrendel het scherm na 15 seconden zonder activiteit</string>
     <string name="setting_improve_connection_tip">Er is grofe locatietoestemming vereist om de WiFI SSID te verkrijgen</string>
     <string name="setting_enable_screensaver_tip">Toon alleen de huidige taakdetails na inactiviteitsperiode</string>
     <string name="setting_battery_optimizations_tip">Deze systeemoptimalisaties kunnen het Printoid-proces doden</string>

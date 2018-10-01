@@ -118,7 +118,9 @@
     <string name="setting_connection_ip_selection_mode">Режим подключения</string>
     <string name="setting_tplink_plugin_ip">IP-адрес TP Link</string>
     <string name="setting_improve_connection">Улучшение подключения</string>
+    <string name="setting_enable_auto_screen_locker">Автоматическая блокировка экрана</string>
 
+    <string name="setting_enable_auto_screen_locker_tip">Блокировка экрана после 15 секунд бездействия</string>
     <string name="setting_improve_connection_tip">Для получения WiID SSID требуется разрешение на грубое местоположение.</string>
     <string name="setting_enable_screensaver_tip">Показывать только текущие данные о работе после периода бездействия</string>
     <string name="setting_battery_optimizations_tip">Эта оптимизация системы может привести к закрытию Printoid</string>

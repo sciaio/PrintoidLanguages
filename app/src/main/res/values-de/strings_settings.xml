@@ -118,7 +118,9 @@
     <string name="setting_connection_ip_selection_mode">Verbindungsmodus</string>
     <string name="setting_tplink_plugin_ip">IP-Adresse des TP-Links</string>
     <string name="setting_improve_connection">Verbessere den Verbindungsprozess</string>
+    <string name="setting_enable_auto_screen_locker">Sperren Sie den Bildschirm automatisch</string>
 
+    <string name="setting_enable_auto_screen_locker_tip">Sperren Sie den Bildschirm nach 15 Sekunden Inaktivität</string>
     <string name="setting_improve_connection_tip">Um die WiFI-SSID zu erhalten, ist eine grobe Standortgenehmigung erforderlich</string>
     <string name="setting_enable_screensaver_tip">Zeigt nur aktuelle Jobdetails nach Inaktivität an</string>
     <string name="setting_battery_optimizations_tip">Diese Systemoptimierungen können den Printoid-Prozess beenden</string>

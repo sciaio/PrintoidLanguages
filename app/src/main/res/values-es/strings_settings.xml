@@ -118,7 +118,9 @@
     <string name="setting_connection_ip_selection_mode">Modo de conexión</string>
     <string name="setting_tplink_plugin_ip">Dirección IP TP Link</string>
     <string name="setting_improve_connection">Mejora el proceso de conexión</string>
+    <string name="setting_enable_auto_screen_locker">Bloquear automáticamente la pantalla</string>
 
+    <string name="setting_enable_auto_screen_locker_tip">Bloquee la pantalla después de 15 segundos de inactividad</string>
     <string name="setting_improve_connection_tip">El permiso de ubicación gruesa es necesario para obtener el SSID de WiFI</string>
     <string name="setting_enable_screensaver_tip">Mostrar solo los detalles del trabajo actual después del período de inactividad</string>
     <string name="setting_battery_optimizations_tip">Estas optimizaciones del sistema pueden cerrar el proceso de Printoid</string>
