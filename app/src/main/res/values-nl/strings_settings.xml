@@ -9,6 +9,7 @@
     <string name="setting_title_communication">Instellingen - Communicatie</string>
     <string name="setting_title_ui_settings">Instellingen - Gebruikers interface</string>
     <string name="setting_title_connection">Verbinding met de server</string>
+    <string name="setting_title_multiple_profiles">Instellingen OctoPrint-profielen</string>
     <string name="setting_title_printer_connection">Verbinding met OctoPrint</string>
     <string name="setting_title_right_panel">Instellingen tbv. rechter scherm</string>
     <string name="setting_title_tools">Instellingen - extruders &amp; verwarmd bed</string>
@@ -120,7 +121,9 @@
     <string name="setting_tplink_plugin_ip">TP Link IP-adres</string>
     <string name="setting_improve_connection">Verbetering van het verbindingsproces</string>
     <string name="setting_enable_auto_screen_locker">Vergrendel automatisch het scherm</string>
+    <string name="setting_enable_ask_profile">Toon beschikbare OctoPrint-profielen bij het opstarten</string>
 
+    <string name="setting_enable_ask_profile_tip">Vraag welk profiel u wilt gebruiken bij het starten van de app</string>
     <string name="setting_enable_auto_screen_locker_tip">Vergrendel het scherm na 15 seconden zonder activiteit</string>
     <string name="setting_improve_connection_tip">Er is grofe locatietoestemming vereist om de WiFI SSID te verkrijgen</string>
     <string name="setting_enable_screensaver_tip">Toon alleen de huidige taakdetails na inactiviteitsperiode</string>

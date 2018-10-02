@@ -8,6 +8,7 @@
     <string name="setting_title_general">Allgemeine Einstellungen</string>
     <string name="setting_title_communication">Kommunikationseinstellungen</string>
     <string name="setting_title_ui_settings">App-Einstellungen</string>
+    <string name="setting_title_multiple_profiles">OctoPrint-Profileinstellungen</string>
     <string name="setting_title_connection">Server Verbindungseinstellungen</string>
     <string name="setting_title_printer_connection">Drucker Verbindungseinstellungen</string>
     <string name="setting_title_right_panel">Rechtes Seitenpanel Einstellungen</string>
@@ -119,7 +120,9 @@
     <string name="setting_tplink_plugin_ip">IP-Adresse des TP-Links</string>
     <string name="setting_improve_connection">Verbessere den Verbindungsprozess</string>
     <string name="setting_enable_auto_screen_locker">Sperren Sie den Bildschirm automatisch</string>
+    <string name="setting_enable_ask_profile">Verfügbare Profile von OctoPrint beim Start anzeigen</string>
 
+    <string name="setting_enable_ask_profile_tip">Fordern Sie an, welches Profil beim Starten der App verbunden werden soll</string>
     <string name="setting_enable_auto_screen_locker_tip">Sperren Sie den Bildschirm nach 15 Sekunden Inaktivität</string>
     <string name="setting_improve_connection_tip">Um die WiFI-SSID zu erhalten, ist eine grobe Standortgenehmigung erforderlich</string>
     <string name="setting_enable_screensaver_tip">Zeigt nur aktuelle Jobdetails nach Inaktivität an</string>

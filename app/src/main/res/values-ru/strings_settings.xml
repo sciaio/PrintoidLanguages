@@ -9,6 +9,7 @@
     <string name="setting_title_communication">Настройки связи</string>
     <string name="setting_title_ui_settings">Настройки интерфейса</string>
     <string name="setting_title_connection">Настройки соединения</string>
+    <string name="setting_title_multiple_profiles">Настройки профилей OctoPrint</string>
     <string name="setting_title_printer_connection">Настройки соединения OctoPrint</string>
     <string name="setting_title_right_panel">Настройки правой панели</string>
     <string name="setting_title_tools">Настройки хотэнда и подогрева стола</string>
@@ -119,7 +120,9 @@
     <string name="setting_tplink_plugin_ip">IP-адрес TP Link</string>
     <string name="setting_improve_connection">Улучшение подключения</string>
     <string name="setting_enable_auto_screen_locker">Автоматическая блокировка экрана</string>
+    <string name="setting_enable_ask_profile">Показывать доступные профили OctoPrint при запуске</string>
 
+    <string name="setting_enable_ask_profile_tip">Запросить, какой профиль подключиться при запуске приложения.</string>
     <string name="setting_enable_auto_screen_locker_tip">Блокировка экрана после 15 секунд бездействия</string>
     <string name="setting_improve_connection_tip">Для получения WiID SSID требуется разрешение на грубое местоположение.</string>
     <string name="setting_enable_screensaver_tip">Показывать только текущие данные о работе после периода бездействия</string>
