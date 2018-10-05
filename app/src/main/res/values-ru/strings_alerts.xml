@@ -58,6 +58,8 @@
     <string name="alert_language_changed_title">Перезапуск для применения выбранного языка</string>
     <string name="alert_language_changed_msg">Вы должны перезапустить приложение для применения выбранного языка. Хотите сделать это сейчас?</string>
 
+    <string name="alert_manage_file_msg">Что вы хотите сделать с этим файлом? Вы можете загрузить его на текущий сервер или сделать его в 2D или 3D.</string>
+
     <string name="alert_permission_denied_title">Доступ закрыт</string>
     <string name="alert_permission_denied_read_msg">Printoid не может выполнить эту операцию, так как Вы запретили <b>чтение с внешнего носителя</b> при настроке прав доступа приложения.\n\nХотите это изменить вручную?</string>
     <string name="alert_permission_denied_write_msg">Printoid не может выполнить эту операцию, так как Вы запретили <b>запись на внешний носитель</b> при настроке прав доступа приложения.\n\nХотите это изменить вручную?</string>

@@ -64,6 +64,8 @@
     <string name="alert_choose_ip_title">Choose IP</string>
     <string name="alert_choose_ip_msg">Printoid ne semble pas connecté à votre serveur OctoPrint.\nVeuillez choisir l\'adresse IP (ou nom d\'hôte) à utiliser pour cette commande SSH</string>
 
+    <string name="alert_manage_file_msg">Que souhaitez-vous faire avec ce fichier ? Vous pouvez l\'uploader sur ce serveur, ou bien générer son rendu 2D ou 3D.</string>
+
     <string name="alert_select_tool_title">Sélectionnez un outil</string>
     <string name="alert_select_tool_message">Sélectionnez la tête d\'impression pour %s:</string>
     <string name="alert_select_tool_message_retraction">la retractation</string>

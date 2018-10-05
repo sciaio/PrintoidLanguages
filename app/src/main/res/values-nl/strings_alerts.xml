@@ -63,6 +63,8 @@
     <string name="alert_choose_ip_title">Kies IP</string>
     <string name="alert_choose_ip_msg">Printoid lijkt niet met de OctoPrint server verbonden te zijn.\nWilt u het te gebruiken IP adres (of de hostname) opgeven voor dit SSH commando?</string>
 
+    <string name="alert_manage_file_msg">Wat wil je met dit bestand doen? U kunt het uploaden op de huidige server of het in 2D of 3D weergeven.</string>
+
     <string name="alert_select_tool_title">Selekteer een tool</string>
     <string name="alert_select_tool_message">Selekteer de printkop voor %s:</string>
     <string name="alert_select_tool_message_retraction">terugtrekking</string>

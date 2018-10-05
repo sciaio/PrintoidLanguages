@@ -48,6 +48,9 @@
     <string name="current">(current: %d)</string>
     <string name="remaining">Remaining</string>
     <string name="none">None</string>
+    <string name="upload">Upload</string>
+    <string name="render2d">Render 2D</string>
+    <string name="render3d">Render 3D</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_head">Heated head %d</string>

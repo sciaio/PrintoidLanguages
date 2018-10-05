@@ -56,6 +56,8 @@
     <string name="alert_language_changed_title">Reiniciar para aplicar el nuevo idioma</string>
     <string name="alert_language_changed_msg">Debe reiniciar la aplicación para aplicar el nuevo idioma. ¿Desea reiniciarla ahora?</string>
 
+    <string name="alert_manage_file_msg">¿Qué quieres hacer con este archivo? Puede cargarlo en el servidor actual o renderizarlo en 2D o 3D.</string>
+
     <string name="alert_permission_denied_title">Permiso denegado</string>
     <string name="alert_permission_denied_read_msg">Printoid no puede realizar esta operación ya que ha denegado el permiso de <b>lectura de almacenamiento externo</b> cuando se le solicita.\n\n¿Desea activarlo manualmente?</string>
     <string name="alert_permission_denied_write_msg">Printoid no puede realizar esta operación ya que ha denegado el permiso de <b>escritura de almacenamiento externo</b> cuando se le solicita.\n\n¿Desea activarlo manualmente?</string>

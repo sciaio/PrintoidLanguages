@@ -49,6 +49,8 @@
     <string name="alert_license_invalid_message">Deine Lizenz für Printoid scheint nicht gültig zu sein. Die Funktionen der %1$s-Version werden deaktiviert.\n\nWillst du die %2$s-Version von Printoid im Google Play Store kaufen?\n\n(Falls du die %3$s-Version schon gekauft hast, klicken Sie bitte auf den \"Hilfe\"-Button)\n\n[Fehler beim Kommunizieren mit dem Entwickler: %4$s]</string>
     <string name="purchase">Kaufen</string>
 
+    <string name="alert_manage_file_msg">Was möchten Sie mit dieser Datei machen? Sie können es auf den aktuellen Server hochladen oder es in 2D oder 3D rendern.</string>
+
     <string name="alert_theme_changed_title">Neues Theme übernehmen</string>
     <string name="alert_theme_changed_msg">Um das neue Theme anzuwenden, muss die App neugestartet werden. Willst du den Neustart jetzt ausführen?</string>
 

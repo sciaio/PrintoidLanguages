@@ -48,6 +48,9 @@
     <string name="current">(actuelle : %d)</string>
     <string name="remaining">Temps restant</string>
     <string name="none">Aucun</string>
+    <string name="upload">Upload</string>
+    <string name="render2d">Rendu 2D</string>
+    <string name="render3d">Rendu 3D</string>
 
     <string name="heated_bed">Lit chauffant</string>
     <string name="heated_head">Tête chauffante %d</string>
