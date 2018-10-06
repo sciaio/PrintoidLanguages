@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="menu_title_partners">Partenaires</string>
+
     <string name="menu_connect_server">Connecter OctoPrint</string>
     <string name="menu_connect_printer">Connecter l\'imprimante</string>
     <string name="menu_disconnect_printer">Déconnecter l\'imprimante</string>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="menu_title_partners">Vennoot</string>
+
     <string name="menu_connect_server">Koppel OctoPrint</string>
     <string name="menu_connect_printer">Koppel de printer</string>
     <string name="menu_disconnect_printer">Ontkoppel de printer</string>

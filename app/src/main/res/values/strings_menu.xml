@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="menu_title_partners">Partners</string>
+
     <string name="menu_psu_plugin_on" translatable="false">PSU on</string>
     <string name="menu_psu_plugin_off" translatable="false">PSU off</string>
     <string name="menu_tplink_plugin_on" translatable="false">TP Link on</string>
@@ -27,6 +29,7 @@
     <string name="menu_octoprint_web">OctoPrint web-interface</string>
     <string name="menu_files">Files</string>
     <string name="menu_cults" translatable="false">Cults</string>
+    <string name="menu_myminifactory" translatable="false">MyMiniFactory</string>
     <string name="menu_printoid_web">Printoid\nwebsite</string>
     <string name="menu_timelapse">Timelapses</string>
     <string name="menu_contact_developer">Contact\ndeveloper</string>
