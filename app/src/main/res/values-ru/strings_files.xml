@@ -34,6 +34,7 @@
     <string name="upload_file_title">Загрузка файла</string>
     <string name="upload_file_message">Загрузка файла %s в:</string>
     <string name="upload_file_done">Файл загружен</string>
+    <string name="upload_file_select">Выберите источник для файла, который будет загружен на ваш сервер:</string>
 
     <string name="downloading_file">Скачивание файла&#8230;</string>
     <string name="file_deleted">Файл удален из OctoPrint</string>

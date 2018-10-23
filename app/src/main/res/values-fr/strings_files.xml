@@ -34,6 +34,7 @@
     <string name="upload_file_title">Envoi de fichier</string>
     <string name="upload_file_message">Envoyer le fichier %s vers la destination suivante :</string>
     <string name="upload_file_done">Fichier envoyé</string>
+    <string name="upload_file_select">Sélectionnez la source du fichier à uploader vers votre serveur :</string>
 
     <string name="downloading_file">Téléchargement du fichier&#8230;</string>
     <string name="file_deleted">Fichier effacé d\'OctoPrint</string>

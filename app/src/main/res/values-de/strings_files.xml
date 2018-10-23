@@ -34,6 +34,7 @@
     <string name="upload_file_title">Datei-Upload</string>
     <string name="upload_file_message">Lade Datei %s in folgendes Ziel hoch:</string>
     <string name="upload_file_done">Datei hochgeladen</string>
+    <string name="upload_file_select">Wählen Sie die Quelle für die Datei, die auf Ihren Server hochgeladen werden soll:</string>
 
     <string name="alert_cant_delete_msg">Printoid kann nicht gelöscht werden %s</string>
 

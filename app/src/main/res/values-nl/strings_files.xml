@@ -34,6 +34,7 @@
     <string name="upload_file_title">Verstuur bestand</string>
     <string name="upload_file_message">Verstuur bestand %s naar de volgende bestemming:</string>
     <string name="upload_file_done">Bestand verzonden</string>
+    <string name="upload_file_select">Selecteer de bron voor het bestand dat moet worden geüpload naar uw server:</string>
 
     <string name="downloading_file">Ontvang bestand&#8230;</string>
     <string name="file_deleted">Bestand verwijderd uit OctoPrint</string>
