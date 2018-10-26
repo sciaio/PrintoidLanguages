@@ -40,7 +40,7 @@
     <string name="alert_video_player_permission_msg">Der ausgewählte Videoplayer hat nicht die Berechtigung, den Speicher zu lesen.</string>
 
     <string name="alert_vlc_title">Installieren VLC™</string>
-    <string name="alert_vlc_msg">Android ist nicht in der Lage, MJEG Videos nativ zu spielen. Glücklicherweise ist VideoLAN Client ™ (VLC ™ Media Player) in der Lage, theim zu spielen!
+    <string name="alert_vlc_msg">Android ist nicht in der Lage, MJEG Videos nativ zu spielen. Glücklicherweise ist VideoLAN Client ™ (VLC ™ Media Player) in der Lage, kann sie spielen!
          Bitte installieren Sie die App auf Ihrem Telefon und vergessen Sie nicht, die Berechtigung \"Externe Lagerung lesen\" zu aktivieren.</string>
 
 </resources>
