@@ -40,7 +40,7 @@
     <string name="config_error_lan_port">Invalid LAN port value, port 22 is associated to the SSH protocol (Printoid communicates with OctoPrint over HTTP).\n\nDo you need some assistance?</string>
     <string name="config_error_wan_port">Invalid WAN port value, port 22 is associated to the SSH protocol (Printoid communicates with OctoPrint over HTTP).\n\nDo you need some assistance?</string>
     <string name="config_error_api_key">Invalid OctoPrint API key.\n\nDo you need some assistance?</string>
-    <string name="config_error_api_key_na">N/A is not a valid OctoPrint API key.\n\nPlease refresh your OctoPrint web interface, and contact the developer of OctoPrint is the problem recurs.</string>
+    <string name="config_error_api_key_na">N/A is not a valid OctoPrint API key.\n\nPlease refresh your OctoPrint web interface, and contact the developer of OctoPrint if the problem recurs.</string>
     <string name="config_error_baudrate">Invalid communication baudrate.\n\nDo you need some assistance?</string>
 
     <string name="config_error_qrcode_title">QR code scan error</string>
@@ -56,8 +56,8 @@
     [ℹ MAIN PARAMETERS]\n\n
     ✏ LAN IP: this is the IP address (or hostname) of your Raspberry Pi on your local network\n\n
     ✏ LAN PORT (optional): fill this field only if you have changed the default port (80), otherwise let this field empty\n\n
-    ✏ WAN IP (optional): this is the public IP address (or hostname) of your rooter over the Internet (to access OctoPrint on the cellular networks for example)\n\n
-    ✏ WAN PORT (optional): this is the port you have forwarded on your rooter in order to access to your server over the Internet.\n\n
+    ✏ WAN IP (optional): this is the public IP address (or hostname) of your router over the Internet (to access OctoPrint on the cellular networks for example)\n\n
+    ✏ WAN PORT (optional): this is the port you have forwarded on your router in order to access to your server over the Internet.\n\n
     ✏ API KEY: you can find this information in the settings screen of your OctoPrint web-interface\n\n
     ✏ BAUDRATE: this is the communication baudrate of your 3D printer\n\n
     [ℹ ADVANCED OPTIONS]\n\n
