@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sort_method">Selecione o método de ordenação:</string>
+    <string name="sort_name_ascending">Alfabético</string>
+    <string name="sort_name_descending">Alfabético Invertido</string>
+    <string name="sort_oldest_first">Primeiro o arquivo mais antigo</string>
+    <string name="sort_newest_first">Primeiro o arquivo mais novo</string>
+    <string name="sort_shortest_first">Primeiro a impressão mais curta</string>
+    <string name="sort_longest_first">Primeiro a impressão mais longa</string>
+    <string name="sort_most_success_first">Primeiro a de maior sucesso</string>
+    <string name="sort_less_success_first">Primeiro a de menor sucesso</string>
+    <string name="sort_favorites_only">Somente as favoritas</string>
+
+</resources>

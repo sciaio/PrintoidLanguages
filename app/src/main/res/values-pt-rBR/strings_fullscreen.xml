@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">Controles de impressra em tela cheia</string>
+    <string name="full_screen_helper_print">Detalhes da impressora em tela cheia</string>
+    <string name="full_screen_helper_temperature">Temperatura em tela cheia</string>
+    <string name="full_screen_helper_files">Arquivos em tela cheia</string>
+    <string name="full_screen_helper_streaming">Streaming de vídeo em tela cheia</string>
+    <string name="full_screen_helper_commands">Comandos em tela cheia</string>
+
+</resources>

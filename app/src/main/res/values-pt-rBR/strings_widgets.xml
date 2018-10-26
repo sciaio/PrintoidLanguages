@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="widget_snapshot_name">Widget de captura de imagem do Printoid</string>
+    <string translatable="false" name="widget_job_name">Widget de trabalhos do Printoid</string>
+    <string translatable="false" name="widget_starter_name">Inicializador de perfis do Printoid</string>
+    <string translatable="false" name="widget_profiles_name">Perfis do Printoid</string>
+
+    <string translatable="false" name="widget_snapshot_name_reduced">Captura de imagens</string>
+    <string translatable="false" name="widget_job_name_reduced">Trabalho</string>
+    <string translatable="false" name="widget_starter_name_reduced">Inicializador</string>
+    <string translatable="false" name="widget_profiles_name_reduced">Perfis</string>
+
+    <string name="widget_no_snapshot_connection">Não é possível extrair a capturas de imagens(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Não é possível extrair a captura da imagem</string>
+    <string name="widget_unknown_profile">Perfil desconhecido</string>
+
+    <string name="widget_starter_error_no_profiles">Não é possível selecionar o perfil: Não há Perfil disponível</string>
+    <string name="widget_starter_error_profile_not_found">Não é possível selecionar o perfil: não encontrado ou não está mais disponível</string>
+    <string name="widget_starter_error_null_id">Não é possível selecionar o perfil: identificador inválido</string>
+
+    <string name="widget_empty_profiles" translatable="false">No OctoPrint profiles</string>
+
+    <string name="widget_id" translatable="false">Widget ID: %d</string>
+
+</resources>

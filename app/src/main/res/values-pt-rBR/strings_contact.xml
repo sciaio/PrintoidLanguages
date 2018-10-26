@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_email" translatable="false">printoid.for.octoprint@gmail.com</string>
+    <string name="contact_subject">Suporte do Printoid (Versão instalada: v%1$s - %2$s)</string>
+    <string name="contact_choose_client">Selecione seu cliente de e-mail:</string>
+
+    <string name="contact_body">Caro desenvolvedor do Printoid,\n\n
+    Segue minhas configurações:\n\n
+    - Modelo de meu dispositivo: %1$s\n
+    - Versão do Android: %2$s\n
+    - Fingerprint: %3$s\n
+    - Impressora 3D: %4$s\n\n
+    - Versão do OctoPrint: %5$s\n\n
+    Minha menssagem:\n\n\n\n
+    %6$s\n\n\n\n
+    Best regards</string>
+
+    <string name="contact_version_premium" translatable="false">PREMIUM</string>
+    <string name="contact_version_pro" translatable="false">PRO</string>
+    <string name="contact_version_trial" translatable="false">LITE</string>
+
+    <string name="alert_contact_title">Contate o desenvolvedor</string>
+
+    <string name="alert_contact_email_msg">\nAntes de entrar em contato com o desenvolvedor, você tem certeza de que:\n\n
+    - O Printoid está atualizado?\n
+    - Você leu os tutoriais novamente?\n
+    - Você pesquisou nas Perguntas Frequentemente Respondidas (F.A.Q.)?\n
+    - Você será educado e cortês?\n\n
+    Se você não respeitar essas condições, o desenvolvedor <b>não será capaz</b> de ajudar você no melhor dele.</string>
+
+    <string name="alert_contact_traces_msg">Antes de entrar em contato com o desenvolvedor, você tem certeza de que:\n
+    - O Printoid está atualizado?\n
+    - Você leu os tutoriais novamente?\n
+    - Você pesquisou nas Perguntas Frequentemente Respondidas (F.A.Q.)?\n
+    - Você será capaz de explicar por que você está enviando os traços?\n
+    - Você será educado e cortês?\n\n
+    Se você não respeitar essas condições, o desenvolvedor <b>não será capaz</b> de ajudar você no melhor dele.</string>
+
+    <string name="alert_contact_tutorials_label">Tutoriais</string>
+    <string name="alert_contact_faq_label">F.A.Q.</string>
+
+</resources>

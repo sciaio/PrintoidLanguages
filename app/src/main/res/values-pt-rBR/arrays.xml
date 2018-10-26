@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titlebar_change_delay_array" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="command_types_array" translatable="false">
+        <item>SSH</item>
+        <item>GCODE</item>
+        <item>OctoPrint (system)</item>
+        <item>CURL</item>
+    </string-array>
+
+    <string-array name="themes_array" translatable="false">
+        <item>Standard Edition</item>
+        <item>Black Edition</item>
+        <item>High-Contrast (OLED)</item>
+        <item>Dark Green</item>
+        <item>Dark Red</item>
+        <item>Dark Blue</item>
+        <item>Blue Ocean</item>
+        <item>Red Fire</item>
+        <item>Green Summer</item>
+        <item>Black Shadow</item>
+    </string-array>
+
+    <string-array name="security_settings_array">
+        <item>Auto</item>
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+
+    <string-array name="setting_connection_mode_array">
+        <item>Auto</item>
+        <item>Primeiro a LAN</item>
+        <item>Primeiro a WAN</item>
+    </string-array>
+
+    <string-array name="screen_orientations_array">
+        <item>Auto</item>
+        <item>Retrato</item>
+        <item>Retrato invertido</item>
+        <item>Paisagem</item>
+        <item>Paisagem invertida</item>
+    </string-array>
+
+    <string-array name="streaming_method_array">
+        <item>Video player</item>
+        <item>Visão Web</item>
+        <item>Captura de imagem</item>
+    </string-array>
+
+    <string-array translatable="false" name="keyboard_type_array">
+        <item>QWERTY</item>
+        <item>AZERTY</item>
+        <item>QWERTZ</item>
+    </string-array>
+
+    <string-array name="sort_method_array" translatable="false">
+        <item>@string/sort_name_ascending</item>
+        <item>@string/sort_name_descending</item>
+        <item>@string/sort_newest_first</item>
+        <item>@string/sort_oldest_first</item>
+        <item>@string/sort_shortest_first</item>
+        <item>@string/sort_longest_first</item>
+        <item>@string/sort_most_success_first</item>
+        <item>@string/sort_less_success_first</item>
+        <item>@string/sort_favorites_only</item>
+    </string-array>
+
+    <string-array name="setting_sound_array">
+        <item>Som 1</item>
+        <item>Som 2</item>
+        <item>Som 3</item>
+        <item>Som 4</item>
+        <item>Som 5</item>
+        <item>Som 6</item>
+        <item>Som Desligado</item>
+    </string-array>
+
+    <string-array name="ssl_modes_array">
+        <item>Ambos</item>
+        <item>Somente LAN</item>
+        <item>Somente WAN</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>Preço/metro</item>
+        <item>Preço/kg</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>Desligado</item>
+        <item>12H</item>
+        <item>24H</item>
+    </string-array>
+
+    <string-array name="after_slicing_array">
+        <item>Não faça nada</item>
+        <item>Selecione para impressão</item>
+        <item>Inicie a impressão</item>
+    </string-array>
+
+    <string-array name="render_mode_array">
+        <item>Normal</item>
+        <item>Overhang</item>
+        <item>Transparente</item>
+        <item>Raio X</item>
+    </string-array>
+
+    <string-array name="render_mode_gcode_array">
+        <item>Normal</item>
+        <item>Transparente</item>
+    </string-array>
+
+    <string-array name="slicer_support_array" translatable="false">
+        <item>none</item>
+        <item>buildplate</item>
+        <item>everywhere</item>
+    </string-array>
+
+    <string-array name="slicer_support_type_array" translatable="false">
+        <item>grid</item>
+        <item>lines</item>
+    </string-array>
+
+    <string-array name="slicer_support_dual_extrusion_array" translatable="false">
+        <item>both</item>
+    </string-array>
+
+    <string-array name="slicer_platform_adhesion_array" translatable="false">
+        <item>none</item>
+        <item>brim</item>
+        <item>raft</item>
+    </string-array>
+
+    <string-array name="slicer_combing_array" translatable="false">
+        <item>off</item>
+        <item>all</item>
+        <item>no skin</item>
+    </string-array>
+
+    <string-array name="timelapse_type_array" translatable="false">
+        <item>off</item>
+        <item>timed</item>
+        <item>zchange</item>
+    </string-array>
+
+</resources>

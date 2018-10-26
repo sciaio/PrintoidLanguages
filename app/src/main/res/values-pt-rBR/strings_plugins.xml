@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="plugins_title">Plugins do OctoPrint</string>
+
+    <string name="plugins_help_title">Plugins do OctoPrint</string>
+    <string name="plugins_help_message">Esta é a lista de plugins atualmente integrados ao Printoid.\n\nTodos os plug-ins do OctoPrint não estão implementados no Printoid e eu (o desenvolvedor) não posso integrar todos eles.\n\nPor favor, contate-me em printoid.for.octoprint@gmail.com se você gostaria de ver um novo plugin no Printoid. Vou refletir sobre sua integração (mas somente se for possível).</string>
+
+    <string name="plugin_name_psu" translatable="false">PSU Control</string>
+    <string name="plugin_name_tp_link" translatable="false">TP-Link SmartPlug</string>
+    <string name="plugin_name_enclosure" translatable="false">OctoPrint Enclosure</string>
+    <string name="plugin_name_navbartemp" translatable="false">Navbar Temp</string>
+
+    <string name="plugin_desc_psu">Este plugin OctoPrint controla uma fonte de alimentação ATX / AUX para ajudar a reduzir o consumo de energia e o ruído quando a impressora não estiver em uso.</string>
+    <string name="plugin_desc_tp_link">Inspirado no OctoPrint-PSU Control e no SmartPlug Client TP-Link WiFi, este plugin controla um SmartLink TP-Link através da barra de navegação do OctoPrint.</string>
+    <string name="plugin_desc_enclosure">Controle praticamente tudo o que você desejar fazer no seu Raspberry Pi, OctoPrint e plugin Enclosure.</string>
+    <string name="plugin_desc_navbartemp">Exiba temperaturas na barra de navegação do OctoPrint. Para usuários de Raspberry Pi, este plugin permite mostrar automaticamente a temperatura da CPU do Raspberry Pi na barra de título do aplicativo.</string>
+
+    <string name="plugin_author_psu">Shawn Bruce (@kantlivelong)</string>
+    <string name="plugin_author_tp_link">(@jneilliii)</string>
+    <string name="plugin_author_enclosure">Vitor de M. Henrique (@vitormhenrique)</string>
+    <string name="plugin_author_navbartemp">Jarek Szczepanski (@imrahil)</string>
+
+    <string name="plugin_url_psu" translatable="false">https://github.com/kantlivelong/OctoPrint-PSUControl</string>
+    <string name="plugin_url_tp_link" translatable="false">https://github.com/jneilliii/OctoPrint-TPLinkSmartplug</string>
+    <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
+    <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
+
+    <string name="plugin_message_psu">O plug-in PSU Control deve ser instalado no seu servidor OctoPrint.\n\nDesta forma ele aparecerá automaticamente no menu à esquerda do app.</string>
+    <string name="plugin_message_tp_link">O plugin TP-Link SmartPlug deve ser instalado no seu servidor OctoPrint.\n\nDesta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.\n\nAjuste seu comportamento a partir das configurações do Printoid.</string>
+    <string name="plugin_message_enclosure">Este plugin será integrado muito em breve no Printoid!</string>
+    <string name="plugin_message_navbartemp">O plugin Navbar Temp deve ser instalado no seu servidor OctoPrint.\n\nAssim, se você estiver usando um Raspberry Pi, a temperatura da CPU aparecerá automaticamente na barra de título do app.</string>
+
+</resources>

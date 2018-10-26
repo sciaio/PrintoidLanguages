@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select_file_to_upload">Selecione arquivo para upload</string>
+    <string name="upload_new_file">Carregar novo arquivo</string>
+    <string name="select_file_install_file_explorer">Nenhum app explorador de arquivos encontrado.</string>
+    <string name="upload_file_dialog_title">Carregando arquivo</string>
+    <string name="upload_file_dialog_msg">%1$s\n%2$d%%</string>
+
+    <string name="upload_error_file_not_found">Erro: arquivo não encontrado</string>
+    <string name="upload_error_bad_request">Erro: pedido incorreto</string>
+    <string name="upload_error_remote_not_found">Erro: diretório do servidor não encontrado</string>
+    <string name="upload_error_conflict">Erro: conflito com este arquivo</string>
+    <string name="upload_error_unsupported_media">Erro: tipo de mídia não suportada, não é um arquivo GCODE ou STL</string>
+    <string name="upload_error_internal_server_error">Erro: erro interno do servidor OctoPrint</string>
+    <string name="upload_error_unknown">Erro: não é possível enviar o arquivo para o seu servidor OctoPrint (%d)</string>
+
+    <string name="create_folder_title">Criação de pasta</string>
+    <string name="create_folder_message">Definir um nome para a nova pasta:</string>
+    <string name="create_folder_message_hint">Novo nome de pasta</string>
+    <string name="create_folder_created">Pasta criada</string>
+    <string name="create_folder_error_file_not_found">Erro: pasta não encontrada</string>
+    <string name="create_folder_error_bad_request">Erro: pedido incorreto</string>
+    <string name="create_folder_error_remote_not_found">Erro: diretório do servidor não encontrado</string>
+    <string name="create_folder_error_conflict">Erro: conflito com esta pasta</string>
+    <string name="create_folder_error_internal_server_error">Erro: erro interno do servidor OctoPrint</string>
+    <string name="create_folder_error_unknown">Erro: não é possível criar pasta no seu servidor OctoPrint (%d)</string>
+
+    <string name="move_file_title">Mover arquivo</string>
+    <string name="move_file_message">Mover o arquivo %s para a seguinte pasta:</string>
+    <string name="move_file_done">Arquivo movido</string>
+    <string name="move_file_error_sdcard_msg">Printoid não pode mover um arquivo do SDCARD!</string>
+
+    <string name="upload_file_title">Carregar arquivo</string>
+    <string name="upload_file_message">Carregar o arquivo %s para o seguinte destino:</string>
+    <string name="upload_file_done">Arquivo carregado</string>
+
+    <string name="downloading_file">Baixando o arquivo&#8230;</string>
+    <string name="file_deleted">Arquivo excluído do OctoPrint</string>
+    <string name="folder_deleted">Pasta excluída do OctoPrint</string>
+
+    <string name="alert_delete_file_title">Excluir arquivo</string>
+    <string name="alert_delete_file_msg">Você realmente quer apagar o arquivo <b>%s</b>? Esta ação não poderá ser desfeita.</string>
+
+    <string name="alert_delete_folder_title">Excluir pasta</string>
+    <string name="alert_delete_folder_msg">Você realmente quer apagar a pasta <b>%s</b>? Todos os arquivos nesta pasta também serão excluídos. Esta ação não poderá ser desfeita.</string>
+
+    <string name="alert_cant_delete_msg">O Printoid não pode excluir %s</string>
+
+    <string name="files_new_folder">Nova pasta</string>
+    <string name="files_move_file">Mover arquivo</string>
+    <string name="files_upload_file">Carregar arquivo</string>
+    <string name="files_sort_files">Ordenar arquivos</string>
+    <string name="files_analyze">Analisar</string>
+    <string name="files_history">Histórico</string>
+
+    <string name="analyzer_folder_root">ROOT</string>
+    <string name="analyzer_number_file">arquivo %d</string>
+    <string name="analyzer_number_files">arquivos %d</string>
+    <string name="analyzer_number_folder">pasta %d</string>
+    <string name="analyzer_number_folders">pastas %d</string>
+    <string name="analyzer_success_failures">%1$d %2$s / %3$d %4$s</string>
+    <string name="analyzer_success">sucesso</string>
+    <string name="analyzer_success_plural">sucessos</string>
+    <string name="analyzer_failure">falha</string>
+    <string name="analyzer_failure_plural">falhas</string>
+    <string name="analyzer_total_print_time">Tempo total de impressão:</string>
+    <string name="analyzer_total_size">Tamanho total:</string>
+    <string name="analyzer_total_filament_length">Comprimento total do filamento:</string>
+    <string name="analyzer_total_folders">Número de pastas:</string>
+    <string name="analyzer_total_machine_code">Número de GCODE:</string>
+    <string name="analyzer_total_models">Número de modelos:</string>
+    <string name="analyzer_total_estimated_cost">Custo total estimado:</string>
+
+</resources>

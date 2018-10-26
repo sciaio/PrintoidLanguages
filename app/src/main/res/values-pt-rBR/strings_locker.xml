@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_password_bullet" translatable="false">○</string>
+    <string name="locker_password_bullet_full" translatable="false">⦿</string>
+    <string name="locker_password_hint" translatable="false">○ ○ ○ ○</string>
+
+    <string name="locker_enter_password">Entre com a senha</string>
+    <string name="locker_enter_password_or_fingerprint">Digite a senha ou use sua impressão digital</string>
+    <string name="locker_cancel">Cancelar</string>
+    <string name="locker_unlocked">Desbloqueado!</string>
+
+    <string name="locker_enter_current_password">Digite a senha atual</string>
+    <string name="locker_enter_new_password_1">Insira a nova senha</string>
+    <string name="locker_enter_new_password_2">Digite a nova senha novamente</string>
+
+    <string name="locker_mode">Modo de bloqueio: %s</string>
+    <string name="locker_mode_off">DESATIVADO</string>
+    <string name="locker_mode_critical">proteger apenas recursos críticos</string>
+    <string name="locker_mode_full">proteger toda a tela</string>
+
+    <string name="locker_mode_cant_send_critical_commands">Não é possível enviar comandos críticos, o modo de bloqueio está ativado</string>
+
+</resources>

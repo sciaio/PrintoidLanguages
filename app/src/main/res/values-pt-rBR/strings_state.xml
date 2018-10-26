@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printer_state_octo_disconnected">Offline</string>
+    <string name="printer_state_disconnected">Desconectada</string>
+    <string name="printer_state_connecting">Conectando&#8230;</string>
+    <string name="printer_state_sending_file">Enviando arquivo…</string>
+    <string name="printer_state_ready">Pronta para imprimir</string>
+    <string name="printer_state_paused">Impressão pausada</string>
+    <string name="printer_state_printing">Imprimindo&#8230;</string>
+    <string name="printer_state_error">Erro de conexão da impressora</string>
+
+    <string name="empty" translatable="false">&#8212;</string>
+    <string name="dimensions_format" translatable="false">%1$.1fmm × %2$.1fmm × %3$.1fmm</string>
+    <string name="dimensions_reduced_format" translatable="false">%1$.1f×%2$.1f×%3$.1f mm</string>
+    <string name="remaining_time_none" translatable="false">&#8212; : &#8212;</string>
+    <string name="remaining_time_label">Termina em:</string>
+    <string name="file">Arquivo: %s</string>
+    <string name="file_label">Arquivo:</string>
+    <string name="file_empty">Nenhum arquivo carregado</string>
+    <string name="end_time_empty">&#8212;</string>
+    <string name="end_time_label">Tempo para fim:</string>
+    <string name="end_time_label_no_column">Tempo para fim</string>
+    <string name="end_time">Tempo para fim: %s</string>
+    <string name="printed_empty">&#8212;</string>
+    <string name="printed_label">Impresso:</string>
+    <string name="current_z">Z:</string>
+    <string name="current_z_value" translatable="false">%.2f mm</string>
+    <string name="current_z_empty" translatable="false">&#8212; mm</string>
+    <string name="printed">%1$s/%2$s</string>
+    <string name="printed_time">Tempo de impressão: %s</string>
+    <string name="printed_time_empty">&#8212; : &#8212;</string>
+    <string name="printed_time_label">Tempo de impressão:</string>
+    <string name="file_type_stl">Tipo de arquivo: modelo</string>
+    <string name="file_type_gcode">Tipo de arquivo: código de máquina</string>
+    <string name="file_size">%s</string>
+    <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
+    <string name="estimated_print_time">%s</string>
+    <string name="uploaded_date">há %s</string>
+    <string name="file_size_label">Tamanho do arquivo:</string>
+    <string name="filament_label">Filamento:</string>
+    <string name="estimated_print_time_label">Tempo estimado:</string>
+    <string name="average_print_time_label">Tempo médio:</string>
+    <string name="last_print_time_label">Última vez:</string>
+    <string name="uploaded_date_label">Carregado:</string>
+    <string name="filament_empty">&#8212;</string>
+    <string name="file_name_empty">Selecione um arquivo na lista</string>
+    <string name="model_size">Dimensões:</string>
+    <string name="origin">Origem:</string>
+    <string name="failures">Falha:</string>
+    <string name="success">Sucesso:</string>
+    <string name="cost">Custo:</string>
+
+    <string name="size_label">Tamanho:</string>
+    <string name="time_label">Tempo:</string>
+    <string name="end_label">Fim:</string>
+
+    <string name="date_few_seconds">alguns segundos</string>
+    <string name="date_second">%d segundo</string>
+    <string name="date_seconds">%d segundos</string>
+    <string name="date_minute">%d minuto</string>
+    <string name="date_minutes">%d minutos</string>
+    <string name="date_hour">%d hora</string>
+    <string name="date_hours">%d horas</string>
+    <string name="date_day">%d dia</string>
+    <string name="date_days">%d dias</string>
+    <string name="date_month">%d mês</string>
+    <string name="date_months">%d meses</string>
+    <string name="date_year">%d ano</string>
+    <string name="date_years">%d anos</string>
+
+    <string name="progress">Progresso:</string>
+    <string name="progress_label_time">tempo</string>
+    <string name="progress_label_gcode">GCODE</string>
+    <string name="progress_label_time_percent">tempo (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">GCODE (%.1f%%)</string>
+
+    <string name="printing_completed_success_title">Impressão finalizada</string>
+    <string name="printing_completed_success_message">A impressão terminou com sucesso!</string>
+
+</resources>

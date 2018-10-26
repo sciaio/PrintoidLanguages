@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_rate_app_title">Avalie o Printoid %s</string>
+    <string name="alert_rate_app_message">Você está usando o Printoid há mais de uma semana, obrigado!\n\nSe você gostou do aplicativo, não hesite em avaliar Printoid %s no Google Play! Esta é a melhor maneira de apoiar o desenvolvedor!</string>
+
+    <string name="rate_app_button_never">Nunca</string>
+    <string name="rate_app_button_later">Agora não</string>
+
+</resources>

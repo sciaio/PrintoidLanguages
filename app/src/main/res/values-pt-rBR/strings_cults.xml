@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cults_api_user_name" translatable="false">Printoid</string>
+    <string name="cults_api_password" translatable="false">ZIdazoifhao124</string>
+
+    <string name="cults_name" translatable="false">Cults.</string>
+    <string name="cults_url" translatable="false">https://cults3d.com</string>
+
+    <string name="cults_category_url">https://cults3d.com/en/categories/%s</string>
+
+    <string name="cults_locale">pt-br</string>
+
+    <string name="cults_free">Grátis</string>
+    <string name="cults_powered_by">Potencializado por</string>
+    <string name="cults_see_more_creations">Veja mais criações em</string>
+    <string name="cults_see_creation_on">Veja esta criação em</string>
+    <string name="cults_created_by">Criado por %s</string>
+
+    <string name="cults_select_mode">Selecione uma categoria de criação</string>
+    <string name="cults_mode_selection">Seleções da Cults</string>
+    <string name="cults_mode_latest_creation">Últimas criações</string>
+
+    <string name="cults_http_error">Afff! Algo deu errado!:(\nError %1$d\n(%2$s)</string>
+
+</resources>

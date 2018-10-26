@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_channel_name_alerts">Notificações de alertas</string>
+
+    <string name="alarms_title">Gerenciamento de alertas</string>
+
+    <string name="alarm_type_progress">Progressão da impressão</string>
+    <string name="alarm_type_temperature_hot_end">Temperatura do cabeçote</string>
+    <string name="alarm_type_temperature_hot_bed">Temperatura da mesa de impressão</string>
+    <string name="alarm_type_gcode_command">Execução de comandos GCODE</string>
+    <string name="alarm_type_z_height">Altura Z</string>
+
+    <string name="alerts_list_empty">Nenhum alerta criado</string>
+
+    <string name="alarm_setting_type">Tipo de alerta</string>
+    <string name="alarm_setting_sensitivity">Sensibilidade deste alerta (+X% do valor)</string>
+    <string name="alarm_setting_value_progress">Alerta quando o trabalho atingir este progresso (%)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Alerta quando o hot end atingir esta temperatura (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Alerta quando a mesa aquecida atingir esta temperatura (°)</string>
+    <string name="alarm_setting_value_gcode_command">Alerta quando este comando GCODE for executado</string>
+    <string name="alarm_setting_value_z_height">Alerta quando o bico atingir esta altura (mm)</string>
+    <string name="alarm_settins_value">Valor do alerta</string>
+    <string name="alarm_setting_vibration_pattern">Padrão de vibração</string>
+    <string name="alarm_setting_vibration_pattern_hint" translatable="false">0,100,75,100</string>
+
+    <string name="alarm_created">Novo alerta criado</string>
+    <string name="alarm_updated">Alerta atualizado</string>
+    <string name="alarm_deleted">Alerta deletado</string>
+
+    <string name="alarms_delete_alert_title">Alerta deletado</string>
+    <string name="alarms_delete_alert_msg">Você realmente deseja deletar este alerta? Esta ação não poderá ser desfeita.</string>
+
+    <string name="alarms_exit_editor_alert_title">Salve suas alterações</string>
+    <string name="alarms_exit_editor_alert_msg">Voce deseja salvar suas alterações antes de sair do editor?</string>
+
+    <string name="alarm_alert_value_title">Valor errado para este alerta</string>
+    <string name="alarm_alert_type_msg">Tipo errado para este alerta! Favor contatar o desenvolvedor do Printoid!</string>
+    <string name="alarm_alert_value_progress_msg">Favor habilitar o modo em segundo plano para ser notificado quando uma impressão for finalizada ao invés de usar um alerta customizado!</string>
+    <string name="alarm_alert_value_empty_msg">Você deve prover um valor para este alerta!</string>
+    <string name="alarm_alert_value_float_msg">O valor para este alerta deve ser no formato inteiro ou ponto flutuante!</string>
+
+    <string name="alarm_help_title">Gerenciador de alertas</string>
+    <string name="alarm_help_msg">Voce pode definir alertas customizados no Printoid.\n\n
+        Os alertas resultarão em uma notificação do Android, com som e vibração dependendo das configurações do sistema.\n\n
+        Os alertas serão disparados somente se o Printoid estiver sendo executado em segundo plano no seu dispositivo.\n\n
+        Favor notar que este recurso representa um  \"trabalho em progresso\" e será bastante aperfeiçoado! :)</string>
+
+    <string name="alarm_notification_title">Alerta: %s</string>
+    <string name="alarm_notification_progress">Progresso atual: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">Temperatura do ext. %1$d: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Temperatura da mesa: %.1f°</string>
+    <string name="alarm_notification_gcode_command">Comando GCODE executado: %s</string>
+    <string name="alarm_notification_z_height">Altura Z alcançada: %.2f</string>
+
+</resources>

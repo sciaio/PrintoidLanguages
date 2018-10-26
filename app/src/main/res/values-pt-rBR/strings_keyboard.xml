@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="keyboard_distant_command_toast_msg">Comando distante recebido: %s</string>
+
+    <string name="keyboard_distant_gcode_command_title">Enviar comando GCODE</string>
+    <string name="keyboard_distant_gcode_command_msg">Pressione ENTER para enviar, ESCAPE para cancelar, VÍRGULA para separar comandos</string>
+
+    <string name="keyboard_action_connect">conectar</string>
+    <string name="keyboard_action_fullscreen">alterar tela cheia</string>
+    <string name="keyboard_action_streaming">mostrar streaming de vídeo</string>
+    <string name="keyboard_action_simulator">mostrar visualizador 2D em tempo real</string>
+    <string name="keyboard_action_commands">mostrar comandos</string>
+    <string name="keyboard_action_wep_app">mostrar web-app OctoPrint</string>
+    <string name="keyboard_action_wep_site">mostrar web site do Printoid</string>
+    <string name="keyboard_action_octoprint_profiles">perfis OctoPrint</string>
+    <string name="keyboard_action_app_settings">ajustes</string>
+    <string name="keyboard_action_app_infos">infos</string>
+    <string name="keyboard_action_files">arquivos</string>
+    <string name="keyboard_action_timelapses">timelapses</string>
+    <string name="keyboard_action_right_panel">abrir o painel direito</string>
+    <string name="keyboard_action_right_panel_close">fechar o painel direito</string>
+    <string name="keyboard_action_x">Eixo X</string>
+    <string name="keyboard_action_y">Eixo Y</string>
+    <string name="keyboard_action_z">Eixo Z</string>
+    <string name="keyboard_action_home_xy">Home XY</string>
+    <string name="keyboard_action_home_z">Home Z</string>
+    <string name="keyboard_action_extrude">extrusão</string>
+    <string name="keyboard_action_move_distance">comprimento de viagem definido para %.1f</string>
+    <string name="keyboard_action_retract">retração</string>
+    <string name="keyboard_action_increment_fan">aumentar a velocidade da ventoinha</string>
+    <string name="keyboard_action_decrement_fan">diminuir a velocidade da ventoinha</string>
+    <string name="keyboard_action_increment_ext">aumentar a temperatura do ext.%d</string>
+    <string name="keyboard_action_decrement_ext">diminuir a temperatura do ext.%d</string>
+    <string name="keyboard_action_increment_bed">aumentar a temperatura da mesa</string>
+    <string name="keyboard_action_decrement_bed">diminuir a temperatura da mesa</string>
+    <string name="keyboard_action_select_tool">selecionar a ferramenta %d</string>
+    <string name="keyboard_action_print">imprimir arquivo selecionado</string>
+    <string name="keyboard_action_pause">pausar impressão</string>
+    <string name="keyboard_action_stop">parar de imprimir</string>
+
+</resources>

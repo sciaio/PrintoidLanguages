@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="download_file_dialog_title">Download em progresso</string>
+    <string name="download_file_dialog_msg">Printoid está baixando seu arquivo, favor aguardar…</string>
+
+    <string name="download_file_alert_title">Falha no download</string>
+    <string name="download_file_alert_msg">O download falhou, %s</string>
+    <string name="download_file_alert_error_url">Um erro foi detectado na URL</string>
+    <string name="download_file_alert_error_fnf">O arquivo não pode ser encontrado no seu servidor OctoPrint</string>
+    <string name="download_file_alert_error_io">O arquivo não pode ser gravado no armazenamento</string>
+    <string name="download_file_alert_error_unknown">Um erro desconhecido ocorreu</string>
+
+    <string name="load_gcode_file_dialog_title">Renderizando</string>
+    <string name="load_gcode_file_dialog_msg">O Printoid está processando seu arquivo GCODE, favor aguardar…</string>
+
+    <string name="load_stl_file_dialog_title">Renderizando</string>
+    <string name="load_stl_file_dialog_msg">O Printoid está renderizando seu arquivo STL, favor aguardar…</string>
+
+    <string name="load_file_alert_title">Falha na renderização</string>
+    <string name="load_file_alert_msg">A renderização 3D deste arquivo falhou. Tente novamente ou entre em contato com o desenvolvedor do Printoid.</string>
+
+    <string name="render_selected_layer">%1$d / %2$d</string>
+    <string name="render_layer">Camada:</string>
+    <string name="render_selected_layer_z">Z: %s</string>
+    <string name="render_Z">Z:</string>
+
+    <string name="render_file_progress">Progresso:</string>
+    <string name="render_file_progress_values">%1$s / %2$s</string>
+    <string name="render_file_no_file">Nenhum arquivo atualmente em impressão</string>
+    <string name="render_file_remaining_time">Tempo restante:</string>
+    <string name="render_file_z_height">Altura Z:</string>
+    <string name="render_file_z_height_value_mm" translatable="false">%.2fmm</string>
+    <string name="render_file_z_height_value_cm" translatable="false">%.3fcm</string>
+    <string name="render_file_layers">%1$d / %2$d</string>
+
+    <string name="render_error_not_supported_title">Formato GCODE não suportado</string>
+    <string name="render_error_not_supported_msg">Infelizmente, parece que seu formato GCODE ainda não é suportado pelo renderizador 3D. Veja a compatibilidade atual dos fatiadores:\n\n
+    - <b>Cura (versão desktop)</b>: suportedo\n
+    - <b>Cura Engine (no OctoPrint)</b>: suportedo\n
+    - <b>Simplify3D</b>: ainda não suportado\n
+    - <b>Slic3r</b>: ainda não suportado\n
+    - <b>Others</b>: ainda sem feedback\n\nEu estou trabalhando duro para suportar mais formatos de fatiadores. Por favor, mantenha o Printoid atualizado!
+    </string>
+    <string name="render_error_2D_not_supported_msg">Infelizmente, parece que seu formato GCODE ainda não é suportado pelo renderizador 2D.\nEntre em contato com o desenvolvedor do Printoid.</string>
+
+    <string name="right_panel_2D_render_not_available">O visualizador 2D em tempo real não está disponível\n(atualmente não está imprimindo)</string>
+
+    <string name="simulator_back_to_direct">Progresso de sincronia com o trabalho</string>
+    <string name="simulator_pause">Pause o simulador</string>
+
+    <string name="alert_large_file_title">Renderizando arquivo grande</string>
+    <string name="alert_large_file_msg">Você solicitou que o Printoid renderize %1$s, que tem cerca de %2$s.\n\nTalvez ele seja muito grande e o Android mate o processo.\n\nDeseja continuar mesmo assim?</string>
+
+</resources>

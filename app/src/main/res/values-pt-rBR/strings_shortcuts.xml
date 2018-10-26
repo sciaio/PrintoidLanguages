@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="shortcut_website_home_label_long" translatable="false">The official website</string>
+    <string name="shortcut_website_home_label_short" translatable="false">Printoid.net</string>
+    <string name="shortcut_website_home_disabled" translatable="false">Printoid.net</string>
+
+    <string name="shortcut_website_news_label_long" translatable="false">News feed and changelogs</string>
+    <string name="shortcut_website_news_label_short" translatable="false">News &amp; changelogs</string>
+    <string name="shortcut_website_news_disabled" translatable="false">News &amp; changelogs</string>
+
+    <string name="shortcut_website_tuto_label_long" translatable="false">Tutorials and assistance</string>
+    <string name="shortcut_website_tuto_label_short" translatable="false">Tutorials</string>
+    <string name="shortcut_website_tuto_disabled" translatable="false">Tutorials</string>
+
+    <string name="shortcut_website_faq_label_long" translatable="false">Frequently Asked Questions</string>
+    <string name="shortcut_website_faq_label_short" translatable="false">F.A.Q.</string>
+    <string name="shortcut_website_faq_disabled" translatable="false">F.A.Q.</string>
+
+    <string name="shortcut_load">Carregar</string>
+    <string name="shortcut_print">Imprimir</string>
+    <string name="shortcut_input">Entrada</string>
+    <string name="shortcut_render3D">Visão 3D</string>
+    <string name="shortcut_render2D">Visão 2D</string>
+    <string name="shortcut_download">Download</string>
+    <string name="shortcut_delete">Deletar</string>
+    <string name="shortcut_slice">Fatiar</string>
+
+    <string name="shortcut_distance_1mm" translatable="false">1 mm</string>
+    <string name="shortcut_distance_5mm" translatable="false">5 mm</string>
+    <string name="shortcut_distance_10mm" translatable="false">10 mm</string>
+    <string name="shortcut_distance_100mm" translatable="false">100 mm</string>
+
+</resources>

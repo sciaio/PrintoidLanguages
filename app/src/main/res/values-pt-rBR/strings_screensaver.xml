@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="temperatures_state_all_correct">Todas as temperaturas estão corretas!</string>
+    <string name="temperatures_state_bed_issue_only">Problema de aquecimento na mesa: %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">Problema de aquecimento na cabeça de impressão %1$d : %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">Problemas de aquecimento nas cabeças de impressão %s !</string>
+
+    <string name="z_height_unit" translatable="false">mm</string>
+
+</resources>

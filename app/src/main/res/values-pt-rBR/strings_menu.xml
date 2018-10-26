@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_title_partners">Parceiros</string>
+
+    <string name="menu_psu_plugin_on" translatable="false">PSU on</string>
+    <string name="menu_psu_plugin_off" translatable="false">PSU off</string>
+    <string name="menu_tplink_plugin_on" translatable="false">TP Link on</string>
+    <string name="menu_tplink_plugin_off" translatable="false">TP Link off</string>
+    <string name="menu_connect_server">Conectar o OctoPrint</string>
+    <string name="menu_connect_printer">Conectar a impressora</string>
+    <string name="menu_connecting_printer">Conectando a impressora</string>
+    <string name="menu_disconnect_printer">Desconectar a impressora</string>
+    <string name="menu_video_streaming">Streaming de vídeo</string>
+    <string name="menu_commands">Comandos</string>
+    <string name="menu_full_screen">Expandir vista</string>
+    <string name="menu_full_screen_streaming">Expandir vídeo</string>
+    <string name="menu_full_screen_realtime_visualizer">Expandir visualizador</string>
+    <string name="menu_full_screen_commands">Expandir comandos</string>
+    <string name="menu_full_screen_slicer">Expandir fatiador</string>
+    <string name="menu_full_screen_more_tools">Expandir ferramentas</string>
+    <string name="menu_minimize">Minimizar visualização</string>
+    <string name="menu_printer_profiles_settings">Servidores\nOctoPrint</string>
+    <string name="menu_app_settings">Configurações\ndo app</string>
+    <string name="menu_alarms">Gerenciador de alertas</string>
+    <string name="menu_plugins">Plugins do OctoPrint</string>
+    <string name="menu_spools">Gerenciador de carretéis</string>
+    <string name="menu_app_infos">Ajuda</string>
+    <string name="menu_octoprint_web">Interface web do OctoPrint</string>
+    <string name="menu_files">Arquivos</string>
+    <string name="menu_cults" translatable="false">Cults</string>
+    <string name="menu_myminifactory" translatable="false">MyMiniFactory</string>
+    <string name="menu_printoid_web">Website do\nPrintoid</string>
+    <string name="menu_timelapse">Timelapses</string>
+    <string name="menu_contact_developer">Contate\no desenvolvedor</string>
+
+    <string name="menu_lite_label_promote">Você gostou do Printoid Lite?</string>
+    <string name="menu_lite_text_promote">Apoie o desenvolvedor e aproveite a versão PRO ou a mais completa PREMIUM!</string>
+
+    <string name="menu_profiles_create">Adicionar perfil</string>
+    <string name="menu_profiles_edit">Gerenciar perfis</string>
+
+</resources>
