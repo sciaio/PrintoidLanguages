@@ -26,6 +26,7 @@ The resources are located in the **/app/src/main/res/** folder.
 - **values-es** contains the values translated in spanish
 - **values-ru** contains the values translated in russian
 - **values-nl** contains the values translated in dutch
+- **values-pt-rBR** contains the values translated in portuguese (brazilian version)
 
 ### Create translations to a new language
 
@@ -150,6 +151,7 @@ Printoid Languages is embedded in Printoid as a library. All the changes in this
 
 * **Ruud RADEMAKER** - *🇳🇱 Dutch translations*
 
+* **Eduardo SOUZA RAMOS** - *🇧🇷 Portuguese (Brazilian) translations*
 
 ## License
 
