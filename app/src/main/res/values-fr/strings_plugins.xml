@@ -6,14 +6,21 @@
     <string name="plugins_help_title">Plugins OctoPrint</string>
     <string name="plugins_help_message">Voici la liste des plugins OctoPrint actuellement supportés par Printoid.\n\nTous les plugins OctoPrint ne sont pas implémentés dans l\'appli et je ne peux pas tous les intégrer.\n\nContactez moi sur printoid.for.octoprint@gmail.com si vous souhaitez voir un nouveau plugin dans Printoid. Je réflechierais à son intégration (si et seulement si cela est possible).</string>
 
-    <string name="plugin_desc_psu">This OctoPrint plugin controls an ATX/AUX power supply to help reduce power consumption and noise when the printer is not in use.</string>
-    <string name="plugin_desc_tp_link">Work inspired by OctoPrint-PSUControl and TP-Link WiFi SmartPlug Client, this plugin controls a TP-Link Smartplug via OctoPrint\'s nav bar.</string>
-    <string name="plugin_desc_enclosure">Control pretty much everything that you might want to do on your Raspberry Pi/OctoPrint/Enclosure.</string>
-    <string name="plugin_desc_navbartemp">Display temperatures on OctoPrint\'s navigation bar. For Raspberry Pi users, this plugin allows to show the Raspberry Pi\'s CPU temperature in the app title bar automatically.</string>
+    <string name="plugin_desc_psu">Plugin permettant de contrôler une alimentation ATX/AUX pour réduire votre consommation et le bruit lorsque l\'imprimante n\'est pas en fonctionnement.</string>
+    <string name="plugin_desc_autoshutdown">Plugin permettant l\'arrêt automatique du serveur OctoPrint à la fin d\'une impression. Ne peut être contrôlé que lorsque le serveur est démarré.</string>
+    <string name="plugin_desc_tp_link">Travail inspiré des plugins OctoPrint-PSUControl et TP-Link WiFi SmartPlug Client, ce plugin contrôle un Smartplug TP-Link via la barre de navigation d\'OctoPrint.</string>
+    <string name="plugin_desc_enclosure">Contrôlez presque tout ce dont vous pourriez avoir besoin grâce à ce plugin de gestion d\'enclosure.</string>
+    <string name="plugin_desc_navbartemp">Affiche la température du système dans la barre de navigation.</string>
 
-    <string name="plugin_message_psu">The PSU Control plugin should be installed on your OctoPrint server.\n\nThen it will automatically appear in the left menu of the app.</string>
-    <string name="plugin_message_tp_link">The TP-Link SmartPlug plugin should be installed on your OctoPrint server.\n\nThen it will automatically appear in the left menu of the app.\n\nAdjust its behavior from the settings of Printoid.</string>
-    <string name="plugin_message_enclosure">This plugin will be integrated very soon in Printoid!</string>
-    <string name="plugin_message_navbartemp">The Navbar Temp plugin should be installed on your OctoPrint server.\n\nThen if you are using a Raspberry Pi, its CPU temperature will appear automatically in the app\'s title bar.</string>
+    <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi.\n\nIl apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
+    <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi.\n\nIl apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.\n\nAjustez ses paramêtres dans les paramêtres de Printoid.</string>
+    <string name="plugin_message_enclosure">Patience, ce plugin sera bientôt disponible dans Printoid !</string>
+    <string name="plugin_message_navbartemp">Le plugin NavBar Temp doit être installé sur votre Raspberry Pi.\n\nLa température système s\'affichera automatiquement dans la barre de navigation.</string>
+
+    <string name="plugin_not_available">Ce plugin semble innaccessible pour le moment (ou pas installé sur votre serveur OctoPrint). Veuillez vérifier son statut dans les paramètres de votre serveur OctoPrint.</string>
+
+    <!-- AUTOMATIC SHUTDOWN PLUGIN -->
+    <string name="plugin_autoshutdown_enable">Eteindre le serveur après l\'impression</string>
+    <string name="plugin_autoshutdown_type">Type</string>
 
 </resources>
