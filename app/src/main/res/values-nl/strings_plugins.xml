@@ -26,4 +26,7 @@
     <!-- PSU CONTROL PLUGIN -->
     <string name="plugin_psu_enable">Enable PSU</string>
 
+    <!-- TPLINK SMARTPLUG PLUGIN -->
+    <string name="plugin_tplink_enable">Enable TP-Link SmartPlug</string>
+
 </resources>
