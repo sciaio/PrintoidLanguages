@@ -12,8 +12,8 @@
     <string name="plugin_desc_enclosure">Controle praticamente tudo o que você desejar fazer no seu Raspberry Pi, OctoPrint e plugin Enclosure.</string>
     <string name="plugin_desc_navbartemp">Exiba temperaturas na barra de navegação do OctoPrint. Para usuários de Raspberry Pi, este plugin permite mostrar automaticamente a temperatura da CPU do Raspberry Pi na barra de título do aplicativo.</string>
 
-    <string name="plugin_message_psu">O plug-in PSU Control deve ser instalado no seu servidor OctoPrint.\n\nDesta forma ele aparecerá automaticamente no menu à esquerda do app.</string>
-    <string name="plugin_message_tp_link">O plugin TP-Link SmartPlug deve ser instalado no seu servidor OctoPrint.\n\nDesta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.\n\nAjuste seu comportamento a partir das configurações do Printoid.</string>
+    <string name="plugin_message_psu">O plug-in PSU Control deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do app.</string>
+    <string name="plugin_message_tp_link">O plugin TP-Link SmartPlug deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.\nAjuste seu comportamento a partir das configurações do Printoid.</string>
     <string name="plugin_message_enclosure">Este plugin será integrado muito em breve no Printoid!</string>
     <string name="plugin_message_navbartemp">O plugin Navbar Temp deve ser instalado no seu servidor OctoPrint.\n\nAssim, se você estiver usando um Raspberry Pi, a temperatura da CPU aparecerá automaticamente na barra de título do app.</string>
 
@@ -22,5 +22,8 @@
     <!-- AUTOMATIC SHUTDOWN PLUGIN -->
     <string name="plugin_autoshutdown_enable">Servidor de desligamento após a impressão terminar</string>
     <string name="plugin_autoshutdown_type">Tipo</string>
+
+    <!-- PSU CONTROL PLUGIN -->
+    <string name="plugin_psu_enable">Ativar PSU</string>
 
 </resources>

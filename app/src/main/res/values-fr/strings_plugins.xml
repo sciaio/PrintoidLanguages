@@ -12,8 +12,8 @@
     <string name="plugin_desc_enclosure">Contrôlez presque tout ce dont vous pourriez avoir besoin grâce à ce plugin de gestion d\'enclosure.</string>
     <string name="plugin_desc_navbartemp">Affiche la température du système dans la barre de navigation.</string>
 
-    <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi.\n\nIl apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
-    <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi.\n\nIl apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.\n\nAjustez ses paramêtres dans les paramêtres de Printoid.</string>
+    <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
+    <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.\nAjustez ses paramêtres dans les paramêtres de Printoid.</string>
     <string name="plugin_message_enclosure">Patience, ce plugin sera bientôt disponible dans Printoid !</string>
     <string name="plugin_message_navbartemp">Le plugin NavBar Temp doit être installé sur votre Raspberry Pi.\n\nLa température système s\'affichera automatiquement dans la barre de navigation.</string>
 
@@ -22,5 +22,8 @@
     <!-- AUTOMATIC SHUTDOWN PLUGIN -->
     <string name="plugin_autoshutdown_enable">Eteindre le serveur après l\'impression</string>
     <string name="plugin_autoshutdown_type">Type</string>
+
+    <!-- PSU CONTROL PLUGIN -->
+    <string name="plugin_psu_enable">Activer le PSU</string>
 
 </resources>
