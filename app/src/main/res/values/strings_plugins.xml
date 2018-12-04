@@ -57,5 +57,6 @@
 
     <!-- OCTOLAPSE PLUGIN -->
     <string name="plugin_octolapse_enable">Enable Octolapse</string>
+    <string name="plugin_octolapse_status">Status:</string>
 
 </resources>
