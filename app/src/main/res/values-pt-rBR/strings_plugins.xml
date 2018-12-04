@@ -29,4 +29,7 @@
     <!-- TPLINK SMARTPLUG PLUGIN -->
     <string name="plugin_tplink_enable">Ativar TP-Link SmartPlug</string>
 
+    <!-- NAVBARTEMP PLUGIN -->
+    <string name="plugin_navbartemp_temperature">Temperatura da CPU do sistema</string>
+
 </resources>
