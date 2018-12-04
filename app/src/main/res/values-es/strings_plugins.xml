@@ -11,6 +11,7 @@
     <string name="plugin_desc_tp_link">Work inspired by OctoPrint-PSUControl and TP-Link WiFi SmartPlug Client, this plugin controls a TP-Link Smartplug vía OctoPrint\'s nav bar.</string>
     <string name="plugin_desc_enclosure">Control pretty much everything that you might want to do on your Raspberry Pi/OctoPrint/Enclosure.</string>
     <string name="plugin_desc_navbartemp">Display temperatures on OctoPrint\'s navigation bar. For Raspberry Pi users, this plugin allows to show the Raspberry Pi\'s CPU temperature in the app title bar automatically.</string>
+    <string name="plugin_desc_octolapse">Octolapse is designed to make stabilized timelapses of your prints with as little hassle as possible, and it\'s extremely configurable. Now you can create a silky smooth timelapse without a custom camera mount, no GCode customizations required.</string>
 
     <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_tp_link">The TP-Link SmartPlug shall should be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.\nAdjust its behavior from the settings of Printoid.</string>
@@ -31,5 +32,8 @@
 
     <!-- NAVBARTEMP PLUGIN -->
     <string name="plugin_navbartemp_temperature">System SoC temperature</string>
+
+    <!-- OCTOLAPSE PLUGIN -->
+    <string name="plugin_octolapse_enable">Enable Octolapse</string>
 
 </resources>
