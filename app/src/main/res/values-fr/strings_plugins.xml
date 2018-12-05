@@ -36,5 +36,11 @@
     <!-- OCTOLAPSE PLUGIN -->
     <string name="plugin_octolapse_enable">Activer Octolapse</string>
     <string name="plugin_octolapse_status">Statut :</string>
+    <string name="plugin_octolapse_printer">Imprimante :</string>
+    <string name="plugin_octolapse_stabilization">Stabilisation :</string>
+    <string name="plugin_octolapse_snapshot">Capture :</string>
+    <string name="plugin_octolapse_rendering">Rendu :</string>
+    <string name="plugin_octolapse_camera">Caméra :</string>
+    <string name="plugin_octolapse_debug">Debug :</string>
 
 </resources>
