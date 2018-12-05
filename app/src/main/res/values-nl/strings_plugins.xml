@@ -14,7 +14,7 @@
 
     <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_tp_link">The TP-Link SmartPlug shall should be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.\nAdjust its behavior from the settings of Printoid.</string>
-    <string name="plugin_message_enclosure">This plugin will be integrated very soon in Printoid!</string>
+    <string name="plugin_message_enclosure">This plugin will be integrated very soon in Printoid, please be patient :) You will be informed once available.</string>
     <string name="plugin_message_navbartemp">The Navbar Temp plugin should be installed on your OctoPrint server.\n\nThen if you are using a Raspberry Pi, its CPU temperature will appear automatically in the app\'s title bar.</string>
     <string name="plugin_desc_octolapse">Octolapse is designed to make stabilized timelapses of your prints with as little hassle as possible, and it\'s extremely configurable. Now you can create a silky smooth timelapse without a custom camera mount, no GCode customizations required.</string>
 
@@ -42,5 +42,9 @@
     <string name="plugin_octolapse_rendering">Rendering:</string>
     <string name="plugin_octolapse_camera">Camera:</string>
     <string name="plugin_octolapse_debug">Debug:</string>
+    <string name="plugin_octolapse_trigger_state">Trigger\nstate</string>
+    <string name="plugin_octolapse_extruder_state">Extruder\nstate</string>
+    <string name="plugin_octolapse_position_state">Position\nstate</string>
+    <string name="plugin_octolapse_position_change">Position\nchange</string>
 
 </resources>

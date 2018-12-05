@@ -15,7 +15,7 @@
 
     <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.\nAjustez ses paramêtres dans les paramêtres de Printoid.</string>
-    <string name="plugin_message_enclosure">Patience, ce plugin sera bientôt disponible dans Printoid !</string>
+    <string name="plugin_message_enclosure">Ce plugin sera bientôt disponible dans Printoid, soyez patient :) Vous serez informé lorsqu\'il sera disponible.</string>
     <string name="plugin_message_navbartemp">Le plugin NavBar Temp doit être installé sur votre Raspberry Pi.\n\nLa température système s\'affichera automatiquement dans la barre de navigation.</string>
 
     <string name="plugin_not_available">Ce plugin semble innaccessible pour le moment (ou pas installé sur votre serveur OctoPrint). Veuillez vérifier son statut dans les paramètres de votre serveur OctoPrint.</string>
@@ -42,5 +42,9 @@
     <string name="plugin_octolapse_rendering">Rendu :</string>
     <string name="plugin_octolapse_camera">Caméra :</string>
     <string name="plugin_octolapse_debug">Debug :</string>
+    <string name="plugin_octolapse_trigger_state">Etat\ntrigger</string>
+    <string name="plugin_octolapse_extruder_state">Etat\nextrudeur</string>
+    <string name="plugin_octolapse_position_state">Etat\nposition</string>
+    <string name="plugin_octolapse_position_change">Chagement\nposition</string>
 
 </resources>
