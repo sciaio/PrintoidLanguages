@@ -47,4 +47,9 @@
     <string name="plugin_octolapse_position_state">Position\nstate</string>
     <string name="plugin_octolapse_position_change">Position\nchange</string>
 
+    <!-- ENCLOSURE PLUGIN -->
+    <string name="plugin_enclosure_rpi_output_enable">Turn ON:</string>
+    <string name="plugin_enclosure_rpi_output_auto_startup">Auto startup:</string>
+    <string name="plugin_enclosure_rpi_output_auto_shutdown">Auto shutdown:</string>
+
 </resources>

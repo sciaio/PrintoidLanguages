@@ -47,4 +47,9 @@
     <string name="plugin_octolapse_position_state">Etat\nposition</string>
     <string name="plugin_octolapse_position_change">Chagement\nposition</string>
 
+    <!-- ENCLOSURE PLUGIN -->
+    <string name="plugin_enclosure_rpi_output_enable">Activer :</string>
+    <string name="plugin_enclosure_rpi_output_auto_startup">Démarrage auto :</string>
+    <string name="plugin_enclosure_rpi_output_auto_shutdown">Arrêt auto :</string>
+
 </resources>
