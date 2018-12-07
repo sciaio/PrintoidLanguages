@@ -51,5 +51,7 @@
     <string name="plugin_enclosure_rpi_output_enable">Ligar:</string>
     <string name="plugin_enclosure_rpi_output_auto_startup">Inicialização auto.:</string>
     <string name="plugin_enclosure_rpi_output_auto_shutdown">Desligamento auto.:</string>
+    <string name="plugin_enclosure_rpi_output_execute_script">Executar script</string>
+    <string name="plugin_enclosure_rpi_output_send_gcode">Enviar GCODE</string>
 
 </resources>

@@ -51,5 +51,7 @@
     <string name="plugin_enclosure_rpi_output_enable">Activer :</string>
     <string name="plugin_enclosure_rpi_output_auto_startup">Démarrage auto :</string>
     <string name="plugin_enclosure_rpi_output_auto_shutdown">Arrêt auto :</string>
+    <string name="plugin_enclosure_rpi_output_execute_script">Executer le script</string>
+    <string name="plugin_enclosure_rpi_output_send_gcode">Envoyer le GCODE</string>
 
 </resources>
