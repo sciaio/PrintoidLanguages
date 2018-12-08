@@ -53,5 +53,8 @@
     <string name="plugin_enclosure_rpi_output_auto_shutdown">Arrêt auto :</string>
     <string name="plugin_enclosure_rpi_output_execute_script">Executer le script</string>
     <string name="plugin_enclosure_rpi_output_send_gcode">Envoyer le GCODE</string>
+    <string name="plugin_enclosure_rpi_input_temperature">Température : %s</string>
+    <string name="plugin_enclosure_rpi_input_humidity">Humidité : %s</string>
+    <string name="plugin_enclosure_rpi_input_target_hint">Cible</string>
 
 </resources>
