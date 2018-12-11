@@ -25,7 +25,7 @@
     <string name="plugin_author_tp_link" translatable="false">(@jneilliii)</string>
     <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
     <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
-    <string name="plugin_author_octolapse" translatable="false">(@FormerLurker)</string>
+    <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
 
     <string name="plugin_url_psu" translatable="false">https://github.com/kantlivelong/OctoPrint-PSUControl</string>
     <string name="plugin_url_autoshutdown" translatable="false">https://github.com/OctoPrint/OctoPrint-AutomaticShutdown</string>
