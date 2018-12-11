@@ -29,6 +29,8 @@
 
     <!-- TPLINK SMARTPLUG PLUGIN -->
     <string name="plugin_tplink_enable">Enable TP-Link SmartPlug</string>
+    <string name="plugin_tplink_state">Current state:</string>
+    <string name="plugin_tplink_ip">IP:</string>
 
     <!-- NAVBARTEMP PLUGIN -->
     <string name="plugin_navbartemp_temperature">System SoC temperature</string>
