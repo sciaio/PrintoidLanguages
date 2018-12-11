@@ -21,7 +21,7 @@
     <string name="plugin_desc_octolapse">Octolapse is designed to make stabilized timelapses of your prints with as little hassle as possible, and it\'s extremely configurable. Now you can create a silky smooth timelapse without a custom camera mount, no GCode customizations required.</string>
 
     <string name="plugin_author_psu" translatable="false">Shawn Bruce (@kantlivelong)</string>
-    <string name="plugin_author_autoshutdown" translatable="false">Shawn Bruce (@kantlivelong)</string>
+    <string name="plugin_author_autoshutdown" translatable="false">Nicanor Romero Venier(@octoprint)</string>
     <string name="plugin_author_tp_link" translatable="false">(@jneilliii)</string>
     <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
     <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
