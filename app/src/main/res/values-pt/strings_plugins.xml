@@ -20,6 +20,10 @@
 
     <string name="plugin_not_available">Este plugin parece não estar disponível (ou não está instalado no seu servidor OctoPrint). Por favor, verifique seu status nas configurações do seu servidor OctoPrint.</string>
 
+    <string name="plugin_not_in_this_version_title">Plugin não disponível</string>
+    <string name="plugin_not_in_this_version_msg">Este plugin não está disponível nesta versão do Printoid. Por favor, considere atualizar Printoid para desfrutar deste recurso no app! (verifique em https://printoid.net os plugins disponíveis por versão)</string>
+
+
     <!-- AUTOMATIC SHUTDOWN PLUGIN -->
     <string name="plugin_autoshutdown_enable">Servidor de desligamento após a impressão terminar</string>
     <string name="plugin_autoshutdown_type">Tipo</string>
