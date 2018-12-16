@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_introduction_message">Your Printoid account helps you to synchronize your settings across multiple devices over the cloud.</string>
+    <string name="account_introduction_signed_as">Signed-in as %s</string>
+    <string name="account_introduction_read_more"><u>Terms of service &amp; privacy policy</u></string>
+
+    <string name="account_sign_in_with_email">Sign-in with email</string>
+    <string name="account_sign_in_with_google">Sign-in with Google</string>
+    <string name="account_sign_out">Sign-out</string>
+
+    <string name="account_created_with_success">Account created with success! Welcome, %s!</string>
+    <string name="account_created_with_failure">Account not created, please retry later!</string>
+
+    <string name="account_logged_with_success">Account signed-in with success! Welcome back, %s</string>
+    <string name="account_logged_with_failure">Account not signed-in, please retry later!</string>
+
+</resources>

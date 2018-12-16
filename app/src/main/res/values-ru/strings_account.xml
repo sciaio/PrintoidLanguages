@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_introduction_message">Ваша учетная запись Printoid помогает синхронизировать настройки на нескольких устройствах в облаке.</string>
+    <string name="account_introduction_signed_as">Войти как %s</string>
+    <string name="account_introduction_read_more"><u>Условия пользования Политика конфиденциальности</u></string>
+
+    <string name="account_sign_in_with_email">Войти через е-мейл</string>
+    <string name="account_sign_in_with_google">Войти через Google</string>
+    <string name="account_sign_out">Выход</string>
+
+    <string name="account_created_with_success">Аккаунт создан с успехом! желанный, %s!</string>
+    <string name="account_created_with_failure">Аккаунт не создан, повторите попытку позже!</string>
+
+    <string name="account_logged_with_success">Аккаунт успешно зарегистрирован! Добро пожаловать, %s</string>
+    <string name="account_logged_with_failure">Аккаунт не зарегистрирован, повторите попытку позже!</string>
+
+</resources>

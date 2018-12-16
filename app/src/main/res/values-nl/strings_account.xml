@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_introduction_message">Uw Printoid-account helpt u bij het synchroniseren van uw instellingen op meerdere apparaten via de cloud.</string>
+    <string name="account_introduction_signed_as">Aangemeld als %s</string>
+    <string name="account_introduction_read_more"><u>Servicevoorwaarden &amp; privacybeleid</u></string>
+
+    <string name="account_sign_in_with_email">Aanmelden met e-mail</string>
+    <string name="account_sign_in_with_google">Log in met Google</string>
+    <string name="account_sign_out">Afmelden</string>
+
+    <string name="account_created_with_success">Account gemaakt met succes! Welkom, %s!</string>
+    <string name="account_created_with_failure">Account niet gemaakt, probeer het later opnieuw!</string>
+
+    <string name="account_logged_with_success">Account ingelogd met succes! Welkom terug, %s</string>
+    <string name="account_logged_with_failure">Account niet aangemeld, probeer het later opnieuw!</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_introduction_message">Votre compte Printoid vous aide à synchroniser vos paramètres entre plusieurs appareils depuis le cloud.</string>
+    <string name="account_introduction_signed_as">Connecté en tant que %s</string>
+    <string name="account_introduction_read_more"><u>Conditions d\'utilisation &amp; confidentialité</u></string>
+
+    <string name="account_sign_in_with_email">Connexion avec email</string>
+    <string name="account_sign_in_with_google">Connexion avec Google</string>
+    <string name="account_sign_out">Déconnexion</string>
+
+    <string name="account_created_with_success">Compte créé avec succès ! Bienvenue, %s!</string>
+    <string name="account_created_with_failure">Compte non créé, veuillez réessayer !</string>
+
+    <string name="account_logged_with_success">Compte connecté avec succès ! Bienvenue, %s</string>
+    <string name="account_logged_with_failure">Compte non connecté, veuillez réessayer !</string>
+
+</resources>
