@@ -51,6 +51,7 @@
     <string name="upload">Загрузить</string>
     <string name="render2d">Oказывать 2D</string>
     <string name="render3d">Oказывать 3D</string>
+    <string name="manage">Yправлять</string>
 
     <string name="heated_bed">Стол</string>
     <string name="heated_head">Хотэнд %d</string>

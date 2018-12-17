@@ -28,6 +28,7 @@
     <string name="setting_title_pick_color">Fond du widget %1$s (%2$s)</string>
     <string name="setting_title_toolbar">Paramètres de la barre d\'outils</string>
     <string name="setting_title_language">Paramètres régionaux</string>
+    <string name="setting_title_account">Compte Printoid</string>
 
     <string name="setting_enable_screensaver">Économiseur d\'écran</string>
     <string name="setting_webcam_streaming">URL de streaming</string>
@@ -122,7 +123,9 @@
     <string name="setting_improve_connection">Améliorer le processus de connexion</string>
     <string name="setting_enable_auto_screen_locker">Verrouiller l\'écran automatiquement</string>
     <string name="setting_enable_ask_profile">Afficher les profils disponibles au démarrage</string>
+    <string name="setting_manage_account">Gestion de votre compte</string>
 
+    <string name="setting_manage_account_tip">Créer/connecter/déconnecter votre compte Printoid</string>
     <string name="setting_enable_ask_profile_tip">Demander quel profil utiliser pour la connection au lancement</string>
     <string name="setting_enable_auto_screen_locker_tip">Verrouillage de l\'écran après 15 sec d\'inactivité</string>
     <string name="setting_improve_connection_tip">Permission de localisation obligatoire pour accéder au SSID du WiFI</string>

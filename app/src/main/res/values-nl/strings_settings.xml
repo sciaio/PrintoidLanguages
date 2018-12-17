@@ -28,6 +28,7 @@
     <string name="setting_title_pick_color">%1$s widget achtergrond kleur (%2$s)</string>
     <string name="setting_title_toolbar">Werkbalkinstellingen</string>
     <string name="setting_title_language">Locale instellingen</string>
+    <string name="setting_title_account">Printoid-account</string>
 
     <string name="setting_enable_screensaver">Screensaver</string>
     <string name="setting_webcam_streaming">URL tbv. streaming</string>
@@ -122,7 +123,9 @@
     <string name="setting_improve_connection">Verbetering van het verbindingsproces</string>
     <string name="setting_enable_auto_screen_locker">Vergrendel automatisch het scherm</string>
     <string name="setting_enable_ask_profile">Toon beschikbare OctoPrint-profielen bij het opstarten</string>
+    <string name="setting_manage_account">Beheer account</string>
 
+    <string name="setting_manage_account_tip">Meld u aan / meld u aan bij uw Printoid-account</string>
     <string name="setting_enable_ask_profile_tip">Vraag welk profiel u wilt gebruiken bij het starten van de app</string>
     <string name="setting_enable_auto_screen_locker_tip">Vergrendel het scherm na 15 seconden zonder activiteit</string>
     <string name="setting_improve_connection_tip">Er is grofe locatietoestemming vereist om de WiFI SSID te verkrijgen</string>

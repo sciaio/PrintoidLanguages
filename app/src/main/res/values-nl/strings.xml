@@ -51,6 +51,7 @@
     <string name="upload">Uploaden</string>
     <string name="render2d">Geven 2D</string>
     <string name="render3d">Geven 3D</string>
+    <string name="manage">Beheren</string>
 
     <string name="heated_bed">Bed</string>
     <string name="heated_head">Kop %d</string>

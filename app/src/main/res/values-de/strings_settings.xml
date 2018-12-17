@@ -28,6 +28,7 @@
     <string name="setting_title_pick_color">Unterseite des Widget %1$s (%2$s)</string>
     <string name="setting_title_toolbar">Symbolleisteneinstellungen</string>
     <string name="setting_title_language">Gebietsschemaeinstellungen</string>
+    <string name="setting_title_account">Printoid-Konto</string>
 
     <string name="setting_enable_screensaver">Bildschirmschoner</string>
     <string name="setting_enable_notif">Aktivieren Sie die Benachrichtigungen</string>
@@ -121,7 +122,9 @@
     <string name="setting_improve_connection">Verbessere den Verbindungsprozess</string>
     <string name="setting_enable_auto_screen_locker">Sperren Sie den Bildschirm automatisch</string>
     <string name="setting_enable_ask_profile">Verfügbare Profile von OctoPrint beim Start anzeigen</string>
+    <string name="setting_manage_account">Konto verwalten</string>
 
+    <string name="setting_manage_account_tip">Anmelden / Anmelden / Abmelden bei Ihrem Printoid-Konto</string>
     <string name="setting_enable_ask_profile_tip">Fordern Sie an, welches Profil beim Starten der App verbunden werden soll</string>
     <string name="setting_enable_auto_screen_locker_tip">Sperren Sie den Bildschirm nach 15 Sekunden Inaktivität</string>
     <string name="setting_improve_connection_tip">Um die WiFI-SSID zu erhalten, ist eine grobe Standortgenehmigung erforderlich</string>

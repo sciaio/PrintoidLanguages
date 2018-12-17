@@ -28,6 +28,7 @@
     <string name="setting_title_pick_color">%1$s widget de segundo plano (%2$s)</string>
     <string name="setting_title_toolbar">Configurações da barra de ferramentas</string>
     <string name="setting_title_language">Configurações de local</string>
+    <string name="setting_title_account">Conta Printoid</string>
 
     <string name="setting_enable_notif">Ativar as notificações</string>
     <string name="setting_battery_optimizations">Ativar otimizações de bateria do Android para o Printoid</string>
@@ -121,7 +122,9 @@
     <string name="setting_improve_connection">Melhoria do processo de conexão</string>
     <string name="setting_enable_auto_screen_locker">Bloquear automaticamente a tela</string>
     <string name="setting_enable_ask_profile">Mostrar perfis OctoPrint disponíveis na inicialização</string>
+    <string name="setting_manage_account">Gerenciar conta</string>
 
+    <string name="setting_manage_account_tip">Inscreva-se / faça login / logout em sua conta Printoid</string>
     <string name="setting_enable_ask_profile_tip">Solicitar qual perfil se conectar ao iniciar o aplicativo</string>
     <string name="setting_enable_auto_screen_locker_tip">Bloquear a tela após 15 segundos de inatividade</string>
     <string name="setting_improve_connection_tip">Necessária permissão de localização COARSE para obter o SSID do WiFI</string>

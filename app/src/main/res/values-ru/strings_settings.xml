@@ -28,6 +28,7 @@
     <string name="setting_title_pick_color">Фон виджета %1$s (%2$s)</string>
     <string name="setting_title_toolbar">Настройки панели инструментов</string>
     <string name="setting_title_language">Языковые настройки</string>
+    <string name="setting_title_account">Учетная запись</string>
 
     <string name="setting_enable_screensaver">Хранитель экрана</string>
     <string name="setting_enable_notif">Включить уведомления</string>
@@ -121,7 +122,9 @@
     <string name="setting_improve_connection">Улучшение подключения</string>
     <string name="setting_enable_auto_screen_locker">Автоматическая блокировка экрана</string>
     <string name="setting_enable_ask_profile">Показывать доступные профили OctoPrint при запуске</string>
+    <string name="setting_manage_account">Управлять счетом</string>
 
+    <string name="setting_manage_account_tip">Зарегистрируйтесь / войдите / выйдите из своей учетной записи Printoid</string>
     <string name="setting_enable_ask_profile_tip">Запросить, какой профиль подключиться при запуске приложения.</string>
     <string name="setting_enable_auto_screen_locker_tip">Блокировка экрана после 15 секунд бездействия</string>
     <string name="setting_improve_connection_tip">Для получения WiID SSID требуется разрешение на грубое местоположение.</string>

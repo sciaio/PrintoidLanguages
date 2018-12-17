@@ -51,6 +51,7 @@
     <string name="upload">Upload</string>
     <string name="render2d">Render 2D</string>
     <string name="render3d">Render 3D</string>
+    <string name="manage">Manage</string>
 
     <string name="google_drive" translatable="false">Drive</string>
 
