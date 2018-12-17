@@ -22,7 +22,7 @@
     <string name="setting_title_streaming_first">First camera settings</string>
     <string name="setting_title_streaming_second">Second camera settings</string>
     <string name="setting_title_streaming_tools">Streaming tools settings</string>
-    <string name="setting_title_backup">Backup &amp; restore</string>
+    <string name="setting_title_backup">Backup &amp; restore locally</string>
     <string name="setting_title_accessibility">Accessibility settings</string>
     <string name="setting_title_security">Security settings</string>
     <string name="setting_title_pick_color">%1$s widget background (%2$s)</string>

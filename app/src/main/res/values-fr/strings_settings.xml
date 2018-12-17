@@ -19,7 +19,7 @@
     <string name="setting_title_streaming">Paramètres de streaming</string>
     <string name="setting_title_cost_plugin">Paramètres de coût</string>
     <string name="setting_title_tplink_plugin">Paramètres du plugin TP Link</string>
-    <string name="setting_title_backup">Sauvegarde &amp; restauration</string>
+    <string name="setting_title_backup">Sauvegarde &amp; restauration locale</string>
     <string name="setting_title_accessibility">Paramètres d\'accessibilité</string>
     <string name="setting_title_security">Paramètres de sécurité</string>
     <string name="setting_title_streaming_first">Première caméra</string>

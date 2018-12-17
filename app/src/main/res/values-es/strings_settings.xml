@@ -19,7 +19,7 @@
     <string name="setting_title_cost_plugin">Ajustes del plugin de coste</string>
     <string name="setting_title_tplink_plugin">Ajustes del plugin TP Link</string>
     <string name="setting_title_streaming">Ajustes de streaming de vídeo</string>
-    <string name="setting_title_backup">Copia de seguridad y restauración</string>
+    <string name="setting_title_backup">Copia y restauración locamente</string>
     <string name="setting_title_accessibility">Ajustes de accesibilidad</string>
     <string name="setting_title_security">Ajustes de seguridad</string>
     <string name="setting_title_streaming_first">Configuración de la primera cámara</string>

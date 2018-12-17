@@ -19,7 +19,7 @@
     <string name="setting_title_tplink_plugin">Настройки TP-Link Smartplug</string>
     <string name="setting_title_controls">Настройки управления</string>
     <string name="setting_title_streaming">Настройки видео</string>
-    <string name="setting_title_backup">Сохранение и восстановление</string>
+    <string name="setting_title_backup">Сохранение и восстановление локально</string>
     <string name="setting_title_accessibility">Специальные возможности</string>
     <string name="setting_title_security">Настройки безопасности</string>
     <string name="setting_title_streaming_first">Настройки первой камеры</string>

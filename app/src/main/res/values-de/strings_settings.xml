@@ -19,7 +19,7 @@
     <string name="setting_title_ventilation">Lüfter Einstellungen</string>
     <string name="setting_title_controls">Steuerungseinstellungen</string>
     <string name="setting_title_streaming">Videostreaming Einstellungen</string>
-    <string name="setting_title_backup">Sicherung &amp; Wiederherstellung</string>
+    <string name="setting_title_backup">Sicherung &amp; Wiederherstellung örtlich</string>
     <string name="setting_title_accessibility">Erleichterte Bedienung</string>
     <string name="setting_title_security">Sicherheitseinstellungen</string>
     <string name="setting_title_streaming_first">Erste Kameraeinstellungen</string>

@@ -19,7 +19,7 @@
     <string name="setting_title_streaming">Instellingen - streaming</string>
     <string name="setting_title_cost_plugin">Instellingen - kosten</string>
     <string name="setting_title_tplink_plugin">Instellingen - TP Link</string>
-    <string name="setting_title_backup">Bewaren &amp; herstellen</string>
+    <string name="setting_title_backup">Bewaren &amp; herstellen plaatselijk</string>
     <string name="setting_title_accessibility">Instellingen - toegang</string>
     <string name="setting_title_security">Instellingen - beveiliging</string>
     <string name="setting_title_streaming_first">Eerste camera</string>
