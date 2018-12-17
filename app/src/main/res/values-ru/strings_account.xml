@@ -9,6 +9,18 @@
     <string name="account_sign_in_with_google">Войти через Google</string>
     <string name="account_sign_out">Выход</string>
 
+    <string name="account_sign_up_introduction">Создайте свою учетную запись Printoid с вашим адресом электронной почты:</string>
+    <string name="account_i_have_an_account">У меня уже есть аккаунт</string>
+    <string name="account_sign_up">Вход вверх</string>
+    <string name="account_confirm_password">Подтверждение пароля</string>
+    <string name="account_email_invalid">Укажите правильный эл.почта</string>
+    <string name="account_password_error_empty">Пожалуйста, введите пароль</string>
+    <string name="account_password_error_size">Минимальная длина пароля составляет 8</string>
+    <string name="account_password_error_lower">Должен содержать хотя бы одну строчную букву</string>
+    <string name="account_password_error_upper">Должен содержать хотя бы одну заглавную букву</string>
+    <string name="account_password_error_digit">Должен содержать хотя бы одну цифру</string>
+    <string name="account_password_confirm_does_not_match">Пароли не совпадают</string>
+
     <string name="account_created_with_success">Аккаунт создан с успехом! желанный, %s!</string>
     <string name="account_created_with_failure">Аккаунт не создан, повторите попытку позже!</string>
 

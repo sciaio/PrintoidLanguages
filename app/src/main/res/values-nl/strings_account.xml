@@ -9,6 +9,18 @@
     <string name="account_sign_in_with_google">Log in met Google</string>
     <string name="account_sign_out">Afmelden</string>
 
+    <string name="account_sign_up_introduction">Maak uw Printoid-account met uw e-mailadres:</string>
+    <string name="account_i_have_an_account">Ik heb al een account</string>
+    <string name="account_sign_up">Inschrijven</string>
+    <string name="account_confirm_password">Wachtwoordbevestiging</string>
+    <string name="account_email_invalid">Geef een geldig e-mailadres op</string>
+    <string name="account_password_error_empty">Geef een wachtwoord op</string>
+    <string name="account_password_error_size">Min. Wachtwoordlengte is 8</string>
+    <string name="account_password_error_lower">Moet ten minste één kleine letters bevatten</string>
+    <string name="account_password_error_upper">Moet ten minste één hoofdletter bevatten</string>
+    <string name="account_password_error_digit">Moet ten minste één cijfer bevatten</string>
+    <string name="account_password_confirm_does_not_match">Wachtwoorden komen niet overeen</string>
+
     <string name="account_created_with_success">Account gemaakt met succes! Welkom, %s!</string>
     <string name="account_created_with_failure">Account niet gemaakt, probeer het later opnieuw!</string>
 

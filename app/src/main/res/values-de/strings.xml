@@ -52,6 +52,7 @@
     <string name="render2d">Machen 2D</string>
     <string name="render3d">Machen 3D</string>
     <string name="manage">Verwalten</string>
+    <string name="password">Kennwort</string>
 
     <string name="heated_bed">Beheiztes Bett</string>
     <string name="heated_head">Beheizter Kopf %d</string>

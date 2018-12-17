@@ -52,6 +52,7 @@
     <string name="render2d">Renderizar 2D</string>
     <string name="render3d">Renderizar 3D</string>
     <string name="manage">Gerir</string>
+    <string name="password">Senha</string>
 
     <string name="heated_bed">Cama aquecida</string>
     <string name="heated_head">Cabeçote aquecido %d</string>

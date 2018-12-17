@@ -9,6 +9,18 @@
     <string name="account_sign_in_with_google">Login com Google</string>
     <string name="account_sign_out">Sair</string>
 
+    <string name="account_sign_up_introduction">Crie sua conta Printoid com seu endereço de e-mail:</string>
+    <string name="account_i_have_an_account">Eu já tenho uma conta</string>
+    <string name="account_sign_up">Inscrever-se</string>
+    <string name="account_confirm_password">Confirmação de senha</string>
+    <string name="account_email_invalid">Por favor forneça um email válido</string>
+    <string name="account_password_error_empty">Por favor, forneça uma senha</string>
+    <string name="account_password_error_size">O tamanho mínimo da senha é 8</string>
+    <string name="account_password_error_lower">Deve conter pelo menos uma minúscula</string>
+    <string name="account_password_error_upper">Deve conter pelo menos uma maiúscula</string>
+    <string name="account_password_error_digit">Deve conter pelo menos um dígito</string>
+    <string name="account_password_confirm_does_not_match">As senhas não coincidem</string>
+
     <string name="account_created_with_success">Conta criada com sucesso! Bem vinda, %s!</string>
     <string name="account_created_with_failure">Conta não criada, tente novamente mais tarde!</string>
 

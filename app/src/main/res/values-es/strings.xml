@@ -52,6 +52,7 @@
     <string name="render2d">Prestar 2D</string>
     <string name="render3d">Prestar 3D</string>
     <string name="manage">Gestionar</string>
+    <string name="password">Contraseña</string>
 
     <string name="heated_bed">Cama calentada</string>
     <string name="heated_head">Extrusor calentado %d</string>
