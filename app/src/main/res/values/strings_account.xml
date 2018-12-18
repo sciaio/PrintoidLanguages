@@ -21,6 +21,9 @@
     <string name="account_sign_in_with_google">Sign-in with Google</string>
     <string name="account_sign_out">Sign-out</string>
 
+    <string name="account_backup">Backup settings in account</string>
+    <string name="account_restore">Restore settings from account</string>
+
     <string name="account_created_with_success">Account created with success! Welcome, %s!</string>
     <string name="account_created_with_failure">Account not created, please retry later!</string>
 

@@ -21,6 +21,9 @@
     <string name="account_password_error_digit">Contendrá al menos un dígito</string>
     <string name="account_password_confirm_does_not_match">Las contraseñas no coinciden</string>
 
+    <string name="account_backup">Copia de ajustes en cuenta</string>
+    <string name="account_restore">Restaurar ajustes de la cuenta</string>
+
     <string name="account_created_with_success">Cuenta creada con éxito! Bienvenido, %s!</string>
     <string name="account_created_with_failure">Cuenta no creada, reintente más tarde!</string>
 

@@ -21,6 +21,9 @@
     <string name="account_password_error_digit">Должен содержать хотя бы одну цифру</string>
     <string name="account_password_confirm_does_not_match">Пароли не совпадают</string>
 
+    <string name="account_backup">Резервное копирование настроек в аккаунте</string>
+    <string name="account_restore">Восстановить настройки из аккаунта</string>
+
     <string name="account_created_with_success">Аккаунт создан с успехом! желанный, %s!</string>
     <string name="account_created_with_failure">Аккаунт не создан, повторите попытку позже!</string>
 

@@ -21,6 +21,9 @@
     <string name="account_password_error_digit">Le mot de passe doit contenir un chiffre</string>
     <string name="account_password_confirm_does_not_match">Les mots de passe ne correspondent pas</string>
 
+    <string name="account_backup">Backup des paramètres dans le compte</string>
+    <string name="account_restore">Restorer paramètres depuis le compte</string>
+
     <string name="account_created_with_success">Compte créé avec succès ! Bienvenue, %s!</string>
     <string name="account_created_with_failure">Compte non créé, veuillez réessayer !</string>
 

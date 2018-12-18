@@ -21,6 +21,9 @@
     <string name="account_password_error_digit">Moet ten minste één cijfer bevatten</string>
     <string name="account_password_confirm_does_not_match">Wachtwoorden komen niet overeen</string>
 
+    <string name="account_backup">Back-upinstellingen op account</string>
+    <string name="account_restore">Herstel de instellingen vanuit uw account</string>
+
     <string name="account_created_with_success">Account gemaakt met succes! Welkom, %s!</string>
     <string name="account_created_with_failure">Account niet gemaakt, probeer het later opnieuw!</string>
 

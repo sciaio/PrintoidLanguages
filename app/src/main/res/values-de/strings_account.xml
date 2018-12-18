@@ -21,6 +21,9 @@
     <string name="account_password_error_digit">Muss mindestens eine Ziffer enthalten</string>
     <string name="account_password_confirm_does_not_match">Passwörter stimmen nicht überein</string>
 
+    <string name="account_backup">Sicherungseinstellungen im Konto</string>
+    <string name="account_restore">Einstellungen vom Konto wiederherstellen</string>
+
     <string name="account_created_with_success">Konto mit Erfolg erstellt! Herzlich willkommen, %s!</string>
     <string name="account_created_with_failure">Konto wurde nicht erstellt. Bitte versuchen Sie es später erneut!</string>
 
