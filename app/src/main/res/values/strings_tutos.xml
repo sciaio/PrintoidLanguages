@@ -97,14 +97,16 @@
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Backup &amp; restore</string>
     <string name="tutorial_backup_read_permission_msg">Printoid is able to restore the whole configuration from a previous installation if needed (if you had installed Printoid LITE for example).\n\nTo achieve this, please accept the permission in the following dialog.</string>
-    <string name="tutorial_backup_from_sdcard">Apply the last backup!</string>
-    <string name="tutorial_backup_from_other_app">Apply backup from Printoid %s!</string>
     <string name="tutorial_backup_from_other_app_premium" translatable="false">PREMIUM</string>
     <string name="tutorial_backup_from_other_app_pro" translatable="false">PRO</string>
     <string name="tutorial_backup_from_other_app_trial" translatable="false">LITE</string>
     <string name="tutorial_backup_from_other_error">Can\'t apply the backup from Printoid %s, an error occurred</string>
     <string name="tutorial_backup_from_other_error_permission">Can\'t apply the backup from Printoid %s, its \'write external storage\' permission is not granted</string>
     <string name="tutorial_backup_from_other_error_unknown">Can\'t apply the backup from Printoid %s, an unknown error occurred</string>
+    <string name="tutorial_backup_from_sdcard">Restore local backup</string>
+    <string name="tutorial_backup_from_other_app">Restore from Printoid %s</string>
+    <string name="tutorial_backup_from_account">I have an account</string>
+    <string name="tutorial_backup_more_backup_options">More backup options</string>
 
     <!-- LINKS -->
     <string name="printoid_facebook_url" translatable="false">https://www.facebook.com/printoid/</string>

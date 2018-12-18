@@ -94,10 +94,12 @@
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Сохранение и восстановление</string>
     <string name="tutorial_backup_read_permission_msg">Printoid позволяет восстановить настройки из предыдущей установки если необходимо (например если Вы установили Printoid LITE версию).\n\nДля этого пожалуйста подтвердите права в соотвествующем диалоге.</string>
-    <string name="tutorial_backup_from_sdcard">Применить последнее сохранение!</string>
-    <string name="tutorial_backup_from_other_app">Применить сохранение из Printoid %s!</string>
     <string name="tutorial_backup_from_other_error">Ошибка применения сохранения из Printoid %s,</string>
     <string name="tutorial_backup_from_other_error_permission">Не могу применить сохранения из Printoid %s, нет разрешения на \'запись на внешний носитель\'</string>
     <string name="tutorial_backup_from_other_error_unknown">Не могу применить сохранения из Printoid %s, неизвестная ошибка</string>
+    <string name="tutorial_backup_from_sdcard">Восстановить локальную резервную копию</string>
+    <string name="tutorial_backup_from_other_app">Восстановить из Printoid %s</string>
+    <string name="tutorial_backup_from_account">У меня есть аккаунт</string>
+    <string name="tutorial_backup_more_backup_options">Варианты Больше резервного копирования</string>
 
 </resources>

@@ -94,10 +94,12 @@
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Copia de seguridad y restauración</string>
     <string name="tutorial_backup_read_permission_msg">Printoid es capaz de restaurar toda la configuración de una instalación anterior en caso necesario (si ha instalado la versión de prueba de Printoid por ejemplo).\n\nPara lograr esto, por favor acepte el permiso en el siguiente diálogo.</string>
-    <string name="tutorial_backup_from_sdcard">¡Aplicar la última copia de seguridad!</string>
-    <string name="tutorial_backup_from_other_app">Aplicar copia de seguridad desde Printoid %s!</string>
     <string name="tutorial_backup_from_other_error">No se puede aplicar la copia de seguridad desde Printoid %s, ha ocurrido un error</string>
     <string name="tutorial_backup_from_other_error_permission">No se puede aplicar la copia de seguridad desde Printoid %s, permiso de escritura en el almacenamiento externo no concedido</string>
     <string name="tutorial_backup_from_other_error_unknown">No se puede aplicar la copia de seguridad desde Printoid %s, ha ocurrido un error desconocido</string>
+    <string name="tutorial_backup_from_sdcard">Restaurar la copia local</string>
+    <string name="tutorial_backup_from_other_app">Restaurar desde Printoid %s</string>
+    <string name="tutorial_backup_from_account">Tengo una cuenta</string>
+    <string name="tutorial_backup_more_backup_options">Más opciones de copia</string>
 
 </resources>

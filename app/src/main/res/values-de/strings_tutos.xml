@@ -94,10 +94,12 @@
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Sicherung &amp; Wiederherstellung</string>
     <string name="tutorial_backup_read_permission_msg">Printoid kann die kompletten Einstellungen deiner vorherigen Installation wiederherstellen (z.B. wenn du vorher die Testversion benutzt hast).\\Um das zu ermöglichen, bestätige bitte die Berechtigung im folgenden Dialogfenster.</string>
-    <string name="tutorial_backup_from_sdcard">Letzte Sicherung wiederherstellen!</string>
-    <string name="tutorial_backup_from_other_app">Sicherung von Printoid %s wiederherstellen!</string>
     <string name="tutorial_backup_from_other_error">Die Sicherung von Printoid %s kann aufgrund eines Fehlers nicht wiederhergestellt werden.</string>
     <string name="tutorial_backup_from_other_error_permission">Die Sicherung von Printoid %s kann nicht wiederhergestellt werden, da die Schreibrechte auf den Speicher nicht freigegeben wurden.</string>
     <string name="tutorial_backup_from_other_error_unknown">Die Sicherung von Printoid %s kann aufgrund eines unbekannten Fehlers nicht wiederhergestellt werden.</string>
+    <string name="tutorial_backup_from_sdcard">Lokale Sicherung wiederherstellen</string>
+    <string name="tutorial_backup_from_other_app">Wiederherstellen von Printoid %s</string>
+    <string name="tutorial_backup_from_account">Ich habe ein Konto</string>
+    <string name="tutorial_backup_more_backup_options">Weitere Sicherungsoptionen</string>
 
 </resources>

@@ -97,20 +97,12 @@
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Backup &amp; restore</string>
     <string name="tutorial_backup_read_permission_msg">O Printoid é capaz de restaurar toda a configuração de uma instalação anterior, se necessário (se você instalou o Printoid LITE, por exemplo).\n\nPara conseguir isso, aceite a permissão na caixa de diálogo a seguir.</string>
-    <string name="tutorial_backup_from_sdcard">Aplique o último backup!</string>
-    <string name="tutorial_backup_from_other_app">Aplicar backup do Printoid %s!</string>
-    <string name="tutorial_backup_from_other_app_premium" translatable="false">PREMIUM</string>
-    <string name="tutorial_backup_from_other_app_pro" translatable="false">PRO</string>
-    <string name="tutorial_backup_from_other_app_trial" translatable="false">LITE</string>
     <string name="tutorial_backup_from_other_error">Não é possível aplicar o backup do Printoid %s, ocorreu um erro</string>
     <string name="tutorial_backup_from_other_error_permission">Não é possível aplicar o backup do Printoid %s, sua permissão de \'gravação de armazenamento externo\' não foi concedida</string>
     <string name="tutorial_backup_from_other_error_unknown">Não é possível aplicar o backup do Printoid %s, ocorreu um erro desconhecido</string>
-
-    <!-- LINKS -->
-    <string name="printoid_facebook_url" translatable="false">https://www.facebook.com/printoid/</string>
-    <string name="printoid_facebook_app_link" translatable="false">fb://facewebmodal/f?href=https://www.facebook.com/printoid/</string>
-    <string name="printoid_twitter_url" translatable="false">https://twitter.com/AndroidPrintoid</string>
-    <string name="printoid_twitter_app_link" translatable="false">twitter://user?screen_name=AndroidPrintoid</string>
-    <string name="printoid_patreon_url" translatable="false">https://www.patreon.com/printoid</string>
+    <string name="tutorial_backup_from_sdcard">Restaurar backup local</string>
+    <string name="tutorial_backup_from_other_app">Restaurar a partir do Printoid %s</string>
+    <string name="tutorial_backup_from_account">Eu tenho uma conta</string>
+    <string name="tutorial_backup_more_backup_options">Mais opções de backup</string>
 
 </resources>

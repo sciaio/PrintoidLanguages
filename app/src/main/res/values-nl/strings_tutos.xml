@@ -94,10 +94,12 @@
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Bewaar &amp; herstel</string>
     <string name="tutorial_backup_read_permission_msg">Printoid kan uw vorige opgeslagen configuratie toe passen indien gewenst (als u bijvoorbeeld eerst Printoid LITE gebruikte).\n\nOm dat mogelijk te maken moet u uw permissie geven in de hierna volgende dialoog.</string>
-    <string name="tutorial_backup_from_sdcard">Pas de bewaarde instelling toe!</string>
-    <string name="tutorial_backup_from_other_app">Pas de Printoid %s configuratie toe!</string>
     <string name="tutorial_backup_from_other_error">Het is niet mogelijk de backup van Printoid %s te gebruiken, er trad een fout op</string>
     <string name="tutorial_backup_from_other_error_permission">Het is niet mogelijk de backup van Printoid %s te gebruiken, deze kon bij gebrek aan permissie niet bewaard worden.</string>
     <string name="tutorial_backup_from_other_error_unknown">Het is niet mogelijk de backup van Printoid %s te gebruiken, er trad een onbekende fout op</string>
+    <string name="tutorial_backup_from_sdcard">Lokale back-up herstellen</string>
+    <string name="tutorial_backup_from_other_app">Herstellen van Printoid %s</string>
+    <string name="tutorial_backup_from_account">Ik heb een account</string>
+    <string name="tutorial_backup_more_backup_options">Meer back-upopties</string>
 
 </resources>
