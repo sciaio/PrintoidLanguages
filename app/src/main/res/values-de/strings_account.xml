@@ -24,6 +24,12 @@
     <string name="account_backup">Sicherungseinstellungen im Konto</string>
     <string name="account_restore">Einstellungen vom Konto wiederherstellen</string>
 
+    <string name="account_backup_success">Ihre Printoid-Einstellungen wurden in Ihrem Konto gesichert!</string>
+    <string name="account_backup_failure">Fehler beim Sichern der Printoid-Einstellungen. Bitte versuchen Sie es später erneut.</string>
+    <string name="account_restore_success">Ihre Printoid-Einstellungen wurden von Ihrem Konto wiederhergestellt, die App wird neu gestartet!</string>
+    <string name="account_restore_failure">Fehler beim Wiederherstellen der Printoid-Einstellungen. Bitte versuchen Sie es später erneut.</string>
+    <string name="account_restore_not_needed">Ihre Einstellungen sind bereits auf dem neuesten Stand. Sie müssen nicht aus Ihrem Konto wiederhergestellt werden</string>
+
     <string name="account_created_with_success">Konto mit Erfolg erstellt! Herzlich willkommen, %s!</string>
     <string name="account_created_with_failure">Konto wurde nicht erstellt. Bitte versuchen Sie es später erneut!</string>
 

@@ -24,6 +24,12 @@
     <string name="account_backup">Backup settings in account</string>
     <string name="account_restore">Restore settings from account</string>
 
+    <string name="account_backup_success">Your Printoid settings have been backed-up in your account!</string>
+    <string name="account_backup_failure">Failed to backup your Printoid settings, please retry later!</string>
+    <string name="account_restore_success">Your Printoid settings have been restored from your account, the app will restart!</string>
+    <string name="account_restore_failure">Failed to restore your Printoid settings, please retry later!</string>
+    <string name="account_restore_not_needed">Your settings are already up-to-date, they do not need to be restored from your account</string>
+
     <string name="account_created_with_success">Account created with success! Welcome, %s!</string>
     <string name="account_created_with_failure">Account not created, please retry later!</string>
 

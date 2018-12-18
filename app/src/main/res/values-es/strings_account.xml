@@ -24,6 +24,12 @@
     <string name="account_backup">Copia de ajustes en cuenta</string>
     <string name="account_restore">Restaurar ajustes de la cuenta</string>
 
+    <string name="account_backup_success">¡Se ha realizado una copia de su configuración de Printoid en su cuenta!</string>
+    <string name="account_backup_failure">No se pudo realizar una copia de seguridad de la configuración de Printoid, vuelva a intentarlo más tarde.</string>
+    <string name="account_restore_success">La configuración de Printoid se ha restaurado desde su cuenta, la aplicación se reiniciará.</string>
+    <string name="account_restore_failure">Error al restaurar la configuración de Printoid, vuelva a intentarlo más tarde!</string>
+    <string name="account_restore_not_needed">Sus configuraciones ya están actualizadas, no necesitan ser restauradas desde su cuenta</string>
+
     <string name="account_created_with_success">Cuenta creada con éxito! Bienvenido, %s!</string>
     <string name="account_created_with_failure">Cuenta no creada, reintente más tarde!</string>
 

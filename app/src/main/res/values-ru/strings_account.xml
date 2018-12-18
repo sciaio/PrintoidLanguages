@@ -24,6 +24,12 @@
     <string name="account_backup">Резервное копирование настроек в аккаунте</string>
     <string name="account_restore">Восстановить настройки из аккаунта</string>
 
+    <string name="account_backup_success">Ваши настройки Printoid были сохранены в вашей учетной записи!</string>
+    <string name="account_backup_failure">Не удалось сделать резервную копию настроек Printoid, повторите попытку позже!</string>
+    <string name="account_restore_success">Ваши настройки Printoid были восстановлены из вашей учетной записи, приложение перезапустится!</string>
+    <string name="account_restore_failure">Не удалось восстановить настройки Printoid, повторите попытку позже!</string>
+    <string name="account_restore_not_needed">Ваши настройки уже обновлены, их не нужно восстанавливать из вашей учетной записи</string>
+
     <string name="account_created_with_success">Аккаунт создан с успехом! желанный, %s!</string>
     <string name="account_created_with_failure">Аккаунт не создан, повторите попытку позже!</string>
 

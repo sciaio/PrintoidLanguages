@@ -24,6 +24,12 @@
     <string name="account_backup">Back-upinstellingen op account</string>
     <string name="account_restore">Herstel de instellingen vanuit uw account</string>
 
+    <string name="account_backup_success">Van uw Printoid-instellingen is een back-up gemaakt in uw account!</string>
+    <string name="account_backup_failure">Kon geen back-up maken van uw Printoid-instellingen, probeer het later opnieuw!</string>
+    <string name="account_restore_success">Uw Printoid-instellingen zijn hersteld vanuit uw account, de app zal opnieuw opstarten!</string>
+    <string name="account_restore_failure">Kon uw Printoid-instellingen niet herstellen, probeer het later opnieuw!</string>
+    <string name="account_restore_not_needed">Uw instellingen zijn al up-to-date, ze hoeven niet te worden hersteld vanuit uw account</string>
+
     <string name="account_created_with_success">Account gemaakt met succes! Welkom, %s!</string>
     <string name="account_created_with_failure">Account niet gemaakt, probeer het later opnieuw!</string>
 
