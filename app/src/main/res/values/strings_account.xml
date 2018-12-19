@@ -36,4 +36,7 @@
     <string name="account_logged_with_success">Account signed-in with success! Welcome back, %s</string>
     <string name="account_logged_with_failure">Account not signed-in, please retry later!</string>
 
+    <string name="account_alert_settings_changed_title">Settings from account changed</string>
+    <string name="account_alert_settings_changed_message">The settings stored in your Printoid account seem to have changed. Do you want to restore them now on this device?\n\nPrintoid will need to restart after applying the modifications.</string>
+
 </resources>

@@ -36,4 +36,7 @@
     <string name="account_logged_with_success">Konto erfolgreich angemeldet! Willkommen zurück, %s</string>
     <string name="account_logged_with_failure">Konto ist nicht angemeldet. Bitte versuchen Sie es später erneut!</string>
 
+    <string name="account_alert_settings_changed_title">Einstellungen vom Konto geändert</string>
+    <string name="account_alert_settings_changed_message">Die in Ihrem Printoid-Konto gespeicherten Einstellungen scheinen sich geändert zu haben. Möchten Sie sie jetzt auf diesem Gerät wiederherstellen?\n\nNach dem Anwenden der Änderungen muss Printoid neu gestartet werden.</string>
+
 </resources>

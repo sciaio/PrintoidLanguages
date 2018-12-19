@@ -36,4 +36,7 @@
     <string name="account_logged_with_success">Аккаунт успешно зарегистрирован! Добро пожаловать, %s</string>
     <string name="account_logged_with_failure">Аккаунт не зарегистрирован, повторите попытку позже!</string>
 
+    <string name="account_alert_settings_changed_title">Настройки из аккаунта изменены</string>
+    <string name="account_alert_settings_changed_message">Настройки, сохраненные в вашей учетной записи Printoid, похоже, изменились. Вы хотите восстановить их сейчас на этом устройстве?\n\nПринтоид нужно будет перезагрузить после применения изменений.</string>
+
 </resources>

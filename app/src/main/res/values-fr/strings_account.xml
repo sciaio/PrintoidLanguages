@@ -36,4 +36,7 @@
     <string name="account_logged_with_success">Compte connecté avec succès ! Bienvenue, %s</string>
     <string name="account_logged_with_failure">Compte non connecté, veuillez réessayer !</string>
 
+    <string name="account_alert_settings_changed_title">Paramètres modifiées depuis le compte</string>
+    <string name="account_alert_settings_changed_message">Les paramètres stockés dans votre compte Printoid semblent avoir changé. Souhaitez-vous les restaurer maintenant sur cet appareil ?\n\nPrintoid devra redémarrer pour prendre en compte les modifications.</string>
+
 </resources>

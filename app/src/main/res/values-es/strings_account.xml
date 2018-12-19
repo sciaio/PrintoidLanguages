@@ -36,4 +36,7 @@
     <string name="account_logged_with_success">Cuenta iniciada con éxito! Dar una buena acogida, %s</string>
     <string name="account_logged_with_failure">La cuenta no ha iniciado sesión, vuelva a intentarlo más tarde.!</string>
 
+    <string name="account_alert_settings_changed_title">Los ajustes de la cuenta han cambiado</string>
+    <string name="account_alert_settings_changed_message">Las configuraciones almacenadas en su cuenta de Printoid parecen haber cambiado. ¿Quieres restaurarlos ahora en este dispositivo?\n\nLa impresión deberá reiniciarse después de aplicar las modificaciones.</string>
+
 </resources>

@@ -36,4 +36,7 @@
     <string name="account_logged_with_success">Account ingelogd met succes! Welkom terug, %s</string>
     <string name="account_logged_with_failure">Account niet aangemeld, probeer het later opnieuw!</string>
 
+    <string name="account_alert_settings_changed_title">Instellingen van account veranderd</string>
+    <string name="account_alert_settings_changed_message">De instellingen die zijn opgeslagen in uw Printoid-account lijken te zijn gewijzigd. Wilt u ze nu op dit apparaat herstellen?\n\nPrintoid moet opnieuw worden gestart nadat de wijzigingen zijn aangebracht.</string>
+
 </resources>

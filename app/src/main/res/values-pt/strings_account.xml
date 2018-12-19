@@ -36,4 +36,7 @@
     <string name="account_logged_with_success">Conta assinada com sucesso! Bem-vindo de volta, %s</string>
     <string name="account_logged_with_failure">Conta não autenticada, tente novamente mais tarde!</string>
 
+    <string name="account_alert_settings_changed_title">Configurações da conta alteradas</string>
+    <string name="account_alert_settings_changed_message">As configurações armazenadas na sua conta Printoid parecem ter mudado. Você quer restaurá-los agora neste dispositivo?\n\nO Printoid precisará reiniciar depois de aplicar as modificações.</string>
+
 </resources>
