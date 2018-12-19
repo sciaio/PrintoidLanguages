@@ -23,6 +23,8 @@
 
     <string name="account_backup">Copia de ajustes en cuenta</string>
     <string name="account_restore">Restaurar ajustes de la cuenta</string>
+    <string name="account_automatic_backup">Copia de seguridad automática</string>
+    <string name="account_automatic_restore">Avisar sobre cambios de configuración de cuenta</string>
 
     <string name="account_backup_success">¡Se ha realizado una copia de su configuración de Printoid en su cuenta!</string>
     <string name="account_backup_failure">No se pudo realizar una copia de seguridad de la configuración de Printoid, vuelva a intentarlo más tarde.</string>

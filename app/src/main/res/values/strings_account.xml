@@ -23,6 +23,8 @@
 
     <string name="account_backup">Backup settings in account</string>
     <string name="account_restore">Restore settings from account</string>
+    <string name="account_automatic_backup">Automatic backup</string>
+    <string name="account_automatic_restore">Warn on settings change from account</string>
 
     <string name="account_backup_success">Your Printoid settings have been backed-up in your account!</string>
     <string name="account_backup_failure">Failed to backup your Printoid settings, please retry later!</string>

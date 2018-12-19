@@ -23,6 +23,8 @@
 
     <string name="account_backup">Back-upinstellingen op account</string>
     <string name="account_restore">Herstel de instellingen vanuit uw account</string>
+    <string name="account_automatic_backup">Automatische back-up</string>
+    <string name="account_automatic_restore">Waarschuwen bij instellingen wijzigen vanaf account</string>
 
     <string name="account_backup_success">Van uw Printoid-instellingen is een back-up gemaakt in uw account!</string>
     <string name="account_backup_failure">Kon geen back-up maken van uw Printoid-instellingen, probeer het later opnieuw!</string>

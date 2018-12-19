@@ -23,6 +23,8 @@
 
     <string name="account_backup">Sicherungseinstellungen im Konto</string>
     <string name="account_restore">Einstellungen vom Konto wiederherstellen</string>
+    <string name="account_automatic_backup">Automatisches Backup</string>
+    <string name="account_automatic_restore">Warnung bei Änderung der Einstellungen vom Konto</string>
 
     <string name="account_backup_success">Ihre Printoid-Einstellungen wurden in Ihrem Konto gesichert!</string>
     <string name="account_backup_failure">Fehler beim Sichern der Printoid-Einstellungen. Bitte versuchen Sie es später erneut.</string>

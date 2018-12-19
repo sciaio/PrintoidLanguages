@@ -23,6 +23,8 @@
 
     <string name="account_backup">Backup des paramètres dans le compte</string>
     <string name="account_restore">Restorer paramètres depuis le compte</string>
+    <string name="account_automatic_backup">Backup automatique</string>
+    <string name="account_automatic_restore">Warning lors de changement de paramètres</string>
 
     <string name="account_backup_success">Vos paramètres Printoid ont été sauvegardés dans votre compte !</string>
     <string name="account_backup_failure">Impossible de sauvegarder vos paramètres pour le moment, réessayez plus tard !</string>
