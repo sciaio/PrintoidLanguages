@@ -32,4 +32,11 @@
     <string name="onboarding_baudrate_message">In order to instantiate the connection with your 3D printer, please provide its baudrate.\n
         This can be easily changed if you have more than one 3D printer connected.</string>
 
+    <string name="onboarding_security_title">Security</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[Provide your Basic Authentication credentials if you have enable this feature in your server.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Read this page</a> for more information.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">Please provide your login</string>
+    <string name="onboarding_security_basic_auth_password_error">Please provide your password</string>
+    <string name="onboarding_security_message_https">Enable this option only if communication with HTTPS (SSL/TLS) has been enabled in your server.</string>
+
 </resources>
