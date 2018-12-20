@@ -10,7 +10,8 @@
     <string name="onboarding_profile_name_error">Please provide a valid profile name</string>
 
     <string name="onboarding_local_ip_title">Local IP address</string>
-    <string name="onboarding_local_ip_message">The local IP address (or hostname) allows Printoid to connect to your OctoPrint server from your local network.</string>
+    <string name="onboarding_local_ip_message">The local IP address (or hostname) allows Printoid to connect to your OctoPrint server from your local network.\n
+        Provide a port value only and only if you have changed the default one (80).</string>
     <string name="onboarding_local_ip_port">Local port (optional)</string>
     <string name="onboarding_local_ip_address_error">Please provide a valid IP (or hostname)</string>
     <string name="onboarding_local_ip_port_error">Please provide a valid port</string>
