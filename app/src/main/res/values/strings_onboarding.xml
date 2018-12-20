@@ -39,4 +39,12 @@
     <string name="onboarding_security_basic_auth_password_error">Please provide your password</string>
     <string name="onboarding_security_message_https">Enable this option only if communication with HTTPS (SSL/TLS) has been enabled in your server.</string>
 
+    <string name="onboarding_ssh_title">Secure Shell commands</string>
+    <string name="onboarding_ssh_message"><![CDATA[Provide your SSH credentials if you want to send SSH commands to your server.\n
+        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Read this page</a> for more information about SSH commands.\n
+        Provide a public port for distant SSH only (by default, port 22 is used locally)]]></string>
+    <string name="onboarding_ssh_login">SSH login</string>
+    <string name="onboarding_ssh_pwd">SSH password</string>
+    <string name="onboarding_ssh_port">Public SSH port (optional)</string>
+
 </resources>
