@@ -28,4 +28,8 @@
         The API key can be found in the settings of your OctoPrint web interface, in the menu \'API\'. The \'Enable\' checkbox has to be checked.</string>
     <string name="onboarding_api_key_error">Please provide your OctoPrint API key</string>
 
+    <string name="onboarding_baudrate_title">Printer\'s baudrate</string>
+    <string name="onboarding_baudrate_message">In order to instantiate the connection with your 3D printer, please provide its baudrate.\n
+        This can be easily changed if you have more than one 3D printer connected.</string>
+
 </resources>
