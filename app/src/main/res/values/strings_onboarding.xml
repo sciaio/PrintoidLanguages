@@ -16,4 +16,11 @@
     <string name="onboarding_local_ip_address_error">Please provide a valid IP (or hostname)</string>
     <string name="onboarding_local_ip_port_error">Please provide a valid port</string>
 
+    <string name="onboarding_public_ip_title">Public IP address</string>
+    <string name="onboarding_public_ip_message"><![CDATA[The public IP address (or hostname) allows Printoid to connect to your OctoPrint server over the Internet (\'outside\' of your network).\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Please follow this tutorial</a> before trying to access to your server over the 3G/4G, for example.]]></string>
+    <string name="onboarding_public_ip_port">Public port (optional)</string>
+    <string name="onboarding_public_ip_address_error">@string/onboarding_local_ip_address_error</string>
+    <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
+
 </resources>
