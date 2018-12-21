@@ -46,4 +46,8 @@
     <string name="onboarding_ssh_pwd">SSH password</string>
     <string name="onboarding_ssh_port">Public SSH port (optional)</string>
 
+    <string name="onboarding_confirmation_title">Confirmation</string>
+    <string name="onboarding_confirmation_message">You are almost done!\nPlease review your configuration and double check all the values you have provided.</string>
+
+
 </resources>
