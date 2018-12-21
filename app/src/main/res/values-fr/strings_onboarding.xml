@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="onboarding_welcome_title">Configuration de votre premier profil OctoPrint</string>
+    <string name="onboarding_welcome_message">Printoid va vous guider dans la création de votre premier profil OctoPrint dans l\'application.\n\n
+        C\'est très simple et cela ne vous prendra que quelques minutes. Lisez et suivez attentivement les instructions.</string>
+
+    <string name="onboarding_profile_name_title">Nom du profil</string>
+    <string name="onboarding_profile_name_message">Nommez ce profil pour l\'identifier facilement dans l\'application.</string>
+    <string name="onboarding_profile_name_error">Veuillez fournir un nom valide</string>
+
+    <string name="onboarding_local_ip_title">Adresse IP locale</string>
+    <string name="onboarding_local_ip_message">L\'adresse IP locale (ou nom d\'hôte) permet à Printoid de se connecter à OctoPrint depuis votre réseau local.\n
+        Fournissez un port local si et seulement si vous avez changé sa valeur par défaut (80).</string>
+    <string name="onboarding_local_ip_port">Port local (optionnel)</string>
+    <string name="onboarding_local_ip_address_error">Fournissez une IP (ou nom d\'hôte) valide</string>
+    <string name="onboarding_local_ip_port_error">Fournissez un port valide</string>
+
+    <string name="onboarding_public_ip_title">Adresse IP publique (optionnel)</string>
+    <string name="onboarding_public_ip_message"><![CDATA[L\'adresse IP publique (ou nom d\'hôte) permet à Printoid de se connecter à OctoPrint depuis Internet (\'hors\' de votre réseau).\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Suivez ce tutoriel</a> avant d\'essayer de vous connecter à votre serveur depuis la 3G/4G, par exemple.]]></string>
+    <string name="onboarding_public_ip">@string/config_wan_ip</string>
+    <string name="onboarding_public_ip_port">Port publique (optionel)</string>
+    <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
+
+    <string name="onboarding_api_key_title">Clé d\'API OctoPrint</string>
+    <string name="onboarding_api_key_message">Printoid a besoin de la clé d\'API de votre serveur OctoPrint pour le contacter.\n
+        La clé d\'API se trouve dans les paramètres d\'OctoPrint, dans le menu \'API\'. La checkbox \'Enable\' doit être cochée.</string>
+    <string name="onboarding_api_key_error">Fournissez la clé d\'API de votre OctoPrint</string>
+
+    <string name="onboarding_baudrate_title">Baudrate de l\'imprimante</string>
+    <string name="onboarding_baudrate_message">Pour pouvoir instancier la connexion avec votre imprimante 3D, fournissez son baudrate de communication.\n
+        Cette valeur pourra être ajustée facilement par la suite, si vous avez plusieurs imprimantes connectées.</string>
+
+    <string name="onboarding_security_title">Sécurité (optionnel)</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[Fournissez vos identifiants de Basic Authentication si vous avez activé cette fonctionnalité sur votre serveur.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Lisez cette page</a> pour plus d\'information.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">Fournissez un nom d\'utilisateur</string>
+    <string name="onboarding_security_basic_auth_password_error">Fournissez un mot de passe</string>
+    <string name="onboarding_security_message_https">Activez cette option si la communication via HTTPS (SSL/TLS) est activée sur votre serveur.</string>
+
+    <string name="onboarding_ssh_title">Commandes Secure Shell (optionnel)</string>
+    <string name="onboarding_ssh_message"><![CDATA[Fournissez vos identifiants SSH si vous souhaitez envoyer des commandes SSH à votre serveur.\n
+        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Lisez cette page</a> pour plus d\'informations sur les commandes SSH.\n
+        Fournissez un port publique pour un accès SSH distant uniquement (par défaut, le port 22 est utilisé localement)]]></string>
+    <string name="onboarding_ssh_login">Login SSH</string>
+    <string name="onboarding_ssh_pwd">Mot de passe SSH</string>
+    <string name="onboarding_ssh_port">Port SSH publique (optionnel)</string>
+
+    <string name="onboarding_confirmation_title">Confirmation</string>
+    <string name="onboarding_confirmation_message">Vous y êtes presque !\nMerci de passer en revue votre profil OctoPrint et de vérifier toutes les informations fournies.</string>
+
+
+</resources>

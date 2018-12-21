@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="onboarding_welcome_title">Configuratie van uw eerste OctoPrint-profiel</string>
+    <string name="onboarding_welcome_message">Printoid begeleidt u bij het maken en configureren van uw eerste OctoPrint-profiel in de toepassing.\n\n
+        Het is heel gemakkelijk en kost maar een paar minuten. Lees en volg zorgvuldig alle instructies.</string>
+
+    <string name="onboarding_profile_name_title">Profielnaam</string>
+    <string name="onboarding_profile_name_message">Geef een naam en stel een foto in voor dit profiel om het gemakkelijk te identificeren in de app.</string>
+    <string name="onboarding_profile_name_error">Geef een geldige profielnaam op</string>
+
+    <string name="onboarding_local_ip_title">Lokaal IP-adres</string>
+    <string name="onboarding_local_ip_message">Met het lokale IP-adres (of de hostnaam) kan Printoid verbinding maken met uw OctoPrint-server vanaf uw lokale netwerk.\n
+        Geef alleen een poortwaarde op en alleen als u de standaardwaarde hebt gewijzigd (80).</string>
+    <string name="onboarding_local_ip_port">Lokale poort (optioneel)</string>
+    <string name="onboarding_local_ip_address_error">Geef een geldige IP (of hostnaam) op</string>
+    <string name="onboarding_local_ip_port_error">Geef een geldige poort op</string>
+
+    <string name="onboarding_public_ip_title">Openbaar IP-adres (optioneel)</string>
+    <string name="onboarding_public_ip_message"><![CDATA[Met het openbare IP-adres (of de hostnaam) kan Printoid verbinding maken met uw OctoPrint-server via internet (\'buitenkant\' van uw netwerk).\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Volg deze tutorial </a> voordat u probeert toegang te krijgen tot uw server via de 3G/4G, bijvoorbeeld.]]></string>
+    <string name="onboarding_public_ip">@string/config_wan_ip</string>
+    <string name="onboarding_public_ip_port">Openbare haven (optioneel)</string>
+    <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
+
+    <string name="onboarding_api_key_title">OctoPrint API-sleutel</string>
+    <string name="onboarding_api_key_message">Printoid heeft de OctoPrint API-sleutel nodig om verbinding te maken met uw server.\n
+        De API-sleutel is te vinden in de instellingen van uw OctoPrint webinterface, in het menu \'API\'. Het selectievakje \'Inschakelen\' moet worden aangevinkt.</string>
+    <string name="onboarding_api_key_error">Geef uw OctoPrint API-sleutel op</string>
+
+    <string name="onboarding_baudrate_title">Printer baudrate</string>
+    <string name="onboarding_baudrate_message">Geef de baudrate op om de verbinding met uw 3D-printer tot stand te brengen.\n
+        Dit kan eenvoudig worden gewijzigd als er meer dan één 3D-printer is aangesloten.</string>
+
+    <string name="onboarding_security_title">Beveiliging (optioneel)</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[Geef uw basisauthenticatiegegevens op als u deze functie op uw server hebt ingeschakeld.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Lees deze pagina </a> voor meer informatie.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">Geef uw login op</string>
+    <string name="onboarding_security_basic_auth_password_error">Geef uw wachtwoord op</string>
+    <string name="onboarding_security_message_https">Schakel deze optie alleen in als communicatie met HTTPS (SSL/TLS) is ingeschakeld op uw server.</string>
+
+    <string name="onboarding_ssh_title">Beveiligde Shell-opdrachten (optioneel)</string>
+    <string name="onboarding_ssh_message"><![CDATA[Geef uw SSH-inloggegevens op als u SSH-opdrachten naar uw server wilt verzenden.\n
+        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Lees deze pagina </a> voor meer informatie over SSH-opdrachten.\n
+        Geef alleen een openbare poort op voor verre SSH (standaard wordt poort 22 lokaal gebruikt)]]></string>
+    <string name="onboarding_ssh_login">SSH login</string>
+    <string name="onboarding_ssh_pwd">SSH-wachtwoord</string>
+    <string name="onboarding_ssh_port">Openbare SSH-poort (optioneel)</string>
+
+    <string name="onboarding_confirmation_title">Bevestiging</string>
+    <string name="onboarding_confirmation_message">U bent bijna klaar!\n
+        Zoek uw configuratie na en controleer nogmaals alle waarden die u hebt opgegeven.</string>
+
+
+</resources>

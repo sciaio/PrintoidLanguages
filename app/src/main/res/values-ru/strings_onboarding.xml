@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="onboarding_welcome_title">Конфигурация вашего первого профиля OctoPrint</string>
+    <string name="onboarding_welcome_message">Printoid поможет вам в создании и настройке вашего первого профиля OctoPrint в приложении.\n\n
+        Это очень просто и займет у вас всего несколько минут. Пожалуйста, внимательно прочитайте и следуйте всем инструкциям.</string>
+
+    <string name="onboarding_profile_name_title">Имя профиля</string>
+    <string name="onboarding_profile_name_message">Дайте имя и установите изображение для этого профиля, чтобы легко идентифицировать его в приложении.</string>
+    <string name="onboarding_profile_name_error">Пожалуйста, укажите правильное имя профиля</string>
+
+    <string name="onboarding_local_ip_title">Локальный IP-адрес</string>
+    <string name="onboarding_local_ip_message">Локальный IP-адрес (или имя хоста) позволяет Printoid подключаться к вашему серверу OctoPrint из локальной сети.\n
+        Укажите значение порта только и только в том случае, если вы изменили значение по умолчанию (80).</string>
+    <string name="onboarding_local_ip_port">Локальный порт (необязательно)</string>
+    <string name="onboarding_local_ip_address_error">Пожалуйста, укажите действительный IP (или имя хоста)</string>
+    <string name="onboarding_local_ip_port_error">Пожалуйста, укажите действительный порт</string>
+
+    <string name="onboarding_public_ip_title">Публичный IP-адрес (необязательно)</string>
+    <string name="onboarding_public_ip_message"><![CDATA[Публичный IP-адрес (или имя хоста) позволяет Printoid подключаться к вашему серверу OctoPrint через Интернет («вне вашей сети»).\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Пожалуйста, следуйте этому руководству </a>, прежде чем пытаться получить доступ к вашему серверу через 3G/4G, например.]]></string>
+    <string name="onboarding_public_ip">@string/config_wan_ip</string>
+    <string name="onboarding_public_ip_port">Общественный порт (необязательно)</string>
+    <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
+
+    <string name="onboarding_api_key_title">Ключ API OctoPrint</string>
+    <string name="onboarding_api_key_message">Для подключения к вашему серверу Printoid требуется ключ API OctoPrint.\n
+        Ключ API можно найти в настройках веб-интерфейса OctoPrint, в меню «API». Флажок «Включить» должен быть отмечен.</string>
+    <string name="onboarding_api_key_error">Пожалуйста, предоставьте свой ключ API OctoPrint</string>
+
+    <string name="onboarding_baudrate_title">Скорость печати принтера</string>
+    <string name="onboarding_baudrate_message">Чтобы создать экземпляр соединения с вашим 3D-принтером, укажите его скорость передачи.\n
+        Это можно легко изменить, если у вас подключено более одного 3D-принтера.</string>
+
+    <string name="onboarding_security_title">Безопасность (необязательно)</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[Укажите свои учетные данные для базовой аутентификации, если вы включили эту функцию на своем сервере.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Прочтите эту страницу </a> для получения дополнительной информации.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">Пожалуйста, введите ваш логин</string>
+    <string name="onboarding_security_basic_auth_password_error">Пожалуйста, введите ваш пароль</string>
+    <string name="onboarding_security_message_https">Включите эту опцию, только если на вашем сервере была включена связь с HTTPS (SSL / TLS).</string>
+
+    <string name="onboarding_ssh_title">Команды Secure Shell (необязательно)</string>
+    <string name="onboarding_ssh_message"><![CDATA[Укажите свои учетные данные SSH, если вы хотите отправлять команды SSH на ваш сервер.\n
+        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Прочтите эту страницу </a> для получения дополнительной информации о командах SSH.\n
+        Предоставьте общедоступный порт только для удаленного SSH (по умолчанию порт 22 используется локально)]]></string>
+    <string name="onboarding_ssh_login">SSH логин</string>
+    <string name="onboarding_ssh_pwd">Пароль SSH</string>
+    <string name="onboarding_ssh_port">Общедоступный порт SSH (необязательно)</string>
+
+    <string name="onboarding_confirmation_title">подтверждение</string>
+    <string name="onboarding_confirmation_message">Вы почти закончили!\n
+        Просмотрите вашу конфигурацию и дважды проверьте все предоставленные вами значения.</string>
+
+
+</resources>

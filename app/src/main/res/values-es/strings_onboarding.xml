@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="onboarding_welcome_title">Configuración de su primer perfil OctoPrint.</string>
+    <string name="onboarding_welcome_message">Printoid lo guiará en la creación y configuración de su primer perfil OctoPrint en la aplicación.\n\n
+        Es muy fácil y solo te llevará unos minutos. Por favor lea y siga todas las instrucciones cuidadosamente.</string>
+
+    <string name="onboarding_profile_name_title">Nombre de perfil</string>
+    <string name="onboarding_profile_name_message">Asigne un nombre y establezca una imagen para este perfil para identificarlo fácilmente en la aplicación.</string>
+    <string name="onboarding_profile_name_error">Por favor, proporcione un nombre de perfil válido</string>
+
+    <string name="onboarding_local_ip_title">Dirección IP local</string>
+    <string name="onboarding_local_ip_message">La dirección IP local (o nombre de host) permite que Printoid se conecte a su servidor OctoPrint desde su red local.\n
+        Proporcione un valor de puerto solo y solo si ha cambiado el valor predeterminado (80).</string>
+    <string name="onboarding_local_ip_port">Puerto local (opcional)</string>
+    <string name="onboarding_local_ip_address_error">Por favor, proporcione una IP válida (o nombre de host)</string>
+    <string name="onboarding_local_ip_port_error">Por favor, proporcione un puerto válido</string>
+
+    <string name="onboarding_public_ip_title">Dirección IP pública (opcional)</string>
+    <string name="onboarding_public_ip_message"><![CDATA[La dirección IP pública (o nombre de host) permite que Printoid se conecte a su servidor OctoPrint a través de Internet ("fuera" de su red).\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/"> Siga este tutorial </a> antes de intentar acceder a su servidor a través de 3G/4G, por ejemplo.]]></string>
+    <string name="onboarding_public_ip">@string/config_wan_ip</string>
+    <string name="onboarding_public_ip_port">Puerto público (opcional)</string>
+    <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
+
+    <string name="onboarding_api_key_title">Clave de la API OctoPrint</string>
+    <string name="onboarding_api_key_message">Printoid necesita la clave de la API OctoPrint para conectarse a su servidor.\n
+        La clave API se puede encontrar en la configuración de su interfaz web OctoPrint, en el menú \'API\'. La casilla de verificación \'Habilitar\' debe estar marcada.</string>
+    <string name="onboarding_api_key_error">Por favor ingrese su clave de OctoPrint API</string>
+
+    <string name="onboarding_baudrate_title">Velocidad de impresión de la impresora</string>
+    <string name="onboarding_baudrate_message">Para crear una instancia de la conexión con su impresora 3D, proporcione su tasa de baudios.\n
+        Esto se puede cambiar fácilmente si tiene más de una impresora 3D conectada.</string>
+
+    <string name="onboarding_security_title">Seguridad (opcional)</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[Proporcione sus credenciales de autenticación básica si ha habilitado esta función en su servidor.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/"> Lea esta página </a> para obtener más información.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">Por favor proporcione su nombre de usuario</string>
+    <string name="onboarding_security_basic_auth_password_error">Por favor proporcione su contraseña</string>
+    <string name="onboarding_security_message_https">Habilite esta opción solo si la comunicación con HTTPS (SSL/TLS) se ha habilitado en su servidor.</string>
+
+    <string name="onboarding_ssh_title">Comandos Secure Shell (opcional)</string>
+    <string name="onboarding_ssh_message"><![CDATA[Proporcione sus credenciales de SSH si desea enviar comandos de SSH a su servidor.\n
+        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/"> Lea esta página </a> para obtener más información sobre los comandos de SSH.\n
+        Proporcionar un puerto público solo para SSH distante (de manera predeterminada, el puerto 22 se usa localmente)]]></string>
+    <string name="onboarding_ssh_login">Inicio de sesión SSH</string>
+    <string name="onboarding_ssh_pwd">Contraseña SSH</string>
+    <string name="onboarding_ssh_port">Puerto SSH público (opcional)</string>
+
+    <string name="onboarding_confirmation_title">Confirmación</string>
+    <string name="onboarding_confirmation_message">¡Ya casi termina!\nRevise su configuración y vuelva a verificar todos los valores que ha proporcionado.</string>
+
+
+</resources>
