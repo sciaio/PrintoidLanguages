@@ -6,8 +6,8 @@
     <string name="tutorial_only_in_lite_version">Only in the LITE version</string>
 
     <!-- WELCOME -->
-    <string name="tutorial_message_welcome">Welcome to Printoid %s!</string>
-    <string name="tutorial_message_welcome_2">Please take a minute to learn what this app contains :)</string>
+    <string name="tutorial_message_welcome">Welcome in Printoid %s</string>
+    <string name="tutorial_message_welcome_2">This short introduction will show you the content of the application</string>
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Versions comparator</string>
