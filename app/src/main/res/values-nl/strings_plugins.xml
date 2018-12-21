@@ -1,66 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="plugins_title">OctoPrint\'s plugins</string>
+    <string name="plugins_title">OctoPrint\'s plug-ins</string>
 
-    <string name="plugins_help_title">OctoPrint\'s plugins</string>
-    <string name="plugins_help_message">This is the list of plugins currently integrated in Printoid.\n\nAll OctoPrint\'s plugin are not implemented in Printoid and I (the developer) can not integrated them all.\n\nPlease contact me at printoid.for.octoprint@gmail.com if you would like to see a new plugin in Printoid. I will reflect on its integration (if and only it is possible).</string>
+    <string name="plugins_help_title">OctoPrint\'s plug-ins</string>
+    <string name="plugins_help_message">Dit is de lijst met plug-ins die momenteel in Printoid zijn geïntegreerd.\n\nAlle OctoPrint-invoegtoepassingen zijn niet geïmplementeerd in Printoid en I (de ontwikkelaar) kan ze niet allemaal integreren.\n\nNeem contact met mij op printoid.for.octoprint @ gmail.com als je een nieuwe plug-in in Printoid wilt zien. Ik zal nadenken over de integratie ervan (als en alleen het mogelijk is).</string>
 
-    <string name="plugin_desc_psu">This OctoPrint plugin controls an ATX/AUX power supply to help reduce power consumption and noise when the printer is not in use.</string>
-    <string name="plugin_desc_autoshutdown">Plugin for automatically shutting down the system after print is finished. Can be configured only when the server is up.</string>
-    <string name="plugin_desc_tp_link">Work inspired by OctoPrint-PSUControl and TP-Link WiFi SmartPlug Client, this plugin controls a TP-Link Smartplug via OctoPrint\'s nav bar.</string>
-    <string name="plugin_desc_enclosure">Control pretty much everything that you might want to do on your Raspberry Pi/OctoPrint/Enclosure.</string>
-    <string name="plugin_desc_navbartemp">Display temperatures on OctoPrint\'s navigation bar. For Raspberry Pi users, this plugin allows to show the Raspberry Pi\'s CPU temperature in the app title bar automatically.</string>
+    <string name="plugin_desc_psu">Deze OctoPrint-plug-in bestuurt een ATX/AUX-voeding om het energieverbruik en de ruis te verminderen wanneer de printer niet in gebruik is.</string>
+    <string name="plugin_desc_autoshutdown">Plugin voor het automatisch afsluiten van het systeem nadat het afdrukken is voltooid. Kan alleen worden geconfigureerd als de server is opgestart.</string>
+    <string name="plugin_desc_tp_link">Werk geïnspireerd door OctoPrint-PSUControl en TP-Link WiFi SmartPlug Client, bestuurt deze plug-in een TP-Link Smartplug via de navigatiebalk van OctoPrint.</string>
+    <string name="plugin_desc_enclosure">Beheers vrijwel alles wat je zou willen doen op je Raspberry Pi/OctoPrint/behuizing.</string>
+    <string name="plugin_desc_navbartemp">Weergavetemperaturen op de navigatiebalk van OctoPrint. Voor gebruikers van Raspberry Pi kan deze plug-in de CPU-temperatuur van de Raspberry Pi weergeven in de titelbalk van de app.</string>
+    <string name="plugin_desc_octolapse">Octolapse is ontworpen om gestabiliseerde timelapses van uw afdrukken te maken met zo weinig mogelijk moeite, en het is uiterst configureerbaar. Nu kunt u een zijdezachte timelapse maken zonder aangepaste camerabevestiging, geen aanpassingen van de GCode vereist.</string>
 
-    <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
-    <string name="plugin_message_tp_link">The TP-Link SmartPlug shall should be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.\nAdjust its behavior from the settings of Printoid.</string>
-    <string name="plugin_message_enclosure">This plugin will be integrated very soon in Printoid, please be patient :) You will be informed once available.</string>
-    <string name="plugin_message_navbartemp">The Navbar Temp plugin should be installed on your OctoPrint server.\n\nThen if you are using a Raspberry Pi, its CPU temperature will appear automatically in the app\'s title bar.</string>
-    <string name="plugin_desc_octolapse">Octolapse is designed to make stabilized timelapses of your prints with as little hassle as possible, and it\'s extremely configurable. Now you can create a silky smooth timelapse without a custom camera mount, no GCode customizations required.</string>
+    <string name="plugin_message_psu">De plug-in PSU-besturing moet op uw OctoPrint-server zijn geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>
+    <string name="plugin_message_tp_link">De TP-Link SmartPlug moet op uw OctoPrint-server worden geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.\nPas zijn gedrag aan de instellingen van Printoid aan.</string>
+    <string name="plugin_message_enclosure">Deze plug-in wordt zeer binnenkort in Printoid geïntegreerd, even geduld aub :) U wordt op de hoogte gesteld zodra deze beschikbaar is.</string>
+    <string name="plugin_message_navbartemp">De Navbar Temp-plug-in moet op uw OctoPrint-server worden geïnstalleerd.\n\nMaar als u een Raspberry Pi gebruikt, verschijnt de CPU-temperatuur automatisch in de titelbalk van de app.</string>
 
-    <string name="plugin_not_available">This plugin seems not available (or not installed on your OctoPrint server). Please check its status on your OctoPrint server\'s settings.</string>
+    <string name="plugin_not_available">Deze plug-in lijkt niet beschikbaar (of niet geïnstalleerd op uw OctoPrint-server). Controleer de status ervan op de instellingen van uw OctoPrint-server.</string>
 
-    <string name="plugin_not_in_this_version_title">Plugin not available</string>
-    <string name="plugin_not_in_this_version_msg">This plugin is not available in this version of Printoid. Please consider upgrading Printoid to enjoy this feature in the app! (check on https://printoid.net the available plugins per version)</string>
+    <string name="plugin_not_in_this_version_title">Plugin niet beschikbaar</string>
+    <string name="plugin_not_in_this_version_msg">Deze plug-in is niet beschikbaar in deze versie van Printoid. Overweeg een upgrade van Printoid om van deze functie in de app te genieten! (controleer op https://printoid.net de beschikbare plug-ins per versie)</string>
 
-
-    <!-- AUTOMATIC SHUTDOWN PLUGIN -->
-    <string name="plugin_autoshutdown_enable">Shutdown server after print finishes</string>
+    <string name="plugin_autoshutdown_enable">Sluit de server af nadat de afdruk is voltooid</string>
     <string name="plugin_autoshutdown_type">Type</string>
+    
+    <string name="plugin_psu_enable">Schakel PSU in</string>
 
-    <!-- PSU CONTROL PLUGIN -->
-    <string name="plugin_psu_enable">Enable PSU</string>
+    <string name="plugin_tplink_enable">Schakel TP-Link SmartPlug in</string>
+    <string name="plugin_tplink_state">Huidige toestand:</string>
+    <string name="plugin_tplink_ip">IK P:</string>
+    
+    <string name="plugin_navbartemp_temperature">Systeem SoC temperatuur</string>
 
-    <!-- TPLINK SMARTPLUG PLUGIN -->
-    <string name="plugin_tplink_enable">Enable TP-Link SmartPlug</string>
-    <string name="plugin_tplink_state">Current state:</string>
-    <string name="plugin_tplink_ip">IP:</string>
-
-    <!-- NAVBARTEMP PLUGIN -->
-    <string name="plugin_navbartemp_temperature">System SoC temperature</string>
-
-    <!-- OCTOLAPSE PLUGIN -->
-    <string name="plugin_octolapse_enable">Enable Octolapse</string>
+    <string name="plugin_octolapse_enable">Octolapse inschakelen</string>
     <string name="plugin_octolapse_status">Status:</string>
     <string name="plugin_octolapse_printer">Printer:</string>
-    <string name="plugin_octolapse_stabilization">Stabilization:</string>
-    <string name="plugin_octolapse_snapshot">Snapshot:</string>
-    <string name="plugin_octolapse_rendering">Rendering:</string>
+    <string name="plugin_octolapse_stabilization">Stabilisatie:</string>
+    <string name="plugin_octolapse_snapshot">Momentopname:</string>
+    <string name="plugin_octolapse_rendering">rendering:</string>
     <string name="plugin_octolapse_camera">Camera:</string>
-    <string name="plugin_octolapse_debug">Debug:</string>
+    <string name="plugin_octolapse_debug">debug:</string>
     <string name="plugin_octolapse_trigger_state">Trigger\nstate</string>
     <string name="plugin_octolapse_extruder_state">Extruder\nstate</string>
-    <string name="plugin_octolapse_position_state">Position\nstate</string>
-    <string name="plugin_octolapse_position_change">Position\nchange</string>
+    <string name="plugin_octolapse_position_state">Positie\nstate</string>
+    <string name="plugin_octolapse_position_change">Positie\nchange</string>
 
-    <!-- ENCLOSURE PLUGIN -->
-    <string name="plugin_enclosure_rpi_output_enable">Turn ON:</string>
-    <string name="plugin_enclosure_rpi_output_auto_startup">Auto startup:</string>
-    <string name="plugin_enclosure_rpi_output_auto_shutdown">Auto shutdown:</string>
-    <string name="plugin_enclosure_rpi_output_execute_script">Execute script</string>
-    <string name="plugin_enclosure_rpi_output_send_gcode">Send GCODE</string>
-    <string name="plugin_enclosure_rpi_input_temperature">Temperature: %s</string>
-    <string name="plugin_enclosure_rpi_input_humidity">Humidity: %s</string>
-    <string name="plugin_enclosure_rpi_input_target_hint">Target</string>
+    <string name="plugin_enclosure_rpi_output_enable">Aanzetten:</string>
+    <string name="plugin_enclosure_rpi_output_auto_startup">Automatische startup:</string>
+    <string name="plugin_enclosure_rpi_output_auto_shutdown">Automatische uitschakeling:</string>
+    <string name="plugin_enclosure_rpi_output_execute_script">Voer het script uit</string>
+    <string name="plugin_enclosure_rpi_output_send_gcode">Verzend GCODE</string>
+    <string name="plugin_enclosure_rpi_input_temperature">Temperatuur: %s</string>
+    <string name="plugin_enclosure_rpi_input_humidity">Vochtigheid: %s</string>
+    <string name="plugin_enclosure_rpi_input_target_hint">Doelwit</string>
 
 </resources>
