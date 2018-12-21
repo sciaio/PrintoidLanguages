@@ -2,7 +2,7 @@
 <resources>
 
     <string name="onboarding_welcome_title">Configuration of your first OctoPrint profile</string>
-    <string name="onboarding_welcome_message">Printoid will accompany you in the creation and the configuration of your first OctoPrint profile in the application.\n\n
+    <string name="onboarding_welcome_message">Printoid will guide you in the creation and the configuration of your first OctoPrint profile in the application.\n\n
         It is very easy and will only take you a few minutes. Please read and follow all the instructions carefully.</string>
 
     <string name="onboarding_profile_name_title">Profile name</string>
