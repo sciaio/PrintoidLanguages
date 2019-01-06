@@ -10,7 +10,7 @@
     <string name="download_timelapse_dialog_title">Загрузка ускоренного видео</string>
     <string name="download_timelapse_dialog_msg">Printoid загружает файл ускоренного видео, минутку…</string>
 
-    <string name="download_timelapse_done">Видео загружено на устройство</string>
+    <string name="download_timelapse_done">Видео загружено на устройство (&lt;sdcard&gt;/Printoid/timelapses/)</string>
 
     <string name="download_timelapse_alert_title">Ошибка загрузки</string>
     <string name="download_timelapse_alert_msg">Ошибка загрузки, %s</string>

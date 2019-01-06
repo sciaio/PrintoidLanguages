@@ -10,7 +10,7 @@
     <string name="download_timelapse_dialog_title">Téléchargement du timelapse</string>
     <string name="download_timelapse_dialog_msg">Printoid télécharge votre timelapse, veuillez patienter…</string>
 
-    <string name="download_timelapse_done">Timelapse téléchargé dans votre espace de stockage interne.</string>
+    <string name="download_timelapse_done">Timelapse téléchargé dans votre espace de stockage interne. (&lt;sdcard&gt;/Printoid/timelapses/)</string>
 
     <string name="download_timelapse_alert_title">Téléchargement échoué</string>
     <string name="download_timelapse_alert_msg">Le téléchargement a échoué, %s</string>

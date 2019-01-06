@@ -73,4 +73,6 @@
     <string name="analyzer_total_models">Количество моделей:</string>
     <string name="analyzer_total_estimated_cost">Полная стоимость:</string>
 
+    <string name="download_file_done">Файл загружен во внутреннее хранилище (&lt;sdcard&gt;/Printoid/files/)</string>
+
 </resources>

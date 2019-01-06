@@ -10,7 +10,7 @@
     <string name="download_timelapse_dialog_title">Download film</string>
     <string name="download_timelapse_dialog_msg">Printoid download de timelapse film, even geduld aub…</string>
 
-    <string name="download_timelapse_done">Film gedownload naar uw externe geheugen.</string>
+    <string name="download_timelapse_done">Film gedownload naar uw externe geheugen. (&lt;sdcard&gt;/Printoid/timelapses/)</string>
 
     <string name="download_timelapse_alert_title">Download mislukt</string>
     <string name="download_timelapse_alert_msg">De download is mislukt %s</string>

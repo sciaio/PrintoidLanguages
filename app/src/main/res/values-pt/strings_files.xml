@@ -34,6 +34,7 @@
     <string name="upload_file_title">Carregar arquivo</string>
     <string name="upload_file_message">Carregar o arquivo %s para o seguinte destino:</string>
     <string name="upload_file_done">Arquivo carregado</string>
+    <string name="upload_file_select">Selecione a fonte para o arquivo a ser enviado para o seu servidor:</string>
 
     <string name="downloading_file">Baixando o arquivo&#8230;</string>
     <string name="file_deleted">Arquivo excluído do OctoPrint</string>
@@ -71,5 +72,7 @@
     <string name="analyzer_total_machine_code">Número de GCODE:</string>
     <string name="analyzer_total_models">Número de modelos:</string>
     <string name="analyzer_total_estimated_cost">Custo total estimado:</string>
+
+    <string name="download_file_done">Arquivo baixado para o seu armazenamento interno (&lt;sdcard&gt;/Printoid/files/)</string>
 
 </resources>

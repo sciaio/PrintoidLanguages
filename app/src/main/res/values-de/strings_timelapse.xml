@@ -10,7 +10,7 @@
     <string name="download_timelapse_dialog_title">Zeitraffer herunterladen</string>
     <string name="download_timelapse_dialog_msg">Printoid lädt das Zeitraffer herunter. Bitte warten…</string>
 
-    <string name="download_timelapse_done">Timelapse auf Ihren internen Speicher heruntergeladen</string>
+    <string name="download_timelapse_done">Timelapse auf Ihren internen Speicher heruntergeladen (&lt;sdcard&gt;/Printoid/timelapses/)</string>
 
     <string name="download_timelapse_alert_title">Fehler</string>
     <string name="download_timelapse_alert_msg">Der Download wurde abgebrochen, %s</string>
