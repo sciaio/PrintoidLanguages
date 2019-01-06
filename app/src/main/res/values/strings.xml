@@ -19,7 +19,7 @@
     <string name="backup">Backup</string>
     <string name="restore">Restore</string>
     <string name="start">Start</string>
-    <string name="start_printoid">Start Printoid</string>
+    <string name="start_printoid">Open Printoid</string>
     <string name="contact">Contact</string>
     <string name="update">Update</string>
     <string name="share">Share</string>

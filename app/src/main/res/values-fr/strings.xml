@@ -20,7 +20,7 @@
     <string name="backup">Sauver</string>
     <string name="restore">Restaurer</string>
     <string name="start">Lancer</string>
-    <string name="start_printoid">Lancer Printoid</string>
+    <string name="start_printoid">Ouvrir Printoid</string>
     <string name="contact">Contacter</string>
     <string name="update">Update</string>
     <string name="share">Partager</string>
