@@ -13,7 +13,7 @@
     <string name="plugin_desc_octolapse">Octolapse разработан для того, чтобы стабилизировать интервалы между отпечатками с минимальными трудностями, и это чрезвычайно настраивается. Теперь вы можете создать гладкую гладкую замедленную съемку без специального монтирования камеры, никаких настроек GCode не требуется.</string>
 
     <string name="plugin_message_psu">Плагин PSU Control должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
-    <string name="plugin_message_tp_link">TP-Link SmartPlug должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.\nНастройте его поведение в настройках Printoid.</string>
+    <string name="plugin_message_tp_link">TP-Link SmartPlug должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
     <string name="plugin_message_enclosure">Этот плагин будет очень скоро интегрирован в Printoid, будьте терпеливы :) Вам сообщат, когда он станет доступен.</string>
     <string name="plugin_message_navbartemp">Плагин Navbar Temp должен быть установлен на вашем сервере OctoPrint.\n\nПри использовании Raspberry Pi его температура процессора автоматически отобразится в строке заголовка приложения.</string>
 
@@ -29,7 +29,7 @@
     
     <string name="plugin_tplink_enable">Включить TP-Link SmartPlug</string>
     <string name="plugin_tplink_state">Текущее состояние:</string>
-    <string name="plugin_tplink_ip">IP:</string>
+    <string name="plugin_tplink_ip">Smartplug IP:</string>
     
     <string name="plugin_navbartemp_temperature">Температура системы SoC</string>
 

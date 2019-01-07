@@ -14,7 +14,7 @@
     <string name="plugin_desc_octolapse">O Octolapse foi projetado para criar timelapses estabilizadas de suas impressões com o menor incômodo possível, e é extremamente configurável. Agora você pode criar um timelapse suave e sedoso sem uma montagem de câmera personalizada, sem necessidade de personalizações de GCode.</string>
 
     <string name="plugin_message_psu">O plug-in PSU Control deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do app.</string>
-    <string name="plugin_message_tp_link">O plugin TP-Link SmartPlug deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.\nAjuste seu comportamento a partir das configurações do Printoid.</string>
+    <string name="plugin_message_tp_link">O plugin TP-Link SmartPlug deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.</string>
     <string name="plugin_message_enclosure">Este plugin será integrado muito em breve no Printoid :) Seja paciente, você será informado quando ficar disponível</string>
     <string name="plugin_message_navbartemp">O plugin Navbar Temp deve ser instalado no seu servidor OctoPrint.\n\nAssim, se você estiver usando um Raspberry Pi, a temperatura da CPU aparecerá automaticamente na barra de título do app.</string>
 
@@ -34,7 +34,7 @@
     <!-- TPLINK SMARTPLUG PLUGIN -->
     <string name="plugin_tplink_enable">Ativar TP-Link SmartPlug</string>
     <string name="plugin_tplink_state">Estado atual:</string>
-    <string name="plugin_tplink_ip">IP:</string>
+    <string name="plugin_tplink_ip">Smartplug IP:</string>
 
     <!-- NAVBARTEMP PLUGIN -->
     <string name="plugin_navbartemp_temperature">Temperatura da CPU do sistema</string>

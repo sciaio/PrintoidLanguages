@@ -14,7 +14,7 @@
     <string name="plugin_desc_octolapse">Octolapse est fait pour créer des timelapses stabilisés de vos impressions, et est extremement configurable. Vous n\'avez plus besoin d\'un stand stabilisé, et aucune customisation GCODE n\'est nécessaire.</string>
 
     <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
-    <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.\nAjustez ses paramêtres dans les paramêtres de Printoid.</string>
+    <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_enclosure">Ce plugin sera bientôt disponible dans Printoid, soyez patient :) Vous serez informé lorsqu\'il sera disponible.</string>
     <string name="plugin_message_navbartemp">Le plugin NavBar Temp doit être installé sur votre Raspberry Pi.\n\nLa température système s\'affichera automatiquement dans la barre de navigation.</string>
 
@@ -34,7 +34,7 @@
     <!-- TPLINK SMARTPLUG PLUGIN -->
     <string name="plugin_tplink_enable">Activer le TP-Link SmartPlug</string>
     <string name="plugin_tplink_state">Etat actuel :</string>
-    <string name="plugin_tplink_ip">IP :</string>
+    <string name="plugin_tplink_ip">Smartplug IP :</string>
 
     <!-- NAVBARTEMP PLUGIN -->
     <string name="plugin_navbartemp_temperature">Température du CPU du système</string>

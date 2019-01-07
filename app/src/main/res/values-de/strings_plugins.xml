@@ -13,7 +13,7 @@
     <string name="plugin_desc_octolapse">Octolapse wurde entwickelt, um stabilisierte Zeitraffer Ihrer Drucke mit so wenig Aufwand wie möglich zu gestalten, und es ist äußerst konfigurierbar. Jetzt können Sie eine seidige, glatte Timelapse ohne eine benutzerdefinierte Kamerahalterung erstellen. Es sind keine GCode-Anpassungen erforderlich.</string>
 
     <string name="plugin_message_psu">Das PSU-Control-Plugin muss auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>
-    <string name="plugin_message_tp_link">Der TP-Link SmartPlug sollte auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.\nStellen Sie das Verhalten von Printoid ein.</string>
+    <string name="plugin_message_tp_link">Der TP-Link SmartPlug sollte auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>
     <string name="plugin_message_enclosure">Dieses Plugin wird in Kürze in Printoid integriert, bitte haben Sie etwas Geduld :) Sie werden informiert, sobald es verfügbar ist.</string>
     <string name="plugin_message_navbartemp">Das Navbar Temp-Plugin sollte auf Ihrem OctoPrint-Server installiert sein.\n\nWenn Sie einen Raspberry Pi verwenden, wird seine CPU-Temperatur automatisch in der Titelleiste der App angezeigt.</string>
 
@@ -29,7 +29,7 @@
 
     <string name="plugin_tplink_enable">Aktivieren Sie TP-Link SmartPlug</string>
     <string name="plugin_tplink_state">Aktuellen Zustand:</string>
-    <string name="plugin_tplink_ip">IP:</string>
+    <string name="plugin_tplink_ip">Smartplug IP:</string>
 
     <string name="plugin_navbartemp_temperature">System-SoC-Temperatur</string>
     
@@ -46,7 +46,6 @@
     <string name="plugin_octolapse_position_state">Position\nZustand</string>
     <string name="plugin_octolapse_position_change">Position\nändern</string>
 
-    
     <string name="plugin_enclosure_rpi_output_enable">Anschalten:</string>
     <string name="plugin_enclosure_rpi_output_auto_startup">Autostart:</string>
     <string name="plugin_enclosure_rpi_output_auto_shutdown">Automatisches Herunterfahren:</string>

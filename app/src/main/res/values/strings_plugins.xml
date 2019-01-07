@@ -35,7 +35,7 @@
     <string name="plugin_url_octolapse" translatable="false">https://github.com/FormerLurker/Octolapse</string>
 
     <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
-    <string name="plugin_message_tp_link">The TP-Link SmartPlug shall should be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.\nAdjust its behavior from the settings of Printoid.</string>
+    <string name="plugin_message_tp_link">The TP-Link SmartPlug shall should be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_enclosure">This plugin will be integrated very soon in Printoid, please be patient :) You will be informed once available.</string>
     <string name="plugin_message_navbartemp">The Navbar Temp plugin should be installed on your OctoPrint server.\n\nThen if you are using a Raspberry Pi, its CPU temperature will appear automatically in the app\'s title bar.</string>
     <string name="plugin_message_octolapse" translatable="false">none</string>
@@ -55,7 +55,7 @@
     <!-- TPLINK SMARTPLUG PLUGIN -->
     <string name="plugin_tplink_enable">Enable TP-Link SmartPlug</string>
     <string name="plugin_tplink_state">Current state:</string>
-    <string name="plugin_tplink_ip">IP:</string>
+    <string name="plugin_tplink_ip">Smartplug IP:</string>
 
     <!-- NAVBARTEMP PLUGIN -->
     <string name="plugin_navbartemp_temperature">System SoC temperature</string>
