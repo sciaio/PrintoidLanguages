@@ -29,6 +29,7 @@
     <string name="setting_title_toolbar">Paramètres de la barre d\'outils</string>
     <string name="setting_title_language">Paramètres régionaux</string>
     <string name="setting_title_account">Compte Printoid</string>
+    <string name="setting_title_keyboard">Contrôle au clavier</string>
 
     <string name="setting_enable_screensaver">Économiseur d\'écran</string>
     <string name="setting_webcam_streaming">URL de streaming</string>
@@ -124,7 +125,9 @@
     <string name="setting_enable_auto_screen_locker">Verrouiller l\'écran automatiquement</string>
     <string name="setting_enable_ask_profile">Afficher les profils disponibles au démarrage</string>
     <string name="setting_manage_account">Gestion de votre compte</string>
+    <string name="setting_enable_keyboard_control">Activer le  contrôle au clavier</string>
 
+    <string name="setting_enable_keyboard_control_tip">Contrôler Printoid avec un clavier physique</string>
     <string name="setting_manage_account_tip">Créer/connecter/déconnecter votre compte Printoid</string>
     <string name="setting_enable_ask_profile_tip">Demander quel profil utiliser pour la connection au lancement</string>
     <string name="setting_enable_auto_screen_locker_tip">Verrouillage de l\'écran après 15 sec d\'inactivité</string>

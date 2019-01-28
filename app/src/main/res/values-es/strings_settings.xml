@@ -29,6 +29,7 @@
     <string name="setting_title_toolbar">Ajustes de la barra de herramientas</string>
     <string name="setting_title_language">Ajustes regional</string>
     <string name="setting_title_account">Cuenta Printoid</string>
+    <string name="setting_title_keyboard">Controles con un teclado</string>
 
     <string name="setting_enable_screensaver">Salvapantallas</string>
     <string name="setting_enable_notif">Activar las notificaciones</string>
@@ -123,7 +124,9 @@
     <string name="setting_enable_auto_screen_locker">Bloquear automáticamente la pantalla</string>
     <string name="setting_enable_ask_profile">Mostrar perfiles de OctoPrint disponibles en la puesta en marcha</string>
     <string name="setting_manage_account">Administrar cuenta</string>
+    <string name="setting_enable_keyboard_control">Habilitar los controles con el teclado</string>
 
+    <string name="setting_enable_keyboard_control_tip">Controla la interfaz con un teclado físico</string>
     <string name="setting_manage_account_tip">Regístrese / inicie sesión / cierre de sesión en su cuenta de Printoid</string>
     <string name="setting_enable_ask_profile_tip">Solicite el perfil que desea conectar al iniciar la aplicación</string>
     <string name="setting_enable_auto_screen_locker_tip">Bloquee la pantalla después de 15 segundos de inactividad</string>
