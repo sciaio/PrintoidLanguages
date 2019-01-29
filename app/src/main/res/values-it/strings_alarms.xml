@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="notif_channel_name_alerts">Alerts notifications</string>
+    <string name="notif_channel_name_alerts">Avvisi di notifiche</string>
 
-    <string name="alarms_title">Alerts management</string>
+    <string name="alarms_title">Gestione degli avvisi</string>
 
-    <string name="alarm_type_progress">Print progression</string>
-    <string name="alarm_type_temperature_hot_end">Heated head temperature</string>
-    <string name="alarm_type_temperature_hot_bed">Heated bed temperature</string>
-    <string name="alarm_type_gcode_command">GCODE command execution</string>
-    <string name="alarm_type_z_height">Z height</string>
+    <string name="alarm_type_progress">Progressi di stampa</string>
+    <string name="alarm_type_temperature_hot_end">Temperatura Testa Heated</string>
+    <string name="alarm_type_temperature_hot_bed">Temperatura Piatto</string>
+    <string name="alarm_type_gcode_command">comando GCODE eseguito</string>
+    <string name="alarm_type_z_height">Altezza Z</string>
 
-    <string name="alerts_list_empty">No alerts created</string>
+    <string name="alerts_list_empty">Nessun avviso creato</string>
 
-    <string name="alarm_setting_type">Type of alert</string>
-    <string name="alarm_setting_sensitivity">Sensitivity of this alert (+X% of value)</string>
-    <string name="alarm_setting_value_progress">Alert when job reach this progress (%)</string>
-    <string name="alarm_setting_value_temperature_hot_end">Alert when hot end reach this temperature (°)</string>
-    <string name="alarm_setting_value_temperature_hot_bed">Alert when hot bed reach this temperature (°)</string>
-    <string name="alarm_setting_value_gcode_command">Alert when this GCODE command is executed</string>
-    <string name="alarm_setting_value_z_height">Alert when nozzle reach this height (mm)</string>
-    <string name="alarm_settins_value">Alert value</string>
-    <string name="alarm_setting_vibration_pattern">Vibration pattern</string>
+    <string name="alarm_setting_type">Tipo di avviso</string>
+    <string name="alarm_setting_sensitivity">Sensibilità di questo avviso (+X% of value)</string>
+    <string name="alarm_setting_value_progress">Avviso quando il lavoro raggiunge questo progresso (%)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Avvisa quando la parte calda raggiunge questa temperatura (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Avvisare quando il Piatto raggiunge questa temperatura (°)</string>
+    <string name="alarm_setting_value_gcode_command">Avvisa quando viene eseguito questo comando GCODE</string>
+    <string name="alarm_setting_value_z_height">Avvisa quando l'ugello raggiunge questa altezza (mm)</string>
+    <string name="alarm_settins_value">Valore di allerta</string>
+    <string name="alarm_setting_vibration_pattern">Modello di vibrazione</string>
     <string name="alarm_setting_vibration_pattern_hint" translatable="false">0,100,75,100</string>
 
-    <string name="alarm_created">New alert created</string>
-    <string name="alarm_updated">Alert updated</string>
-    <string name="alarm_deleted">Alert deleted</string>
+    <string name="alarm_created">Nuovo Avviso creato</string>
+    <string name="alarm_updated">Avviso aggiornato</string>
+    <string name="alarm_deleted">Avviso cancellato</string>
 
-    <string name="alarms_delete_alert_title">Delete alert</string>
-    <string name="alarms_delete_alert_msg">Do you really want to delete this alert? This action can\'t be undone.</string>
+    <string name="alarms_delete_alert_title">Cancella Avviso</string>
+    <string name="alarms_delete_alert_msg">Vuoi veramente cancellare questo avviso? Questa azione non può essere annullata.</string>
 
-    <string name="alarms_exit_editor_alert_title">Save your changes</string>
-    <string name="alarms_exit_editor_alert_msg">Do you want to save your changes before exiting the editor?</string>
+    <string name="alarms_exit_editor_alert_title">Salve le modifiche</string>
+    <string name="alarms_exit_editor_alert_msg">Vuoi salvare le modifiche prima di uscire dall'editor?</string>
 
-    <string name="alarm_alert_value_title">Wrong value for this alert</string>
-    <string name="alarm_alert_type_msg">Wrong type for this alert! Please contact the developer of Printoid</string>
-    <string name="alarm_alert_value_progress_msg">Please enable the background mode to be notified when a print is ended instead of using a custom alert!</string>
-    <string name="alarm_alert_value_empty_msg">You should provide a value for this alert!</string>
-    <string name="alarm_alert_value_float_msg">The value for this alert should be an floating number or an integer!</string>
+    <string name="alarm_alert_value_title">Valore sbagliato per questo avviso</string>
+    <string name="alarm_alert_type_msg">Tipologia sbagliata per questo avviso! Si prega di contattare lo sviluppatore di Printoid</string>
+    <string name="alarm_alert_value_progress_msg">Si prega di abilitare la modalità di sfondo per essere avvisati quando una stampa è terminata invece di usare un avviso personalizzato!</string>
+    <string name="alarm_alert_value_empty_msg">Dovresti fornire un valore per questo avviso!</string>
+    <string name="alarm_alert_value_float_msg">Il valore per questo avviso deve essere un numero fluttuante o un numero intero!</string>
 
-    <string name="alarm_help_title">Alerts manager</string>
-    <string name="alarm_help_msg">You can define custom alerts in Printoid.\n\n
-        Alerts will result on an Android notification, with sound and vibration depending on your system settings.\n\n
-        Alerts will be fired only if Printoid is opened on your phone and in foreground.\n\n
-        Please note that this feature is \"work in progress\" and will be enhanced a lot! :)</string>
+    <string name="alarm_help_title">Gestione degli avvisi</string>
+    <string name="alarm_help_msg">Puoi definire avvisi personalizzati in Printoid.\n\n
+        Gli avvisi verranno visualizzati su una notifica Android, con suoni e vibrazioni a seconda delle impostazioni del sistema.\n\n
+        Gli avvisi verranno attivati solo se il Printoid viene aperto sul telefono e in primo piano.\n\n
+        Si noti che questa funzione è \"work in progress\" e sarà migliorata molto! :)</string>
 
-    <string name="alarm_notification_title">Alert: %s</string>
-    <string name="alarm_notification_progress">Current progression: %.1f%%</string>
-    <string name="alarm_notification_temperature_hot_end">Temperature of ext. %1$d: %2$.1f°</string>
-    <string name="alarm_notification_temperature_hot_bed">Heated bed temperature: %.1f°</string>
-    <string name="alarm_notification_gcode_command">GCODE command executed: %s</string>
-    <string name="alarm_notification_z_height">Z height reached: %.2f</string>
+    <string name="alarm_notification_title">Avviso: %s</string>
+    <string name="alarm_notification_progress">Progressi in corso: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">Temperatura estrusore. %1$d: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Temperatura Piatto: %.1f°</string>
+    <string name="alarm_notification_gcode_command">comando GCODE eseguito: %s</string>
+    <string name="alarm_notification_z_height">Altezza Z raggiunta: %.2f</string>
 
 </resources>
