@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="printoid_contact_developer">Contact\nthe developer</string>
-    <string name="printoid_visit_website">Visit\nprintoid.net</string>
+    <string name="printoid_contact_developer">Contatta\nthe developer</string>
+    <string name="printoid_visit_website">Visita\nprintoid.net</string>
 
     <string name="ok">OK</string>
     <string name="cancel">Cancella</string>
