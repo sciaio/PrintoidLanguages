@@ -42,21 +42,21 @@
 
     <string-array name="setting_connection_mode_array">
         <item>Auto</item>
-        <item>LAN first</item>
-        <item>WAN first</item>
+        <item>LAN Predefinito</item>
+        <item>WAN Predefinito</item>
     </string-array>
 
     <string-array name="screen_orientations_array">
         <item>Auto</item>
         <item>Portrait</item>
-        <item>Inverted Portrait</item>
+        <item>Portrait Inverso</item>
         <item>Landscape</item>
-        <item>Inverted Landscape</item>
+        <item>Landscape Inverso</item>
     </string-array>
 
     <string-array name="streaming_method_array">
         <item>Video player</item>
-        <item>Web view</item>
+        <item>Vista Web</item>
         <item>Snapshot</item>
     </string-array>
 
@@ -79,24 +79,24 @@
     </string-array>
 
     <string-array name="setting_sound_array">
-        <item>Sound 1</item>
-        <item>Sound 2</item>
-        <item>Sound 3</item>
-        <item>Sound 4</item>
-        <item>Sound 5</item>
-        <item>Sound 6</item>
-        <item>Sound OFF</item>
+        <item>Suono 1</item>
+        <item>Suono 2</item>
+        <item>Suono 3</item>
+        <item>Suono 4</item>
+        <item>Suono 5</item>
+        <item>Suono 6</item>
+        <item>Suono OFF</item>
     </string-array>
 
     <string-array name="ssl_modes_array">
-        <item>Both</item>
-        <item>LAN only</item>
-        <item>WAN only</item>
+        <item>Entrambi</item>
+        <item>Solo LAN</item>
+        <item>Solo WAN</item>
     </string-array>
 
     <string-array name="setting_cost_methods">
-        <item>Price/meter</item>
-        <item>Price/kg</item>
+        <item>Prezzo/metro</item>
+        <item>Prezzo/kg</item>
     </string-array>
 
     <string-array name="setting_force_clock_array">
@@ -106,27 +106,27 @@
     </string-array>
 
     <string-array name="after_slicing_array">
-        <item>Do nothing</item>
-        <item>Select for printing</item>
-        <item>Start printing</item>
+        <item>Non fare nulla</item>
+        <item>Seleziona per la stampa</item>
+        <item>Avvio Stampa</item>
     </string-array>
 
     <string-array name="render_mode_array">
-        <item>Normal</item>
-        <item>Overhang</item>
-        <item>Transparent</item>
+        <item>Normale</item>
+        <item>Sporgenza</item>
+        <item>Transparente</item>
         <item>X-ray</item>
     </string-array>
 
     <string-array name="render_mode_gcode_array">
         <item>Normal</item>
-        <item>Transparent</item>
+        <item>Transparente</item>
     </string-array>
 
     <string-array name="slicer_support_array" translatable="false">
-        <item>none</item>
+        <item>Nessuno</item>
         <item>buildplate</item>
-        <item>everywhere</item>
+        <item>Ovunque</item>
     </string-array>
 
     <string-array name="slicer_support_type_array" translatable="false">
