@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="broadcast_distant_command_toast_msg">Distant command received: %s</string>
+
+    <string translatable="false" name="broadcast_command">PRINTOID_COMMAND</string>
+    <string translatable="false" name="broadcast_action">PRINTOID_ACTION</string>
+    <string translatable="false" name="broadcast_value">PRINTOID_VALUE</string>
+
+    <string translatable="false" name="broadcast_action_connect">CONNECT</string>
+    <string translatable="false" name="broadcast_action_fullscreen">FULLSCREEN</string>
+    <string translatable="false" name="broadcast_action_streaming">STREAMING</string>
+    <string translatable="false" name="broadcast_action_commands">COMMANDS</string>
+    <string translatable="false" name="broadcast_action_wep_app">WEBAPP</string>
+    <string translatable="false" name="broadcast_action_web_site">WEBSITE</string>
+    <string translatable="false" name="broadcast_action_octoprint_profiles">PRINTER_PROFILES</string>
+    <string translatable="false" name="broadcast_action_app_settings">SETTINGS</string>
+    <string translatable="false" name="broadcast_action_app_infos">INFOS</string>
+    <string translatable="false" name="broadcast_action_files">FILES</string>
+    <string translatable="false" name="broadcast_action_timelapses">TIMELAPSES</string>
+    <string translatable="false" name="broadcast_action_x_left">X_LEFT</string>
+    <string translatable="false" name="broadcast_action_x_right">X_RIGHT</string>
+    <string translatable="false" name="broadcast_action_y_top">Y_TOP</string>
+    <string translatable="false" name="broadcast_action_y_bottom">Y_BOTTOM</string>
+    <string translatable="false" name="broadcast_action_z_up">Z_UP</string>
+    <string translatable="false" name="broadcast_action_z_down">Z_DOWN</string>
+    <string translatable="false" name="broadcast_action_home_xy">XY_HOME</string>
+    <string translatable="false" name="broadcast_action_home_z">Z_HOME</string>
+    <string translatable="false" name="broadcast_action_extrude">EXTRUSION</string>
+    <string translatable="false" name="broadcast_action_retract">RETRACTION</string>
+    <string translatable="false" name="broadcast_action_select_tool">SELECT_TOOL</string>
+    <string translatable="false" name="broadcast_action_increment_fan">INC_FAN</string>
+    <string translatable="false" name="broadcast_action_decrement_fan">DEC_FAN</string>
+    <string translatable="false" name="broadcast_action_increment_ext0">INC_EXT1</string>
+    <string translatable="false" name="broadcast_action_decrement_ext0">DEC_EXT1</string>
+    <string translatable="false" name="broadcast_action_increment_ext1">INC_EXT2</string>
+    <string translatable="false" name="broadcast_action_decrement_ext1">DEC_EXT2</string>
+    <string translatable="false" name="broadcast_action_increment_ext2">INC_EXT3</string>
+    <string translatable="false" name="broadcast_action_decrement_ext2">DEC_EXT3</string>
+    <string translatable="false" name="broadcast_action_increment_ext3">INC_EXT4</string>
+    <string translatable="false" name="broadcast_action_decrement_ext3">DEC_EXT4</string>
+    <string translatable="false" name="broadcast_action_increment_ext4">INC_EXT5</string>
+    <string translatable="false" name="broadcast_action_decrement_ext4">DEC_EXT5</string>
+    <string translatable="false" name="broadcast_action_increment_ext5">INC_EXT6</string>
+    <string translatable="false" name="broadcast_action_decrement_ext5">DEC_EXT6</string>
+    <string translatable="false" name="broadcast_action_increment_ext6">INC_EXT7</string>
+    <string translatable="false" name="broadcast_action_decrement_ext6">DEC_EXT7</string>
+    <string translatable="false" name="broadcast_action_increment_ext7">INC_EXT8</string>
+    <string translatable="false" name="broadcast_action_decrement_ext7">DEC_EXT8</string>
+    <string translatable="false" name="broadcast_action_increment_ext8">INC_EXT9</string>
+    <string translatable="false" name="broadcast_action_decrement_ext8">DEC_EXT9</string>
+    <string translatable="false" name="broadcast_action_increment_ext9">INC_EXT10</string>
+    <string translatable="false" name="broadcast_action_decrement_ext9">DEC_EXT10</string>
+    <string translatable="false" name="broadcast_action_increment_bed">INC_BED</string>
+    <string translatable="false" name="broadcast_action_decrement_bed">DEC_BED</string>
+    <string translatable="false" name="broadcast_action_print">PRINT</string>
+    <string translatable="false" name="broadcast_action_pause">PAUSE</string>
+    <string translatable="false" name="broadcast_action_stop">STOP</string>
+    <string translatable="false" name="broadcast_action_open_right_panel">RIGHT_PANEL</string>
+    <string translatable="false" name="broadcast_action_send_gcode_command">GCODE</string>
+
+</resources>

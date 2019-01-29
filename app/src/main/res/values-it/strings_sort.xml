@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sort_method">Select sort method:</string>
+    <string name="sort_name_ascending">Alphabetical</string>
+    <string name="sort_name_descending">Alphabetical Inverted</string>
+    <string name="sort_oldest_first">Oldest file first</string>
+    <string name="sort_newest_first">Newest file first</string>
+    <string name="sort_shortest_first">Shortest print first</string>
+    <string name="sort_longest_first">Longest print first</string>
+    <string name="sort_most_success_first">Most successful first</string>
+    <string name="sort_less_success_first">Less successful first</string>
+    <string name="sort_favorites_only">Favorites only</string>
+
+</resources>

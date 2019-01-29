@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_pro_feature_title">Pro version feature</string>
+    <string name="alert_pro_feature_streaming_msg">This is the free version of Printoid. The video streaming is available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_plugins_msg">This is the free version of Printoid. The OctoPrint\'s plugins are available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_screensaver_msg">This is the free version of Printoid. The screen saver mode is available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_command_msg">This is the free version of Printoid. The custom SSH and GCODE commands are available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_octoprint_web_interface_msg">This is the free version of Printoid. The access to your OctoPrint web interface are available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_multi_profile_msg">This is the free version of Printoid.\nThe add of more than one printer profile is available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_render_msg">This is the free version of Printoid.\nThe GCODE &amp; STL 3D visualizer is available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_layers_msg">This is the free version of Printoid.\nThe GCODE 2D layers visualizer is available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_realtime_layers_msg">This is the free version of Printoid.\nThe real time layer per layer visualizer is available in the PRO version, download it now on Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">This is the free version of Printoid.\nThe filament spool manager module is available in the PRO version, download it now on Google Play!</string>
+
+    <string name="alert_cancel_print_title">Abort current print</string>
+    <string name="alert_cancel_print_msg">This printing job will be canceled, are you sure?\nA canceled print could not be reloaded to its previous state, so your actual work will be lost.</string>
+
+    <string name="alert_pause_print_title">Pause current print</string>
+    <string name="alert_pause_print_msg">This printing job will be paused, are you sure?</string>
+
+    <string name="alert_resume_print_title">Resume current print</string>
+    <string name="alert_resume_print_msg">This printing job will be resumed, are you sure?</string>
+
+    <string name="alert_restart_print_title">Restart current print</string>
+    <string name="alert_restart_print_msg">This printing job will be restarted, are you sure?\nThe previous job could not be reloaded to its previous state, so your actual work will be lost.</string>
+
+    <string name="alert_delete_printer_profile_title">Delete OctoPrint profile</string>
+    <string name="alert_delete_printer_profile_message">This OctoPrint profile will be deleted, are you sure?\nThis action can not be undone.</string>
+
+    <string name="alert_streaming_issue_title">Video streaming</string>
+    <string name="alert_streaming_issue_msg">Warning!\n\nIf you encounter bad issues with the Printoid\'s embedded video player (black screen, connection error message, or in the worst case
+        a crash of your OctoPrint server) you can switch the steaming mode to "Web view" in the settings.\n\nPlease contact the developer if this mode does not solve your problems :)</string>
+    <string name="alert_streaming_remind_me">Remind me</string>
+
+    <string name="alert_floating_icon_title">Floating icon</string>
+    <string name="alert_floating_icon_msg">The floating icon is a feature of Printoid which let you to keep an eye on your video streaming, wherever you are on your phone.\n\n
+        Do you want to enable it right now? This feature can be enabled and disabled in the settings.</string>
+
+    <string name="alert_snapshot_ready_title">Snapshot ready</string>
+    <string name="alert_snapshot_ready_msg">Your snapshot is ready, you can save it on your external storage or share it with someone.</string>
+
+    <string name="alert_snapshot_error_title">Snapshot error</string>
+    <string name="alert_snapshot_error_msg">Printoid can\'t download your snapshot. Please check your configuration and retry.</string>
+
+    <string name="toast_snapshot_saved">Snapshot saved to %s</string>
+    <string name="toast_snapshot_save_error">Printoid can\'t save your snapshot</string>
+
+    <string name="alert_license_invalid_title">License is invalid</string>
+    <string name="alert_license_invalid_message">Your license of Printoid seems not valid. The features of the %1$s version will be automatically deactivated.\n\nDo you want to purchase the %2$s version of Printoid from Google Play?\n\n(If you have already purchased the %3$s version, please click on the \"Help\" button)\n\n[Error to communicate to the developer: %4$s]</string>
+    <string name="purchase">Purchase</string>
+    <string name="license_error_contacting_server" translatable="false">ERROR_CONTACTING_SERVER</string>
+    <string name="license_error_server_failure" translatable="false">ERROR_SERVER_FAILURE</string>
+    <string name="license_error_invalid_package_name" translatable="false">ERROR_INVALID_PACKAGE_NAME</string>
+    <string name="license_error_non_matching_uid" translatable="false">ERROR_NON_MATCHING_UID</string>
+    <string name="license_error_not_market_managed" translatable="false">ERROR_NOT_MARKET_MANAGED</string>
+    <string name="license_error_over_quota" translatable="false">ERROR_OVER_QUOTA</string>
+    <string name="license_error_not_licensed" translatable="false">NOT_LICENSED</string>
+
+    <string name="alert_theme_changed_title">Restart to apply the new theme</string>
+    <string name="alert_theme_changed_msg">You must restart the application to apply the new theme. Do you want to restart it now?</string>
+
+    <string name="alert_language_changed_title">Restart to apply the new language</string>
+    <string name="alert_language_changed_msg">You must restart the application to apply the new language. Do you want to restart it now?</string>
+
+    <string name="alert_manage_file_title" translatable="false">File \'%s\'</string>
+    <string name="alert_manage_file_msg">What do you want to do with this file? You can upload it on the current server, or render it in 2D or 3D.</string>
+
+    <string name="alert_permission_denied_title">Permission denied</string>
+    <string name="alert_permission_denied_read_msg">Printoid is not able to perform this operation since you have denied the <b>read external storage</b> permission when prompted.\n\nDo you want to activate it manually?</string>
+    <string name="alert_permission_denied_write_msg">Printoid is not able to perform this operation since you have denied the <b>write external storage</b> permission when prompted.\n\nDo you want to activate it manually?</string>
+    <string name="alert_permission_denied_camera_msg">Printoid is not able to perform this operation since you have denied the <b>camera</b> permission when prompted.\n\nDo you want to activate it manually?</string>
+
+    <string name="alert_select_tool_title">Select tool</string>
+    <string name="alert_select_tool_message">Select the printer head for the %s:</string>
+    <string name="alert_select_tool_message_retraction">retraction</string>
+    <string name="alert_select_tool_message_extrusion">extrusion</string>
+    <string name="alert_select_tool_extruder">Printer head %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_keep_for">Keep tool in memory for the next 30sec</string>
+    <string name="alert_select_tool_error">Can\'t select tool%d</string>
+
+    <string name="alert_fan_speed_value_title">Notice about fan speed value</string>
+    <string name="alert_fan_speed_value_message">There is no way in the standard GCODE syntax to retrieve the current fan speed value.\n\nThat\'s why Printoid in unable to set the fan slider\'s thumb to the actual value. If the slider shows 0%, that\'s not a bug but the expected behavior \uD83D\uDE48</string>
+
+    <string name="alert_choose_ip_title">Choose IP</string>
+    <string name="alert_choose_ip_msg">Printoid seems currently not connected to your OctoPrint server.\nPlease choose the IP address (or hostname) to be used for this SSH command</string>
+    <string name="alert_choose_ip_lan" translatable="false">LAN</string>
+    <string name="alert_choose_ip_wan" translatable="false">WAN</string>
+
+    <string name="intro_printoid_website">Discover https://printoid.net, the Printoid\'s official website! Full changelogs, next releases, new features, useful tips &amp; more!</string>
+    <string name="intro_printoid_website_button">Visit now</string>
+
+    <string name="intro_spool_manager">Manage your stock of spools with the Filament Spool Manager module, compatible with Printoid PRO and PREMIUM! The free version of this module allows you to manage up to 2 spools.</string>
+    <string name="intro_spool_manager_button">Install now</string>
+
+    <string name="steaming_not_available">Streaming not available.\nPlease verify your camera connection and the URL suffixes set in Printoid settings.</string>
+
+    <string name="file_list_empty">No file available</string>
+
+    <string name="screen_locked_msg">Screen\nlocked!</string>
+
+    <string name="new_octoprint_version">New OctoPrint version available! (v%s)</string>
+    <string name="new_octoprint_release_candidate">New OctoPrint release candidate available! (v%s)</string>
+
+    <string name="promote_pro_message">Do you love Printoid? Is this app your best companion for your 3D printer?\n\nIf yes and if you want, you can purchase Printoid PRO on Google Play to support the developer!\n\nThe Pro version brings you the video streaming, the built-in commands, the 2D and 3D visualizers, the real-time simulator, and more!</string>
+    <string name="promote_premium_message">Do you love Printoid? Is this app your best companion for your 3D printer?\n\nIf yes and if you want, you can purchase Printoid PREMIUM on Google Play to support the developer!\n\nThe Premium version brings you the possibility to create your own physical interface for Printoid!</string>
+
+    <string name="promote_donation_message">Do you enjoy Printoid Premium? Is this app your best companion for your 3D printer?\n\nIf yes and if you want, you can donate the amount of your choice to support the developer and his work, and help to the development of new amazing features!</string>
+
+    <string name="notif_channel_name_overlay">Overlay service notification</string>
+    <string name="notif_overlay_running_title">Streaming by overlay opened</string>
+    <string name="notif_overlay_running_message">Click here to close the streaming service</string>
+
+</resources>

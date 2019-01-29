@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- FRACTIONS WITH DECIMAL LIMITATIONS -->
+
+    <!--  xxx°/yyy°  -->
+    <string name="temperature_fraction" translatable="false">%1$.1f°/%2$.1f°</string>
+    <!--  182.3°/200.5°  -->
+    <string name="temperature_fraction_colored" translatable="false"><![CDATA[<font color=\'#%2$s\'>%1$.1f°</font><font color=\'#FFFFFF\'>%5$s</font><font color=\'#%4$s\'>%3$.1f°</font>]]></string>
+    <!--  182°/50.5°  -->
+    <string name="temperature_fraction_current_high_colored" translatable="false"><![CDATA[<font color=\'#%2$s\'>%1$d°</font><font color=\'#FFFFFF\'>%5$s</font><font color=\'#%4$s\'>%3$.1f°</font>]]></string>
+    <!--  50.3°/200°  -->
+    <string name="temperature_fraction_target_high_colored" translatable="false"><![CDATA[<font color=\'#%2$s\'>%1$.1f°</font><font color=\'#FFFFFF\'>%5$s</font><font color=\'#%4$s\'>%3$d°</font>]]></string>
+    <!--  182°/200°  -->
+    <string name="temperature_fraction_both_high_colored" translatable="false"><![CDATA[<font color=\'#%2$s\'>%1$d°</font><font color=\'#FFFFFF\'>%5$s</font><font color=\'#%4$s\'>%3$d°</font>]]></string>
+
+
+    <!-- FRACTIONS WITH CURRENT VALUE OFF -->
+
+    <!--  -/200°  -->
+    <string name="temperature_fraction_current_off_colored" translatable="false"><![CDATA[<font color=\'#%1$s\'>&#8212;</font><font color=\'#FFFFFF\'>%4$s</font><font color=\'#%3$s\'>%2$.1f°</font>]]></string>
+
+
+    <!-- FRACTIONS WITH TARGET VALUE OFF -->
+
+    <!--  182.3°/-  -->
+    <string name="temperature_fraction_target_off" translatable="false">%1$.1f°/&#8212;</string>
+    <!--  182.3°/-  -->
+    <string name="temperature_fraction_target_off_colored" translatable="false"><![CDATA[<font color=\'#%2$s\'>%1$.1f°</font><font color=\'#FFFFFF\'>%4$s</font><font color=\'#%3$s\'>&#8212;</font>]]></string>
+
+
+    <!-- FRACTIONS WITH CURRENT AND TARGET VALUES OFF -->
+
+    <!--  -/-  -->
+    <string name="temperature_fraction_off" translatable="false">&#8212;/&#8212;</string>
+    <!--  -/-  -->
+    c<string name="temperature_fraction_off_colored" translatable="false"><![CDATA[<font color=\'#%1$s\'>&#8212;</font><font color=\'#FFFFFF\'>%3$s</font><font color=\'#%2$s\'>&#8212;</font>]]></string>
+
+</resources>

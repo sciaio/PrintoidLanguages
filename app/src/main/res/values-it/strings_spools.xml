@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="spools_not_compatible_title">Device not compatible</string>
+    <string name="spools_not_compatible_message">The Filament Spools Manager module is not compatible with your Android version, sorry!</string>
+
+    <string name="spools_not_installed_title">Module not installed</string>
+    <string name="spools_not_installed_message">The Filament Spools Manager module is not installed on your device, do you want to install it now from Google Play?</string>
+
+    <string name="spools_file_length_zero_title">No file length value</string>
+    <string name="spools_file_length_zero_message">Printoid can not retrieve the length of this file.\n\nPlease check if your OctoPrint server has the correct value.\n\nPlease also note that OctoPrint needs a few time to compute an estimation of the file length after uploading a new file, that\'s why sometimes the value of the length is equals to 0.</string>
+
+</resources>

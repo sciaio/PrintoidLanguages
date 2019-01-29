@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printoid_contact_developer">Contact\nthe developer</string>
+    <string name="printoid_visit_website">Visit\nprintoid.net</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="no">Cancel</string>
+    <string name="yes">OK</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="quit">Quit</string>
+    <string name="terminate">Terminate</string>
+    <string name="search">Search</string>
+    <string name="retry">Retry</string>
+    <string name="set_home">XYZ home</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+    <string name="start">Start</string>
+    <string name="start_printoid">Open Printoid</string>
+    <string name="contact">Contact</string>
+    <string name="update">Update</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="change">Change</string>
+    <string name="improve">Improve</string>
+    <string name="add">Add</string>
+    <string name="more_info">More infos</string>
+    <string name="send_logs">Send logs</string>
+    <string name="value">Value</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="username">Username</string>
+    <string name="email">E-mail</string>
+    <string name="configure">Configure</string>
+    <string name="agree">Agree</string>
+    <string name="continuee">Continue</string>
+    <string name="help">Help</string>
+    <string name="install_now">Install now</string>
+    <string name="set">Set</string>
+    <string name="target">Target (°)</string>
+    <string name="offset">Offset (°)</string>
+    <string name="extrude">Extrude</string>
+    <string name="retract">Retract</string>
+    <string name="distance">Length (mm)</string>
+    <string name="current">(current: %d)</string>
+    <string name="remaining">Remaining</string>
+    <string name="none">None</string>
+    <string name="upload">Upload</string>
+    <string name="render2d">Render 2D</string>
+    <string name="render3d">Render 3D</string>
+    <string name="manage">Manage</string>
+    <string name="password">Password</string>
+
+    <string name="google_drive" translatable="false">Drive</string>
+
+    <string name="heated_bed">Heated bed</string>
+    <string name="heated_head">Heated head %d</string>
+    <string name="extruder">Extruder %d</string>
+
+    <string name="default_currency">$</string>
+
+    <string name="simple_hour_format">hh:mm:ss a</string>
+    <string name="simple_hour_format_12" translatable="false">hh:mm:ss a</string>
+    <string name="simple_hour_format_24" translatable="false">HH:mm:ss</string>
+
+    <string name="simple_hour_reduced_format">hh:mm a</string>
+    <string name="simple_hour_reduced_format_12" translatable="false">hh:mm a</string>
+    <string name="simple_hour_reduced_format_24" translatable="false">HH:mm</string>
+
+    <string name="simple_date_format">dd MMM yyyy - hh:mm a</string>
+    <string name="simple_date_format_12" translatable="false">@string/simple_date_format</string>
+    <string name="simple_date_format_24" translatable="false">dd MMM yyyy - HH:mm</string>
+
+    <string name="overlay_tile_title">Printoid Streaming</string>
+    <string name="snapshot_tile_title">Printoid Snapshot</string>
+
+    <string name="network_type_wifi">WiFi</string>
+    <string name="network_type_mobile">Mobile carrier</string>
+    <string name="network_type_none">No connection</string>
+    <string name="network_type_unknown">Unknown connection</string>
+
+    <string name="arrow" translatable="false">→</string>
+
+    <string name="image_picker_tool_folders">Folders</string>
+    <string name="image_picker_tool_tap">Tap to select</string>
+    <string name="image_picker_tool_camera">Camera</string>
+
+</resources>

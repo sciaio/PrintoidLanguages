@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_email" translatable="false">printoid.for.octoprint@gmail.com</string>
+    <string name="contact_subject">Printoid Support (installed version: v%1$s - %2$s)</string>
+    <string name="contact_choose_client">Select your e-mail client:</string>
+
+    <string name="contact_body">Dear Printoid developer,\n\n
+    Following is my own configuration:\n\n
+    - Device model: %1$s\n
+    - Android version: %2$s\n
+    - Fingerprint: %3$s\n
+    - 3D Printer: %4$s\n\n
+    - OctoPrint version: %5$s\n\n
+    My message:\n\n\n\n
+    %6$s\n\n\n\n
+    Best regards</string>
+
+    <string name="contact_version_premium" translatable="false">PREMIUM</string>
+    <string name="contact_version_pro" translatable="false">PRO</string>
+    <string name="contact_version_trial" translatable="false">LITE</string>
+
+    <string name="alert_contact_title">Contact the developer</string>
+
+    <string name="alert_contact_email_msg">\nBefore contacting the developer, are you sure that:\n\n
+    - Printoid is up-to-date ?\n
+    - You have read the tutorials again?\n
+    - You have searched in the Frequently Asked Questions (F.A.Q.)?\n
+    - You will be polite and courteous?\n\n
+    If you do not respect these conditions, the developer <b>will not be able</b> to help you his best.</string>
+
+    <string name="alert_contact_traces_msg">Before sending the logs the developer, are you sure that:\n
+    - Printoid is up-to-date ?\n
+    - You have read the tutorials again?\n
+    - You have search in the Frequently Asked Questions (F.A.Q.)?\n
+    - You will be able to explain why you are sending the traces ?\n
+    - You will be polite and courteous?\n\n
+    If you do not respect these conditions, the developer <b>will not be able</b> to help you his best.</string>
+
+    <string name="alert_contact_tutorials_label">Tutorials</string>
+    <string name="alert_contact_faq_label">F.A.Q.</string>
+
+</resources>

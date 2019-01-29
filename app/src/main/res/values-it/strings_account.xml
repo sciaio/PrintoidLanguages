@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_introduction_message">Your Printoid account helps you to synchronize your settings across multiple devices over the cloud.</string>
+    <string name="account_introduction_signed_as">Signed-in as %s</string>
+    <string name="account_introduction_read_more"><u>Terms of service &amp; privacy policy</u></string>
+
+    <string name="account_sign_up_introduction">Create your Printoid account with your email address:</string>
+    <string name="account_i_have_an_account">I already have an account</string>
+    <string name="account_sign_up">Sign-up</string>
+    <string name="account_confirm_password">Password confirmation</string>
+    <string name="account_email_invalid">Please provide a valid email</string>
+    <string name="account_password_error_empty">Please provide a password</string>
+    <string name="account_password_error_size">Min password length is 8</string>
+    <string name="account_password_error_lower">Shall contain at least one lowercase</string>
+    <string name="account_password_error_upper">Shall contain at least one uppercase</string>
+    <string name="account_password_error_digit">Shall contain at least one digit</string>
+    <string name="account_password_confirm_does_not_match">Passwords do not match</string>
+
+    <string name="account_sign_in_with_email">Sign-in with email</string>
+    <string name="account_sign_in_with_google">Sign-in with Google</string>
+    <string name="account_sign_out">Sign-out</string>
+
+    <string name="account_backup">Backup settings in account</string>
+    <string name="account_restore">Restore settings from account</string>
+    <string name="account_automatic_backup">Automatic backup</string>
+    <string name="account_automatic_restore">Warn on settings change from account</string>
+
+    <string name="account_backup_success">Your Printoid settings have been backed-up in your account!</string>
+    <string name="account_backup_failure">Failed to backup your Printoid settings, please retry later!</string>
+    <string name="account_restore_success">Your Printoid settings have been restored from your account, the app will restart!</string>
+    <string name="account_restore_failure">Failed to restore your Printoid settings, please retry later!</string>
+    <string name="account_restore_not_needed">Your settings are already up-to-date, they do not need to be restored from your account</string>
+
+    <string name="account_created_with_success">Account created with success! Welcome, %s!</string>
+    <string name="account_created_with_failure">Account not created, please retry later!</string>
+
+    <string name="account_logged_with_success">Account signed-in with success! Welcome back, %s</string>
+    <string name="account_logged_with_failure">Account not signed-in, please retry later!</string>
+
+    <string name="account_alert_settings_changed_title">Settings from account changed</string>
+    <string name="account_alert_settings_changed_message">The settings stored in your Printoid account seem to have changed. Do you want to restore them now on this device?\n\nPrintoid will need to restart after applying the modifications.</string>
+
+</resources>

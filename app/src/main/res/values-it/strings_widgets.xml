@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="widget_snapshot_name">Printoid Snapshot widget</string>
+    <string translatable="false" name="widget_job_name">Printoid Job widget</string>
+    <string translatable="false" name="widget_starter_name">Printoid Profile starter</string>
+    <string translatable="false" name="widget_profiles_name">Printoid Profiles</string>
+
+    <string translatable="false" name="widget_snapshot_name_reduced">Snapshot</string>
+    <string translatable="false" name="widget_job_name_reduced">Job</string>
+    <string translatable="false" name="widget_starter_name_reduced">Starter</string>
+    <string translatable="false" name="widget_profiles_name_reduced">Profiles</string>
+
+    <string name="widget_no_snapshot_connection">Can\'t retrieve snapshot\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Can\'t retrieve snapshot</string>
+    <string name="widget_unknown_profile">Unknown profile</string>
+
+    <string name="widget_starter_error_no_profiles">Can\'t select profile: no profile available</string>
+    <string name="widget_starter_error_profile_not_found">Can\'t select profile: not found or no more available</string>
+    <string name="widget_starter_error_null_id">Can\'t select profile: identifier not valid</string>
+
+    <string name="widget_empty_profiles" translatable="false">No OctoPrint profiles</string>
+
+    <string name="widget_id" translatable="false">Widget ID: %d</string>
+
+</resources>
