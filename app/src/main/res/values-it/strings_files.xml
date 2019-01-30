@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="select_file_to_upload">Select file to upload</string>
-    <string name="upload_new_file">Upload a new file</string>
-    <string name="select_file_install_file_explorer">No file explorer app found.</string>
-    <string name="upload_file_dialog_title">Uploading file</string>
+    <string name="select_file_to_upload">Seleziona il file da caricare</string>
+    <string name="upload_new_file">Carica un nuovo file</string>
+    <string name="select_file_install_file_explorer">Nessuna applicazione di explorer file trovata.</string>
+    <string name="upload_file_dialog_title">Caricamento file</string>
     <string name="upload_file_dialog_msg">%1$s\n%2$d%%</string>
 
-    <string name="upload_error_file_not_found">Error: file not found</string>
-    <string name="upload_error_bad_request">Error: bad request</string>
-    <string name="upload_error_remote_not_found">Error: server directory not found</string>
-    <string name="upload_error_conflict">Error: conflict with this file</string>
-    <string name="upload_error_unsupported_media">Error: unsupported media type, not a GCODE or STL file</string>
-    <string name="upload_error_internal_server_error">Error: internal OctoPrint server error</string>
-    <string name="upload_error_unknown">Error: can not send file to your OctoPrint server (%d)</string>
+    <string name="upload_error_file_not_found">Errore: file non trovato</string>
+    <string name="upload_error_bad_request">Errore: richiesta errata</string>
+    <string name="upload_error_remote_not_found">Errore: directory del server non trovata</string>
+    <string name="upload_error_conflict">Errore: conflitto con questo file</string>
+    <string name="upload_error_unsupported_media">Errore: tipo di file non supportato, non un file GCODE o STL</string>
+    <string name="upload_error_internal_server_error">Errore: errore interno del server OctoPrint</string>
+    <string name="upload_error_unknown">Errore: impossibile inviare file al server OctoPrint(%d)</string>
 
-    <string name="create_folder_title">Folder creation</string>
-    <string name="create_folder_message">Set a name for the new folder:</string>
-    <string name="create_folder_message_hint">New folder name</string>
-    <string name="create_folder_created">Folder created</string>
-    <string name="create_folder_error_file_not_found">Error: folder not found</string>
-    <string name="create_folder_error_bad_request">Error: bad request</string>
-    <string name="create_folder_error_remote_not_found">Error: server directory not found</string>
-    <string name="create_folder_error_conflict">Error: conflict with this folder</string>
-    <string name="create_folder_error_internal_server_error">Error: internal OctoPrint server error</string>
-    <string name="create_folder_error_unknown">Error: can not create folder on your OctoPrint server (%d)</string>
+    <string name="create_folder_title">Crea una nuova cartella</string>
+    <string name="create_folder_message">Imposta un nome per la nuova cartella:</string>
+    <string name="create_folder_message_hint">Nome nuova cartella</string>
+    <string name="create_folder_created">Cartella creata</string>
+    <string name="create_folder_error_file_not_found">Errore: cartella non trovata</string>
+    <string name="create_folder_error_bad_request">Errore: richiesta sbagliata</string>
+    <string name="create_folder_error_remote_not_found">Errore: directory del server non trovata</string>
+    <string name="create_folder_error_conflict">Errore: conflitto con questa cartella</string>
+    <string name="create_folder_error_internal_server_error">Errore: Errore interno del server OctoPrint</string>
+    <string name="create_folder_error_unknown">Errore: impossibile creare una cartella sul tuo server OctoPrint (%d)</string>
 
-    <string name="move_file_title">Move file</string>
-    <string name="move_file_message">Move file %s to the following folder:</string>
-    <string name="move_file_done">File moved</string>
-    <string name="move_file_error_sdcard_msg">Printoid can\'t move a file from the sdcard!</string>
+    <string name="move_file_title">Sposta file</string>
+    <string name="move_file_message">File spostato %s nella seguente cartella:</string>
+    <string name="move_file_done">File spostato correttamente</string>
+    <string name="move_file_error_sdcard_msg">Printoid non può spostare un file dalla sdcard!</string>
 
-    <string name="upload_file_title">Upload file</string>
-    <string name="upload_file_message">Upload file %s to the following destination:</string>
-    <string name="upload_file_done">File uploaded</string>
-    <string name="upload_file_select">Select the source for the file to be uploaded to your server:</string>
+    <string name="upload_file_title">Caricare file</string>
+    <string name="upload_file_message">Carica file %s nella seguente cartella:</string>
+    <string name="upload_file_done">File caricato</string>
+    <string name="upload_file_select">Seleziona il file da caricare sul tuo server:</string>
 
     <string name="downloading_file">Downloading file&#8230;</string>
-    <string name="file_deleted">File deleted from OctoPrint</string>
-    <string name="folder_deleted">Folder deleted from OctoPrint</string>
+    <string name="file_deleted">File cancellato da OctoPrint</string>
+    <string name="folder_deleted">Cartella cancellata da OctoPrint</string>
 
-    <string name="alert_delete_file_title">Delete file</string>
-    <string name="alert_delete_file_msg">Do you really want to delete the file <b>%s</b>? This action can\'t be undone.</string>
+    <string name="alert_delete_file_title">Cancella file</string>
+    <string name="alert_delete_file_msg">Vuoi veramente cancellare il file<b>%s</b>? Questa azione non può essere annullata.</string>
 
-    <string name="alert_delete_folder_title">Delete folder</string>
-    <string name="alert_delete_folder_msg">Do you really want to delete the folder <b>%s</b>? Every files in this folder will be deleted too. This action can\'t be undone.</string>
+    <string name="alert_delete_folder_title">Cancella cartella</string>
+    <string name="alert_delete_folder_msg">Vuoi veramente cancellare la cartella <b>%s</b>? Verranno eliminati anche tutti i file in questa cartella. Questa azione non può essere annullata.</string>
 
-    <string name="alert_cant_delete_msg">Printoid can\'t delete %s</string>
+    <string name="alert_cant_delete_msg">Printoid non è possibile eliminare %s</string>
 
-    <string name="files_new_folder">New folder</string>
-    <string name="files_move_file">Move file</string>
-    <string name="files_upload_file">Upload file</string>
-    <string name="files_sort_files">Sort files</string>
-    <string name="files_analyze">Analyze</string>
-    <string name="files_history">History</string>
+    <string name="files_new_folder">Nuova Cancella</string>
+    <string name="files_move_file">Sposta file</string>
+    <string name="files_upload_file">Invia File</string>
+    <string name="files_sort_files">Ordina i file</string>
+    <string name="files_analyze">Analizza</string>
+    <string name="files_history">Cronologia</string>
 
     <string name="analyzer_folder_root">ROOT</string>
     <string name="analyzer_number_file">%d file</string>
     <string name="analyzer_number_files">%d files</string>
-    <string name="analyzer_number_folder">%d folder</string>
-    <string name="analyzer_number_folders">%d folders</string>
+    <string name="analyzer_number_folder">%d cartella</string>
+    <string name="analyzer_number_folders">%d cartelle</string>
     <string name="analyzer_success_failures">%1$d %2$s / %3$d %4$s</string>
-    <string name="analyzer_success">success</string>
-    <string name="analyzer_success_plural">success</string>
-    <string name="analyzer_failure">failure</string>
-    <string name="analyzer_failure_plural">failures</string>
-    <string name="analyzer_total_print_time">Total print time:</string>
-    <string name="analyzer_total_size">Total size:</string>
-    <string name="analyzer_total_filament_length">Total filament length:</string>
-    <string name="analyzer_total_folders">Number of folders:</string>
-    <string name="analyzer_total_machine_code">Number of GCODE:</string>
-    <string name="analyzer_total_models">Number of models:</string>
-    <string name="analyzer_total_estimated_cost">Total estimated cost:</string>
+    <string name="analyzer_success">riuscito</string>
+    <string name="analyzer_success_plural">riuscito</string>
+    <string name="analyzer_failure">fallito</string>
+    <string name="analyzer_failure_plural">falliti</string>
+    <string name="analyzer_total_print_time">Tempo di stampa totale:</string>
+    <string name="analyzer_total_size">Dimensione totale:</string>
+    <string name="analyzer_total_filament_length">Lunghezza totale del filamento:</string>
+    <string name="analyzer_total_folders">Numero di cartelle:</string>
+    <string name="analyzer_total_machine_code">Numero di GCODE:</string>
+    <string name="analyzer_total_models">Numero di modelli:</string>
+    <string name="analyzer_total_estimated_cost">Costo totale stimato:</string>
 
-    <string name="download_file_done">File downloaded to your internal storage (&lt;sdcard&gt;/Printoid/files/)</string>
+    <string name="download_file_done">File scaricato nella memoria interna (&lt;sdcard&gt;/Printoid/files/)</string>
 
 </resources>
