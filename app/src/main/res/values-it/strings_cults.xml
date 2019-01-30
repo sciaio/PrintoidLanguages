@@ -9,15 +9,15 @@
 
     <string name="cults_category_url">https://cults3d.com/en/categories/%s</string>
 
-    <string name="cults_locale">en</string>
+    <string name="cults_locale">it</string>
 
     <string name="cults_free">free</string>
     <string name="cults_powered_by">Powered by</string>
-    <string name="cults_see_more_creations">See more creations on</string>
-    <string name="cults_see_creation_on">See this creation on</string>
+    <string name="cults_see_more_creations">Vedi più creazioni su</string>
+    <string name="cults_see_creation_on">Vedi più creazioni su</string>
     <string name="cults_created_by">Created by %s</string>
 
-    <string name="cults_select_mode">Select a category of creation</string>
+    <string name="cults_select_mode">Seleziona una categoria di creazione</string>
     <string name="cults_mode_selection">Cults\'s selection</string>
     <string name="cults_mode_latest_creation">Latest creations</string>
 
