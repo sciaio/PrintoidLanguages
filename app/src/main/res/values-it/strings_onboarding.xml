@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="onboarding_welcome_title">Configuration of your first OctoPrint profile</string>
-    <string name="onboarding_welcome_message">Printoid will guide you in the creation and the configuration of your first OctoPrint profile in the application.\n\n
-        It is very easy and will only take you a few minutes. Please read and follow all the instructions carefully.</string>
+    <string name="onboarding_welcome_title">Configurazione del tuo primo profilo OctoPrint</string>
+    <string name="onboarding_welcome_message">Printoid ti guiderà nella creazione e nella configurazione del tuo primo profilo OctoPrint nell'applicazione.\n\n
+        È molto semplice e ti richiederà solo pochi minuti. Si prega di leggere e seguire attentamente tutte le istruzioni.</string>
 
-    <string name="onboarding_profile_name_title">Profile name</string>
-    <string name="onboarding_profile_name_message">Give a name and set a picture to this profile to identify it easily in the app.</string>
-    <string name="onboarding_profile_name_error">Please provide a valid profile name</string>
+    <string name="onboarding_profile_name_title">Nome del profilo</string>
+    <string name="onboarding_profile_name_message">Dare un nome e impostare un'immagine per questo profilo per identificarlo facilmente nell'app.</string>
+    <string name="onboarding_profile_name_error">Si prega di fornire un nome profilo valido</string>
 
-    <string name="onboarding_local_ip_title">Local IP address</string>
-    <string name="onboarding_local_ip_message">The local IP address (or hostname) allows Printoid to connect to your OctoPrint server from your local network.\n
-        Provide a port value only and only if you have changed the default one (80).</string>
-    <string name="onboarding_local_ip_port">Local port (optional)</string>
-    <string name="onboarding_local_ip_address_error">Please provide a valid IP (or hostname)</string>
-    <string name="onboarding_local_ip_port_error">Please provide a valid port</string>
+    <string name="onboarding_local_ip_title">Indirizzo IP locale</string>
+    <string name="onboarding_local_ip_message">L'indirizzo IP locale (o il nome host) consente a Printoid di connettersi al server OctoPrint dalla rete locale.\n
+        Fornire un valore di porta solo e solo se è stato modificato quello predefinito (80).</string>
+    <string name="onboarding_local_ip_port">Porta locale (opzionale)</string>
+    <string name="onboarding_local_ip_address_error">Si prega di fornire un IP (o hostname) valido</string>
+    <string name="onboarding_local_ip_port_error">Si prega di fornire una porta valida</string>
 
-    <string name="onboarding_public_ip_title">Public IP address (optional)</string>
-    <string name="onboarding_public_ip_message"><![CDATA[The public IP address (or hostname) allows Printoid to connect to your OctoPrint server over the Internet (\'outside\' of your network).\n
-        <a href="https://printoid.net/access-octoprint-from-the-internet/">Please follow this tutorial</a> before trying to access to your server over the 3G/4G, for example.]]></string>
+    <string name="onboarding_public_ip_title">Indirizzo IP pubblico (opzionale)</string>
+    <string name="onboarding_public_ip_message"><![CDATA[L'indirizzo IP pubblico (o il nome host) consente a Printoid di connettersi al server OctoPrint tramite Internet (\'fuori\' dalla tua rete.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Si prega di seguire questo tutorial</a> prima di provare ad accedere al tuo server tramite 3G / 4G.]]></string>
     <string name="onboarding_public_ip">@string/config_wan_ip</string>
-    <string name="onboarding_public_ip_port">Public port (optional)</string>
+    <string name="onboarding_public_ip_port">Porta Pubblica (opzionale)</string>
     <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
 
-    <string name="onboarding_api_key_title">OctoPrint API key</string>
-    <string name="onboarding_api_key_message">Printoid needs the OctoPrint API key to connect to your server.\n
-        The API key can be found in the settings of your OctoPrint web interface, in the menu \'API\'. The \'Enable\' checkbox has to be checked.</string>
-    <string name="onboarding_api_key_error">Please provide your OctoPrint API key</string>
+    <string name="onboarding_api_key_title">OctoPrint Chiave API</string>
+    <string name="onboarding_api_key_message">Printoid ha bisogno della chiave API OctoPrint per connettersi al tuo server.\n
+        La chiave API può essere trovata nelle impostazioni dell'interfaccia web di OctoPrint, nel menu \'API\'. La casella deve essere \'Abilitata\'.</string>
+    <string name="onboarding_api_key_error">Si prega di fornire la chiave API OctoPrint</string>
 
     <string name="onboarding_baudrate_title">Printer\'s baudrate</string>
-    <string name="onboarding_baudrate_message">In order to instantiate the connection with your 3D printer, please provide its baudrate.\n
-        This can be easily changed if you have more than one 3D printer connected.</string>
+    <string name="onboarding_baudrate_message">Per creare istanza della connessione con la stampante 3D, forniscici la sua baudrate.\n
+        Questo può essere facilmente modificato se hai più di una stampante 3D collegata.</string>
 
-    <string name="onboarding_security_title">Security (optional)</string>
-    <string name="onboarding_security_message_basic_auth"><![CDATA[Provide your Basic Authentication credentials if you have enabled this feature in your server.\n
-        <a href="https://printoid.net/access-octoprint-from-the-internet/">Read this page</a> for more information.]]></string>
-    <string name="onboarding_security_basic_auth_login_error">Please provide your login</string>
-    <string name="onboarding_security_basic_auth_password_error">Please provide your password</string>
-    <string name="onboarding_security_message_https">Enable this option only if communication with HTTPS (SSL/TLS) has been enabled in your server.</string>
+    <string name="onboarding_security_title">Sicurezza (opzionale)</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[Fornire le credenziali di autenticazione di base se questa funzione è stata abilitata nel server.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Leggi questa pagina </a> per maggiori info.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">Si prega di fornire il login</string>
+    <string name="onboarding_security_basic_auth_password_error">Si prega di fornire la password</string>
+    <string name="onboarding_security_message_https">Abilita questa opzione solo se la comunicazione con HTTPS (SSL / TLS) è stata abilitata nel tuo server.</string>
 
-    <string name="onboarding_ssh_title">Secure Shell commands (optional)</string>
-    <string name="onboarding_ssh_message"><![CDATA[Provide your SSH credentials if you want to send SSH commands to your server.\n
-        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Read this page</a> for more information about SSH commands.\n
-        Provide a public port for distant SSH only (by default, port 22 is used locally)]]></string>
+    <string name="onboarding_ssh_title">Secure Shell commandi(opzionale)</string>
+    <string name="onboarding_ssh_message"><![CDATA[Fornire le credenziali SSH se si desidera inviare comandi SSH al server.\n
+        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Leggi questa pagina</a> per maggiori info sui SSH commandi.\n
+        Fornire una porta pubblica solo per SSH (per impostazione predefinita, la porta 22 viene utilizzata localmente)]]></string>
     <string name="onboarding_ssh_login">SSH login</string>
     <string name="onboarding_ssh_pwd">SSH password</string>
-    <string name="onboarding_ssh_port">Public SSH port (optional)</string>
+    <string name="onboarding_ssh_port">Porta Pubblica SSH (opzionale)</string>
 
-    <string name="onboarding_confirmation_title">Confirmation</string>
-    <string name="onboarding_confirmation_message">You are almost done!\nPlease review your configuration and double check all the values you have provided.</string>
+    <string name="onboarding_confirmation_title">Conferma</string>
+    <string name="onboarding_confirmation_message">Hai quasi finito!\nRivedi la tua configurazione e ricontrolla tutti i valori che hai fornito.</string>
 
 
 </resources>
