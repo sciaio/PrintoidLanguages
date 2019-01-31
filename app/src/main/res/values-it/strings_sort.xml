@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="sort_method">Select sort method:</string>
-    <string name="sort_name_ascending">Alphabetical</string>
-    <string name="sort_name_descending">Alphabetical Inverted</string>
-    <string name="sort_oldest_first">Oldest file first</string>
-    <string name="sort_newest_first">Newest file first</string>
-    <string name="sort_shortest_first">Shortest print first</string>
-    <string name="sort_longest_first">Longest print first</string>
-    <string name="sort_most_success_first">Most successful first</string>
-    <string name="sort_less_success_first">Less successful first</string>
-    <string name="sort_favorites_only">Favorites only</string>
+    <string name="sort_method">Seleziona il metodo di ordinamento:</string>
+    <string name="sort_name_ascending">Alfabetico</string>
+    <string name="sort_name_descending">Alfabetico Invertito</string>
+    <string name="sort_oldest_first">Prima il file più vecchio</string>
+    <string name="sort_newest_first">Prima il file più nuovo</string>
+    <string name="sort_shortest_first">Gli abbozzi di stampa più corti</string>
+    <string name="sort_longest_first">La stampa più lunga prima</string>
+    <string name="sort_most_success_first">Prima quelli andati buon fine</string>
+    <string name="sort_less_success_first">Prima quelli non andati buon fine</string>
+    <string name="sort_favorites_only">Solo preferiti</string>
 
 </resources>
