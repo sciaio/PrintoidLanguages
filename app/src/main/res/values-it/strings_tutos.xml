@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="tutorial_available_in_pro_version">Available in the PRO and PREMIUM versions</string>
-    <string name="tutorial_available_in_premium_version">Available in the PREMIUM version</string>
-    <string name="tutorial_only_in_lite_version">Only in the LITE version</string>
+    <string name="tutorial_available_in_pro_version">Disponibile nelle versioni PRO e PREMIUM</string>
+    <string name="tutorial_available_in_premium_version">Disponibile nella versione PREMIUM</string>
+    <string name="tutorial_only_in_lite_version">Solo nella versione LITE</string>
 
     <!-- WELCOME -->
-    <string name="tutorial_message_welcome">Welcome in Printoid %s</string>
-    <string name="tutorial_message_welcome_2">This short introduction will show you the content of the application</string>
+    <string name="tutorial_message_welcome">Benvenuto in Printoid %s</string>
+    <string name="tutorial_message_welcome_2">Questa breve introduzione ti mostrerà il contenuto dell'applicazione</string>
 
     <!-- VERSIONS COMPARATOR -->
-    <string name="tutorial_comparator_title">Versions comparator</string>
+    <string name="tutorial_comparator_title">Comparatore di versioni</string>
     <string name="tutorial_comparator_premium_title" translatable="false">Printoid PREMIUM</string>
-    <string name="tutorial_comparator_premium_content">PRO features + advanced control, widgets and more…</string>
+    <string name="tutorial_comparator_premium_content">Funzionalità PRO + controllo avanzato, widget e altro ...</string>
     <string name="tutorial_comparator_pro_title" translatable="false">Printoid PRO</string>
-    <string name="tutorial_comparator_pro_content">Multiple OctoPrint profiles, streaming, custom commands, 2D &amp; 3D visualizers, real-time simulator &amp; more…</string>
+    <string name="tutorial_comparator_pro_content">Più profili OctoPrint, streaming, comandi personalizzati, 2D &amp; Visualizzatori 3D, simulatore in tempo reale &amp; altro...</string>
     <string name="tutorial_comparator_lite_title" translatable="false">Printoid LITE</string>
-    <string name="tutorial_comparator_lite_content">Basic pack of features for free &amp; for an unlimited duration</string>
+    <string name="tutorial_comparator_lite_content">Pacchetto base di funzionalità gratuitamente &amp; per una durata illimitata</string>
     <string name="tutorial_comparator_button_1">Full versions comparator</string>
 
     <!-- KEYBOARD / ADB -->
-    <string name="tutorial_keyboard_title">Keyboard &amp; ADB control</string>
-    <string name="tutorial_keyboard_message">Control Printoid with a keyboard or build your own physical interface by using ADB!</string>
-    <string name="tutorial_keyboard_message_3">More informations about the available commands on the official web-site</string>
-    <string name="tutorial_keyboard_button_1">ADB control</string>
-    <string name="tutorial_keyboard_button_2">Keyboard control</string>
+    <string name="tutorial_keyboard_title">Tastiera &amp; ADB controlli</string>
+    <string name="tutorial_keyboard_message">Controlla il tabulato con una tastiera o crea la tua interfaccia fisica usando ADB!</string>
+    <string name="tutorial_keyboard_message_3">Maggiori informazioni sui comandi disponibili sul sito web ufficiale</string>
+    <string name="tutorial_keyboard_button_1">ADB controlli</string>
+    <string name="tutorial_keyboard_button_2">Controllo della tastiera</string>
 
     <!-- ADVERTISEMENT -->
-    <string name="tutorial_ads_title">Advertising in LITE</string>
-    <string name="tutorial_ads_message">The LITE version is free for an unlimited duration, but contains advertising.</string>
-    <string name="tutorial_ads_message_2">To remove the ads, enjoy the full-featured app, and support the developer, you can purchase Printoid PRO or Printoid PREMIUM.</string>
+    <string name="tutorial_ads_title">Pubblicità in LITE</string>
+    <string name="tutorial_ads_message">La versione LITE è gratuita per una durata illimitata, ma contiene pubblicità.</string>
+    <string name="tutorial_ads_message_2">Per rimuovere gli annunci, utilizzare l'app completa e supportare lo sviluppatore, è possibile acquistare Printoid PRO o Printoid PREMIUM.</string>
 
     <!-- WIDGETS -->
-    <string name="tutorial_widgets_title">Exclusive widgets</string>
-    <string name="tutorial_widgets_message">Monitor your 3D printers without having to start the application!</string>
-    <string name="tutorial_widgets_message_3">Add as many widget as you want to build your own interface and just tap on them to update the values!</string>
+    <string name="tutorial_widgets_title">Esclusivi widgets</string>
+    <string name="tutorial_widgets_message">Monitora le tue stampanti 3D senza dover avviare l'applicazione!</string>
+    <string name="tutorial_widgets_message_3">Aggiungi tutti i widget che vuoi per costruire la tua interfaccia e toccali per aggiornare i valori!</string>
 
     <!-- STREAMING -->
     <string name="tutorial_video_title">Video streaming</string>
-    <string name="tutorial_video_message">Always keep an eye on what\'s happening on your 3D printer plate!</string>
-    <string name="tutorial_video_message_2">In-app video player, launcher widget and floating icon to see your video from anywhere</string>
-    <string name="tutorial_video_message_4">A reverse proxy on the Raspberry Pi is a good practice to make the streaming accessible on the same port as OctoPrint</string>
-    <string name="tutorial_video_button_1">Setup my camera</string>
-    <string name="tutorial_video_button_2">Start low/high quality</string>
-    <string name="tutorial_video_button_3">Support 2 cameras</string>
+    <string name="tutorial_video_message">Tieni sempre d'occhio cosa succede sul piatto della tua stampante 3D!</string>
+    <string name="tutorial_video_message_2">Lettore video in-app, widget di avvio e icona mobile per vedere il tuo video da qualsiasi luogo</string>
+    <string name="tutorial_video_message_4">Un proxy inverso sul Raspberry Pi è una buona pratica per rendere lo streaming accessibile sulla stessa porta di OctoPrint</string>
+    <string name="tutorial_video_button_1">Imposta la mia camera</string>
+    <string name="tutorial_video_button_2">Inizia bassa/alta qualità/string>
+    <string name="tutorial_video_button_3">Supporto 2 camere</string>
 
     <!-- COMMANDS -->
-    <string name="tutorial_commands_title">Your own commands</string>
-    <string name="tutorial_commands_message">Customize Printoid with your own commands &amp; features!</string>
-    <string name="tutorial_commands_message_2">Create your own buttons to send GCODE commands to your 3D printer</string>
-    <string name="tutorial_commands_message_3">Communicate with your Raspberry Pi over SSH (control a relay…)</string>
-    <string name="tutorial_commands_message_4">Access to your OctoPrint built-in commands (registered in config.yaml)</string>
-    <string name="tutorial_commands_button_1">GCODE commands</string>
-    <string name="tutorial_commands_button_2">SSH commands</string>
-    <string name="tutorial_commands_button_3">HTTP commands</string>
+    <string name="tutorial_commands_title">I tuoi stessi comandi</string>
+    <string name="tutorial_commands_message">Personalizza il Printoid con i tuoi comandi &amp; features!</string>
+    <string name="tutorial_commands_message_2">Crea i tuoi pulsanti per inviare comandi GCODE alla tua stampante 3D</string>
+    <string name="tutorial_commands_message_3">Comunica con il tuo Raspberry Pi su SSH (controlla un relay ...)</string>
+    <string name="tutorial_commands_message_4">Accesso ai comandi integrati di OctoPrint (registrati in config.yaml)</string>
+    <string name="tutorial_commands_button_1">GCODE commandi</string>
+    <string name="tutorial_commands_button_2">SSH commandi</string>
+    <string name="tutorial_commands_button_3">HTTP commandi</string>
 
     <!-- MULTI PROFILES -->
-    <string name="tutorial_multi_profiles_title">Easy connection to OctoPrint servers</string>
-    <string name="tutorial_multi_profiles_message">Control and manage as many OctoPrint servers and 3D printers as you need!</string>
-    <string name="tutorial_multi_profiles_message_2">Printoid will smartly use by itself the local (LAN) or distant (WAN) configuration when needed</string>
-    <string name="tutorial_multi_profiles_message_3">Please note that every Printoid settings are relative to the selected profile</string>
-    <string name="tutorial_multi_profiles_button_1">How to connect?</string>
-    <string name="tutorial_multi_profiles_button_2">Connect from outside (3G/4G)</string>
-    <string name="tutorial_multi_profiles_button_3">Adjusting the settings</string>
+    <string name="tutorial_multi_profiles_title">Facile connessione ai server OctoPrint</string>
+    <string name="tutorial_multi_profiles_message">Controlla e gestisci tutti i server OctoPrint e le stampanti 3D di cui hai bisogno!</string>
+    <string name="tutorial_multi_profiles_message_2">Printoid utilizzerà in modo intelligente la configurazione locale (LAN) o distante (WAN) quando necessario</string>
+    <string name="tutorial_multi_profiles_message_3">Si noti che tutte le impostazioni di stampa sono relative al profilo selezionato</string>
+    <string name="tutorial_multi_profiles_button_1">Come connettere?</string>
+    <string name="tutorial_multi_profiles_button_2">Cconnettersi dall'esterno (3G / 4G)</string>
+    <string name="tutorial_multi_profiles_button_3">Regolazione delle impostazioni</string>
 
     <!-- 2D / 3D RENDERERS -->
-    <string name="tutorial_render_title">2D &amp; 3D visualizers</string>
-    <string name="tutorial_render_message_0">The 2D and 3D visualizers are accessible from the extended file manager (open it from the left menu)</string>
-    <string name="tutorial_render_message">Check each layers of your GCODE files in 2D or visualize the whole STL or GCODE object in 3D from the app!</string>
-    <string name="tutorial_render_message_2">Printoid also provides a real-time 2D simulator when you are printing an object</string>
-    <string name="tutorial_render_button_1">How does it work</string>
+    <string name="tutorial_render_title">2D &amp; 3D visualizzatori</string>
+    <string name="tutorial_render_message_0">I visualizzatori 2D e 3D sono accessibili dal gestore file esteso (aprilo dal menu a sinistra)</string>
+    <string name="tutorial_render_message">Controlla ogni strato dei tuoi file GCODE in 2D o visualizza l'intero oggetto STL o GCODE in 3D dall'app!</string>
+    <string name="tutorial_render_message_2">Il Printoid fornisce anche un simulatore 2D in tempo reale quando si stampa un oggetto</string>
+    <string name="tutorial_render_button_1">Come funziona? </string>
 
     <!-- ANDROID WEAR -->
-    <string name="tutorial_wear_title">Android Wear module</string>
-    <string name="tutorial_wear_message_1">Control and manage your 3D printer directly from your wrist!</string>
-    <string name="tutorial_wear_message_2">Printer informations, axis control, temperatures/ventilation/extruders management, files and commands lists</string>
-    <string name="tutorial_wear_message_3">This module is only available for Android Wear (not available for Samsung Wear (Tizen))</string>
+    <string name="tutorial_wear_title">Android Wear modulo</string>
+    <string name="tutorial_wear_message_1">Controlla e gestisci la tua stampante 3D direttamente dal tuo polso!</string>
+    <string name="tutorial_wear_message_2">Informazioni sulla stampante, controllo assi, gestione temperature /ventilazione/estrusori, file e liste comandi</string>
+    <string name="tutorial_wear_message_3">Questo modulo è disponibile solo per Android Wear (non disponibile per Samsung Wear (Tizen))</string>
 
     <!-- WEBAPP -->
-    <string name="tutorial_web_app_title">OctoPrint web interface</string>
-    <string name="tutorial_web_app_message">You also have an extra access to your <b>OctoPrint server web interface</b>, without having to leave Printoid!</string>
-    <string name="tutorial_web_app_message_2">Designed to fit perfectly with smartphone and tablet screens</string>
+    <string name="tutorial_web_app_title">Interfaccia web di OctoPrint</string>
+    <string name="tutorial_web_app_message">Hai anche un accesso extra al tuo <b>Interfaccia web del server OctoPrint</b>, senza dover andare via da Printoid!</string>
+    <string name="tutorial_web_app_message_2">Progettato per adattarsi perfettamente agli schermi di smartphone e tablet</string>
 
     <!-- WEBSITE -->
-    <string name="tutorial_support_title">Official website and support</string>
-    <string name="tutorial_support_message_1">You will be able to find all the responses to your questions on https://printoid.net</string>
-    <string name="tutorial_support_message_2">Constant updates, tricks &amp; tips, useful informations, development communication…</string>
-    <string name="tutorial_support_message_3">Feel free to contact the developer by e-mail for any issue or feature request!</string>
-    <string name="tutorial_support_button_1">News feed</string>
-    <string name="tutorial_support_button_2">Frequently Asked Questions</string>
-    <string name="tutorial_support_button_3">Contact the developer</string>
+    <string name="tutorial_support_title">Sito Web ufficiale e supporto</string>
+    <string name="tutorial_support_message_1">Sarai in grado di trovare tutte le risposte alle tue domande https://printoid.net</string>
+    <string name="tutorial_support_message_2">Aggiornamenti costanti, trucchi &amp; suggerimenti, informazioni utili, comunicazione di sviluppo ...</string>
+    <string name="tutorial_support_message_3">Sentiti libero di contattare lo sviluppatore via e-mail per qualsiasi problema o richiesta di funzionalità!</string>
+    <string name="tutorial_support_button_1">Feed di notizie</string>
+    <string name="tutorial_support_button_2">Domande frequenti</string>
+    <string name="tutorial_support_button_3">Contatta lo sviluppatore</string>
 
     <!-- END -->
-    <string name="tutorial_end_message">Start Printoid</string>
+    <string name="tutorial_end_message">Avvia Printoid</string>
 
     <!-- BACKUP -->
-    <string name="tutorial_backup_read_permission_title">Backup &amp; restore</string>
-    <string name="tutorial_backup_read_permission_msg">Printoid is able to restore the whole configuration from a previous installation if needed (if you had installed Printoid LITE for example).\n\nTo achieve this, please accept the permission in the following dialog.</string>
+    <string name="tutorial_backup_read_permission_title">Backup &amp; ripristino</string>
+    <string name="tutorial_backup_read_permission_msg">Printoid Il tabulato è in grado di ripristinare l'intera configurazione da un'installazione precedente se necessario (se è stato installato Printoid LITE ad esempio).\n\nPer ottenere ciò, si prega di accettare il permesso nella seguente finestra di dialogo.</string>
     <string name="tutorial_backup_from_other_app_premium" translatable="false">PREMIUM</string>
     <string name="tutorial_backup_from_other_app_pro" translatable="false">PRO</string>
     <string name="tutorial_backup_from_other_app_trial" translatable="false">LITE</string>
-    <string name="tutorial_backup_from_other_error">Can\'t apply the backup from Printoid %s, an error occurred</string>
-    <string name="tutorial_backup_from_other_error_permission">Can\'t apply the backup from Printoid %s, its \'write external storage\' permission is not granted</string>
-    <string name="tutorial_backup_from_other_error_unknown">Can\'t apply the backup from Printoid %s, an unknown error occurred</string>
-    <string name="tutorial_backup_from_sdcard">Restore local backup</string>
-    <string name="tutorial_backup_from_other_app">Restore from Printoid %s</string>
-    <string name="tutorial_backup_from_account">I have an account</string>
-    <string name="tutorial_backup_more_backup_options">More backup options</string>
+    <string name="tutorial_backup_from_other_error">Non è possibile applicare il backup %s, si è verificato un errore</string>
+    <string name="tutorial_backup_from_other_error_permission">Non è possibile applicare il backup da Printoid %s, non stato concesso il permesso di \'scrittura sulla memoria\'</string>
+    <string name="tutorial_backup_from_other_error_unknown">Non è possibile applicare il backup da Printoid %s, si è verificato un errore sconosciuto</string>
+    <string name="tutorial_backup_from_sdcard">Ripristina il backup locale</string>
+    <string name="tutorial_backup_from_other_app">Ripristina da Printoid %s</string>
+    <string name="tutorial_backup_from_account">ho un account</string>
+    <string name="tutorial_backup_more_backup_options">Altre opzioni di backup</string>
 
     <!-- LINKS -->
     <string name="printoid_facebook_url" translatable="false">https://www.facebook.com/printoid/</string>
