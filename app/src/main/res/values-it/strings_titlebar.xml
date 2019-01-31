@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="title_bar_time_percent">%.1f%% (time)</string>
+    <string name="title_bar_time_percent">%.1f%% (tempo)</string>
     <string name="title_bar_gcode_percent">%.1f%% (gcode)</string>
-    <string name="title_bar_remaining_time">Remains %s</string>
-    <string name="title_bar_ext">Ext %1$d: %2$.1f°</string>
-    <string name="title_bar_bed">Bed: %.1f°</string>
+    <string name="title_bar_remaining_time">Resta%s</string>
+    <string name="title_bar_ext">Estr. %1$d: %2$.1f°</string>
+    <string name="title_bar_bed">Piatto: %.1f°</string>
     <string name="title_system_raspberry">Raspberry: %s°</string>
-    <string name="title_system_other">System: %s°</string>
+    <string name="title_system_other">Sistema: %s°</string>
 
-    <string name="title_bar_config_title">Title bar configuration</string>
+    <string name="title_bar_config_title">Configurazione della barra del titolo</string>
 
-    <string name="title_bar_toggle_server_name">Show server name</string>
-    <string name="title_bar_toggle_printer_state">Show server state</string>
-    <string name="title_bar_toggle_extruders_temp">Show extruders temp.</string>
-    <string name="title_bar_toggle_hot_bed">Show hot bed temp.</string>
-    <string name="title_bar_toggle_gcode_progress">Show GCODE progress</string>
-    <string name="title_bar_toggle_time_progress">Show time progress</string>
-    <string name="title_bar_toggle_remaining_time">Show remaining time</string>
-    <string name="title_bar_toggle_file_name">Show file name</string>
-    <string name="title_bar_spinner_change_delay">Change delay (sec)</string>
-    <string name="title_bar_toggle_z_height">Z height (mm)</string>
-    <string name="title_bar_toggle_system_temperature">System temperature (°)</string>
+    <string name="title_bar_toggle_server_name">Mostra il nome del server</string>
+    <string name="title_bar_toggle_printer_state">Mostra lo stato del server</string>
+    <string name="title_bar_toggle_extruders_temp">Mostra temp. Estrusori.</string>
+    <string name="title_bar_toggle_hot_bed">Mostra temperatura piatto.</string>
+    <string name="title_bar_toggle_gcode_progress">Mostra i progressi di GCODE</string>
+    <string name="title_bar_toggle_time_progress">Mostra i progressi del tempo</string>
+    <string name="title_bar_toggle_remaining_time">Mostra il tempo rimanente</string>
+    <string name="title_bar_toggle_file_name">Mostra il nome del file</string>
+    <string name="title_bar_spinner_change_delay">Cambia ritardo (sec)</string>
+    <string name="title_bar_toggle_z_height">Z altezza (mm)</string>
+    <string name="title_bar_toggle_system_temperature">Sistema di temperatura (°)</string>
 
 </resources>
