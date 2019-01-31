@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="temperatures_state_all_correct">All the temperatures are correct!</string>
-    <string name="temperatures_state_bed_issue_only">Heated bed heat issue: %1$.1f / %2$.1f</string>
-    <string name="temperatures_state_ext_issue_only">Heated head %1$d heat issue: %2$.1f / %3$.1f</string>
-    <string name="temperatures_state_ext_issues">Heated heads %s heat issues!</string>
+    <string name="temperatures_state_all_correct">Tutte le temperature sono corrette!</string>
+    <string name="temperatures_state_bed_issue_only">Problema termico del piatto riscaldato: %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">Testina riscaldata %1$d problema di calore: %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">Testine riscaldate %s problema di calore!</string>
 
     <string name="z_height_unit" translatable="false">mm</string>
 
