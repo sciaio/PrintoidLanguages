@@ -17,13 +17,13 @@
     <string name="shortcut_website_faq_label_short" translatable="false">F.A.Q.</string>
     <string name="shortcut_website_faq_disabled" translatable="false">F.A.Q.</string>
 
-    <string name="shortcut_load">Load</string>
-    <string name="shortcut_print">Print</string>
+    <string name="shortcut_load">Carica</string>
+    <string name="shortcut_print">Stampa</string>
     <string name="shortcut_input">Input</string>
-    <string name="shortcut_render3D">3D view</string>
-    <string name="shortcut_render2D">2D view</string>
+    <string name="shortcut_render3D">Vista 3D</string>
+    <string name="shortcut_render2D">Vista 2D</string>
     <string name="shortcut_download">Download</string>
-    <string name="shortcut_delete">Delete</string>
+    <string name="shortcut_delete">Cancella</string>
     <string name="shortcut_slice">Slice</string>
 
     <string name="shortcut_distance_1mm" translatable="false">1 mm</string>
