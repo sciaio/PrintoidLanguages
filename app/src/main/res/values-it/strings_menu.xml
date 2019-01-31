@@ -7,37 +7,37 @@
     <string name="menu_psu_plugin_off" translatable="false">PSU off</string>
     <string name="menu_tplink_plugin_on" translatable="false">TP Link on</string>
     <string name="menu_tplink_plugin_off" translatable="false">TP Link off</string>
-    <string name="menu_connect_server">Connect OctoPrint</string>
-    <string name="menu_connect_printer">Connect printer</string>
-    <string name="menu_connecting_printer">Connecting printer</string>
-    <string name="menu_disconnect_printer">Disconnect printer</string>
+    <string name="menu_connect_server">Connetti OctoPrint</string>
+    <string name="menu_connect_printer">Connetti stampante</string>
+    <string name="menu_connecting_printer">Connessione alla stampante</string>
+    <string name="menu_disconnect_printer">Disconnettere stampante</string>
     <string name="menu_video_streaming">Video streaming</string>
-    <string name="menu_commands">Commands</string>
-    <string name="menu_full_screen">Expand view</string>
-    <string name="menu_full_screen_streaming">Expand video</string>
-    <string name="menu_full_screen_realtime_visualizer">Expand visualizer</string>
-    <string name="menu_full_screen_commands">Expand commands</string>
-    <string name="menu_full_screen_slicer">Expand slicer</string>
-    <string name="menu_full_screen_more_tools">Expand tools</string>
-    <string name="menu_minimize">Minimize view</string>
+    <string name="menu_commands">Commandi</string>
+    <string name="menu_full_screen">Espandi visualizzazione</string>
+    <string name="menu_full_screen_streaming">Espandi video</string>
+    <string name="menu_full_screen_realtime_visualizer">Espandi Visualizzatore</string>
+    <string name="menu_full_screen_commands">Espandi commandi</string>
+    <string name="menu_full_screen_slicer">Espandi slicer</string>
+    <string name="menu_full_screen_more_tools">Espandi attrezzi</string>
+    <string name="menu_minimize">Riduti visualizzazione</string>
     <string name="menu_printer_profiles_settings">OctoPrint\nservers</string>
-    <string name="menu_app_settings">App\nsettings</string>
-    <string name="menu_alarms">Alerts manager</string>
-    <string name="menu_plugins">OctoPrint\'s plugins</string>
-    <string name="menu_spools">Spools manager</string>
-    <string name="menu_app_infos">Help</string>
-    <string name="menu_octoprint_web">OctoPrint web-interface</string>
+    <string name="menu_app_settings">Impostazioni App</string>
+    <string name="menu_alarms">Menu Avvisi</string>
+    <string name="menu_plugins">OctoPrint plugins</string>
+    <string name="menu_spools">Menu bobine</string>
+    <string name="menu_app_infos">Aiuto</string>
+    <string name="menu_octoprint_web">OctoPrint interfaccia-web</string>
     <string name="menu_files">Files</string>
     <string name="menu_cults" translatable="false">Cults</string>
     <string name="menu_myminifactory" translatable="false">MyMiniFactory</string>
     <string name="menu_printoid_web">Printoid\nwebsite</string>
     <string name="menu_timelapse">Timelapses</string>
-    <string name="menu_contact_developer">Contact\ndeveloper</string>
+    <string name="menu_contact_developer">Contatta sviluppatore</string>
 
-    <string name="menu_lite_label_promote">Do you like Printoid Lite?</string>
-    <string name="menu_lite_text_promote">Support the developer and enjoy the PRO or PREMIUM full-featured version!</string>
+    <string name="menu_lite_label_promote">Ti piace Printoid Lite?</string>
+    <string name="menu_lite_text_promote">Supporta lo sviluppatore e goditi la versione completa PRO o PREMIUM!</string>
 
-    <string name="menu_profiles_create">Add profile</string>
-    <string name="menu_profiles_edit">Manage profiles</string>
+    <string name="menu_profiles_create">Inserisci profili</string>
+    <string name="menu_profiles_edit">Gestisci profili</string>
 
 </resources>
