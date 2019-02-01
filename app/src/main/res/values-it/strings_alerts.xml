@@ -75,7 +75,7 @@
     <string name="alert_fan_speed_value_message">Non c\'è modo nella sintassi GCODE standard per recuperare il valore corrente della velocità della ventola.\n\nQuesto è il motivo per cui Printoid non è in grado di impostare lo di scorrimento della ventola con il pollice sul valore effettivo. Se il cursore mostra 0%, non è un bug ma il comportamento previsto \uD83D\uDE48</string>
 
     <string name="alert_choose_ip_title">Scegliere IP</string>
-    <string name="alert_choose_ip_msg">Printoid sembra attualmente non connesso al tuo server OctoPrint.\nSi prega di scegliere l'indirizzo IP (o il nome host) da utilizzare per questo comando SSH</string>
+    <string name="alert_choose_ip_msg">Printoid sembra attualmente non connesso al tuo server OctoPrint.\nSi prega di scegliere l\'indirizzo IP (o il nome host) da utilizzare per questo comando SSH</string>
 
     <string name="intro_printoid_website">Visita https://printoid.net, the Printoid\'s sito Ufficiale! Completi changelogs, prossime versioni, nuove funzionalità, consigli utili &amp; altro!</string>
     <string name="intro_printoid_website_button">Visita ora</string>

@@ -143,7 +143,7 @@
     <string name="setting_enable_printer_info_display_tip">Mostra le temperature&amp; visualizzale sopra lo streaming</string>
     <string name="setting_enable_auto_config_tip">Piatto riscaldato &amp; dirige la configurazione di OctoPrint</string>
     <string name="setting_enable_hot_bed_tip">Regola e mostra la temperatura del piatto riscaldato</string>
-    <string name="setting_enable_fps_tip">Mostra l\'indicazione FPS sull'immagine</string>
+    <string name="setting_enable_fps_tip">Mostra l\'indicazione FPS sull\'immagine</string>
     <string name="setting_enable_flip_vertical_tip">Applica un capovolgimento verticale immagine nel video</string>
     <string name="setting_enable_flip_horizontal_tip">Applica un capovolgimento orizzontale immagine nel video</string>
     <string name="setting_enable_haptic_tip">Feedback aptico quando si fa clic su un pulsante</string>
@@ -234,8 +234,8 @@
     <string name="config_title_alert_settings_changed_msg">La configurazione è cambiata, vuoi salvarla?</string>
 
     <string name="settings_warning_permission_title">È necessaria l\'autorizzazione</string>
-    <string name="settings_warning_permission_backup_msg">Printoid ha bisogno del permesso di scrivere la memoria esterna per eseguire il backup della configurazione.\n\nSi prega di accettare l'autorizzazione nella finestra di dialogo successiva e fare clic su \'backup\' ancora</string>
-    <string name="settings_warning_permission_restore_msg">Printoid necessita dell\'autorizzazione per leggere la memoria esterna per ripristinare la configurazione.\n\nSi prega di accettare l'autorizzazione nella finestra di dialogo successiva e fare clic su \'restore\' ancora</string>
+    <string name="settings_warning_permission_backup_msg">Printoid ha bisogno del permesso di scrivere la memoria esterna per eseguire il backup della configurazione.\n\nSi prega di accettare l\'autorizzazione nella finestra di dialogo successiva e fare clic su \'backup\' ancora</string>
+    <string name="settings_warning_permission_restore_msg">Printoid necessita dell\'autorizzazione per leggere la memoria esterna per ripristinare la configurazione.\n\nSi prega di accettare l\'autorizzazione nella finestra di dialogo successiva e fare clic su \'restore\' ancora</string>
     <string name="backup_canceled">Backup annullato</string>
     <string name="restore_canceled">Ripristino annullato</string>
 

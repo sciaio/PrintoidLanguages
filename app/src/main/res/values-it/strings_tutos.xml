@@ -64,7 +64,7 @@
     <!-- 2D / 3D RENDERERS -->
     <string name="tutorial_render_title">2D &amp; 3D visualizzatori</string>
     <string name="tutorial_render_message_0">I visualizzatori 2D e 3D sono accessibili dal gestore file esteso (aprilo dal menu a sinistra)</string>
-    <string name="tutorial_render_message">Controlla ogni strato dei tuoi file GCODE in 2D o visualizza l\'intero oggetto STL o GCODE in 3D dall'app!</string>
+    <string name="tutorial_render_message">Controlla ogni strato dei tuoi file GCODE in 2D o visualizza l\'intero oggetto STL o GCODE in 3D dall\'app!</string>
     <string name="tutorial_render_message_2">Il Printoid fornisce anche un simulatore 2D in tempo reale quando si stampa un oggetto</string>
     <string name="tutorial_render_button_1">Come funziona? </string>
 

@@ -62,7 +62,7 @@
     ✏ BAUDRATE: questo è il baudrate di comunicazione della tua stampante 3D\n\n
     [ℹ ADVANCED OPTIONS]\n\n
     ✏ SSL (opzionale): abilitare questa funzione per comunicare con HTTPS anziché HTTP\n\n
-    ✏ BASIC AUTH (opzionale): abilitare questa funzione e fornire le credenziali se è stata attivata l'autenticazione per utente sul proprio Raspberry Pi\n\n
+    ✏ BASIC AUTH (opzionale): abilitare questa funzione e fornire le credenziali se è stata attivata l\'autenticazione per utente sul proprio Raspberry Pi\n\n
     ✏ SSH CREDENTIAL (opzionale): questa è la credenziale per accedere al tuo Raspberry Pi tramite SSH (usato nella schermata dei comandi personalizzati)\n\n
     ✏ SSH PORT (opzionale): questa è la porta su cui hai inoltrato la porta 22 (usata quando il Printoid è connesso via Internet, localmente verrà usata la porta 22)\n\n
     [ℹ MORE INFORMATIONS]\n\nPuoi trovare maggiori informazioni sulla configurazione di Printoid sul sito ufficiale: %s

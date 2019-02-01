@@ -20,7 +20,7 @@
     <string name="slicer_error_command_title">Errore nel comando slicing</string>
     <string name="slicer_error_command_msg">Si è verificato un errore con il comando slicing. Verifica le impostazioni di slicing e riprova.</string>
     <string name="slicer_succeed_command_title">Slicing avviato</string>
-    <string name="slicer_succeed_command_msg">Lo slicing è stato avviato dal tuo server OctoPrint.\n\nSi noti che Printoid non è in grado di recuperare lo stato del processo di slicing. Se ha successo, il nuovo file GCODE apparirà nell'elenco dei file</string>
+    <string name="slicer_succeed_command_msg">Lo slicing è stato avviato dal tuo server OctoPrint.\n\nSi noti che Printoid non è in grado di recuperare lo stato del processo di slicing. Se ha successo, il nuovo file GCODE apparirà nell\'elenco dei file</string>
 
     <string name="slicer_slicing_in_progress_title">Slicing in esecuzione</string>
     <string name="slicer_slicing_in_progress_msg">OctoPrint sta facendo lo slicing %s, per favore aspetta…</string>

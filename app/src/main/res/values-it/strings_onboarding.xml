@@ -6,7 +6,7 @@
         È molto semplice e ti richiederà solo pochi minuti. Si prega di leggere e seguire attentamente tutte le istruzioni.</string>
 
     <string name="onboarding_profile_name_title">Nome del profilo</string>
-    <string name="onboarding_profile_name_message">Dare un nome e impostare un\'immagine per questo profilo per identificarlo facilmente nell'app.</string>
+    <string name="onboarding_profile_name_message">Dare un nome e impostare un\'immagine per questo profilo per identificarlo facilmente nell\'app.</string>
     <string name="onboarding_profile_name_error">Si prega di fornire un nome profilo valido</string>
 
     <string name="onboarding_local_ip_title">Indirizzo IP locale</string>
@@ -25,7 +25,7 @@
 
     <string name="onboarding_api_key_title">OctoPrint Chiave API</string>
     <string name="onboarding_api_key_message">Printoid ha bisogno della chiave API OctoPrint per connettersi al tuo server.\n
-        La chiave API può essere trovata nelle impostazioni dell'interfaccia web di OctoPrint, nel menu \'API\'. La casella deve essere \'Abilitata\'.</string>
+        La chiave API può essere trovata nelle impostazioni dell\'interfaccia web di OctoPrint, nel menu \'API\'. La casella deve essere \'Abilitata\'.</string>
     <string name="onboarding_api_key_error">Si prega di fornire la chiave API OctoPrint</string>
 
     <string name="onboarding_baudrate_title">Printer\'s baudrate</string>
