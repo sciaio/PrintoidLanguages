@@ -119,7 +119,7 @@
     </string-array>
 
     <string-array name="render_mode_gcode_array">
-        <item>Normal</item>
+        <item>Normale</item>
         <item>Transparente</item>
     </string-array>
 

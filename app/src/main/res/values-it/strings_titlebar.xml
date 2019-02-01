@@ -21,6 +21,6 @@
     <string name="title_bar_toggle_file_name">Mostra il nome del file</string>
     <string name="title_bar_spinner_change_delay">Cambia ritardo (sec)</string>
     <string name="title_bar_toggle_z_height">Z altezza (mm)</string>
-    <string name="title_bar_toggle_system_temperature">Sistema di temperatura (°)</string>
+    <string name="title_bar_toggle_system_temperature">Temperatura di Sistema(°)</string>
 
 </resources>

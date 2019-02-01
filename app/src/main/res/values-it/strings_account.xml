@@ -2,7 +2,7 @@
 <resources>
 
     <string name="account_introduction_message">Il tuo Printoid account ti aiuta a sincronizzare le tue impostazioni su più dispositivi attraverso il cloud.</string>
-    <string name="account_introduction_signed_as">Firmato come %s</string>
+    <string name="account_introduction_signed_as">Sottoscritto a %s</string>
     <string name="account_introduction_read_more"><u>Termini di servizio &amp; politica sulla riservatezza</u></string>
 
     <string name="account_sign_up_introduction">Crea il tuo account Printoid utlizzando il tuo indirizzo email:</string>
@@ -21,10 +21,10 @@
     <string name="account_sign_in_with_google">Iscriviti con Google</string>
     <string name="account_sign_out">Disconnessione</string>
 
-    <string name="account_backup">Impostazioni di backup nell'account</string>
-    <string name="account_restore">Ripristina le impostazioni dall'account</string>
+    <string name="account_backup">Crea backup delle impostazioni dell'account in cloud</string>
+    <string name="account_restore">Ripristina le impostazioni dall'account dal cloud</string>
     <string name="account_automatic_backup">Backup Automatico</string>
-    <string name="account_automatic_restore">Avvisami che le impostazioni dall'account cambiano </string>
+    <string name="account_automatic_restore">Avvisami quando le impostazioni dall'account cambiano </string>
 
     <string name="account_backup_success">Le tue impostazioni Printoid sono state salvate nel tuo account!</string>
     <string name="account_backup_failure">Impossibile eseguire il backup delle impostazioni di Printoid, per favore riprova più tardi!</string>

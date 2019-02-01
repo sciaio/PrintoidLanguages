@@ -15,7 +15,7 @@
     <string name="setting_title_cost_plugin">Impostazioni del costo plug-in</string>
     <string name="setting_title_tplink_plugin">Impostazioni del plugin TP Link </string>
     <string name="setting_title_widgets">Impostazioni widget</string>
-    <string name="setting_title_tools">Testine riscaldate &amp; impostazioni del piatto riscaldato</string>
+    <string name="setting_title_tools">Testine riscaldate (Heated head) &amp; impostazioni del piatto riscaldato (Bed head)</string>
     <string name="setting_title_ventilation">Impostazioni di ventilazione</string>
     <string name="setting_title_controls">Controlla le impostazioni</string>
     <string name="setting_title_streaming">Settaggio Video streaming</string>
@@ -36,7 +36,7 @@
     <string name="setting_enable_unread_messages">Mostra messaggi non letti</string>
     <string name="setting_enable_changelogs">Avvertenze sulla nuova versione</string>
     <string name="setting_enable_check_connection">Controllare periodicamente la connessione</string>
-    <string name="setting_enable_always_prompt_tty">richiama sempre la porta seriale</string>
+    <string name="setting_enable_always_prompt_tty">Richiama sempre la porta seriale</string>
     <string name="setting_enable_fix_octoprint_updates">Risolvi i problemi di connessione</string>
     <string name="setting_enable_axis_control_display">Visualizza i controlli degli assi</string>
     <string name="setting_enable_printer_info_display">Mostra informazioni sul server OctoPrint</string>
@@ -130,7 +130,7 @@
     <string name="setting_manage_account_tip">Iscriviti / Registrati / Disconnetti il tuo Printoid account</string>
     <string name="setting_enable_ask_profile_tip">Richiedi quale profilo collegare quando avvii l'app</string>
     <string name="setting_enable_auto_screen_locker_tip">Blocca lo schermo dopo 15 secondi di inattività</string>
-    <string name="setting_improve_connection_tip">Per ottenere SSID di WiFI è necessario il permesso di localizzazione</string>
+    <string name="setting_improve_connection_tip">Per acquisire SSID di WiFI è necessario il permesso di localizzazione (GPS)</string>
     <string name="setting_enable_screensaver_tip">Mostra solo i dettagli del lavoro corrente dopo il periodo di inattività</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Abilita solo se non è possibile connettersi a OctoPrint</string>
     <string name="setting_battery_optimizations_tip">Le ottimizzazioni della batteria possono terminare il processo di stampa</string>
