@@ -20,13 +20,14 @@ You don't need to be a developer to help me to translate Printoid :) You don't n
 
 The resources are located in the **/app/src/main/res/** folder.
 
-- **values** contains the default values, in english
-- **values-fr** contains the values translated in french
-- **values-de** contains the values translated in german
-- **values-es** contains the values translated in spanish
-- **values-ru** contains the values translated in russian
-- **values-nl** contains the values translated in dutch
-- **values-pt** contains the values translated in portuguese
+- **values** contains the default values, in English
+- **values-fr** contains the values translated in French
+- **values-de** contains the values translated in German
+- **values-es** contains the values translated in Spanish
+- **values-ru** contains the values translated in Russian
+- **values-nl** contains the values translated in Dutch
+- **values-pt** contains the values translated in Portuguese
+- **values-it** contains the values translated in Italian
 
 ### Create translations to a new language
 
@@ -34,13 +35,13 @@ To create the translations to a new language, you need to create a new folder in
 
 For example, to introduce these new languages:
 
-- **values-it** for italian translations
-- **values-pt** for portuguese translations
-- **values-pl** for polish translations
+- **values-da** for Danish translations
+- **values-pl** for Polish translations
+- **values-ja** for Japanese translations
 - ...
 
 Then, copy all the **xml** files from an existing folder. For example:
-- if you want to translate from English to Italian, then copy the files from **values** to **values-it**
+- if you want to translate from English to Japanese, then copy the files from **values** to **values-ja**
 - if you want to translate from French to Polish, then copy the files from **values-fr** to **values-pl**
 - ...
 
@@ -153,12 +154,14 @@ Printoid Languages is embedded in Printoid as a library. All the changes in this
 
 * **Eduardo SOUZA RAMOS** - *🇵🇹 🇧🇷 Portuguese translations*
 
+* **Luca LEARDI** - *🇮🇹 Italian translations*
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ```
-Copyright 2018 WindSekirun (DongGil, Seo)
+Copyright 2019 Printoid (Stephan, Anthony)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
