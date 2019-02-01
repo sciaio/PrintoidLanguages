@@ -28,7 +28,7 @@
         La chiave API può essere trovata nelle impostazioni dell'interfaccia web di OctoPrint, nel menu \'API\'. La casella deve essere \'Abilitata\'.</string>
     <string name="onboarding_api_key_error">Si prega di fornire la chiave API OctoPrint</string>
 
-    <string name="onboarding_baudrate_title">Printer\'s baudrate</string>
+    <string name="onboarding_baudrate_title">Baudrate Stampante</string>
     <string name="onboarding_baudrate_message">Per creare istanza della connessione con la stampante 3D, forniscici la sua baudrate.\n
         Questo può essere facilmente modificato se hai più di una stampante 3D collegata.</string>
 
