@@ -9,7 +9,7 @@
     <string name="account_i_have_an_account">Hai già un account</string>
     <string name="account_sign_up">Iscriviti</string>
     <string name="account_confirm_password">Conferma Password</string>
-    <string name="account_email_invalid">Per favore inserisci un'email valida</string>
+    <string name="account_email_invalid">Per favore inserisci un\'email valida</string>
     <string name="account_password_error_empty">Si prega di fornire una password</string>
     <string name="account_password_error_size">La lunghezza minima della password è 8</string>
     <string name="account_password_error_lower">Dove contenere almeno una lettera minuscola</string>
@@ -21,10 +21,10 @@
     <string name="account_sign_in_with_google">Iscriviti con Google</string>
     <string name="account_sign_out">Disconnessione</string>
 
-    <string name="account_backup">Impostazioni di backup nell'account</string>
-    <string name="account_restore">Ripristina le impostazioni dall'account</string>
+    <string name="account_backup">Impostazioni di backup nell\'account</string>
+    <string name="account_restore">Ripristina le impostazioni dall\'account</string>
     <string name="account_automatic_backup">Backup Automatico</string>
-    <string name="account_automatic_restore">Avvisami che le impostazioni dall'account cambiano </string>
+    <string name="account_automatic_restore">Avvisami che le impostazioni dall\'account cambiano</string>
 
     <string name="account_backup_success">Le tue impostazioni Printoid sono state salvate nel tuo account!</string>
     <string name="account_backup_failure">Impossibile eseguire il backup delle impostazioni di Printoid, per favore riprova più tardi!</string>
@@ -38,7 +38,7 @@
     <string name="account_logged_with_success">Account regsitrato con successo! Ben tornato, %s</string>
     <string name="account_logged_with_failure">Account non registrato, per favore riprova più tardi!</string>
 
-    <string name="account_alert_settings_changed_title">Le impostazioni dell'account sono cambiate</string>
+    <string name="account_alert_settings_changed_title">Le impostazioni dell\'account sono cambiate</string>
     <string name="account_alert_settings_changed_message">Le impostazioni memorizzate nel tuo account di Printoid sembrano essere cambiate. Vuoi ripristinarli ora su questo dispositivo?\n\nPrintoid sarà necessario riavviare dopo aver applicato le modifiche.</string>
 
 </resources>

@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="cults_api_user_name" translatable="false">Printoid</string>
-    <string name="cults_api_password" translatable="false">ZIdazoifhao124</string>
-
-    <string name="cults_name" translatable="false">Cults.</string>
-    <string name="cults_url" translatable="false">https://cults3d.com</string>
-
     <string name="cults_category_url">https://cults3d.com/en/categories/%s</string>
 
     <string name="cults_locale">it</string>

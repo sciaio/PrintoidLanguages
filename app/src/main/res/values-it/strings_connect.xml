@@ -49,7 +49,7 @@
     <string name="connector_error_connectivity_response">Nessuna connessione o segnale troppo cattivo, controlla la tua rete attuale</string>
     <string name="connector_error_invalid_api_key">Chiave API invalida</string>
     <string name="connector_error_missing_api_key">Chiave API mancante</string>
-    <string name="connector_error_unauthorized">Autorizzazione fallita, potresti attivare la connessione con l'autenticazione di base in Printoid, verificare le tue credenziali o impostazioni</string>
+    <string name="connector_error_unauthorized">Autorizzazione fallita, potresti attivare la connessione con l\'autenticazione di base in Printoid, verificare le tue credenziali o impostazioni</string>
     <string name="connector_error_http_error">HTTP request error: %2$d (%1$s)</string>
     <string name="connector_error_parsing_exception">Formato API sconosciuto, per favore contatta lo sviluppatore di Printoid</string>
 

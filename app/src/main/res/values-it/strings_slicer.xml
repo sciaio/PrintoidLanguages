@@ -77,7 +77,7 @@
     <string name="slicer_profile_raft_base_thickness">Raft spessore di base (mm)</string>
     <string name="slicer_profile_raft_airgap">Raft airgap (mm)</string>
     <string name="slicer_profile_raft_interface_line_width">Raft larghezza della linea di interfaccia (mm)</string>
-    <string name="slicer_profile_raft_interface_thickness">Raft spessore dell'interfaccia (mm)</string>
+    <string name="slicer_profile_raft_interface_thickness">Raft spessore dell\'interfaccia (mm)</string>
     <string name="slicer_profile_raft_line_spacing">Raft Interlinea (mm)</string>
     <string name="slicer_profile_raft_margin">Raft margine (mm)</string>
     <string name="slicer_profile_raft_surface_layer">Raft strato superficiale</string>
@@ -120,7 +120,7 @@
     <string name="slicer_profile_follow_surface">Segui la superficie</string>
     <string name="slicer_profile_category_quality">Qualità</string>
     <string name="slicer_profile_overlap_dual">Doppia sovrapposizione di estrusione (mm)</string>
-    <string name="slicer_profile_object_sink">Tagliare il fondo dell'oggetto (mm)</string>
+    <string name="slicer_profile_object_sink">Tagliare il fondo dell\'oggetto (mm)</string>
 
     <string name="slicer_profile_loading_slicers_title">Caricamento in corso slicers</string>
     <string name="slicer_profile_loading_slicers_msg">Printoid sta caricando il tuo slicers, per favore aspetta…&#8230;</string>

@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string translatable="false" name="widget_snapshot_name">Printoid Snapshot widget</string>
-    <string translatable="false" name="widget_job_name">Printoid Lavoro widget</string>
-    <string translatable="false" name="widget_starter_name">Printoid Profilo di avviamento</string>
-    <string translatable="false" name="widget_profiles_name">Printoid Profili</string>
-
-    <string translatable="false" name="widget_snapshot_name_reduced">Snapshot</string>
-    <string translatable="false" name="widget_job_name_reduced">Lavoro</string>
-    <string translatable="false" name="widget_starter_name_reduced">Avvio</string>
-    <string translatable="false" name="widget_profiles_name_reduced">Profili</string>
-
-    <string name="widget_no_snapshot_connection">Non è possibile recuperare l'istantanea\n(%s)</string>
-    <string name="widget_no_snapshot_connection_unknown_profile">Non è possibile recuperare l'istantanea</string>
+    <string name="widget_no_snapshot_connection">Non è possibile recuperare l\'istantanea\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Non è possibile recuperare l\'istantanea</string>
     <string name="widget_unknown_profile">Profilo sconosciuto</string>
 
     <string name="widget_starter_error_no_profiles">Non è possibile selezionare il profilo: nessun profilo disponibile</string>
     <string name="widget_starter_error_profile_not_found">Non è possibile selezionare il profilo: non trovato o non più disponibile</string>
     <string name="widget_starter_error_null_id">Non è possibile selezionare il profilo: identificatore non valido</string>
-
-    <string name="widget_empty_profiles" translatable="false">No OctoPrint profiles</string>
-
-    <string name="widget_id" translatable="false">Widget ID: %d</string>
 
 </resources>

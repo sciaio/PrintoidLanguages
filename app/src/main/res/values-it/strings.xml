@@ -54,8 +54,6 @@
     <string name="manage">Gestire</string>
     <string name="password">Password</string>
 
-    <string name="google_drive" translatable="false">Drive</string>
-
     <string name="heated_bed">Heated bed</string>
     <string name="heated_head">Heated head %d</string>
     <string name="extruder">Extruder %d</string>
@@ -63,16 +61,10 @@
     <string name="default_currency">$</string>
 
     <string name="simple_hour_format">hh:mm:ss a</string>
-    <string name="simple_hour_format_12" translatable="false">hh:mm:ss a</string>
-    <string name="simple_hour_format_24" translatable="false">HH:mm:ss</string>
 
     <string name="simple_hour_reduced_format">hh:mm a</string>
-    <string name="simple_hour_reduced_format_12" translatable="false">hh:mm a</string>
-    <string name="simple_hour_reduced_format_24" translatable="false">HH:mm</string>
 
     <string name="simple_date_format">dd MMM yyyy - hh:mm a</string>
-    <string name="simple_date_format_12" translatable="false">@string/simple_date_format</string>
-    <string name="simple_date_format_24" translatable="false">dd MMM yyyy - HH:mm</string>
 
     <string name="overlay_tile_title">Printoid Streaming</string>
     <string name="snapshot_tile_title">Printoid Snapshot</string>
@@ -81,8 +73,6 @@
     <string name="network_type_mobile">Mobile carrier</string>
     <string name="network_type_none">No connection</string>
     <string name="network_type_unknown">Unknown connection</string>
-
-    <string name="arrow" translatable="false">→</string>
 
     <string name="image_picker_tool_folders">Folders</string>
     <string name="image_picker_tool_tap">Tap to select</string>

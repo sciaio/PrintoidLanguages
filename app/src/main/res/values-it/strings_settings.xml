@@ -92,7 +92,7 @@
     <string name="setting_feedrate">Velocità di avanzamento</string>
     <string name="setting_flowrate">Portata</string>
     <string name="setting_basic_auth_login">Nome utente auteticazione di base</string>
-    <string name="setting_basic_auth_pwd">Password auteticazione di base<</string>
+    <string name="setting_basic_auth_pwd">Password auteticazione di base</string>
     <string name="setting_enable_fullscreen">Modo schermo intero</string>
     <string name="setting_enable_menu_button">Mostra il pulsante del menu</string>
     <string name="setting_connected_keyboard_type">Tipo di tastiera</string>
@@ -122,13 +122,13 @@
     <string name="setting_tplink_plugin_ip">TP Link indirizzo IP</string>
     <string name="setting_improve_connection">Migliora il processo di connessione</string>
     <string name="setting_enable_auto_screen_locker">Blocca automaticamente lo schermo</string>
-    <string name="setting_enable_ask_profile">Mostra i profili di OctoPrint disponibili all'avvio</string>
+    <string name="setting_enable_ask_profile">Mostra i profili di OctoPrint disponibili all\'avvio</string>
     <string name="setting_manage_account">Gestisci profilo</string>
     <string name="setting_enable_keyboard_control">Abilita i controlli con la tastiera</string>
 
-    <string name="setting_enable_keyboard_control_tip">Controlla l'interfaccia con una tastiera fisica</string>
+    <string name="setting_enable_keyboard_control_tip">Controlla l\'interfaccia con una tastiera fisica</string>
     <string name="setting_manage_account_tip">Iscriviti / Registrati / Disconnetti il tuo Printoid account</string>
-    <string name="setting_enable_ask_profile_tip">Richiedi quale profilo collegare quando avvii l'app</string>
+    <string name="setting_enable_ask_profile_tip">Richiedi quale profilo collegare quando avvii l\'app</string>
     <string name="setting_enable_auto_screen_locker_tip">Blocca lo schermo dopo 15 secondi di inattività</string>
     <string name="setting_improve_connection_tip">Per ottenere SSID di WiFI è necessario il permesso di localizzazione</string>
     <string name="setting_enable_screensaver_tip">Mostra solo i dettagli del lavoro corrente dopo il periodo di inattività</string>
@@ -136,16 +136,16 @@
     <string name="setting_battery_optimizations_tip">Le ottimizzazioni della batteria possono terminare il processo di stampa</string>
     <string name="setting_enable_unread_messages_tip">Notifiche su nuovi articoli sul sito web</string>
     <string name="setting_enable_changelogs_tip">Avvisa quando una nuova versione è disponibile su Google Play</string>
-    <string name="setting_enable_notif_tip">Mantieni l'app in background con le notifiche</string>
+    <string name="setting_enable_notif_tip">Mantieni l\'app in background con le notifiche</string>
     <string name="setting_enable_check_connection_tip">Assicurarsi che Printoid sia ancora in grado di comunicare</string>
-    <string name="setting_enable_always_prompt_tty_tip">Mostra le porte seriali quando si collega la stampante indipendentemente dall'impostazione predefinitae</string>
+    <string name="setting_enable_always_prompt_tty_tip">Mostra le porte seriali quando si collega la stampante indipendentemente dall\'impostazione predefinitae</string>
     <string name="setting_enable_axis_control_display_tip">Mostra i controlli degli assi in sovrapposizione sopra lo streaming</string>
     <string name="setting_enable_printer_info_display_tip">Mostra le temperature&amp; visualizzale sopra lo streaming</string>
     <string name="setting_enable_auto_config_tip">Piatto riscaldato &amp; dirige la configurazione di OctoPrint</string>
     <string name="setting_enable_hot_bed_tip">Regola e mostra la temperatura del piatto riscaldato</string>
-    <string name="setting_enable_fps_tip">Mostra l'indicazione FPS sull'immagine</string>
+    <string name="setting_enable_fps_tip">Mostra l\'indicazione FPS sull'immagine</string>
     <string name="setting_enable_flip_vertical_tip">Applica un capovolgimento verticale immagine nel video</string>
-    <string name="setting_enable_flip_horizontal_tip">Applica un capovolgimento orizzontale immagine nel video/string>
+    <string name="setting_enable_flip_horizontal_tip">Applica un capovolgimento orizzontale immagine nel video</string>
     <string name="setting_enable_haptic_tip">Feedback aptico quando si fa clic su un pulsante</string>
     <string name="setting_enable_ssl_tip">Utilizza il protocollo HTTPS anziché HTTP</string>
     <string name="setting_ssl_mode_tip">Usa HTTPS su LAN e / o WAN </string>
@@ -168,8 +168,8 @@
     <string name="setting_force_24h_tip">Forza la modalità 12 o 24 ore, o lascia decidere al sistema</string>
     <string name="setting_screen_refresh_idle_tip">Aggiorna il periodo quando la stampante è pronta per stampare</string>
     <string name="setting_screen_refresh_printing_tip">Aggiorna il periodo durante la stampa</string>
-    <string name="setting_screen_refresh_background_tip">Aggiorna periodo in cui l'app viene eseguita in background</string>
-    <string name="setting_theme_tip">Colori dell'interfaccia globale da utilizzare</string>
+    <string name="setting_screen_refresh_background_tip">Aggiorna periodo in cui l\'app viene eseguita in background</string>
+    <string name="setting_theme_tip">Colori dell\'interfaccia globale da utilizzare</string>
     <string name="setting_sound_tip">Il suono e la notifica da riprodurre a fine stampa</string>
     <string name="setting_quick_access_tip">Quante %d icone da visualizzare nella barra di stato del Printoid</string>
     <string name="setting_max_temp_1_tip">Max temperatura la 1ª testina di stampa</string>
@@ -188,9 +188,9 @@
     <string name="setting_webcam_snapshot_tip">URL completo del suffisso per lo snapshot</string>
     <string name="setting_streaming_method_tip">Come lo streaming dovrebbe funzionare</string>
     <string name="setting_streaming_security_tip">Forza HTTP o HTTPS. Auto seleziona come il profilo OctoPrint.</string>
-    <string name="setting_basic_auth_login_tip">Nome utente da utilizzare per l'autenticazione di base</string>
-    <string name="setting_basic_auth_pwd_tip">Password da utilizzare per l'autenticazione di base</string>
-    <string name="setting_enable_fullscreen_tip">Nascondi la barra di stato di Android (è necessario il riavvio dell'app)</string>
+    <string name="setting_basic_auth_login_tip">Nome utente da utilizzare per l\'autenticazione di base</string>
+    <string name="setting_basic_auth_pwd_tip">Password da utilizzare per l\'autenticazione di base</string>
+    <string name="setting_enable_fullscreen_tip">Nascondi la barra di stato di Android (è necessario il riavvio dell\'app)</string>
     <string name="setting_enable_menu_button_tip">Quando è nascosto, trascina dal bordo sinistro a destra per aprire il menu</string>
     <string name="setting_keyboard_type_tip">Qual è il tipo di tastiera che hai collegato</string>
     <string name="setting_backup_tip">Salva tutte le impostazioni di Printoid su SDCARD</string>
@@ -208,21 +208,17 @@
     <string name="settings_enable_right_panel_tip">Consentire di aprire il menu con slide gesture</string>
     <string name="settings_enable_beta_program_tip">Aiuta lo sviluppatore a creare il futuro di Printoid!</string>
     <string name="setting_enable_keep_screen_on_tip">Rimani il diplay acceso quando Printoid sta lavorando</string>
-    <string name="setting_config_camera_parameters_tip">Luminosità, contrasto, saturazione, qualità, esposizione ...</string>
+    <string name="setting_config_camera_parameters_tip">Luminosità, contrasto, saturazione, qualità, esposizione…</string>
     <string name="setting_cost_plugin_currency_tip">La tua valuta locale per le approssimazioni di costo</string>
-    <string name="setting_cost_plugin_cost_per_hour_tip">Il costo del consumo elettrico all'ora</string>
+    <string name="setting_cost_plugin_cost_per_hour_tip">Il costo del consumo elettrico all\'ora</string>
     <string name="setting_cost_plugin_cost_per_meter_tip">Il costo di 1 metro di filamento nella tua valuta</string>
     <string name="setting_cost_plugin_cost_per_weight_tip">Il costo per 1 kg di filamento nella tua valuta</string>
     <string name="setting_cost_plugin_filament_diameter_tip">Generalmente 1.75mm o 3mm</string>
     <string name="setting_cost_plugin_filament_density_tip">Generalmente 1.25g/cm³ (PLA) o 1.01g/cm³ (ABS)</string>
     <string name="setting_cost_plugin_cost_method_tip">Come calcolare il costo del filamento</string>
-    <string name="setting_connection_ip_selection_mode_tip">In che modo l'app deve selezionare l'IP per connettere OctoPrint</string>
-    <string name="setting_tplink_plugin_ip_tip">L'indirizzo IP LAN del tuo TP Link Smartplug</string>
+    <string name="setting_connection_ip_selection_mode_tip">In che modo l\'app deve selezionare l\'IP per connettere OctoPrint</string>
+    <string name="setting_tplink_plugin_ip_tip">L\'indirizzo IP LAN del tuo TP Link Smartplug</string>
 
-    <string name="setting_hint_id" translatable="false">ID</string>
-    <string name="setting_hint_temp" translatable="false">240</string>
-    <string name="setting_hint_fan" translatable="false">500</string>
-    <string name="setting_hint_extrusion" translatable="false">5</string>
     <string name="setting_hint_login">User name</string>
     <string name="setting_hint_pwd">Password</string>
 
@@ -237,9 +233,9 @@
     <string name="config_title_alert_settings_changed">Le impostazioni sono cambiate</string>
     <string name="config_title_alert_settings_changed_msg">La configurazione è cambiata, vuoi salvarla?</string>
 
-    <string name="settings_warning_permission_title">È necessaria l'autorizzazione</string>
+    <string name="settings_warning_permission_title">È necessaria l\'autorizzazione</string>
     <string name="settings_warning_permission_backup_msg">Printoid ha bisogno del permesso di scrivere la memoria esterna per eseguire il backup della configurazione.\n\nSi prega di accettare l'autorizzazione nella finestra di dialogo successiva e fare clic su \'backup\' ancora</string>
-    <string name="settings_warning_permission_restore_msg">Printoid necessita dell'autorizzazione per leggere la memoria esterna per ripristinare la configurazione.\n\nSi prega di accettare l'autorizzazione nella finestra di dialogo successiva e fare clic su \'restore\' ancora</string>
+    <string name="settings_warning_permission_restore_msg">Printoid necessita dell\'autorizzazione per leggere la memoria esterna per ripristinare la configurazione.\n\nSi prega di accettare l'autorizzazione nella finestra di dialogo successiva e fare clic su \'restore\' ancora</string>
     <string name="backup_canceled">Backup annullato</string>
     <string name="restore_canceled">Ripristino annullato</string>
 
@@ -257,8 +253,8 @@
     <string name="backup_error_unknown">Si è verificato un errore sconosciuto, si prega di contattare lo sviluppatore di Printoid</string>
 
     <string name="restore_status_title">Gestore Backup</string>
-    <string name="restore_completed">Ripristino completato con esito positivo, l'app verrà riavviata per applicare le modifiche</string>
-    <string name="restore_partial">Ripristino completato parzialmente, l'app verrà riavviata per applicare le modifiche</string>
+    <string name="restore_completed">Ripristino completato con esito positivo, l\'app verrà riavviata per applicare le modifiche</string>
+    <string name="restore_partial">Ripristino completato parzialmente, l\'app verrà riavviata per applicare le modifiche</string>
     <string name="restore_error">Errore di ripristino, si prega di contattare lo sviluppatore di Printoid</string>
     <string name="restore_error_fnfe">Errore Ripristino (FileNotFound exception), si prega di contattare lo sviluppatore di Printoid</string>
     <string name="restore_error_ioe">Errore Ripristino (IO exception), si prega di contattare lo sviluppatore di Printoid</string>

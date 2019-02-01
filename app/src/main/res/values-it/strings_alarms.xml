@@ -19,10 +19,9 @@
     <string name="alarm_setting_value_temperature_hot_end">Avvisa quando la parte calda raggiunge questa temperatura (°)</string>
     <string name="alarm_setting_value_temperature_hot_bed">Avvisare quando il Piatto raggiunge questa temperatura (°)</string>
     <string name="alarm_setting_value_gcode_command">Avvisa quando viene eseguito questo comando GCODE</string>
-    <string name="alarm_setting_value_z_height">Avvisa quando l'ugello raggiunge questa altezza (mm)</string>
+    <string name="alarm_setting_value_z_height">Avvisa quando l\'ugello raggiunge questa altezza (mm)</string>
     <string name="alarm_settins_value">Valore di allerta</string>
     <string name="alarm_setting_vibration_pattern">Modello di vibrazione</string>
-    <string name="alarm_setting_vibration_pattern_hint" translatable="false">0,100,75,100</string>
 
     <string name="alarm_created">Nuovo Avviso creato</string>
     <string name="alarm_updated">Avviso aggiornato</string>
@@ -32,7 +31,7 @@
     <string name="alarms_delete_alert_msg">Vuoi veramente cancellare questo avviso? Questa azione non può essere annullata.</string>
 
     <string name="alarms_exit_editor_alert_title">Salve le modifiche</string>
-    <string name="alarms_exit_editor_alert_msg">Vuoi salvare le modifiche prima di uscire dall'editor?</string>
+    <string name="alarms_exit_editor_alert_msg">Vuoi salvare le modifiche prima di uscire dall\'editor?</string>
 
     <string name="alarm_alert_value_title">Valore sbagliato per questo avviso</string>
     <string name="alarm_alert_type_msg">Tipologia sbagliata per questo avviso! Si prega di contattare lo sviluppatore di Printoid</string>

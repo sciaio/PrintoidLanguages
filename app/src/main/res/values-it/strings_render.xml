@@ -6,7 +6,7 @@
 
     <string name="download_file_alert_title">Download non riuscito</string>
     <string name="download_file_alert_msg">Il download non è riuscito, %s</string>
-    <string name="download_file_alert_error_url">è stato rilevato un errore nell'URL</string>
+    <string name="download_file_alert_error_url">è stato rilevato un errore nell\'URL</string>
     <string name="download_file_alert_error_fnf">il file non può essere trovato sul tuo server OctoPrint</string>
     <string name="download_file_alert_error_io">il file non può essere scritto sullo spazio di archiviazione</string>
     <string name="download_file_alert_error_unknown">Si è verificato un errore sconosciuto</string>
@@ -30,8 +30,6 @@
     <string name="render_file_no_file">Nessun file attualmente in fase di stampa</string>
     <string name="render_file_remaining_time">Tempo Rimanente:</string>
     <string name="render_file_z_height">Z altezza:</string>
-    <string name="render_file_z_height_value_mm" translatable="false">%.2fmm</string>
-    <string name="render_file_z_height_value_cm" translatable="false">%.3fcm</string>
     <string name="render_file_layers">%1$d / %2$d</string>
 
     <string name="render_error_not_supported_title">GCODE formato non supportato</string>
@@ -50,6 +48,6 @@
     <string name="simulator_pause">Metti in pausa il simulatore</string>
 
     <string name="alert_large_file_title">Rendering di file di grandi dimensioni</string>
-    <string name="alert_large_file_msg">Hai richiesto la stampa del rendering %1$s, che è circa %2$s.\n\nProbabilmente è troppo grande per l'app, Android potrebbe chiudere il processo.\n\nVuoi continuare comunque?</string>
+    <string name="alert_large_file_msg">Hai richiesto la stampa del rendering %1$s, che è circa %2$s.\n\nProbabilmente è troppo grande per l\'app, Android potrebbe chiudere il processo.\n\nVuoi continuare comunque?</string>
 
 </resources>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="contact_email" translatable="false">printoid.for.octoprint@gmail.com</string>
     <string name="contact_subject">Printoid Supporto (versione installata: v%1$s - %2$s)</string>
     <string name="contact_choose_client">Seleziona il tuo client di posta elettronica:</string>
 
@@ -15,10 +14,6 @@
     My message:\n\n\n\n
     %6$s\n\n\n\n
     Best regards</string>
-
-    <string name="contact_version_premium" translatable="false">PREMIUM</string>
-    <string name="contact_version_pro" translatable="false">PRO</string>
-    <string name="contact_version_trial" translatable="false">LITE</string>
 
     <string name="alert_contact_title">Contatta lo sviluppatore</string>
 

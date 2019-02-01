@@ -14,7 +14,7 @@
 
     <string name="download_timelapse_alert_title">Download fallito</string>
     <string name="download_timelapse_alert_msg">Il download non è riuscito, %s</string>
-    <string name="download_timelapse_alert_error_url">è stato rilevato un errore nell'URL</string>
+    <string name="download_timelapse_alert_error_url">è stato rilevato un errore nell\'URL</string>
     <string name="download_timelapse_alert_error_fnf">il timelapse non può essere trovato sul tuo server OctoPrint</string>
     <string name="download_timelapse_alert_error_io">il timelapse non può essere scritto sulla memoria</string>
     <string name="download_timelapse_alert_error_unknown">Si è verificato un errore sconosciuto</string>

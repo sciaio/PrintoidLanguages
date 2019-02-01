@@ -2,22 +2,22 @@
 <resources>
 
     <string name="onboarding_welcome_title">Configurazione del tuo primo profilo OctoPrint</string>
-    <string name="onboarding_welcome_message">Printoid ti guiderà nella creazione e nella configurazione del tuo primo profilo OctoPrint nell'applicazione.\n\n
+    <string name="onboarding_welcome_message">Printoid ti guiderà nella creazione e nella configurazione del tuo primo profilo OctoPrint nell\'applicazione.\n\n
         È molto semplice e ti richiederà solo pochi minuti. Si prega di leggere e seguire attentamente tutte le istruzioni.</string>
 
     <string name="onboarding_profile_name_title">Nome del profilo</string>
-    <string name="onboarding_profile_name_message">Dare un nome e impostare un'immagine per questo profilo per identificarlo facilmente nell'app.</string>
+    <string name="onboarding_profile_name_message">Dare un nome e impostare un\'immagine per questo profilo per identificarlo facilmente nell'app.</string>
     <string name="onboarding_profile_name_error">Si prega di fornire un nome profilo valido</string>
 
     <string name="onboarding_local_ip_title">Indirizzo IP locale</string>
-    <string name="onboarding_local_ip_message">L'indirizzo IP locale (o il nome host) consente a Printoid di connettersi al server OctoPrint dalla rete locale.\n
+    <string name="onboarding_local_ip_message">L\'indirizzo IP locale (o il nome host) consente a Printoid di connettersi al server OctoPrint dalla rete locale.\n
         Fornire un valore di porta solo e solo se è stato modificato quello predefinito (80).</string>
     <string name="onboarding_local_ip_port">Porta locale (opzionale)</string>
     <string name="onboarding_local_ip_address_error">Si prega di fornire un IP (o hostname) valido</string>
     <string name="onboarding_local_ip_port_error">Si prega di fornire una porta valida</string>
 
     <string name="onboarding_public_ip_title">Indirizzo IP pubblico (opzionale)</string>
-    <string name="onboarding_public_ip_message"><![CDATA[L'indirizzo IP pubblico (o il nome host) consente a Printoid di connettersi al server OctoPrint tramite Internet (\'fuori\' dalla tua rete.\n
+    <string name="onboarding_public_ip_message"><![CDATA[L\'indirizzo IP pubblico (o il nome host) consente a Printoid di connettersi al server OctoPrint tramite Internet (\'fuori\' dalla tua rete.\n
         <a href="https://printoid.net/access-octoprint-from-the-internet/">Si prega di seguire questo tutorial</a> prima di provare ad accedere al tuo server tramite 3G / 4G.]]></string>
     <string name="onboarding_public_ip">@string/config_wan_ip</string>
     <string name="onboarding_public_ip_port">Porta Pubblica (opzionale)</string>

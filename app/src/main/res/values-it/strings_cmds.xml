@@ -30,15 +30,15 @@
     <string name="command_detail_gcode">Gcode comandi : %s</string>
     <string name="command_sent">Comando inviato</string>
     <string name="command_sent_answer">Risposta Comando: %s</string>
-    <string name="command_not_sent">Errore durante l'invio del comando: %s</string>
-    <string name="command_not_sent_reason">Errore durante l'invio del comando: %1$s (%2$s)</string>
+    <string name="command_not_sent">Errore durante l\'invio del comando: %s</string>
+    <string name="command_not_sent_reason">Errore durante l\'invio del comando: %1$s (%2$s)</string>
     <string name="send_command_error">Errore Comando: %1$s (%2$d)</string>
 
     <string name="command_help_for">Clicca qui per vedere il tutorial per %s commands</string>
 
     <string name="command_add_new">Inserisci nuovo…</string>
 
-    <string name="alert_command_help_title">Cos'è un comando personalizzato?</string>
+    <string name="alert_command_help_title">Cos\'è un comando personalizzato?</string>
     <string name="alert_command_help_message">Printoid ti consente di personalizzare la tua app con i tuoi comandi.\n\n
     1/ <b>OctoPrint comandi di sistema:</b> Printoid è in grado di eseguire i comandi definiti in config.yaml\n\n
     2/ <b>comandi GCODE:</b> puoi inviare i tuoi comandi GCODE alla tua stampante 3D. Può essere un comando univoco o un gruppo di comandi (separati da ritorni a capo)\n\n

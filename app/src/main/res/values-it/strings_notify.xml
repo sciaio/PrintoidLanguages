@@ -3,7 +3,6 @@
 
     <string name="notif_channel_name_pull_service">Printoid background client</string>
 
-    <string name="notif_foreground_service_title" translatable="false">@string/notif_channel_name_pull_service</string>
     <string name="notif_foreground_service_msg">Printoid comunica con OctoPrint in background…</string>
 
     <string name="notif_print_completed">La stampa è terminata</string>

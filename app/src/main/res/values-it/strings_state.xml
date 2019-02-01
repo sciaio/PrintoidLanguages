@@ -10,10 +10,6 @@
     <string name="printer_state_printing">Stampa&#8230;</string>
     <string name="printer_state_error">Errore di connessione della stampante</string>
 
-    <string name="empty" translatable="false">&#8212;</string>
-    <string name="dimensions_format" translatable="false">%1$.1fmm × %2$.1fmm × %3$.1fmm</string>
-    <string name="dimensions_reduced_format" translatable="false">%1$.1f×%2$.1f×%3$.1f mm</string>
-    <string name="remaining_time_none" translatable="false">&#8212; : &#8212;</string>
     <string name="remaining_time_label">Finisce in:</string>
     <string name="file">File: %s</string>
     <string name="file_label">File:</string>
@@ -25,8 +21,6 @@
     <string name="printed_empty">&#8212;</string>
     <string name="printed_label">Stampato:</string>
     <string name="current_z">Z:</string>
-    <string name="current_z_value" translatable="false">%.2f mm</string>
-    <string name="current_z_empty" translatable="false">&#8212; mm</string>
     <string name="printed">%1$s/%2$s</string>
     <string name="printed_time">Tempo di stampa: %s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>
@@ -44,7 +38,7 @@
     <string name="last_print_time_label">Ultima volta:</string>
     <string name="uploaded_date_label">caricati:</string>
     <string name="filament_empty">&#8212;</string>
-    <string name="file_name_empty">Seleziona un file nell'elenco</string>
+    <string name="file_name_empty">Seleziona un file nell\'elenco</string>
     <string name="model_size">Dimensione:</string>
     <string name="origin">Origine:</string>
     <string name="failures">Fallito:</string>
