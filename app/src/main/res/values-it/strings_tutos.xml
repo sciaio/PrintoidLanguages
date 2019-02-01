@@ -7,7 +7,7 @@
 
     <!-- WELCOME -->
     <string name="tutorial_message_welcome">Benvenuto in Printoid %s</string>
-    <string name="tutorial_message_welcome_2">Questa breve introduzione ti mostrerà il contenuto dell'applicazione</string>
+    <string name="tutorial_message_welcome_2">Questa breve introduzione ti mostrerà le caratteristiche dell'applicazione</string>
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Comparatore di versioni</string>
@@ -105,7 +105,7 @@
     <string name="tutorial_backup_from_other_error_unknown">Non è possibile applicare il backup da Printoid %s, si è verificato un errore sconosciuto</string>
     <string name="tutorial_backup_from_sdcard">Ripristina il backup locale</string>
     <string name="tutorial_backup_from_other_app">Ripristina da Printoid %s</string>
-    <string name="tutorial_backup_from_account">Ho un account</string>
+    <string name="tutorial_backup_from_account">Ho già un account</string>
     <string name="tutorial_backup_more_backup_options">Altre opzioni di backup</string>
 
     <!-- LINKS -->
