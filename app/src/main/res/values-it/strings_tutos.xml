@@ -10,7 +10,7 @@
     <string name="tutorial_message_welcome_2">Questa breve introduzione ti mostrerà le caratteristiche dell'applicazione</string>
 
     <!-- VERSIONS COMPARATOR -->
-    <string name="tutorial_comparator_title">Comparatore di versioni</string>
+    <string name="tutorial_comparator_title">Differenze tra le Versioni</string>
     <string name="tutorial_comparator_premium_title" translatable="false">Printoid PREMIUM</string>
     <string name="tutorial_comparator_premium_content">Funzionalità PRO + controllo avanzato, widget e altro ...</string>
     <string name="tutorial_comparator_pro_title" translatable="false">Printoid PRO</string>
@@ -49,7 +49,7 @@
     <string name="tutorial_commands_title">I tuoi stessi comandi</string>
     <string name="tutorial_commands_message">Personalizza il Printoid con i tuoi comandi &amp; features!</string>
     <string name="tutorial_commands_message_2">Crea i tuoi pulsanti per inviare comandi GCODE alla tua stampante 3D</string>
-    <string name="tutorial_commands_message_3">Comunica con il tuo Raspberry Pi su SSH (controlla un relay ...)</string>
+    <string name="tutorial_commands_message_3">Comunica con il tuo Raspberry Pi su SSH (per esempio controlla un relè ...)</string>
     <string name="tutorial_commands_message_4">Accesso ai comandi integrati di OctoPrint (registrati in config.yaml)</string>
     <string name="tutorial_commands_button_1">GCODE commandi</string>
     <string name="tutorial_commands_button_2">SSH commandi</string>
@@ -58,28 +58,28 @@
     <!-- MULTI PROFILES -->
     <string name="tutorial_multi_profiles_title">Facile connessione ai server OctoPrint</string>
     <string name="tutorial_multi_profiles_message">Controlla e gestisci tutti i server OctoPrint e le stampanti 3D di cui hai bisogno!</string>
-    <string name="tutorial_multi_profiles_message_2">Printoid utilizzerà in modo intelligente la configurazione locale (LAN) o remoto (WAN) quando necessario</string>
+    <string name="tutorial_multi_profiles_message_2">Printoid utilizzerà in modo intelligente la configurazione locale (LAN) o in remoto (WAN) quando necessario</string>
     <string name="tutorial_multi_profiles_message_3">Si noti che tutte le impostazioni di stampa sono relative al profilo selezionato</string>
     <string name="tutorial_multi_profiles_button_1">Come connettere?</string>
     <string name="tutorial_multi_profiles_button_2">Cconnettersi dall'esterno (3G / 4G)</string>
     <string name="tutorial_multi_profiles_button_3">Regolazione delle impostazioni</string>
 
     <!-- 2D / 3D RENDERERS -->
-    <string name="tutorial_render_title">2D &amp; 3D visualizzatori</string>
+    <string name="tutorial_render_title">Visualizzatori 2D &amp; 3D </string>
     <string name="tutorial_render_message_0">I visualizzatori 2D e 3D sono accessibili dal gestore file esteso (aprilo dal menu a sinistra)</string>
     <string name="tutorial_render_message">Controlla ogni strato dei tuoi file GCODE in 2D o visualizza l'intero oggetto STL o GCODE in 3D dall'app!</string>
     <string name="tutorial_render_message_2">Il Printoid fornisce anche un simulatore 2D in tempo reale quando si stampa un oggetto</string>
     <string name="tutorial_render_button_1">Come funziona? </string>
 
     <!-- ANDROID WEAR -->
-    <string name="tutorial_wear_title">Android Wear modulo</string>
+    <string name="tutorial_wear_title">Modulo Android Wear</string>
     <string name="tutorial_wear_message_1">Controlla e gestisci la tua stampante 3D direttamente dal tuo polso!</string>
     <string name="tutorial_wear_message_2">Informazioni sulla stampante, controllo assi, gestione temperature /ventilazione/estrusori, file e liste comandi</string>
     <string name="tutorial_wear_message_3">Questo modulo è disponibile solo per Android Wear (non disponibile per Samsung Wear (Tizen))</string>
 
     <!-- WEBAPP -->
     <string name="tutorial_web_app_title">Interfaccia web di OctoPrint</string>
-    <string name="tutorial_web_app_message">Hai anche un accesso extra al tuo <b>Interfaccia web del server OctoPrint</b>, senza dover andare via da Printoid!</string>
+    <string name="tutorial_web_app_message">Hai anche un accesso extra alla tua <b>Interfaccia web del server OctoPrint</b>, senza dover uscire da Printoid!</string>
     <string name="tutorial_web_app_message_2">Progettato per adattarsi perfettamente agli schermi di smartphone e tablet</string>
 
     <!-- WEBSITE -->
