@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="commands_panel_label">Commandi</string>
+    <string name="commands_history_label">Reseconto GCODE</string>
+    <string name="commands_editing_label">Editor Commandi</string>
+
+    <string name="abitrary_gcode_command">comandi GCODE</string>
+    <string name="add_command">Inserisci nuovo comando</string>
+    <string name="add_command_type">Tipo</string>
+    <string name="add_command_curl_type">Metodo</string>
+    <string name="add_command_label">Etichetta</string>
+    <string name="add_command_command_title">Comando da eseguire</string>
+    <string name="add_command_content">Argomenti di comando</string>
+    <string name="add_command_icon">Icona</string>
+    <string name="add_command_color">Colore Icona</string>
+    <string name="add_command_show_on_home">Mostra sulla Home</string>
+    <string name="add_command_favorite">Contrassegna come preferito</string>
+    <string name="add_command_request_confirmation">Conferma</string>
+    <string name="add_command_wait_result">Mostra la risposta al comando</string>
+    <string name="add_command_name">Etichetta di comando</string>
+    <string name="add_command_command">Comando</string>
+    <string name="add_command_argument">Argomento</string>
+    <string name="delete_command_title">Cancella comando</string>
+    <string name="delete_command_msg">Eliminare un comando non può essere annullato, sei sicuro?</string>
+    <string name="add_command_error_name">Nome del comando non valido, verifica il tuo valore</string>
+    <string name="add_command_error_command">Comando non valido, verifica il tuo valore</string>
+    <string name="add_command_error_command_octoprint">Comando non valido, nessun comando OctoPrint disponibile</string>
+    <string name="command_detail_ssh">SSH comandi : %s</string>
+    <string name="command_detail_gcode">Gcode comandi : %s</string>
+    <string name="command_sent">Comando inviato</string>
+    <string name="command_sent_answer">Risposta Comando: %s</string>
+    <string name="command_not_sent">Errore durante l'invio del comando: %s</string>
+    <string name="command_not_sent_reason">Errore durante l'invio del comando: %1$s (%2$s)</string>
+    <string name="send_command_error">Errore Comando: %1$s (%2$d)</string>
+
+    <string name="command_help_for">Clicca qui per vedere il tutorial per %s commands</string>
+
+    <string name="command_add_new">Inserisci nuovo…</string>
+
+    <string name="alert_command_help_title">Cos'è un comando personalizzato?</string>
+    <string name="alert_command_help_message">Printoid ti consente di personalizzare la tua app con i tuoi comandi.\n\n
+    1/ <b>OctoPrint comandi di sistema:</b> Printoid è in grado di eseguire i comandi definiti in config.yaml\n\n
+    2/ <b>comandi GCODE:</b> puoi inviare i tuoi comandi GCODE alla tua stampante 3D. Può essere un comando univoco o un gruppo di comandi (separati da ritorni a capo)\n\n
+    3/ <b>comandi SSH:</b> puoi inviare istruzioni al tuo Raspberry Pi su SSH, come ad esempio GPIO o comandi di esecuzione di script\n\n
+    4/ <b>comandi CURL:</b> puoi inviare istruzioni ai tuoi comandi Raspberry Pi su CURL (should looks like command?enable=relay1 or api/plugin/psucontrol in Printoid, per esempio, con un eventuale argomento JSON)\n\n
+    maggiori info sul sito ufficiale https://printoid.net</string>
+
+    <string name="max_home_commands_reached_title">Raggiunti i comandi domestici massimi</string>
+    <string name="max_home_commands_reached_msg">Hai già selezionato %d comandi da visualizzare nella schermata principale.\n\nDeseleziona uno prima di aggiungere questo.</string>
+
+    <string name="command_confirmation_title">Invia conferma comando</string>
+    <string name="command_confirmation_msg">Printoid invierà il seguente comando: %s\n\nAre you sure?</string>
+
+    <string name="command_list_empty">Nessun comando disponibile</string>
+    <string name="command_list_no_favs">Nessun comando preferito</string>
+    <string name="gcode_base_list_empty">Comando GCODE sconosciuto</string>
+
+    <string name="command_psu_turn_off_alert_title">Spegni PSU</string>
+    <string name="command_psu_turn_off_alert_msg">Il tuo PSU è attualmente ON.\n\nVuoi disattivarlo adesso OFF?\n\nSe si sta stampando, il lavoro corrente verrà interrotto e la stampa andrà persa.</string>
+    <string name="command_psu_turn_on_alert_title">Accendi PSU</string>
+    <string name="command_psu_turn_on_alert_msg">Il tuo PSU è attualmente OFF.\n\nVuoi accenderlo adesso ON?</string>
+    <string name="command_psu_turned_off">Spegni PSU OFF</string>
+    <string name="command_psu_turned_on">Accendi PSU ON</string>
+    <string name="command_psu_turn_off_error">Errore Spegnimento PSU</string>
+    <string name="command_psu_turn_on_error">Errore Accensione PSU</string>
+
+    <string name="command_tplink_turn_off_alert_title">Spegni TPLink</string>
+    <string name="command_tplink_turn_off_alert_msg">Il tuo TPLink è attualmente ON.\n\nVuoi disattivarlo adesso OFF?\n\nSe si sta stampando, il lavoro corrente verrà interrotto e la stampa andrà persa.</string>
+    <string name="command_tplink_turn_on_alert_title">Accendi TPLink</string>
+    <string name="command_tplink_turn_on_alert_msg">Il tuo TPLink è attualmente OFF.\n\nVuoi accenderlo adesso ON?</string>
+    <string name="command_tplink_turned_off">TPLink spegni OFF</string>
+    <string name="command_tplink_turned_on">TPLink accendi ON</string>
+    <string name="command_tplink_turn_off_error">Errore Spegnimento TPLink</string>
+    <string name="command_tplink_turn_on_error">Errore Accensione TPLink</string>
+
+    <string name="commands_not_loaded_title">Comandi di sistema non caricati</string>
+    <string name="commands_not_loaded_msg">I comandi di sistema di OctoPrint non sono attualmente caricati per questo profilo, si prega di attendere qualche secondo e riprovare.</string>
+
+    <string name="commands_empty_title">Nessun comando di sistema</string>
+    <string name="commands_empty_msg">Non ci sono comandi di sistema OctoPrint per questo profilo. È possibile configurare alcuni nuovi comandi di sistema in config.yaml di OctoPrint.</string>
+
+    <string name="commands_config_menu_title">Configurazioni Comandi</string>
+    <string name="commands_show_only_favorites">Mostra solo favoriti</string>
+    <string name="commands_show_temperatures">Mostra comandi di temperatura</string>
+    <string name="commands_filter_temperatures">Filtra comandi temperatura</string>
+    <string name="commands_filter_temperatures_on">Filtra comandi temperatura ON</string>
+    <string name="commands_filter_temperatures_off">Filtra comandi temperatura OFF</string>
+    <string name="commands_show_only_favorites_on">Mostra solo i comandi preferiti</string>
+    <string name="commands_show_only_favorites_off">Mostra tutti i comandi</string>
+
+</resources>

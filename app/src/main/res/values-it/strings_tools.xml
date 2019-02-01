@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="head_current_temperature_label">Estrusore</string>
+    <string name="headX_current_temperature_label">Estrusore %d</string>
+    <string name="head_target_temperature_label">Est. (obiettivo)</string>
+    <string name="headX_target_temperature_label">Est.%d (obiettivo)</string>
+    <string name="bed_current_temperature_label">Piatto</string>
+    <string name="bed_target_temperature_label">Piatto (obiettivo)</string>
+    <string name="current_temperature_none" translatable="false">&#8212;</string>
+    <string name="target_temperature_none" translatable="false">&#8212;</string>
+    <string name="current_hot_bed_none" translatable="false">&#8212;</string>
+    <string name="current_temperature">%.1f°</string>
+    <string name="target_temperature">%.1f°</string>
+    <string name="current_bed">%.1f°</string>
+
+    <string name="move_01mm" translatable="false">0.1</string>
+    <string name="move_1mm" translatable="false">1</string>
+    <string name="move_10mm" translatable="false">10</string>
+    <string name="move_100mm" translatable="false">100</string>
+
+    <string name="extrude_1mm" translatable="false">1</string>
+    <string name="extrude_5mm" translatable="false">5</string>
+    <string name="extrude_10mm" translatable="false">10</string>
+    <string name="extrude_100mm" translatable="false">100</string>
+
+    <string name="tool_0" translatable="false">T0</string>
+    <string name="tool_1" translatable="false">T1</string>
+    <string name="tool_2" translatable="false">T2</string>
+    <string name="tool_3" translatable="false">T3</string>
+    <string name="tool_4" translatable="false">T4</string>
+    <string name="tool_5" translatable="false">T5</string>
+    <string name="tool_6" translatable="false">T6</string>
+    <string name="tool_7" translatable="false">T7</string>
+    <string name="tool_8" translatable="false">T8</string>
+    <string name="tool_9" translatable="false">T9</string>
+
+    <string name="printer_head_level">Estrusore\n%d°</string>
+    <string name="printer_headX_level">Estrusore %1$d\n%2$d°</string>
+    <string name="hot_bed_level">Piatto\n%d°</string>
+    <string name="fan_level">Livello Ventola\n%d%%</string>
+    <string name="fan_level_index">Ventola %1$d livello\n%2$d%%</string>
+
+    <string name="input_headX_level">Estrusore %d (°)</string>
+    <string name="input_bed_level">Piatto (°)</string>
+    <string name="input_fan_level">Ventola %d (%%)</string>
+
+    <string name="input_feedrate">Velocità di avanzamento (%)</string>
+    <string name="input_flowrate">Portata (%)</string>
+    <string name="input_travel">Distanza di viaggio (mm)</string>
+    <string name="input_extruder">Lunghezza dell'estrusione (mm)</string>
+
+    <string name="tool_plot_click_message">Fare un lungo clic sul grafico\nper strumenti avanzati</string>
+
+</resources>

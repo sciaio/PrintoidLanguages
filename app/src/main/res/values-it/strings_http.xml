@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="http_error_bad_request">Richiesta sbagliata</string>
+    <string name="http_error_unauthorized">Non autorizzato</string>
+    <string name="http_error_payment_required">Pagamento richiesto</string>
+    <string name="http_error_forbidden">Vietato</string>
+    <string name="http_error_not_found">Non trovato</string>
+    <string name="http_error_not_allowed">Non autorizzato</string>
+    <string name="http_error_not_acceptable">Non accettabile</string>
+    <string name="http_error_authentification_required">Autenticazione richiesta</string>
+    <string name="http_error_request_timeout">Richiesta di timeout</string>
+    <string name="http_error_conflict">Conflitto</string>
+    <string name="http_error_gone">Eseguito</string>
+    <string name="http_error_length_required">Lunghezza richiesta</string>
+    <string name="http_error_precondition_failed">La precondizione è fallita</string>
+    <string name="http_error_request_entity_to_large">Richiedi entità troppo grande</string>
+    <string name="http_error_request_uri_too_long">Richiedi URI troppo a lungo</string>
+    <string name="http_error_unsupported_media_type">Tipo di supporto non supportato</string>
+    <string name="http_error_requested_range_not_satisfiable">Intervallo richiesto non soddisfacente</string>
+    <string name="http_error_expectation_failed">Aspettativa fallita</string>
+    <string name="http_error_uprocessable_entity">Entità non processabile</string>
+    <string name="http_error_locked">Bloccato</string>
+    <string name="http_error_failed_dependency">Dipendenza fallita</string>
+    <string name="http_error_unordered_collection">Collezione non ordinata</string>
+    <string name="http_error_upgrade_required">aggiornamento richiesto</string>
+    <string name="http_error_precondition_required">Requisito richiesto</string>
+    <string name="http_error_too_many_requests">Troppe richieste</string>
+    <string name="http_error_request_header_fields_too_large">Campi di intestazione troppo grandi</string>
+    <string name="http_error_internal_server_error">Errore interno del server</string>
+    <string name="http_error_not_implemented">Non implementato</string>
+    <string name="http_error_bad_getaway">Bad gateway</string>
+    <string name="http_error_service_unavailable">Servizio non disponibile</string>
+    <string name="http_error_gateway_timeout">Gateway timeout</string>
+    <string name="http_error_version_not_supported">Versione HTTP non supportata</string>
+    <string name="http_error_variant_also_negotiates">Anche la variante negozia</string>
+    <string name="http_error_insufficient_storage">Spazio insufficiente</string>
+    <string name="http_error_not_extended">Non esteso</string>
+    <string name="http_error_network_authentication_required">Autenticazione di rete richiesta</string>
+    <string name="http_error_unknown">Errore sconosciuto</string>
+
+</resources>

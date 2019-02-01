@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_password_bullet" translatable="false">○</string>
+    <string name="locker_password_bullet_full" translatable="false">⦿</string>
+    <string name="locker_password_hint" translatable="false">○ ○ ○ ○</string>
+
+    <string name="locker_enter_password">Inserisci password</string>
+    <string name="locker_enter_password_or_fingerprint">Inserisci la password oppure usa la tua impronta</string>
+    <string name="locker_cancel">Cancella</string>
+    <string name="locker_unlocked">Sbloccato!</string>
+
+    <string name="locker_enter_current_password">Inserisci la password corrente</string>
+    <string name="locker_enter_new_password_1">Inserisci la nuova password</string>
+    <string name="locker_enter_new_password_2">Conferma la nuova password</string>
+
+    <string name="locker_mode">Modalità di blocco: %s</string>
+    <string name="locker_mode_off">OFF</string>
+    <string name="locker_mode_critical">proteggere solo le funzioni critiche</string>
+    <string name="locker_mode_full">proteggere l'intero schermo</string>
+
+    <string name="locker_mode_cant_send_critical_commands">Non è possibile inviare comandi critici, la modalità di blocco è attivata</string>
+
+</resources>
