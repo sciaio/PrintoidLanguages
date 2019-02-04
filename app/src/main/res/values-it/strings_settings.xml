@@ -64,10 +64,10 @@
     <string name="settings_language">Lingua</string>
     <string name="setting_force_24h">Forza 12h/24h formato ora</string>
     <string name="setting_screen_refresh_idle">Periodo di aggiornamento inattivo (sec)</string>
-    <string name="setting_screen_refresh_printing">Periodo di aggiornamento Stampa(sec)</string>
-    <string name="setting_screen_refresh_background">Periodo di aggiornamento Background(min)</string>
+    <string name="setting_screen_refresh_printing">Periodo di aggiornamento Stampa (sec)</string>
+    <string name="setting_screen_refresh_background">Periodo di aggiornamento Background (min)</string>
     <string name="setting_theme">Tema Applicazione</string>
-    <string name="setting_sound">Suono Stampa terminata</string>
+    <string name="setting_sound">Suono stampa terminata</string>
     <string name="setting_quick_access">Accesso veloce</string>
     <string name="setting_max_temp_1">Max estrusore 1 temp.</string>
     <string name="setting_max_temp_2">Max estrusore 2 temp.</string>
