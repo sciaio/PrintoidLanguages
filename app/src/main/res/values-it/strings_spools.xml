@@ -8,6 +8,6 @@
     <string name="spools_not_installed_message">Il modulo Filament Spools Manager non è installato sul tuo dispositivo, vuoi installarlo ora da Google Play?</string>
 
     <string name="spools_file_length_zero_title">Nessun valore di lunghezza del file</string>
-    <string name="spools_file_length_zero_message">Printoid non è possibile recuperare la lunghezza di questo file.\n\nSi prega di verificare se il proprio server OctoPrint ha il valore corretto.\n\nSi prega inoltre di notare che OctoPrint ha bisogno di un po \'di tempo per calcolare una stima della lunghezza del file dopo aver caricato un nuovo file, questo è il motivo per cui a volte il valore della lunghezza è uguale a 0.</string>
+    <string name="spools_file_length_zero_message">Printoid non può recuperare la lunghezza di questo file.\n\nSi prega di verificare se il proprio server OctoPrint ha il valore corretto.\n\nSi prega inoltre di notare che OctoPrint ha bisogno di un po \'di tempo per calcolare una stima della lunghezza del file dopo aver caricato un nuovo file, questo è il motivo per cui a volte il valore della lunghezza è uguale a 0.</string>
 
 </resources>
