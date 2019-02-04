@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="commands_panel_label">Commandi</string>
+    <string name="commands_panel_label">Comandi</string>
     <string name="commands_history_label">Reseconto GCODE</string>
     <string name="commands_editing_label">Editor Commandi</string>
 
