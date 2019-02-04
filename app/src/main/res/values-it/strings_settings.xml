@@ -133,7 +133,7 @@
     <string name="setting_improve_connection_tip">Per acquisire SSID di WiFI è necessario il permesso di localizzazione (GPS)</string>
     <string name="setting_enable_screensaver_tip">Mostra solo i dettagli del lavoro corrente dopo il periodo di inattività</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Abilita solo se non è possibile connettersi a OctoPrint</string>
-    <string name="setting_battery_optimizations_tip">Le ottimizzazioni della batteria possono terminare il processo di stampa</string>
+    <string name="setting_battery_optimizations_tip">Le ottimizzazioni della batteria possono terminare il processo di Printoid</string>
     <string name="setting_enable_unread_messages_tip">Notifiche su nuovi articoli sul sito web</string>
     <string name="setting_enable_changelogs_tip">Avvisa quando una nuova versione è disponibile su Google Play</string>
     <string name="setting_enable_notif_tip">Mantieni l\'app in background con le notifiche</string>
