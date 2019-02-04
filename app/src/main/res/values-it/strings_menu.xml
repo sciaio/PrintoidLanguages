@@ -6,16 +6,16 @@
     <string name="menu_connect_server">Connetti OctoPrint</string>
     <string name="menu_connect_printer">Connetti stampante</string>
     <string name="menu_connecting_printer">Connessione alla stampante</string>
-    <string name="menu_disconnect_printer">Disconnettere stampante</string>
+    <string name="menu_disconnect_printer">Disconnetti stampante</string>
     <string name="menu_video_streaming">Video streaming</string>
-    <string name="menu_commands">Commandi</string>
+    <string name="menu_commands">Comandi</string>
     <string name="menu_full_screen">Espandi visualizzazione</string>
     <string name="menu_full_screen_streaming">Espandi video</string>
     <string name="menu_full_screen_realtime_visualizer">Espandi Visualizzatore</string>
-    <string name="menu_full_screen_commands">Espandi commandi</string>
+    <string name="menu_full_screen_commands">Espandi comandi</string>
     <string name="menu_full_screen_slicer">Espandi slicer</string>
     <string name="menu_full_screen_more_tools">Espandi attrezzi</string>
-    <string name="menu_minimize">Riduti visualizzazione</string>
+    <string name="menu_minimize">Riduci visualizzazione</string>
     <string name="menu_printer_profiles_settings">OctoPrint\nservers</string>
     <string name="menu_app_settings">Impostazioni App</string>
     <string name="menu_alarms">Menu Avvisi</string>
@@ -23,9 +23,9 @@
     <string name="menu_spools">Menu bobine</string>
     <string name="menu_app_infos">Aiuto</string>
     <string name="menu_octoprint_web">OctoPrint interfaccia-web</string>
-    <string name="menu_files">Files</string>
+    <string name="menu_files">File</string>
     <string name="menu_printoid_web">Printoid\nwebsite</string>
-    <string name="menu_timelapse">Timelapses</string>
+    <string name="menu_timelapse">Timelapse</string>
     <string name="menu_contact_developer">Contatta sviluppatore</string>
 
     <string name="menu_lite_label_promote">Ti piace Printoid Lite?</string>
