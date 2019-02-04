@@ -2,10 +2,10 @@
 <resources>
 
     <string name="full_screen_helper_control">Controlli stampante a schermo intero</string>
-    <string name="full_screen_helper_print">Stampa dettagli a schermo intero</string>
+    <string name="full_screen_helper_print">Dettagli stampa a schermo intero</string>
     <string name="full_screen_helper_temperature">Temperatura a schermo intero</string>
     <string name="full_screen_helper_files">File a schermo intero</string>
     <string name="full_screen_helper_streaming">Streaming a schermo intero</string>
-    <string name="full_screen_helper_commands">Commandi a schermo intero</string>
+    <string name="full_screen_helper_commands">Comandi a schermo intero</string>
 
 </resources>
