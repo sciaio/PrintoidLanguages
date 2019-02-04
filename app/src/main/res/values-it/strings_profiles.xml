@@ -14,7 +14,7 @@
     <string name="config_octoprint_profile_title">OctoPrint profilo</string>
     <string name="config_printer_first_profile_title">Configura il tuo primo profilo OctoPrint</string>
     <string name="config_printer_profiles_title">OctoPrint profili</string>
-    <string name="config_ssh">SSH parametri (per i comandi personalizzati)</string>
+    <string name="config_ssh">Parametri SSH (per i comandi personalizzati)</string>
     <string name="config_ssh_tip">(opzionale)</string>
     <string name="config_ssh_login">Login</string>
     <string name="config_ssh_pwd">Password</string>
@@ -23,7 +23,7 @@
     <string name="config_go_to_profiles">Modifica profili</string>
     <string name="config_basic_auth_login">Username</string>
     <string name="config_basic_auth_password">Password</string>
-    <string name="config_websocket_path">Web socket path</string>
+    <string name="config_websocket_path">Percorso Web socket</string>
 
     <string name="config_websocket_detail_msg">Non modificare questo valore senza conoscenze tecniche</string>
 
