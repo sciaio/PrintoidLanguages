@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="timelapse_title">Timelapses</string>
+    <string name="timelapse_title">Timelapse</string>
 
     <string name="timelapse_no_file">Nessun timelapse disponibile</string>
 
@@ -19,7 +19,7 @@
     <string name="download_timelapse_alert_error_io">il timelapse non può essere scritto sulla memoria</string>
     <string name="download_timelapse_alert_error_unknown">Si è verificato un errore sconosciuto</string>
 
-    <string name="timelapse_config_type">Timelapse tipo</string>
+    <string name="timelapse_config_type">Tipo timelapse</string>
     <string name="timelapse_config_fps">Frame rate (fps)</string>
     <string name="timelapse_config_post_roll">Post roll (sec)</string>
     <string name="timelapse_config_cap_post_roll">Capture post roll</string>
