@@ -11,7 +11,7 @@
     <string name="plugin_desc_tp_link">Lavoro ispirato a OctoPrint-PSUControl e TP-Link WiFi SmartPlug Client, questo plugin controlla uno Smartplug TP-Link tramite la barra di navigazione di OctoPrint.</string>
     <string name="plugin_desc_enclosure">Controlla praticamente tutto ciò che potresti voler fare sul tuo Raspberry Pi/OctoPrint/Enclosure.</string>
     <string name="plugin_desc_navbartemp">Visualizza le temperature sulla barra di navigazione di OctoPrint. Per gli utenti Raspberry Pi, questo plugin consente di mostrare automaticamente la temperatura della CPU del Raspberry Pi nella barra del titolo dell\'app.</string>
-    <string name="plugin_desc_octolapse">Octolapse è progettato per rendere i timelaps stabilizzati delle tue stampe con il minor dispendio possibile ed è estremamente configurabile. Ora è possibile creare un timelapse liscio come la seta senza un\'installazione telecamera personalizzata, senza necessità di personalizzazioni GCode.</string>
+    <string name="plugin_desc_octolapse">Octolapse è progettato per rendere i timelapse stabilizzati delle tue stampe con il minor dispendio possibile ed è estremamente configurabile. Ora è possibile creare un timelapse liscio come la seta senza l\'installazione  di una telecamera personalizzata, senza la necessità di Gcode personalizzati.</string>
 
     <string name="plugin_message_psu">Il plugin di controllo PSU deve essere installato sul server OctoPrint. Quindi apparirà automaticamente nel menu di sinistra dell\'app.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug deve essere installato sul server OctoPrint. Quindi apparirà automaticamente nel menu di sinistra dell\'app.</string>
