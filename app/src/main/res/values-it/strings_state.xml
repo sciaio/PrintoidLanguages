@@ -2,7 +2,7 @@
 <resources>
 
     <string name="printer_state_octo_disconnected">Offline</string>
-    <string name="printer_state_disconnected">Scollegatocollegato</string>
+    <string name="printer_state_disconnected">Scollegato</string>
     <string name="printer_state_connecting">Collegamento&#8230;</string>
     <string name="printer_state_sending_file">Invio file…</string>
     <string name="printer_state_ready">Pronto per stampare</string>
